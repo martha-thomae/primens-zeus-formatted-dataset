@@ -8,7 +8,7 @@ for f in ./*/*/*/*.mns; do
 done
 
 for f in ./SVG/*/*/*/*.svg; do
-    out="JPEG/${f#./SVG/}"
+    out="./${f#./SVG/}"
     out="${out%.svg}.jpg"
 
     mkdir -p "$(dirname "$out")"
