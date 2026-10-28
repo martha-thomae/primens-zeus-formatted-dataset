@@ -1,0 +1,19 @@
+**mens
+*clefC4
+*k[]
+*M2/1
+*met(O2)
+*MM400
+Lie
+.
+*clefC4
+*k[]
+*M2/1
+=
+*met(C|)
+*MM400
+!LO:TX:X=-40:Z=16:t=T replaces each note value by its opposite (e.g., minims become maximas)
+Sir
+SiA
+*custos:A
+*-

@@ -1,0 +1,12 @@
+clef.C:L2
+accidental.flat:S1
+metersign.Ct:L3
+digit.2:L3
+accidental.flat:S-1
+note.breve:S-1
+note.breve:L0
+note.longa2_down:S0
+lnote.oblique:L1
+lnote.oblique:L-1
+custos:S-2
+verticalLine:L1

@@ -1,0 +1,14 @@
+clef.Fpetrucci:L4
+metersign.Ccut:L3
+rest.whole:L3
+rest.half:L3
+note.whole:S1
+note.half_up:S0
+note.half_up:L1
+note.half_up:S1
+note.whole:S-1
+note.whole:L0
+note.breve:S-1
+rest.breve:L3
+custos:L-1
+verticalLine:L1

@@ -1,0 +1,15 @@
+clef.C:L2
+metersign.O:L3
+digit.2:L3
+note.half_up:L1
+note.half_up:S0
+note.half_up:L0
+verticalLine:L1
+note.whole:S-1
+dot:S-1
+note.half_up:L-1
+lnote.oblique:L0
+lnote.oblique:S-1
+verticalLine:L1
+custos:S-2
+verticalLine:L1

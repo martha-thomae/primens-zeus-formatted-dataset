@@ -1,0 +1,15 @@
+clef.C:L4
+note.whole:L2
+dot:S2
+note.half_up:S2
+note.whole:L3
+accidental.flat:S3
+lnote.breve:S3
+lnote.breve:L3
+accidental.flat:S3
+note.whole:S3
+note.breve:S2
+rest.whole:L3
+rest.breve:L3
+custos:S1
+verticalLine:L1

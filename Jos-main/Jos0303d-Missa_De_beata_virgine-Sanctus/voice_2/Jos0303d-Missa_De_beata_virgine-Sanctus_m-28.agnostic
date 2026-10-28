@@ -1,0 +1,17 @@
+clef.C:L4
+accidental.flat:S3
+metersign.O:L3
+rest.whole:L3
+verticalLine:L1
+rest.whole:L3
+note.whole:L4
+note.whole:S4
+accidental.flat:S3
+note.half_down:S3
+note.half_down:L4
+verticalLine:L1
+lnote.oblique:S4
+lnote.oblique:L4
+dot:S3
+custos:L3
+verticalLine:L1
