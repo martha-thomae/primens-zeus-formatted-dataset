@@ -3,7 +3,7 @@
 find ./dataset -type f -name "*.mns" -exec sed -i '' \
     -e '/^\*.:/d' \
     -e '/^\*-/d' \
-    -e '/\*M.\/./d' \
+    -e '/\*M/d' \
     -e '/^\.$/d' \
     -e '/^!/d' \
     -e '/^\*k\[\]/d' \
