@@ -5,7 +5,7 @@ noteshapes = [
     'X', 'L', 'S', 's', 'M', 'm', 'U', 'u',
     '*custos'
 ]
-ligatures = ['[', ']']
+ligatures = ['[', ']', '<', '>']
 accids = [
     '#', '-', 'n', 
     '#y', '-y', 'ny', 
