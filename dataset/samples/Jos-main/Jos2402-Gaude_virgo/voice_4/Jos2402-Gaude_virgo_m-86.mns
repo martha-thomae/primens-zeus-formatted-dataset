@@ -2,26 +2,26 @@
 *clefG2
 *k[b-]
 *met(C|)
-s b n
-s dd
-s a
-s cc
-M : b n
-m cc
-[ s dd
-s ee ]
-s r
+sbn
+sdd
+sa
+scc
+M:bn
+mcc
+[sdd
+see]
+sr
 =
-s cc
-[ s b n
-s dd ]
-< s a
-s cc >
+scc
+[sbn
+sdd]
+<sa
+scc>
 =
-M : b n
-m cc
-s dd
-s ee
+M:bn
+mcc
+sdd
+see
 =
 3%m%4ee
 3%M%2ff
@@ -30,30 +30,30 @@ s%M:ee
 3dd
 3%m%4dd
 3%M%2cc#
-S dd
-M r
-M d
-M : f
-m g
-M a
-M b -
-s a
-s r
-M r
-M d
-M : f
+Sdd
+Mr
+Md
+M:f
+mg
+Ma
+Mb-
+sa
+sr
+Mr
+Md
+M:f
 =
-m g
-m a
-m b -
-s a
-M g
+mg
+ma
+mb-
+sa
+Mg
 =
-M a
-M ff
-M ff
-s ff
-m ee
-m dd
+Ma
+Mff
+Mff
+sff
+mee
+mdd
 =
-*custos d
+*custosd

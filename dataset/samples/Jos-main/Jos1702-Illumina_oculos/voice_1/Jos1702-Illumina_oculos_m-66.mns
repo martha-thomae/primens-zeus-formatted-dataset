@@ -5,52 +5,52 @@
 =
 =
 *met(C|)
-S r
-S r
-s BB -
-M C
-M D
-M BB -
-M C
-M D
-M GG
-M : E -
-m D
-m C
-m BB -
-M AA
-M : GG
-m AA
-M BB -
+Sr
+Sr
+sBB-
+MC
+MD
+MBB-
+MC
+MD
+MGG
+M:E-
+mD
+mC
+mBB-
+MAA
+M:GG
+mAA
+MBB-
 =
-M C
-M D
-M E
-M F
-M BB -
-s E -
-M : D
-m C
-M BB -
-M C
-s AA
-s GG
-s r
-M r
-M GG
-M : C
-m D
-M : E -
-U D
-U C
-M BB -
-M E -
-M D
-M BB -
-M C
-M D
+MC
+MD
+ME
+MF
+MBB-
+sE-
+M:D
+mC
+MBB-
+MC
+sAA
+sGG
+sr
+Mr
+MGG
+M:C
+mD
+M:E-
+UD
+UC
+MBB-
+ME-
+MD
+MBB-
+MC
+MD
 =
-s GG
-M C
-M D
-*custos GG
+sGG
+MC
+MD
+*custosGG

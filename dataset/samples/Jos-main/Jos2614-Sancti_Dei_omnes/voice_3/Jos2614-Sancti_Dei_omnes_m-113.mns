@@ -3,14 +3,14 @@
 *k[b-]
 *met(C|)
 *met(C|)
-S c
-S c
-S c
-s : c
-m B -
-m A
-s G
-s A
-[ S B -
-L c ]
-*custos G
+Sc
+Sc
+Sc
+s:c
+mB-
+mA
+sG
+sA
+[SB-
+Lc]
+*custosG

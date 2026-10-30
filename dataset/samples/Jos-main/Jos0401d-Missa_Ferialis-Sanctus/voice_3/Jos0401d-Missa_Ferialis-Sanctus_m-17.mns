@@ -1,8 +1,8 @@
 **mens
 *clefC2
 *met(O2)
-s c
-[ S B
+sc
+[SB
 s%M:A]
 3B
 3%M%2c
@@ -10,34 +10,34 @@ s%M:A]
 =
 3%M%2A
 3%M%2B
-S c
-s d
-s c
-[ s f
-s : e ]
+Sc
+sd
+sc
+[sf
+s:e]
 =
-M d
-M : d
+Md
+M:d
 =
-m c
-s e
+mc
+se
 =
-s : f
-M e
-s : d
-m c #
-m B
-[ s c #
-S d ]
-s e
-s : g
-M f
-M : d
-m c
-s e
-s c
-s A
-s : e
-M d
-s e
-*custos A
+s:f
+Me
+s:d
+mc#
+mB
+[sc#
+Sd]
+se
+s:g
+Mf
+M:d
+mc
+se
+sc
+sA
+s:e
+Md
+se
+*custosA

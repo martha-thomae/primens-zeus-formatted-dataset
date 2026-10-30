@@ -3,45 +3,45 @@
 *k[b-]
 *met(C|)
 *met(C|)
-M : GG
-m AA
-M BB -
-M C
-M D
-M E
-M F
-M G
-M A
-s D
-m C
-m BB -
-M : AA
-m GG
-s AA
-M r
-s D
-M C
-s E
-s D
-M C
-M BB -
-[ s AA
-s GG ]
-s r
-M r
-M GG
-M D
-M E
-M F
-M G
-s E
-M D
-M F
-M G
-M A
-M B -
-M : G
-m F
-m E
-m D
-*custos GG
+M:GG
+mAA
+MBB-
+MC
+MD
+ME
+MF
+MG
+MA
+sD
+mC
+mBB-
+M:AA
+mGG
+sAA
+Mr
+sD
+MC
+sE
+sD
+MC
+MBB-
+[sAA
+sGG]
+sr
+Mr
+MGG
+MD
+ME
+MF
+MG
+sE
+MD
+MF
+MG
+MA
+MB-
+M:G
+mF
+mE
+mD
+*custosGG

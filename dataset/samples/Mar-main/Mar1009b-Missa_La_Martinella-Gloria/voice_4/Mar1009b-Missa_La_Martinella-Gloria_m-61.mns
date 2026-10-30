@@ -3,62 +3,62 @@
 *k[b-]
 *met(C)
 =
-[ s cc
-s dd ]
-M b -
-M dd
-M cc
-M a
-M : b -
-U a
-U g
-M : f
-U e
-U f
-[ s g
-S b - ]
-S a
-s a
-s f
-M r
-M f
-M d
-M : f
-m e
-m d
-m c
-M B -
-M d
-M c
-M f
-m g
-M b -
-m a
-m g
-m f
-s f
-M e
-M : f
-m g
-M a
-M : b -
-m g
-M b -
-M a
-M f
-M g
-M b -
-M a
-M : cc
-m b -
-m a
-m g
-M f
-M : a
-m e
-M f
-M g
-M : e
-m d
-M d
-*custos B -
+[scc
+sdd]
+Mb-
+Mdd
+Mcc
+Ma
+M:b-
+Ua
+Ug
+M:f
+Ue
+Uf
+[sg
+Sb-]
+Sa
+sa
+sf
+Mr
+Mf
+Md
+M:f
+me
+md
+mc
+MB-
+Md
+Mc
+Mf
+mg
+Mb-
+ma
+mg
+mf
+sf
+Me
+M:f
+mg
+Ma
+M:b-
+mg
+Mb-
+Ma
+Mf
+Mg
+Mb-
+Ma
+M:cc
+mb-
+ma
+mg
+Mf
+M:a
+me
+Mf
+Mg
+M:e
+md
+Md
+*custosB-

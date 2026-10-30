@@ -10,22 +10,22 @@ s%M:D
 3%M%2BB-
 3%m%4E-
 *met(C|)
-s : D
-m C
-m BB -
-s AA
-s BB -
-s BB -
-M C
-M D
-s E -
-s D
-X C
-S C
-S BB -
+s:D
+mC
+mBB-
+sAA
+sBB-
+sBB-
+MC
+MD
+sE-
+sD
+XC
+SC
+SBB-
 *clefC4
 *k[b-e-]
 *met(C|)
-S : BB -
-s C
-*custos AA
+S:BB-
+sC
+*custosAA

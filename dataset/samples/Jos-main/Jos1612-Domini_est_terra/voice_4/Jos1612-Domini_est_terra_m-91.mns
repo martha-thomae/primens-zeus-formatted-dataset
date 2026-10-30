@@ -3,32 +3,32 @@
 *k[b-]
 *met(C|)
 =
-m b -
-M a
-M f
-s g
-s f
-M e
-L : f
+mb-
+Ma
+Mf
+sg
+sf
+Me
+L:f
 *clefC1
 *k[b-]
 *met(C|)
-s : cc
+s:cc
 =
-M a
-M b -
-M cc
-M dd
-M dd
-s cc
-M a
-M b -
-M cc
-s dd
+Ma
+Mb-
+Mcc
+Mdd
+Mdd
+scc
+Ma
+Mb-
+Mcc
+sdd
 =
-m cc
-m b -
-M a
-s ff
-M ee
-*custos e
+mcc
+mb-
+Ma
+sff
+Mee
+*custose

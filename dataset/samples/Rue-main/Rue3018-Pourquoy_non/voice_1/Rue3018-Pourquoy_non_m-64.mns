@@ -3,15 +3,15 @@
 *k[b-e-]
 =
 *met(C|)
-s FF
-M r
-M FF
-s FF
+sFF
+Mr
+MFF
+sFF
 =
-M r
-M FF
-s FF
-s FF
+Mr
+MFF
+sFF
+sFF
 *^
 SBBB-	SBB-
 *v	*v

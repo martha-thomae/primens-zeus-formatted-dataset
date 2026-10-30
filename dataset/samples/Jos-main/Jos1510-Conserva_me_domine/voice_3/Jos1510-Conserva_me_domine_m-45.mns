@@ -3,38 +3,38 @@
 =
 *met(C|)
 =
-s G
-M r
-M G
-M G
-M G
-[ s c
-S d ]
-M r
-s f
-M f
-M f
-M f
-M f
-M f
-s f
-M e
-M : g
-m f
-s d
-s f
-M e
+sG
+Mr
+MG
+MG
+MG
+[sc
+Sd]
+Mr
+sf
+Mf
+Mf
+Mf
+Mf
+Mf
+sf
+Me
+M:g
+mf
+sd
+sf
+Me
 =
-s d
-s d
-s r
+sd
+sd
+sr
 =
 *met(3)
-s d
-s d
-s d
-S f
-s f
-S c
-s r
-*custos G
+sd
+sd
+sd
+Sf
+sf
+Sc
+sr
+*custosG

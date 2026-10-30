@@ -3,29 +3,29 @@
 =
 *met(C|)
 =
-M E
+ME
 =
-M F
-M G
-L : C
+MF
+MG
+L:C
 *clefF4
 *met(C|)
-s C
-M E
-M F
-m G
-m F
-m G
-m A
-M B
-s c
-M B
-M : c
-m B
-m A
-m G
-M F
-M : G
-m F
+sC
+ME
+MF
+mG
+mF
+mG
+mA
+MB
+sc
+MB
+M:c
+mB
+mA
+mG
+MF
+M:G
+mF
 =
-*custos C
+*custosC

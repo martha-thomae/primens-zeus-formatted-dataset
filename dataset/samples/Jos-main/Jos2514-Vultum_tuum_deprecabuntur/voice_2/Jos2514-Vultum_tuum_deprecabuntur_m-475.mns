@@ -2,14 +2,14 @@
 *clefC4
 *k[b-]
 *met(C|)
-M : f
-m e
-M d
-M c
-M f
+M:f
+me
+Md
+Mc
+Mf
 =
-M g
-s e
+Mg
+se
 3%M%2d
 3d
 3%M%2c
@@ -34,4 +34,4 @@ s e
 3e
 3%M%2f
 3e
-*custos F
+*custosF

@@ -3,17 +3,17 @@
 =
 *met(C|)
 =
-s f
-M e
-M c
+sf
+Me
+Mc
 =
-s d
-M B
-s c
-M d
-M e
-M c
-s f
-s r
-S r
-*custos B
+sd
+MB
+sc
+Md
+Me
+Mc
+sf
+sr
+Sr
+*custosB

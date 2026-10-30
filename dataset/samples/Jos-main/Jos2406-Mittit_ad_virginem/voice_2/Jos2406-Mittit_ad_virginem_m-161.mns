@@ -5,37 +5,37 @@
 3%M%2e
 3%M%2d
 *met(C|)
-S c
-s c
-s : g
-m f
-m e
-M d
-M G
-< s B
-s c >
-M d
-M e
-m f
-m e
-m d
-m c
-S B
-s r
-M r
-M : d
-m c
-m d
-m B
+Sc
+sc
+s:g
+mf
+me
+Md
+MG
+<sB
+sc>
+Md
+Me
+mf
+me
+md
+mc
+SB
+sr
+Mr
+M:d
+mc
+md
+mB
 =
-M c
-m B
-m A
-s G
-s r
-s r
-m G
-m A
-m B
-m c
-*custos G
+Mc
+mB
+mA
+sG
+sr
+sr
+mG
+mA
+mB
+mc
+*custosG

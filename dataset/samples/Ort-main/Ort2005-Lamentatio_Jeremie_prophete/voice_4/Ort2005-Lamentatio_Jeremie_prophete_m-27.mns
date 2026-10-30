@@ -2,26 +2,26 @@
 *clefGv2
 *met(C|)
 =
-S c
-S B
-S r
-s : B
-M c
-S : d
-M c
-M B
-S A
-s B
-[ s c
-s d ]
-S B
-s A
+Sc
+SB
+Sr
+s:B
+Mc
+S:d
+Mc
+MB
+SA
+sB
+[sc
+sd]
+SB
+sA
 =
-S A
+SA
 *clefGv2
 *met(C|)
-[ S A
-S c
-s d ]
-s e
-*custos A
+[SA
+Sc
+sd]
+se
+*custosA

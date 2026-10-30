@@ -2,14 +2,14 @@
 *clefF4
 *k[b-]
 *met(3/2)
-S GG
+SGG
 *clefF4
 *k[b-]
 *met(C|)
-S : GG
-[ s GG
-S C ]
-s : C
-M AA
+S:GG
+[sGG
+SC]
+s:C
+MAA
 =
-*custos GG
+*custosGG

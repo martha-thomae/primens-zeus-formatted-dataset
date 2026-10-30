@@ -2,29 +2,29 @@
 *clefG2
 *k[b-]
 *met(O)
-m a
-m b -
-M : cc
-m b -
-s b -
-M a
-s b -
-M r
-M : g
-m f
-M d
-M e
-M : f
-m g
-M a
-s d
-M e
-s a
-s g
-M f #
-M g
-s b -
-M a
-M f
-M a
-*custos d
+ma
+mb-
+M:cc
+mb-
+sb-
+Ma
+sb-
+Mr
+M:g
+mf
+Md
+Me
+M:f
+mg
+Ma
+sd
+Me
+sa
+sg
+Mf#
+Mg
+sb-
+Ma
+Mf
+Ma
+*custosd

@@ -3,47 +3,47 @@
 =
 *k[b-]
 *met(C|)
-[ S BB -
-s F ]
-M C
+[SBB-
+sF]
+MC
 =
-s D
-m C
-m BB -
-s F
-M : BB -
-m C
-M D
-M C
-s F
-M BB -
+sD
+mC
+mBB-
+sF
+M:BB-
+mC
+MD
+MC
+sF
+MBB-
 =
-s E -
-M C
-s D
-M GG
-M : C
-m AA
-M BB -
+sE-
+MC
+sD
+MGG
+M:C
+mAA
+MBB-
 =
-[ s GG
-s D ]
-S GG
+[sGG
+sD]
+SGG
 *clefF4
 *k[b-]
 *met(C|)
-S : G
+S:G
 =
-s C
-S C
-s C
-S F
-s BB -
-s BB -
-S B -
-s G
-s : G
-M C
-s C
-s r
-*custos GG
+sC
+SC
+sC
+SF
+sBB-
+sBB-
+SB-
+sG
+s:G
+MC
+sC
+sr
+*custosGG

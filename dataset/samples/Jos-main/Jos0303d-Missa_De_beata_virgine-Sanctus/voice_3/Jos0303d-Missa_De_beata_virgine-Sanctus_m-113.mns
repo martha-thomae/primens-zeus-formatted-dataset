@@ -3,17 +3,17 @@
 *clefC2
 *k[b-]
 *met(C|3)
-s g
-s e
-s f
-s e
-[ S f
-S : e ]
+sg
+se
+sf
+se
+[Sf
+S:e]
 *met(C|)
-s cc
-s : cc
-m b -
-m a
-M b -
-M cc
-*custos e
+scc
+s:cc
+mb-
+ma
+Mb-
+Mcc
+*custose

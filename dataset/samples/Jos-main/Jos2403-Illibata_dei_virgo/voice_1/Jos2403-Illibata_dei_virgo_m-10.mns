@@ -3,23 +3,23 @@
 *k[b-]
 *met(O)
 =
-M GG
+MGG
 =
-s BB -
-m AA
-m GG
-M FF
-M : C
-m BB -
-s D
-m C
-m BB -
+sBB-
+mAA
+mGG
+MFF
+M:C
+mBB-
+sD
+mC
+mBB-
 =
-[ s AA
-S GG ]
+[sAA
+SGG]
 =
-s GG
-s : D
-M E
-s F
-*custos FF
+sGG
+s:D
+ME
+sF
+*custosFF

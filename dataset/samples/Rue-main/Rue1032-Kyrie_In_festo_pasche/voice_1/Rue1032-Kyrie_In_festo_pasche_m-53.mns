@@ -2,14 +2,14 @@
 *clefF4
 *met(C)
 =
-[ s : E
-s : F ]
-s : G
-M E
-s F
-M G
+[s:E
+s:F]
+s:G
+ME
+sF
+MG
 =
-[ s D
-S GG ]
+[sD
+SGG]
 =
-*custos GG
+*custosGG

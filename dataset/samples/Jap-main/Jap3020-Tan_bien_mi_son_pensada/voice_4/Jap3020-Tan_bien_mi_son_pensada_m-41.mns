@@ -4,33 +4,33 @@
 =
 =
 *met(C|)
-m b -
-M : cc
+mb-
+M:cc
 =
-m b -
-M a
-M g
-M : b -
-m a
-M g
-M : f
-m e
-s d
+mb-
+Ma
+Mg
+M:b-
+ma
+Mg
+M:f
+me
+sd
 =
-S e
-s r
-S : a
-s b -
-M a
-s dd
-m cc #
-m b n
-s cc #
-s : dd
-M cc
-s b -
-s a
-M g
-s g
-M f #
-*custos d
+Se
+sr
+S:a
+sb-
+Ma
+sdd
+mcc#
+mbn
+scc#
+s:dd
+Mcc
+sb-
+sa
+Mg
+sg
+Mf#
+*custosd

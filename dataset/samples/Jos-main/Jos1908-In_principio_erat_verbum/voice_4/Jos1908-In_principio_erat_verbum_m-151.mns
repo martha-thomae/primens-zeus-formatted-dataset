@@ -10,17 +10,17 @@ s%M:cc
 3b
 3%M%2a
 3%m%4g
-S f
-S r
-s a
-s : cc
-M cc
-M : cc
-m dd
-M ee
-s ff
-M ee
-S ff
-S r
-S r
-*custos f
+Sf
+Sr
+sa
+s:cc
+Mcc
+M:cc
+mdd
+Mee
+sff
+Mee
+Sff
+Sr
+Sr
+*custosf

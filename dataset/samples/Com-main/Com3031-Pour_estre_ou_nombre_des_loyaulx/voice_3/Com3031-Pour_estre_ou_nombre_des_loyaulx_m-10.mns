@@ -3,48 +3,48 @@
 =
 *k[b-]
 *met(O|)
-s b -
-s r
-s f
-s g
-M g
-s a
-M a
-M b -
-M b -
-s : a
-m g
-m f
-M e
-M : g
-m f
-s f
-M e
-s f
-s r
-s f
-s g
-s a
-M g
-m f
-m e
-M d
-M : a
-m g
-s g
-M f #
-s g
-M r
-M g
-s g
-s g
-M f
-m e
-m d
-M c
-s f
-M : e
-m d
-s d
-M c #
-*custos c
+sb-
+sr
+sf
+sg
+Mg
+sa
+Ma
+Mb-
+Mb-
+s:a
+mg
+mf
+Me
+M:g
+mf
+sf
+Me
+sf
+sr
+sf
+sg
+sa
+Mg
+mf
+me
+Md
+M:a
+mg
+sg
+Mf#
+sg
+Mr
+Mg
+sg
+sg
+Mf
+me
+md
+Mc
+sf
+M:e
+md
+sd
+Mc#
+*custosc

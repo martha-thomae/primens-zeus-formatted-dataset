@@ -4,16 +4,16 @@
 *k[b-]
 *met(C|)
 =
-s r
-s F
-s G
-s C
-s r
+sr
+sF
+sG
+sC
+sr
 =
-[ s F
-s G ]
-s C
-s r
-s F
-s G
-*custos C
+[sF
+sG]
+sC
+sr
+sF
+sG
+*custosC

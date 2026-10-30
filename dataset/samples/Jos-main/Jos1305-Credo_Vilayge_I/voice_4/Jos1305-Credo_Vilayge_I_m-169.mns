@@ -3,35 +3,35 @@
 *k[b-]
 =
 *met(C|)
-s d
-M e
-M f
-M d
+sd
+Me
+Mf
+Md
 =
-s g
-M a
-M b -
-M a
-M : cc
-m b -
-m a
-m g
-s g
-M f #
-S g
-S r
-[ S f
-S g ]
-[ S a
-S b -
-s : a ]
-m g
-m f
-S e
-S d
+sg
+Ma
+Mb-
+Ma
+M:cc
+mb-
+ma
+mg
+sg
+Mf#
+Sg
+Sr
+[Sf
+Sg]
+[Sa
+Sb-
+s:a]
+mg
+mf
+Se
+Sd
 *clefG2
 *k[b-]
 *met(C|)
-S r
-S r
-*custos d
+Sr
+Sr
+*custosd

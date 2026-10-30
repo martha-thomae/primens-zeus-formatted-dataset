@@ -3,51 +3,51 @@
 *k[b-]
 *met(C|)
 =
-M c
-M d
-M : f
-m e
-m d
-m c
-s d
-S G
-m c
-m d
-m e
-m f
-M : g
-m f
-M : d
-m e
-M f
-M d
-s : a
-M a
-s f
-M g
-s a
-m g
-m f
-s e
-s r
-s d
-s f
-s : d
-M f
-M e
-s f
-m e
-m d
-M c
-M d
-s e
-s d
-M e
-s f
-M e
-M : f
-U e
-U d
-M : c
-m d
-*custos G
+Mc
+Md
+M:f
+me
+md
+mc
+sd
+SG
+mc
+md
+me
+mf
+M:g
+mf
+M:d
+me
+Mf
+Md
+s:a
+Ma
+sf
+Mg
+sa
+mg
+mf
+se
+sr
+sd
+sf
+s:d
+Mf
+Me
+sf
+me
+md
+Mc
+Md
+se
+sd
+Me
+sf
+Me
+M:f
+Ue
+Ud
+M:c
+md
+*custosG

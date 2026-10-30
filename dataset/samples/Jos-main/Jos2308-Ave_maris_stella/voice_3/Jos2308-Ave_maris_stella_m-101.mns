@@ -3,27 +3,27 @@
 =
 *k[b-]
 *met(C|)
-s dd
+sdd
 =
-s r
-s a
-s a
-M f
-M g
-s e
-m d
-m e
+sr
+sa
+sa
+Mf
+Mg
+se
+md
+me
 =
-m f
-m g
-M a
-M : b -
-m a
-s g
-M f
-M g
-M : b -
+mf
+mg
+Ma
+M:b-
+ma
+sg
+Mf
+Mg
+M:b-
 =
-m a
-M g
-*custos d
+ma
+Mg
+*custosd

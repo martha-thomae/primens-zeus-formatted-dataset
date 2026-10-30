@@ -2,17 +2,17 @@
 =
 *clefC4
 *met(3)
-s c
-[ S A
-s B
-s e ]
-[ s d
-S c ]
-< s A
-S B >
-s : e
-M d
-[ s c
-s A ]
-S : B
-*custos A
+sc
+[SA
+sB
+se]
+[sd
+Sc]
+<sA
+SB>
+s:e
+Md
+[sc
+sA]
+S:B
+*custosA

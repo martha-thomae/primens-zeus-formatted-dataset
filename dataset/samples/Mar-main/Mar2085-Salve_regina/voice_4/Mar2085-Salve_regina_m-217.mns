@@ -2,23 +2,23 @@
 *clefG2
 *k[b-]
 *met(C|)
-S a
-S g
-s f
-M r
+Sa
+Sg
+sf
+Mr
 =
-s d
-M e
-M f
-M g
-M a
-M : cc
-m b -
-s a
-m g
-m f
-M : e
-m d
+sd
+Me
+Mf
+Mg
+Ma
+M:cc
+mb-
+sa
+mg
+mf
+M:e
+md
 3%m%4f
 3%M%2d
 s%M:e
@@ -30,4 +30,4 @@ s%M:b-
 3g
 3f
 =
-*custos d
+*custosd

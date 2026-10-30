@@ -1,57 +1,57 @@
 **mens
 *clefF3
 *met(C|)
-s r
-M r
-s C
-m BB
-m AA
-s E
-s : C
-M GG
-s : C
-M GG
-s : C
-M GG
-M C
-M : E
-m F
-M G
-M C
-M : E
-m F
-M G
-M C
-M : E
-m F
-M G
-s : D
-M AA
-s : D
+sr
+Mr
+sC
+mBB
+mAA
+sE
+s:C
+MGG
+s:C
+MGG
+s:C
+MGG
+MC
+M:E
+mF
+MG
+MC
+M:E
+mF
+MG
+MC
+M:E
+mF
+MG
+s:D
+MAA
+s:D
 =
-M AA
-s : D
-M AA
-M D
-M : F
-m G
-M A
-M D
-M : F
-m G
-M A
-M D
-M : F
-m G
-M A
-M E
-M : G
-m A
-M B
-s E
-s r
-S r
+MAA
+s:D
+MAA
+MD
+M:F
+mG
+MA
+MD
+M:F
+mG
+MA
+MD
+M:F
+mG
+MA
+ME
+M:G
+mA
+MB
+sE
+sr
+Sr
 =
-s C
-s GG
-*custos GG
+sC
+sGG
+*custosGG

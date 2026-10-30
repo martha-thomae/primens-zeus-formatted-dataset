@@ -3,20 +3,20 @@
 *met(3)
 =
 *met(3)
-[ S B
-s c
-S d ]
-[ s c
-s B ]
-[ S A
-s D ]
-s E
-s F
-s G
-[ s A
-s B ]
+[SB
+sc
+Sd]
+[sc
+sB]
+[SA
+sD]
+sE
+sF
+sG
+[sA
+sB]
 =
-s c
-S A
-S : G
-*custos D
+sc
+SA
+S:G
+*custosD

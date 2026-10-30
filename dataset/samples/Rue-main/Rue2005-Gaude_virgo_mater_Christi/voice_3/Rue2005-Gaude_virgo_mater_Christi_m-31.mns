@@ -3,23 +3,23 @@
 *clefGv2
 =
 *met(O)
-s A
-s : a
-M g
-M e
-M f
-M g
-M : a
-m g
-M e
-S f
-s a
-M g
-M : b
-m a
-s a
-M g #
-S a
-s r
-S : r
-*custos A
+sA
+s:a
+Mg
+Me
+Mf
+Mg
+M:a
+mg
+Me
+Sf
+sa
+Mg
+M:b
+ma
+sa
+Mg#
+Sa
+sr
+S:r
+*custosA

@@ -3,20 +3,20 @@
 *clefC4
 =
 *met(C|)
-S r
+Sr
 =
 *met(3)
-[ S : c
-s A ]
-s A
-s d
-s d
-s d
-s G
-s B
-s c
-[ s B
-s : A ]
-M B
-s c
-*custos G
+[S:c
+sA]
+sA
+sd
+sd
+sd
+sG
+sB
+sc
+[sB
+s:A]
+MB
+sc
+*custosG

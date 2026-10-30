@@ -2,29 +2,29 @@
 =
 *clefF3
 *met(C|)
-M F
-M E
-s D
-S : C
-M r
+MF
+ME
+sD
+S:C
+Mr
 =
-M : C
+M:C
 =
-m D
-m E
-m F
-s : G
-M D
-M F
-M G
+mD
+mE
+mF
+s:G
+MD
+MF
+MG
 *met(3)
-S : C
-S : r
-S : r
-S : r
-s G
-s E
-< s C
-S F >
-s D
-*custos C
+S:C
+S:r
+S:r
+S:r
+sG
+sE
+<sC
+SF>
+sD
+*custosC

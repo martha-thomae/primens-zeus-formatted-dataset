@@ -2,19 +2,19 @@
 *clefC1
 =
 *met(C2)
-m cc
-m b -
-M cc
-M dd
-M a
-M dd
-M cc
-s dd
-m cc #
-m b
-s cc #
-L dd
-S dd
-S dd
+mcc
+mb-
+Mcc
+Mdd
+Ma
+Mdd
+Mcc
+sdd
+mcc#
+mb
+scc#
+Ldd
+Sdd
+Sdd
 =
-*custos a
+*custosa

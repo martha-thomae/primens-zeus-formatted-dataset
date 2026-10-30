@@ -3,29 +3,29 @@
 *k[b-]
 =
 *met(C|2)
-M r
-M d
+Mr
+Md
 =
-M : f
-m g
-M a
-M g
-M cc
+M:f
+mg
+Ma
+Mg
+Mcc
 =
-m b -
-m a
-M g
-M : a
-m b -
-m cc
-m dd
-M : b -
-m a
-M b -
-M : a
-m g
-s g
-M f #
+mb-
+ma
+Mg
+M:a
+mb-
+mcc
+mdd
+M:b-
+ma
+Mb-
+M:a
+mg
+sg
+Mf#
 *rscale:1
-S g
-*custos d
+Sg
+*custosd

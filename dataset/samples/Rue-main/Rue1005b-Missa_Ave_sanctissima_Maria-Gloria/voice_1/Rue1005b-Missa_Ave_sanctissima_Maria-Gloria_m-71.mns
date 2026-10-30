@@ -3,46 +3,46 @@
 =
 =
 *met(C2)
-S GG
-L GG
+SGG
+LGG
 *clefF3
 *met(C)
-s G
-M : E
-m F
-M G
-s A
-M G
-M A
+sG
+M:E
+mF
+MG
+sA
+MG
+MA
 =
-M A
-M F
-M : A
-m G
-M F
-s E
-L D
-s r
-s G
-M : G
-m F
-M E
-M E
-M : F
-m G
-m A
-m B -
-s A
-M : G
+MA
+MF
+M:A
+mG
+MF
+sE
+LD
+sr
+sG
+M:G
+mF
+ME
+ME
+M:F
+mG
+mA
+mB-
+sA
+M:G
 =
-m F
-M F
-s : G
-m F
-m E
-m F
-m E
-m D
-m C
-s D
-*custos GG
+mF
+MF
+s:G
+mF
+mE
+mF
+mE
+mD
+mC
+sD
+*custosGG

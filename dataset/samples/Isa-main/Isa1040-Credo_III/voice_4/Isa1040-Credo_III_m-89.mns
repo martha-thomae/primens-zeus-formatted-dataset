@@ -2,20 +2,20 @@
 *clefC1
 *k[b-]
 *met(C|)
-M f
-s g
-M f #
-S g
+Mf
+sg
+Mf#
+Sg
 *clefC1
 *k[b-]
 *met(C|)
-[ s dd
-s cc ]
-s dd
-M dd
-s ff
-m ee
-m dd
-M ee
-M ee
-*custos f
+[sdd
+scc]
+sdd
+Mdd
+sff
+mee
+mdd
+Mee
+Mee
+*custosf

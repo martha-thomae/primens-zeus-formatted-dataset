@@ -3,16 +3,16 @@
 *met(O)
 *clefC2
 *met(C|)
-s : E
-M F
-s G
-s : A
-m G
-m F
-s E
-M D
-M : A
-m G
-M G
+s:E
+MF
+sG
+s:A
+mG
+mF
+sE
+MD
+M:A
+mG
+MG
 =
-*custos D
+*custosD

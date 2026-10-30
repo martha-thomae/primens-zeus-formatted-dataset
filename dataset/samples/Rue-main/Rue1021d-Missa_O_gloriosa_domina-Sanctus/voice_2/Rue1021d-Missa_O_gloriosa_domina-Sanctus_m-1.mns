@@ -3,39 +3,39 @@
 =
 *met(C)
 =
-S d
-s d
-s : A
-M B
-s c
-s d
-s r
-s e
-M : f
-m d
-m e
-m f
-M : g
-m e
-m f
-m g
-s a
-s r
-s d
-M : c
-m A
-M B
-M c
-M d
-M f
-S e
-M r
-M c
-M d
-M : f
-m e
-m d
-m c
-s d
+Sd
+sd
+s:A
+MB
+sc
+sd
+sr
+se
+M:f
+md
+me
+mf
+M:g
+me
+mf
+mg
+sa
+sr
+sd
+M:c
+mA
+MB
+Mc
+Md
+Mf
+Se
+Mr
+Mc
+Md
+M:f
+me
+md
+mc
+sd
 =
-*custos A
+*custosA

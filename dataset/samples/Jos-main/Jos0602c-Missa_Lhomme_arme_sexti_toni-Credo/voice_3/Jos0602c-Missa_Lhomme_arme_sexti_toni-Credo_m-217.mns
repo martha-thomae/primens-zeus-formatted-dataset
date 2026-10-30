@@ -2,15 +2,15 @@
 *clefC2
 *k[b-]
 *met(C|3)
-s G
-s r
+sG
+sr
 =
-[ s c
-S d ]
-[ s B -
-S c ]
-[ s C
-s D ]
-S BB -
+[sc
+Sd]
+[sB-
+Sc]
+[sC
+sD]
+SBB-
 *rscale:1
-*custos BB -
+*custosBB-

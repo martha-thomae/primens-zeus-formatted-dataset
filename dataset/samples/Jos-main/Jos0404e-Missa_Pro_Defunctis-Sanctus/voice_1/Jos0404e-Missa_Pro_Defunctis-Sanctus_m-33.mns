@@ -3,41 +3,41 @@
 =
 *met(C|)
 =
-s G
+sG
 =
-s C
-s r
-s C
-M : c
-m B
-M A
+sC
+sr
+sC
+M:c
+mB
+MA
 =
-M G
-M F
-M E
+MG
+MF
+ME
 =
-s D
-S C
-S r
-s r
-s G
-M : c
-m B
-M : A
-m G
-M F
-M E
+sD
+SC
+Sr
+sr
+sG
+M:c
+mB
+M:A
+mG
+MF
+ME
 =
-s D
-L AA
+sD
+LAA
 *clefF4
 *met(C|)
-S AA
-s C
-s : D
-M GG
-s GG
-S D
-S F
-S G
-*custos GG
+SAA
+sC
+s:D
+MGG
+sGG
+SD
+SF
+SG
+*custosGG

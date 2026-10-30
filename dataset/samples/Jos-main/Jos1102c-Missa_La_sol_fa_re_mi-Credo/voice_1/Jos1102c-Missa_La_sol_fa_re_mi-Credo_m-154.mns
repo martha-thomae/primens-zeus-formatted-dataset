@@ -1,18 +1,18 @@
 **mens
 *clefF4
 *met(C|)
-s r
-M r
-M G
-M E
-M F
-s G
-s r
-M r
-M G
-M E
-M F
-s G
+sr
+Mr
+MG
+ME
+MF
+sG
+sr
+Mr
+MG
+ME
+MF
+sG
 *met(3)
 3%M%2C
 3%M%2c
@@ -32,4 +32,4 @@ s%M:A
 3G
 3%M%2F
 =
-*custos C
+*custosC

@@ -3,25 +3,25 @@
 *k[b-]
 =
 *met(C|)
-s r
-s cc
+sr
+scc
 =
-s : b -
-m a
-m g
-M f
-s g
-m f
-m e
-M d
-m B -
-m c
-m d
-m e
-m f
-m g
-M a
-s g
+s:b-
+ma
+mg
+Mf
+sg
+mf
+me
+Md
+mB-
+mc
+md
+me
+mf
+mg
+Ma
+sg
 =
-M f #
-*custos B -
+Mf#
+*custosB-

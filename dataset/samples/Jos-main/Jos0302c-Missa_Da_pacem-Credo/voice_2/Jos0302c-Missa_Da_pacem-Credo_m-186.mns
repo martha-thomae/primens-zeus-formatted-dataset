@@ -2,20 +2,20 @@
 *clefC4
 *k[b-]
 *met(3)
-S d
-[ s B -
-s c ]
-[ s A
-s B -
-s G ]
-S c
-< s A
-s B - >
-s G
-s A
+Sd
+[sB-
+sc]
+[sA
+sB-
+sG]
+Sc
+<sA
+sB->
+sG
+sA
 =
-s F
-S B -
-s G
-s A
-*custos F
+sF
+SB-
+sG
+sA
+*custosF

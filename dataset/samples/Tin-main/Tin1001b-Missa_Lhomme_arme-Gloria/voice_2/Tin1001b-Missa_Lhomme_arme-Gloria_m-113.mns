@@ -3,38 +3,38 @@
 *k[b-]
 *met(C|)
 *MM315
-S d
-s d
-S d
-s c
-< S B -
-S A >
-s G
-s r
-s c
-s : c
-m B -
-m A
-M B -
-s c
-M B n
-M : c
-m d
-[ s e
-S d ]
-< s d
-s c >
-s c
-s B -
-M B -
-M : d
+Sd
+sd
+Sd
+sc
+<SB-
+SA>
+sG
+sr
+sc
+s:c
+mB-
+mA
+MB-
+sc
+MBn
+M:c
+md
+[se
+Sd]
+<sd
+sc>
+sc
+sB-
+MB-
+M:d
 =
-m c
-M B -
-M A
-M : c
-m B -
-m A
-m G
-s A
-*custos G
+mc
+MB-
+MA
+M:c
+mB-
+mA
+mG
+sA
+*custosG

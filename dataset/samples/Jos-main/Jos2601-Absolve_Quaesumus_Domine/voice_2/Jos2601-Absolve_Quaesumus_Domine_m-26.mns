@@ -3,10 +3,10 @@
 *k[b-]
 =
 *met(C|)
-L F
-S r
-S r
+LF
+Sr
+Sr
 =
-[ S F
-S G ]
-*custos F
+[SF
+SG]
+*custosF

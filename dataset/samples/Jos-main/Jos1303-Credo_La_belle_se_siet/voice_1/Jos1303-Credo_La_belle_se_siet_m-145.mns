@@ -3,13 +3,13 @@
 =
 *k[b-]
 *met(O2)
-[ s FF
-s C ]
-M r
-M FF
-M : C
-m D
-s E
-s F
-S C
-*custos FF
+[sFF
+sC]
+Mr
+MFF
+M:C
+mD
+sE
+sF
+SC
+*custosFF

@@ -4,24 +4,24 @@
 =
 *met(C|)
 =
-M : f
-m e
+M:f
+me
 =
-m f
-m g
-s a
-s g
-M f #
-S g
-M e
-M f
-M g
+mf
+mg
+sa
+sg
+Mf#
+Sg
+Me
+Mf
+Mg
 =
-s f
-m e
-m d
-M c
-s f
-M d
-s d
-*custos c
+sf
+me
+md
+Mc
+sf
+Md
+sd
+*custosc

@@ -2,14 +2,14 @@
 *clefC2
 *k[b-]
 *met(C|3)
-s : G
-M D
-s E
-S F
-s F
-< s G
-S B - >
-[ S A
-s D ]
+s:G
+MD
+sE
+SF
+sF
+<sG
+SB->
+[SA
+sD]
 *rscale:1
-*custos D
+*custosD

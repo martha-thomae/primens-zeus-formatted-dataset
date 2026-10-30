@@ -12,22 +12,22 @@
 3%M%2f
 3%m%4d
 *met(C|)
-L c
-S r
-S r
-S r
+Lc
+Sr
+Sr
+Sr
 =
-S d
-s d
-s d
-s : e
-m d
-m c
-s B
-M B
-s d
+Sd
+sd
+sd
+s:e
+md
+mc
+sB
+MB
+sd
 =
-m c
-m B
-s A
-*custos A
+mc
+mB
+sA
+*custosA

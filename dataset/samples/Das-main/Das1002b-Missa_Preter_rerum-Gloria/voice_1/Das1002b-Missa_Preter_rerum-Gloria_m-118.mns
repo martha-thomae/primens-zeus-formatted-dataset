@@ -3,29 +3,29 @@
 *k[b-]
 *met(C|)
 =
-M D
-M C
-s E -
-s D
-s GG
+MD
+MC
+sE-
+sD
+sGG
 *clefF3
 *k[b-]
 *met(C|)
-s r
-S BB -
+sr
+SBB-
 =
 =
-s BB -
-s BB -
-s C
-M BB -
-s BB -
-m AA
-m GG
+sBB-
+sBB-
+sC
+MBB-
+sBB-
+mAA
+mGG
 =
-s AA
-L GG
-s r
+sAA
+LGG
+sr
 =
-S r
-*custos GG
+Sr
+*custosGG

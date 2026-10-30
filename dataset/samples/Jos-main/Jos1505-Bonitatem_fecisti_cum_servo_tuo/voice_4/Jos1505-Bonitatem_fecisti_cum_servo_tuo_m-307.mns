@@ -3,50 +3,50 @@
 =
 *met(C|)
 =
-M g #
-s a
-s r
-s a
-M a
-M a
-M g
-s f
-m e
-m d
-M c
-s d
-M c #
+Mg#
+sa
+sr
+sa
+Ma
+Ma
+Mg
+sf
+me
+md
+Mc
+sd
+Mc#
 =
-M d
-s a
-M a
-M g
-M g
-s e
-< s a
-s d >
-[ s a
-s f ]
-s g
+Md
+sa
+Ma
+Mg
+Mg
+se
+<sa
+sd>
+[sa
+sf]
+sg
 =
-S a
-s b
-M b
-s b
+Sa
+sb
+Mb
+sb
 =
-M b
-S b
+Mb
+Sb
 =
-s a
-< s dd
-s cc >
-M b
-s a
-m g
-m f
-s g
-S a
-s r
-s g
-s a
-*custos c
+sa
+<sdd
+scc>
+Mb
+sa
+mg
+mf
+sg
+Sa
+sr
+sg
+sa
+*custosc

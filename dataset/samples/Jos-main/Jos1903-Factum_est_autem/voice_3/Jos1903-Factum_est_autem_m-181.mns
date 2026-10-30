@@ -16,18 +16,18 @@ s%M:e
 3%M%2c
 3%m%4B
 *met(C|)
-s A
-s r
-s : c
-M c
-s c
-s A
-M : G
-U A
-U G
-m A
-m G
-s c
-M B
-s c
-*custos C
+sA
+sr
+s:c
+Mc
+sc
+sA
+M:G
+UA
+UG
+mA
+mG
+sc
+MB
+sc
+*custosC

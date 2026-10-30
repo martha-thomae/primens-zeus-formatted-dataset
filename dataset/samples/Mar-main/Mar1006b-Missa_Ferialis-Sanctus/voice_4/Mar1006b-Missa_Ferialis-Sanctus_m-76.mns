@@ -2,20 +2,20 @@
 =
 *clefG2
 *met(O2)
-s a
-s f
-[ s : g
-s cc ]
-m b
-m a
-M : g
-m f
-s a
-M a
-s f
+sa
+sf
+[s:g
+scc]
+mb
+ma
+M:g
+mf
+sa
+Ma
+sf
 =
-M e
-s : d
-M B
-s c #
-*custos B
+Me
+s:d
+MB
+sc#
+*custosB

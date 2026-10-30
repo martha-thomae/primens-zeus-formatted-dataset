@@ -4,30 +4,30 @@
 =
 *met(C|)
 =
-s r
+sr
 =
-M r
-s a
-[ s cc
-s g ]
-s b -
-m a
-m g
-M : f
-m g
-M a
-s g
-M : f
-m d
-M e
-S f
-s r
-s : c
-M c
-s : cc
+Mr
+sa
+[scc
+sg]
+sb-
+ma
+mg
+M:f
+mg
+Ma
+sg
+M:f
+md
+Me
+Sf
+sr
+s:c
+Mc
+s:cc
 =
-M cc
-s : a
-M f
-s f
-*custos c
+Mcc
+s:a
+Mf
+sf
+*custosc

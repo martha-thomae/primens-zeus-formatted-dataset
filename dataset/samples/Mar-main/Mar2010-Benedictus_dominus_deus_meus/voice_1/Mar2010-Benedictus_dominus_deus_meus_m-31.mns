@@ -4,35 +4,35 @@
 *k[b-]
 =
 *met(C)
-s r
-M c
-M c
-M c
-M c
-M c
-M c
-s A
-M c
-M B -
-M A
-s B -
-M A
-[ s G
-s F ]
-[ s A
-s c ]
-M c
-M c
-s c
+sr
+Mc
+Mc
+Mc
+Mc
+Mc
+Mc
+sA
+Mc
+MB-
+MA
+sB-
+MA
+[sG
+sF]
+[sA
+sc]
+Mc
+Mc
+sc
 =
-s c
-s B
-M c
-s d
-M c
-[ s B -
-s A ]
+sc
+sB
+Mc
+sd
+Mc
+[sB-
+sA]
 =
-s r
-s c
-*custos F
+sr
+sc
+*custosF

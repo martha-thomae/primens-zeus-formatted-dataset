@@ -2,30 +2,30 @@
 =
 *clefC4
 *met(C)
-s G
-s F
-s E
-M r
-M E
+sG
+sF
+sE
+Mr
+ME
 =
-M F
-M G
-M : C
-m D
-s E
-s r
-M r
-M C
-s G
-S G
+MF
+MG
+M:C
+mD
+sE
+sr
+Mr
+MC
+sG
+SG
 *clefC4
 *met(C2)
-S G
-s G
-s G
-s c
-s F
-L G
-s r
-s B
-*custos C
+SG
+sG
+sG
+sc
+sF
+LG
+sr
+sB
+*custosC

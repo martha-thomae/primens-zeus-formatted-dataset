@@ -3,32 +3,32 @@
 =
 *k[b-]
 *met(C|)
-M : f
-m e
-m c
-m A
-M : c
-m d
+M:f
+me
+mc
+mA
+M:c
+md
 =
-m e
-m f
-M : g
-m f
-M : d
-m c
-m d
-m e
-s f
+me
+mf
+M:g
+mf
+M:d
+mc
+md
+me
+sf
 =
-M d
-M e
-M g
-M f
-M : d
-m c
-m d
-m e
-M f
-M g
-s e
-*custos A
+Md
+Me
+Mg
+Mf
+M:d
+mc
+md
+me
+Mf
+Mg
+se
+*custosA

@@ -1,30 +1,30 @@
 **mens
 *clefF3
 *met(3)
-[ S F
-s D
-S G ]
-s G
-S C
-S C
-S F
-s F
-S D
-s D
-s : G
-M F
-M E
-M D
-S C
-s C
-s : F
-M E
-[ s D
-s : C ]
-M D
-[ s E
-s F ]
-s G
+[SF
+sD
+SG]
+sG
+SC
+SC
+SF
+sF
+SD
+sD
+s:G
+MF
+ME
+MD
+SC
+sC
+s:F
+ME
+[sD
+s:C]
+MD
+[sE
+sF]
+sG
 *met(C|)
-S C
-*custos C
+SC
+*custosC

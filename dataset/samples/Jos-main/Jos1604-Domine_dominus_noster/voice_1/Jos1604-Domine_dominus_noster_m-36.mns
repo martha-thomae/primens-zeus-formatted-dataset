@@ -3,24 +3,24 @@
 =
 *met(C|)
 =
-s F
-M : C
-m D
-S E
-M F
-s D
-m C
+sF
+M:C
+mD
+SE
+MF
+sD
+mC
 =
-m BB
-M AA
-M D
-M GG
-s G
-m F
-m E
-M D
-s G
-M F
-M : G
-m F
-*custos GG
+mBB
+MAA
+MD
+MGG
+sG
+mF
+mE
+MD
+sG
+MF
+M:G
+mF
+*custosGG

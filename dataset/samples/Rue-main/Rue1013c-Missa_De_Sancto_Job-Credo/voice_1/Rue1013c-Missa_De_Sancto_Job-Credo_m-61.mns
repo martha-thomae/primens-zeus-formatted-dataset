@@ -3,32 +3,32 @@
 *k[b-]
 *met(O)
 =
-s D
-m C
-m BB -
-M C
-M D
-M E
-M : F
-m E
-s D
-M C #
-M D
-M D
-s BB -
-s D
-M : C
-m BB -
-S GG
-M : D
+sD
+mC
+mBB-
+MC
+MD
+ME
+M:F
+mE
+sD
+MC#
+MD
+MD
+sBB-
+sD
+M:C
+mBB-
+SGG
+M:D
 =
-m E
-m F
-m E
-M : F
-m E
-s C
-M F
-s G
-s D
-*custos GG
+mE
+mF
+mE
+M:F
+mE
+sC
+MF
+sG
+sD
+*custosGG

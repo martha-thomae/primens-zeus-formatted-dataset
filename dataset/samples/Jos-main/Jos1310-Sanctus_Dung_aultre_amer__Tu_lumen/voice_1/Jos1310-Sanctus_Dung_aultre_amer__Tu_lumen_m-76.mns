@@ -6,9 +6,9 @@
 S:GG	S:G
 *v	*v
 *met(C|)
-S G
-S C
-S D
-[ S BB -
-S F ]
-*custos GG
+SG
+SC
+SD
+[SBB-
+SF]
+*custosGG

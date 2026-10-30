@@ -3,47 +3,47 @@
 =
 *clefC2
 *met(C|)
-L c
+Lc
 =
-s G
-s A
-s G
-s c
-M d
-s e
-m d
-m c
+sG
+sA
+sG
+sc
+Md
+se
+md
+mc
 =
-s B
-[ s e
-s d ]
-s c
-s f
-M e
-s c
-s d
-M c
-s A
-M B
-s c
-m B
-m A
-[ s G
-s c ]
+sB
+[se
+sd]
+sc
+sf
+Me
+sc
+sd
+Mc
+sA
+MB
+sc
+mB
+mA
+[sG
+sc]
 =
-M d
-M : e
-m d
-M e
-M f
-M g
-s c
-[ s d
-S c ]
+Md
+M:e
+md
+Me
+Mf
+Mg
+sc
+[sd
+Sc]
 *clefC2
 *met(C|)
-S c
-s c
-S d
-s d
-*custos G
+Sc
+sc
+Sd
+sd
+*custosG

@@ -2,107 +2,107 @@
 *clefF4
 *k[b-]
 *met(C|)
-m BB -
+mBB-
 =
-m C
-m D
-m E
-m F
-m G
-M : A
-m G
-s G
-M F #
-M G
-m GG
-m AA
-m BB -
-m C
-m D
-m E
-M F
-s G
-m F
-m E
-M : D
-m D
-M D
-M D
-M C
-s D
-m C
-m BB -
+mC
+mD
+mE
+mF
+mG
+M:A
+mG
+sG
+MF#
+MG
+mGG
+mAA
+mBB-
+mC
+mD
+mE
+MF
+sG
+mF
+mE
+M:D
+mD
+MD
+MD
+MC
+sD
+mC
+mBB-
 =
-M AA
-m c
-m B -
-m A
-m G
-m c
-m B -
-m A
-m G
-m F
-m G
-m A
-m F
-M G
-M C
-m G
-m F
-m E
-m D
-m G
-m F
-m E
-m D
-m C
-m D
-m E
-m C
-M D
-s GG
-M : D
-m D
-M D
-M D
-M D
-M D
-M C
-m r
-m C
-m D
-m C
-m BB -
-m AA
-M GG
-m r
-m D
-m E -
-m D
-m C
+MAA
+mc
+mB-
+mA
+mG
+mc
+mB-
+mA
+mG
+mF
+mG
+mA
+mF
+MG
+MC
+mG
+mF
+mE
+mD
+mG
+mF
+mE
+mD
+mC
+mD
+mE
+mC
+MD
+sGG
+M:D
+mD
+MD
+MD
+MD
+MD
+MC
+mr
+mC
+mD
+mC
+mBB-
+mAA
+MGG
+mr
+mD
+mE-
+mD
+mC
 =
-m BB -
-M AA
-s BB -
-M AA
-M r
-M D
-m E -
-m D
-m C
+mBB-
+MAA
+sBB-
+MAA
+Mr
+MD
+mE-
+mD
+mC
 =
-m BB -
-M AA
-s BB -
-M AA
-m D
-m D
-m D
+mBB-
+MAA
+sBB-
+MAA
+mD
+mD
+mD
 =
-m D
-m C
-m C
-m C
-m C
-*custos GG
+mD
+mC
+mC
+mC
+mC
+*custosGG

@@ -4,33 +4,33 @@
 =
 *met(O/3)
 *met(O/3)
-S C
-s C
-S BB -
+SC
+sC
+SBB-
 =
-S C
-S AA
+SC
+SAA
 *met(O/3)
-S GG
-s r
-S D
-s D
-S GG
-s r
-S D
-s D
-S GG
-s r
-s : D
-M E
-s F
-S G
-s G
-S F
-s F
-S F
+SGG
+sr
+SD
+sD
+SGG
+sr
+SD
+sD
+SGG
+sr
+s:D
+ME
+sF
+SG
+sG
+SF
+sF
+SF
 =
-s F
-[ S G
-s F ]
-*custos GG
+sF
+[SG
+sF]
+*custosGG

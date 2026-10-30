@@ -3,10 +3,10 @@
 *met(3)
 *met(C|)
 =
-L : C
+L:C
 =
-[ S C
-S AA ]
-s GG
-s C
-*custos GG
+[SC
+SAA]
+sGG
+sC
+*custosGG

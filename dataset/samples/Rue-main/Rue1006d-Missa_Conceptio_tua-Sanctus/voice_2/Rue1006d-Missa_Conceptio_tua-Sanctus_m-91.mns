@@ -1,16 +1,16 @@
 **mens
 *clefC4
 *met(C|)
-S C
-s : C
-M D
-M E
-M D
-[ s E
-s : C ]
-M AA
-S AA
-s r
-M : AA
-m BB
-*custos AA
+SC
+s:C
+MD
+ME
+MD
+[sE
+s:C]
+MAA
+SAA
+sr
+M:AA
+mBB
+*custosAA

@@ -2,18 +2,18 @@
 *clefC2
 *k[b-]
 *met(C|)
-s r
-s A
-< s B -
-s c >
+sr
+sA
+<sB-
+sc>
 =
-M : A
-m B -
-M c
-M : d
-m c
-m B -
-m A
-s G
+M:A
+mB-
+Mc
+M:d
+mc
+mB-
+mA
+sG
 *rscale:1
-*custos G
+*custosG

@@ -4,13 +4,13 @@
 *k[b-]
 =
 *met(C|)
-S C
-L BB -
-s FF
-s GG
-s AA
-s BB -
-S C
-S GG
-S C
-*custos FF
+SC
+LBB-
+sFF
+sGG
+sAA
+sBB-
+SC
+SGG
+SC
+*custosFF

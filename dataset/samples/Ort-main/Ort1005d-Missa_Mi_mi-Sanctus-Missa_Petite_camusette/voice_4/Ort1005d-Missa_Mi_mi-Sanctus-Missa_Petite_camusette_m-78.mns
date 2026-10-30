@@ -1,41 +1,41 @@
 **mens
 *clefC1
 *met(C|)
-m A
-m B
-m c
-m d
-M : e
-m f
-M g
-s a
-M g #
-S a
+mA
+mB
+mc
+md
+M:e
+mf
+Mg
+sa
+Mg#
+Sa
 *clefC1
 *met(O/3)
-s e
-s e
-s a
-s g
-S a
+se
+se
+sa
+sg
+Sa
 =
-s : g
-M a
-M b
-M a
-s cc
-s : b
-M a
-S a
-s g #
-s a
-s e
+s:g
+Ma
+Mb
+Ma
+scc
+s:b
+Ma
+Sa
+sg#
+sa
+se
 =
-s a
-s g
-s : f
-M e
-S e
-s d
-S : e
-*custos A
+sa
+sg
+s:f
+Me
+Se
+sd
+S:e
+*custosA

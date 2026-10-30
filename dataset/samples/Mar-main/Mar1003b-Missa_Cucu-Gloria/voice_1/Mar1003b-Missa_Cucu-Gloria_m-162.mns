@@ -2,17 +2,17 @@
 *clefF4
 *met(C|)
 =
-S GG
-s r
-[ s D
-s F ]
-[ s D
-s C ]
-[ s D
-S BB ]
-s AA
-s D
-[ s C
-s AA ]
-S E
-*custos GG
+SGG
+sr
+[sD
+sF]
+[sD
+sC]
+[sD
+SBB]
+sAA
+sD
+[sC
+sAA]
+SE
+*custosGG

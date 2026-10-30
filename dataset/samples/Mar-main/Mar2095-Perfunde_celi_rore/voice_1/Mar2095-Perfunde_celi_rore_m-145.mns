@@ -3,27 +3,27 @@
 *k[b-e-]
 *met(C|)
 *met(3)
-L GG
-s r
-s GG
-s BB -
-[ s F
-s G ]
-S E -
-s D
-[ s G
-S F ]
-s BB -
-s : GG
-M AA
-S BB -
+LGG
+sr
+sGG
+sBB-
+[sF
+sG]
+SE-
+sD
+[sG
+SF]
+sBB-
+s:GG
+MAA
+SBB-
 =
-s C
-s D
-[ s GG
-s : BB - ]
-M AA
-M BB -
-M C
-s D
-*custos GG
+sC
+sD
+[sGG
+s:BB-]
+MAA
+MBB-
+MC
+sD
+*custosGG

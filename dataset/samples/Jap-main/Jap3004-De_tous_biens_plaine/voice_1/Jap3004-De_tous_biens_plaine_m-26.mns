@@ -4,19 +4,19 @@
 *k[b-]
 =
 *met(C|)
-s D
-s r
-S r
-s : GG
-s C
-M BB -
-M C
-M : E -
-m D
-M : C
-m BB -
-m AA
-m GG
-s AA
-s GG
-*custos GG
+sD
+sr
+Sr
+s:GG
+sC
+MBB-
+MC
+M:E-
+mD
+M:C
+mBB-
+mAA
+mGG
+sAA
+sGG
+*custosGG

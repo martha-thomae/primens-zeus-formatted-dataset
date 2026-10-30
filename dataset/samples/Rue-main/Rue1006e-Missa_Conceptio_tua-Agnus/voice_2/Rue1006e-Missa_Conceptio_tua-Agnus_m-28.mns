@@ -1,20 +1,20 @@
 **mens
 *clefC4
 *met(O)
-S : AA
+S:AA
 *clefC4
 =
 *met(C2)
-s AA
-M AA
-M : BB
-m C
-M : D
-m C
-m BB
-m AA
-M : GG
-m AA
-M BB
-M C
-*custos GG
+sAA
+MAA
+M:BB
+mC
+M:D
+mC
+mBB
+mAA
+M:GG
+mAA
+MBB
+MC
+*custosGG

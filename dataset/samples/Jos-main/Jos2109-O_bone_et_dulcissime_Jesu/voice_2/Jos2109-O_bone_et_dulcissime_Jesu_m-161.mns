@@ -2,16 +2,16 @@
 *clefC4
 *met(C|)
 *met(3)
-s r
-S d
-s d
-s d
-s : e
-M c
-S c
-s c
-s d
-s e
-s A
-S B
-*custos A
+sr
+Sd
+sd
+sd
+s:e
+Mc
+Sc
+sc
+sd
+se
+sA
+SB
+*custosA

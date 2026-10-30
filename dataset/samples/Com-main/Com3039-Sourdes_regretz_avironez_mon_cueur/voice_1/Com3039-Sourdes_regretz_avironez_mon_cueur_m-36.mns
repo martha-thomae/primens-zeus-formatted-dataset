@@ -3,32 +3,32 @@
 =
 *k[b-]
 *met(C|)
-m D
-m C
-S BB -
-s BB -
-s BB -
+mD
+mC
+SBB-
+sBB-
+sBB-
 =
-M BB -
-s GG
-M AA
-s BB -
-m FF
-m GG
-m AA
-m BB -
-M : C
-m E
-s D
-s C
-M r
+MBB-
+sGG
+MAA
+sBB-
+mFF
+mGG
+mAA
+mBB-
+M:C
+mE
+sD
+sC
+Mr
 =
-M : D
-m C
-m BB -
+M:D
+mC
+mBB-
 =
-m AA
-M BB -
-M C
-s AA
-*custos FF
+mAA
+MBB-
+MC
+sAA
+*custosFF

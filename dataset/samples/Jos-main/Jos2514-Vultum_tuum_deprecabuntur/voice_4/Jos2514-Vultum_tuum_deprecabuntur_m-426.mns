@@ -4,38 +4,38 @@
 =
 *met(C|)
 =
-[ s a
-S g ]
-[ s f
-s : g ]
-M f
-S b -
-< s a
-L b - >
-S r
-s r
-s g
-s g
-s g
-s : cc
-M b -
-M a
+[sa
+Sg]
+[sf
+s:g]
+Mf
+Sb-
+<sa
+Lb->
+Sr
+sr
+sg
+sg
+sg
+s:cc
+Mb-
+Ma
 =
-M g
-s f
-s : ff
-M ee
-M dd
-M cc
-M : b -
-m a
-s : ff
-M ee
-M dd
-M cc
-M b -
-s a
-s g
-M f #
-S g
-*custos f
+Mg
+sf
+s:ff
+Mee
+Mdd
+Mcc
+M:b-
+ma
+s:ff
+Mee
+Mdd
+Mcc
+Mb-
+sa
+sg
+Mf#
+Sg
+*custosf

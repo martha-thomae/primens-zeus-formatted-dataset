@@ -5,46 +5,46 @@
 *k[b-]
 =
 *met(C|)
-S r
-s r
-s e
-M : f
-m g
-M a
-s a
-M g
-M e
-s g
-M f
-M d
+Sr
+sr
+se
+M:f
+mg
+Ma
+sa
+Mg
+Me
+sg
+Mf
+Md
 =
-s f
-m e
-m d
-S c
-s : c
+sf
+me
+md
+Sc
+s:c
 =
-M c
-M c
-M c
-s d
-s f
-s f
-[ s g
-s a ]
-s f
-M r
-M a
-M g
-M f
-M a
-M b -
-s cc
-M r
-M f
-M e
-M d
-M f
-M g
-s a
-*custos c
+Mc
+Mc
+Mc
+sd
+sf
+sf
+[sg
+sa]
+sf
+Mr
+Ma
+Mg
+Mf
+Ma
+Mb-
+scc
+Mr
+Mf
+Me
+Md
+Mf
+Mg
+sa
+*custosc

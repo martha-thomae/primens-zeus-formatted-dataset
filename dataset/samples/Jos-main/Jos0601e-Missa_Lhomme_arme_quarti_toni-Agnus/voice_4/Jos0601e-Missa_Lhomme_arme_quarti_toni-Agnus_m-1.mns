@@ -2,59 +2,59 @@
 *clefG2
 =
 *met(O)
-S : r
-S e
-s e
-s : a
-M g
-s g
-M : f
-m e
-S e
-M r
-s a
-M : g
-m f
-m e
-m d
-M c
-M d
-M : A
-m B
-M c
-M : d
-m c
-M e
-M d
-M : g
-m f
-m e
-m d
-S : c
-s : c
-M d
-M c
-s f
-M e
+S:r
+Se
+se
+s:a
+Mg
+sg
+M:f
+me
+Se
+Mr
+sa
+M:g
+mf
+me
+md
+Mc
+Md
+M:A
+mB
+Mc
+M:d
+mc
+Me
+Md
+M:g
+mf
+me
+md
+S:c
+s:c
+Md
+Mc
+sf
+Me
 =
-s f
-S a
-S g
-M f
-M : a
-m g
-m f
-m e
-s f
-M : e
-m f
-[ s g
-s G ]
+sf
+Sa
+Sg
+Mf
+M:a
+mg
+mf
+me
+sf
+M:e
+mf
+[sg
+sG]
 =
-s A
-M r
+sA
+Mr
 =
-M : A
-m B
-M c
-*custos G
+M:A
+mB
+Mc
+*custosG

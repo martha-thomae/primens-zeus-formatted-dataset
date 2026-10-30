@@ -4,29 +4,29 @@
 *met(C|)
 =
 =
-M cc
-M cc
-M cc
-M b -
-M a
-s cc
-S dd
-S r
-[ s a
-s b - ]
-M : cc
-m b -
-m a
-m g
-M a
-M g
-M : b -
-m cc
-m dd
-U cc
-U dd
+Mcc
+Mcc
+Mcc
+Mb-
+Ma
+scc
+Sdd
+Sr
+[sa
+sb-]
+M:cc
+mb-
+ma
+mg
+Ma
+Mg
+M:b-
+mcc
+mdd
+Ucc
+Udd
 =
-M ee -
-s dd
-M cc
-*custos g
+Mee-
+sdd
+Mcc
+*custosg

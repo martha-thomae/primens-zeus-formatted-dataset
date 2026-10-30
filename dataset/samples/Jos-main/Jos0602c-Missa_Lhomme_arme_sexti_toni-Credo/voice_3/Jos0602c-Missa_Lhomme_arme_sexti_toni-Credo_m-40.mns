@@ -3,28 +3,28 @@
 *k[b-]
 =
 *met(O)
-M r
-s c
-M B -
-M : c
-m B -
+Mr
+sc
+MB-
+M:c
+mB-
 =
-m A
-m G
-M : F
-m E
-M D
-M C
-M BB -
-M : F
-m E
-m D
-m C
-s C
-M BB -
-s C
-s r
-M c
-M d
+mA
+mG
+M:F
+mE
+MD
+MC
+MBB-
+M:F
+mE
+mD
+mC
+sC
+MBB-
+sC
+sr
+Mc
+Md
 *rscale:1
-*custos BB -
+*custosBB-

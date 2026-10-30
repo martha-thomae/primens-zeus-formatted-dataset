@@ -3,15 +3,15 @@
 *k[b-]
 =
 *met(C|)
-M d
-s e
-s f
-s r
-s : d
+Md
+se
+sf
+sr
+s:d
 =
-M d
-s d
-s d
-s : c
-M c
-*custos c
+Md
+sd
+sd
+s:c
+Mc
+*custosc

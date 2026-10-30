@@ -2,12 +2,12 @@
 =
 *clefC4
 *met(C|)
-s F
-S G
-[ s F
-S E ]
-L D
+sF
+SG
+[sF
+SE]
+LD
 *clefC4
 *met(C|)
-L A
-*custos D
+LA
+*custosD

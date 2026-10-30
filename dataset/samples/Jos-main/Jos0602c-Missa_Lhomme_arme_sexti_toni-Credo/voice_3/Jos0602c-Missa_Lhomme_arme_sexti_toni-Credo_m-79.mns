@@ -3,16 +3,16 @@
 *k[b-]
 *met(O)
 *met(C|)
-S F
-s F
-M : G
-m A
-M B -
-M : A
-m G
-m F
-m E
-s D
-s C
+SF
+sF
+M:G
+mA
+MB-
+M:A
+mG
+mF
+mE
+sD
+sC
 *rscale:1
-*custos C
+*custosC

@@ -3,59 +3,59 @@
 =
 =
 *met(O)
-s r
-s r
-s E
-s E
-M F
-M F
-s : E
-M C
-[ s D
-s E ]
-M AA
-M A
-M F
-M D
-M A
-s c
-m B
-m A
-s G
-M C
-M : c
-m B
-m A
-m G
-M F
-M D
-s E
-s A
-M G
+sr
+sr
+sE
+sE
+MF
+MF
+s:E
+MC
+[sD
+sE]
+MAA
+MA
+MF
+MD
+MA
+sc
+mB
+mA
+sG
+MC
+M:c
+mB
+mA
+mG
+MF
+MD
+sE
+sA
+MG
 =
-M F
-s E
-s D
-M r
-M D
-M : F
-m E
-M D
-M C
-M D
-M AA
+MF
+sE
+sD
+Mr
+MD
+M:F
+mE
+MD
+MC
+MD
+MAA
 =
-M D
-M C
-M D
-M AA
-M C
-M D
-s AA
-s D
+MD
+MC
+MD
+MAA
+MC
+MD
+sAA
+sD
 =
-M D
-M D
-M D
-M D
-*custos AA
+MD
+MD
+MD
+MD
+*custosAA

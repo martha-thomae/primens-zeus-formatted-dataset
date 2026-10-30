@@ -5,26 +5,26 @@
 =
 =
 *met(C|)
-m F
-m E
-[ s D
-s C
-s FF ]
-[ s BB -
-s D ]
-[ s C
-s AA ]
-s BB -
-s GG
-s D
-s D
-s C
-s AA
-s BB -
-[ s GG
-s D ]
-s r
-s GG
-M GG
-M GG
-*custos FF
+mF
+mE
+[sD
+sC
+sFF]
+[sBB-
+sD]
+[sC
+sAA]
+sBB-
+sGG
+sD
+sD
+sC
+sAA
+sBB-
+[sGG
+sD]
+sr
+sGG
+MGG
+MGG
+*custosFF

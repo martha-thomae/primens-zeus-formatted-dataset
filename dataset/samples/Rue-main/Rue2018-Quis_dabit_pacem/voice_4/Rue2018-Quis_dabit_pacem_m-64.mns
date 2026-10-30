@@ -2,23 +2,23 @@
 =
 *clefC1
 *met(C|)
-m b
+mb
 =
-m a
-M g
-M a
-M b
-M cc
-M dd
-M b
-s cc
-s : b
-M a
-S a
-[ s g #
-L a ]
+ma
+Mg
+Ma
+Mb
+Mcc
+Mdd
+Mb
+scc
+s:b
+Ma
+Sa
+[sg#
+La]
 *clefC1
 =
 *met(C|)
-S e
-*custos e
+Se
+*custose

@@ -4,37 +4,37 @@
 *met(C3)
 *MM400
 =
-S : r
-S : r
-s : GG
-M AA
-s BB -
-s C
-s : AA
-M GG
-S : BB -
-s r
-s : EE -
+S:r
+S:r
+s:GG
+MAA
+sBB-
+sC
+s:AA
+MGG
+S:BB-
+sr
+s:EE-
 =
-M FF
-s GG
-S FF
-S CC
-s : EE -
-M FF
-[ S GG
-s EE - ]
-S FF
+MFF
+sGG
+SFF
+SCC
+s:EE-
+MFF
+[SGG
+sEE-]
+SFF
 L:BBB-
 *clefF4
 *k[b-e-]
 *met(C|)
-S GG
-S GG
-s : AA -
-M FF
+SGG
+SGG
+s:AA-
+MFF
 =
-S FF
-s r
-s C
+SFF
+sr
+sC
 *custosBBB-

@@ -3,24 +3,24 @@
 =
 *met(C|)
 =
-s r
-[ s C
-s D ]
+sr
+[sC
+sD]
 =
-M C
-s AA
-m GG
-m FF
-s EE
-s r
-[ s DD
-s AA ]
-s BB -
-S AA
-S : DD
-[ s GG
-s DD ]
-s GG
-s r
-s C
-*custos DD
+MC
+sAA
+mGG
+mFF
+sEE
+sr
+[sDD
+sAA]
+sBB-
+SAA
+S:DD
+[sGG
+sDD]
+sGG
+sr
+sC
+*custosDD

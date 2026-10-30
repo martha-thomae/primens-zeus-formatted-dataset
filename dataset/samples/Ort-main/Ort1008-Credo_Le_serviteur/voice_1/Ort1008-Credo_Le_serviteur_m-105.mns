@@ -3,27 +3,27 @@
 =
 *k[b-e-]
 *met(C|)
-s BB -
-s r
-S r
-s FF
-s C
-s r
-S FF
-s r
-s C
-s BB -
-s FF
-S BB -
-S E -
-s G
-s E -
-M : D
-m C
-s BB -
-S FF
-S GG
-s C
-M C
-M C
-*custos FF
+sBB-
+sr
+Sr
+sFF
+sC
+sr
+SFF
+sr
+sC
+sBB-
+sFF
+SBB-
+SE-
+sG
+sE-
+M:D
+mC
+sBB-
+SFF
+SGG
+sC
+MC
+MC
+*custosFF

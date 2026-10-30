@@ -2,15 +2,15 @@
 *clefG2
 *met(C|)
 =
-s e
-s f
+se
+sf
 *met(3)
 S%m:e
 *met()
 =
-s r
-s r
-s r
-S : r
+sr
+sr
+sr
+S:r
 =
-*custos e
+*custose

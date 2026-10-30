@@ -2,23 +2,23 @@
 *clefC1
 *k[b-e-]
 *met(C|)
-S cc
-S r
-S r
+Scc
+Sr
+Sr
 *met(3)
-s r
-s r
-s a
+sr
+sr
+sa
 *met(3)
-[ s b -
-s cc ]
-s a
-< s b -
-s g >
-s cc
-s cc
-S dd
-s dd
-s ee -
-s dd
-*custos g
+[sb-
+scc]
+sa
+<sb-
+sg>
+scc
+scc
+Sdd
+sdd
+see-
+sdd
+*custosg

@@ -3,7 +3,7 @@
 *clefC2
 *met(O)
 *met(3)
-M c
+Mc
 6d
 3e
 3f
@@ -12,41 +12,41 @@ M c
 3e
 3f#
 *met(O)
-M g
-m G
-m A
-m B
-m c
-M d
-m G
-m A
-m B
-m G
-s d
-s r
-M r
-s g
-M e
-M f
-M g
-m c
-m d
+Mg
+mG
+mA
+mB
+mc
+Md
+mG
+mA
+mB
+mG
+sd
+sr
+Mr
+sg
+Me
+Mf
+Mg
+mc
+md
 =
-m e
-m c
-S g
-M r
-M g
-M : f
-m e
-M d
-M c
-s d
-M : c
-m d
-s e
-s A
-S : e
+me
+mc
+Sg
+Mr
+Mg
+M:f
+me
+Md
+Mc
+sd
+M:c
+md
+se
+sA
+S:e
 *met(C|)
-L c
-*custos G
+Lc
+*custosG

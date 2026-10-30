@@ -2,20 +2,20 @@
 *clefF4
 *k[b-]
 *met(O/3)
-S : r
-S : GG
-S : GG
+S:r
+S:GG
+S:GG
 *clefF4
 *k[b-]
 *met(C|)
-S r
-s r
-s GG
-s GG
-s : C
+Sr
+sr
+sGG
+sGG
+s:C
 =
-M C
-S C
-s C
-S D
-*custos GG
+MC
+SC
+sC
+SD
+*custosGG

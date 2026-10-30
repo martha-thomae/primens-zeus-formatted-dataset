@@ -3,20 +3,20 @@
 *clefF4
 *met(C|)
 *met(O)
-S : r
-S : r
-S F
-s G
+S:r
+S:r
+SF
+sG
 =
-s G
-s : A
-M B
-s c
-s A
-s G
-s B -
-S A
-S G
-M : B -
-m A
-*custos F
+sG
+s:A
+MB
+sc
+sA
+sG
+sB-
+SA
+SG
+M:B-
+mA
+*custosF

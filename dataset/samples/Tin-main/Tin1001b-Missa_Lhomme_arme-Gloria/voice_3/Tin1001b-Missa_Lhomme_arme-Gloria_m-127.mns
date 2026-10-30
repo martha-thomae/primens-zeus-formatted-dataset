@@ -5,25 +5,25 @@
 =
 *met(C|)
 *MM315
-M : A
-m B -
-s c
-s B -
-s G
-[ S A
-S G ]
-s r
-s G
-M c
-m B -
-m c
-s : d
-s B -
-M A
-s c
-s c
-[ s d
-s B - ]
-s c
-s r
-*custos G
+M:A
+mB-
+sc
+sB-
+sG
+[SA
+SG]
+sr
+sG
+Mc
+mB-
+mc
+s:d
+sB-
+MA
+sc
+sc
+[sd
+sB-]
+sc
+sr
+*custosG

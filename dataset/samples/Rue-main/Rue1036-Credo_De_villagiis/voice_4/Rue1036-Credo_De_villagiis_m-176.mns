@@ -4,31 +4,31 @@
 =
 *met(C|)
 *met(3)
-s : b -
+s:b-
 =
-M cc
-s dd
-S ee -
-s ee -
-s : dd
-M cc
-M b -
-M a
-s g
-M g
-s b -
-M cc
-s : dd
-M cc
-[ s b -
-s a
-s : g ]
-M a
-[ s f
-s a ]
+Mcc
+sdd
+See-
+see-
+s:dd
+Mcc
+Mb-
+Ma
+sg
+Mg
+sb-
+Mcc
+s:dd
+Mcc
+[sb-
+sa
+s:g]
+Ma
+[sf
+sa]
 =
-s g
-s f
-s : b -
-M a
-*custos f
+sg
+sf
+s:b-
+Ma
+*custosf

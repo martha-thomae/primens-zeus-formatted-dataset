@@ -2,26 +2,26 @@
 *clefC2
 *k[b-]
 *met(O)
-s r
+sr
 =
-s r
-s F
-M : G
-m F
-m E
-m D
-M C
-M : e -
-m e -
-M e -
-M : d
-m c
-s c
-M B -
-M : c
-m B -
-M A
-M G
-s F
+sr
+sF
+M:G
+mF
+mE
+mD
+MC
+M:e-
+me-
+Me-
+M:d
+mc
+sc
+MB-
+M:c
+mB-
+MA
+MG
+sF
 *rscale:1
-*custos C
+*custosC

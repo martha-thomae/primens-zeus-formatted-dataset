@@ -3,47 +3,47 @@
 *k[b-]
 *met(C2)
 =
-S r
-S r
-s d
-M e
-s f
-m e
-m d
-s c
-s r
-S d
+Sr
+Sr
+sd
+Me
+sf
+me
+md
+sc
+sr
+Sd
 =
-s : d
-M G
+s:d
+MG
 =
-M : B -
-m c
-M : d
-m e
-M : f
-m g
-M e
-M A
-M : c
-m d
-M : e
-m f
-M : g
-m a
-M f
-M : d
-m c
+M:B-
+mc
+M:d
+me
+M:f
+mg
+Me
+MA
+M:c
+md
+M:e
+mf
+M:g
+ma
+Mf
+M:d
+mc
 =
-M B -
-M A
-M G
-M : d
-m e
-M : f
-m g
-M a
-s b -
-s g
-M f #
-*custos G
+MB-
+MA
+MG
+M:d
+me
+M:f
+mg
+Ma
+sb-
+sg
+Mf#
+*custosG

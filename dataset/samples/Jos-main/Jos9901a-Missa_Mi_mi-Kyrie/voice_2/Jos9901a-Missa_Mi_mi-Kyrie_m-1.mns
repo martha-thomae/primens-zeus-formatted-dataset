@@ -2,50 +2,50 @@
 *clefC4
 =
 *met(O)
-s : B
-M E
-s E
-M r
+s:B
+ME
+sE
+Mr
 =
-M E
-M : G
-m A
-M B
+ME
+M:G
+mA
+MB
 =
 =
-s c
-m B
+sc
+mB
 =
-m A
-M G
-s A
-m G
-m F
-M G
-s A
-m G
-m F
-s E
-M r
-s G
-M F
+mA
+MG
+sA
+mG
+mF
+MG
+sA
+mG
+mF
+sE
+Mr
+sG
+MF
 =
-s E
-M r
-s E
-M D
-s C
-S : BB
+sE
+Mr
+sE
+MD
+sC
+S:BB
 *clefC4
 *met(C2)
 M%7B
-m A
-m G
-s A
-S G
-s : c
-m B
+mA
+mG
+sA
+SG
+s:c
+mB
 =
-m A
-s B
-*custos BB
+mA
+sB
+*custosBB

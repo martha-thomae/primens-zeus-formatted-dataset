@@ -2,17 +2,17 @@
 =
 *clefC4
 *met(C2)
-M AA
-M GG
-s AA
-M : GG
-m AA
-m BB
-m C
-M : D
-m C
-m BB
-m AA
-s BB
-S AA
-*custos GG
+MAA
+MGG
+sAA
+M:GG
+mAA
+mBB
+mC
+M:D
+mC
+mBB
+mAA
+sBB
+SAA
+*custosGG

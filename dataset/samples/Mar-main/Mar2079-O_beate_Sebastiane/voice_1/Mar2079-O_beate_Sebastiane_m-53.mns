@@ -3,50 +3,50 @@
 *clefF4
 *k[b-]
 *met(C)
-M E
-M G
-s D
-s r
-L D
-s r
+ME
+MG
+sD
+sr
+LD
+sr
 =
 =
 *met(C.3/2)
-s D
-M E
+sD
+ME
 =
-M C
+MC
 =
-M : D
-m C
-M BB -
-s AA
-s : GG
-s r
+M:D
+mC
+MBB-
+sAA
+s:GG
+sr
 =
-M r
-s D
-M E -
-M D
-M BB -
-M C
-M : BB -
-m C
-M AA
-s BB -
-M F
-M G
-s F
+Mr
+sD
+ME-
+MD
+MBB-
+MC
+M:BB-
+mC
+MAA
+sBB-
+MF
+MG
+sF
 *met(C)
-S BB -
-S E -
-s E -
-s D
-M E -
-m D
-m C
-M : BB -
-m C
-s D
-s C
-*custos GG
+SBB-
+SE-
+sE-
+sD
+ME-
+mD
+mC
+M:BB-
+mC
+sD
+sC
+*custosGG

@@ -4,9 +4,9 @@
 =
 *met(C|)
 =
-s cc
-S dd
-s r
-[ s cc
-S dd ]
-*custos cc
+scc
+Sdd
+sr
+[scc
+Sdd]
+*custoscc

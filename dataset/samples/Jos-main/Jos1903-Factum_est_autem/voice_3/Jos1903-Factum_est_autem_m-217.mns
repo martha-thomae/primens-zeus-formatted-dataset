@@ -15,24 +15,24 @@ s%M:c
 3%m%4F
 *met(C|)
 =
-s E
-M C
-s G
-M : A
-m F
-M : B -
-m A
-s A
+sE
+MC
+sG
+M:A
+mF
+M:B-
+mA
+sA
 =
-M G
-s A
-M r
+MG
+sA
+Mr
 =
-M B
-s d
-M : e
-m d
-M B
-M d
-s c
-*custos C
+MB
+sd
+M:e
+md
+MB
+Md
+sc
+*custosC

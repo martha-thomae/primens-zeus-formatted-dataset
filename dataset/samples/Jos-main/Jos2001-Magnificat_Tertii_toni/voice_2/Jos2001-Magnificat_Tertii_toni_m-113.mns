@@ -3,16 +3,16 @@
 =
 =
 *met(C|)
-s c
-s r
-s c
-s c
+sc
+sr
+sc
+sc
 =
-S c
-s A
-s c
-s B
-s A
-S r
-L : A
-*custos A
+Sc
+sA
+sc
+sB
+sA
+Sr
+L:A
+*custosA

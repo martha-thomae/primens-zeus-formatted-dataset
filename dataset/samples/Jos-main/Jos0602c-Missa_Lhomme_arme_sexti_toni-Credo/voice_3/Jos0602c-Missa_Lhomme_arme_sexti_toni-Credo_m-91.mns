@@ -4,13 +4,13 @@
 =
 *met(C|)
 =
-m G
-m F
-s E
-s r
-s c
-s c
-S c
-s c
+mG
+mF
+sE
+sr
+sc
+sc
+Sc
+sc
 *rscale:1
-*custos E
+*custosE

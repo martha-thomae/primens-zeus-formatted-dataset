@@ -4,28 +4,28 @@
 *met(O)
 =
 =
-s A
-S G
-s F
-M r
-M F
-M E
-M F
-M G
-M : A
-m B -
-M c
-[ s F
-s G
-S : F ]
+sA
+SG
+sF
+Mr
+MF
+ME
+MF
+MG
+M:A
+mB-
+Mc
+[sF
+sG
+S:F]
 *clefC4
 *k[b-]
 *met(C|)
-L : f
-S e
-S e
-[ S c
-L d ]
-[ S e
-L f ]
-*custos E
+L:f
+Se
+Se
+[Sc
+Ld]
+[Se
+Lf]
+*custosE

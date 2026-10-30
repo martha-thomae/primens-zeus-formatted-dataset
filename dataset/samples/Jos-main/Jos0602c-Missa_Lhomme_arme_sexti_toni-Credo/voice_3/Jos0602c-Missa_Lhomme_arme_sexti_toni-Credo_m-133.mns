@@ -4,19 +4,19 @@
 =
 *k[b-]
 *met(C|)
-M G
-M F
-M r
-s F
-M D
+MG
+MF
+Mr
+sF
+MD
 =
-s C
-M r
-s c
-m B -
-m A
-M B -
-M c
-s F
+sC
+Mr
+sc
+mB-
+mA
+MB-
+Mc
+sF
 *rscale:1
-*custos C
+*custosC

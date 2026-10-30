@@ -3,18 +3,18 @@
 *clefC1
 =
 *met(3)
-S ff
-s ff
-S cc
-s cc
-S ee
-s ee
-s ff
-s : ee
-M dd
-s : dd
-M cc #
-M cc #
-M b
-S : dd
-*custos b
+Sff
+sff
+Scc
+scc
+See
+see
+sff
+s:ee
+Mdd
+s:dd
+Mcc#
+Mcc#
+Mb
+S:dd
+*custosb

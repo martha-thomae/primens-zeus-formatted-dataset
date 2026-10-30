@@ -2,62 +2,62 @@
 =
 *clefF3
 *met(O)
-s : D
-s G
-m F
-m E
-s D
-M C
-M : E
-m F
+s:D
+sG
+mF
+mE
+sD
+MC
+M:E
+mF
 =
-M G
-M C
-M G
-m G
-M E
-m C
-s C
-s r
+MG
+MC
+MG
+mG
+ME
+mC
+sC
+sr
 s%5E
-s E
-M C
-M : E
-m F
-M G
-M C
-M G
-m G
-M E
-m C
-M C
-M r
-s C
-L GG
-M GG
-M : BB
-m C
-M D
-M GG
-M D
+sE
+MC
+M:E
+mF
+MG
+MC
+MG
+mG
+ME
+mC
+MC
+Mr
+sC
+LGG
+MGG
+M:BB
+mC
+MD
+MGG
+MD
 =
-m D
-M BB
+mD
+MBB
 =
-m GG
-L GG
+mGG
+LGG
 =
-s C
-S r
-M C
-M : E
-m F
-M G
-M C
-M G
-m G
-M E
-m C
-s C
-s r
-*custos GG
+sC
+Sr
+MC
+M:E
+mF
+MG
+MC
+MG
+mG
+ME
+mC
+sC
+sr
+*custosGG

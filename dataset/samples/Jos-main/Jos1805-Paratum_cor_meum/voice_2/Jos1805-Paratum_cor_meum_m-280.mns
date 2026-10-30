@@ -2,18 +2,18 @@
 *clefC4
 =
 *met(C|)
-s F
-s : E
-m D
-m C
-[ s D
-s C ]
-M r
-M C
-M F
-M A
-M G
-M G
-s C
-s r
-*custos C
+sF
+s:E
+mD
+mC
+[sD
+sC]
+Mr
+MC
+MF
+MA
+MG
+MG
+sC
+sr
+*custosC

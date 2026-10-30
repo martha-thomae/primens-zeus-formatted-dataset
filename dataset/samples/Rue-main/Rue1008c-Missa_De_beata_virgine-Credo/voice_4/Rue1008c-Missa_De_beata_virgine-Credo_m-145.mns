@@ -2,17 +2,17 @@
 *clefC1
 =
 *met(3)
-s a
-S cc
-S : a
-S : r
-S : r
-S : r
+sa
+Scc
+S:a
+S:r
+S:r
+S:r
 *met(C|)
-s e
-M e
-M e
-s d
-M c
-M f
-*custos c
+se
+Me
+Me
+sd
+Mc
+Mf
+*custosc

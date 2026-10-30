@@ -2,87 +2,87 @@
 *clefC4
 *k[b-e-]
 *met(O)
-s : C
-M E -
-s D
-M C
-s E -
-M F
-s G
-S G
-s F #
-M : G
-m C
-m E -
-m F
-M D
-M C
-m D
-m : E -
-U D
-m C
-M BB n
-s C
-M BB
-m r
-m C
+s:C
+ME-
+sD
+MC
+sE-
+MF
+sG
+SG
+sF#
+M:G
+mC
+mE-
+mF
+MD
+MC
+mD
+m:E-
+UD
+mC
+MBBn
+sC
+MBB
+mr
+mC
 =
-M E -
-M D
-M : C
-m AA
-M BB -
-M : C
-m D
-m E -
-m F
-m G
-m E -
-M F
-m D
-m E -
+ME-
+MD
+M:C
+mAA
+MBB-
+M:C
+mD
+mE-
+mF
+mG
+mE-
+MF
+mD
+mE-
 =
-M F
+MF
 [S:D0.G
-s G ]
-M F
-M E -
-s D
-M : C
-m : D
-U C
-m BB -
-m C
-U BB -
-U AA
-m GG
-m BB -
-M AA
-M r
-M : GG
-m AA
-M BB -
-M C
-M GG
-m r
-M AA
-M BB -
-m C
-m D
-U C
-U D
-m E -
-M C
-m BB n
-s C
-M r
-s C
-M BB -
-m C
-m D
-M E -
-M F
-M : G
-m F
-M D
-*custos GG
+sG]
+MF
+ME-
+sD
+M:C
+m:D
+UC
+mBB-
+mC
+UBB-
+UAA
+mGG
+mBB-
+MAA
+Mr
+M:GG
+mAA
+MBB-
+MC
+MGG
+mr
+MAA
+MBB-
+mC
+mD
+UC
+UD
+mE-
+MC
+mBBn
+sC
+Mr
+sC
+MBB-
+mC
+mD
+ME-
+MF
+M:G
+mF
+MD
+*custosGG

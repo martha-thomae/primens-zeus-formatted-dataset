@@ -14,21 +14,21 @@ s%M:D
 3%M%2C
 3%M%2E
 3%m%4D
-s GG
-M r
-s G
+sGG
+Mr
+sG
 =
-M F
-M E
+MF
+ME
 =
-M D
-M C
-M AA
-s BB
-S : AA
-s E
-s : F
-s C
-M D
-s AA
-*custos GG
+MD
+MC
+MAA
+sBB
+S:AA
+sE
+s:F
+sC
+MD
+sAA
+*custosGG

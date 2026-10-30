@@ -3,19 +3,19 @@
 *clefG2
 *met(C|3)
 =
-s d
-s : c
-M c
+sd
+s:c
+Mc
 =
-[ s d
-s e ]
-s c
-s d
-s : e
-M d
-M c
-M B
-s : A
+[sd
+se]
+sc
+sd
+s:e
+Md
+Mc
+MB
+s:A
 =
-M B
-*custos A
+MB
+*custosA

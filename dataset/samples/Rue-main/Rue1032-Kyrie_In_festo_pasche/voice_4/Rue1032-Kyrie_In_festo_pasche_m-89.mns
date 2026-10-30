@@ -3,41 +3,41 @@
 =
 *met(3)
 *met(3)
-S : r
-S a
-s a
+S:r
+Sa
+sa
 =
 *met(3)
-s : cc
-M b
-s a
-s g
-s : a
-M g
-s e
-s : g
-M f
-L d
-s : g
-M a
-s b
-s : g
-M a
-M b
-M cc
-s : dd
+s:cc
+Mb
+sa
+sg
+s:a
+Mg
+se
+s:g
+Mf
+Ld
+s:g
+Ma
+sb
+s:g
+Ma
+Mb
+Mcc
+s:dd
 =
-M cc
-M b
-M a
+Mcc
+Mb
+Ma
 =
-s : g
-M f
+s:g
+Mf
 =
-s f
-s a
-s g
-s f
-s a
-s b
-*custos d
+sf
+sa
+sg
+sf
+sa
+sb
+*custosd

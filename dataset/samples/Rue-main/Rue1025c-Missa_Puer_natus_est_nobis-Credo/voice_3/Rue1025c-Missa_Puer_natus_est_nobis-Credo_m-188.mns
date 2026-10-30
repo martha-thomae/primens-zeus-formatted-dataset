@@ -3,27 +3,27 @@
 *k[b-]
 =
 *met(3)
-s : c
-M B -
+s:c
+MB-
 =
-s B -
-S c
-s d
-S c
-s r
-s g
-s a
-S g
+sB-
+Sc
+sd
+Sc
+sr
+sg
+sa
+Sg
 =
-S e
-s : f
-M e
-M d
-M c
+Se
+s:f
+Me
+Md
+Mc
 =
-S d
-s d
+Sd
+sd
 *^
 S:B-	S:d
 *v	*v
-*custos B -
+*custosB-

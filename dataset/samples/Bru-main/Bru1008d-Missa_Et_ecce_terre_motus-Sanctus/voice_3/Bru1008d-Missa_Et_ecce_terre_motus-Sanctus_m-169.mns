@@ -3,18 +3,18 @@
 =
 =
 *met(C|)
-L : D
-L : D
+L:D
+L:D
 *clefF4
 *met(C|)
-s D
-M C
+sD
+MC
 =
-M D
-s GG
-M AA
-s BB
-M GG
-M AA
-M BB
-*custos GG
+MD
+sGG
+MAA
+sBB
+MGG
+MAA
+MBB
+*custosGG

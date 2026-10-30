@@ -3,55 +3,55 @@
 *k[b-]
 =
 *met(O)
-m d
-m c
-[ s d
-s c ]
-M B n
-S : c
+md
+mc
+[sd
+sc]
+MBn
+S:c
 *clefC1
 *k[b-]
 *met(C|)
-S c
-s c
-s c
+Sc
+sc
+sc
 =
-s A
-S c
-s c
-M c
-s d
-m c
-m B -
-M c
-M d
-s A
-S r
-S r
-s c
-M c
-s d
-m c
-m B -
-M c
-M d
-M A
-s c
-M c
-M B -
-M : G
-m A
-m B -
-m c
-M A
-s G
-M d
-M d
-M : f
-m e
-m d
-m c
-M d
-M B -
-s c
-*custos G
+sA
+Sc
+sc
+Mc
+sd
+mc
+mB-
+Mc
+Md
+sA
+Sr
+Sr
+sc
+Mc
+sd
+mc
+mB-
+Mc
+Md
+MA
+sc
+Mc
+MB-
+M:G
+mA
+mB-
+mc
+MA
+sG
+Md
+Md
+M:f
+me
+md
+mc
+Md
+MB-
+sc
+*custosG

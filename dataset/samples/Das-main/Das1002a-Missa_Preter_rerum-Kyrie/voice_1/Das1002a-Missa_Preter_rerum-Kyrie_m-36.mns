@@ -2,18 +2,18 @@
 *clefF3
 *k[b-]
 *met(C|)
-S GG
+SGG
 *clefF3
 *k[b-]
 *met(C|)
-S D
-[ S GG
-s : D ]
-s C
-M BB -
-s C
-s : D
-M BB -
-[ S E -
-S D ]
-*custos GG
+SD
+[SGG
+s:D]
+sC
+MBB-
+sC
+s:D
+MBB-
+[SE-
+SD]
+*custosGG

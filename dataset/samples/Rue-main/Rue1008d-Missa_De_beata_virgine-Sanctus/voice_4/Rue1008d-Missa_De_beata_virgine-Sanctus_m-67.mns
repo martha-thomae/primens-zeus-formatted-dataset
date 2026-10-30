@@ -3,32 +3,32 @@
 *k[b-]
 *met(C|3)
 *met(C|)
-S f
+Sf
 =
-S r
-S r
-s r
-[ s a
-S cc ]
-S dd
-s r
-[ s cc
-s : b - ]
-m a
-m g
-M a
-s b -
-m a
-m g
-M f
-s b -
-M cc
+Sr
+Sr
+sr
+[sa
+Scc]
+Sdd
+sr
+[scc
+s:b-]
+ma
+mg
+Ma
+sb-
+ma
+mg
+Mf
+sb-
+Mcc
 =
-M dd
-M ee
-s ff
+Mdd
+Mee
+sff
 =
-s ee
-M ee
-M cc
-*custos f
+see
+Mee
+Mcc
+*custosf

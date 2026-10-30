@@ -4,29 +4,29 @@
 *k[b-]
 =
 *met(3)
-S B -
-s A
-s G
-s c
-s A
-s B -
-s : c
-M B -
-M A
-M G
-s A
-s F
+SB-
+sA
+sG
+sc
+sA
+sB-
+s:c
+MB-
+MA
+MG
+sA
+sF
 =
-S G
-S B -
-S A
+SG
+SB-
+SA
 *met(C|2)
-L G
-S r
-L A
-S B -
-S c
-[ S A
-S d ]
-S c
-*custos F
+LG
+Sr
+LA
+SB-
+Sc
+[SA
+Sd]
+Sc
+*custosF

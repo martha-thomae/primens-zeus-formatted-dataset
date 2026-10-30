@@ -3,41 +3,41 @@
 =
 =
 *met(C|)
-s r
-s c
-s e
-s f
-s g
-M g
+sr
+sc
+se
+sf
+sg
+Mg
 =
-s a
-M g
-s f
-S e
-s r
-s A
-s : B
-M : c
-m B
-s B
-M A
+sa
+Mg
+sf
+Se
+sr
+sA
+s:B
+M:c
+mB
+sB
+MA
 =
-S B
-s r
-s c
-s c
-s c
-s : c
+SB
+sr
+sc
+sc
+sc
+s:c
 =
-m d
+md
 =
-m e
-M f
-M d
-S : g
-M f
-M a
-s g
-s c
-s a
-*custos A
+me
+Mf
+Md
+S:g
+Mf
+Ma
+sg
+sc
+sa
+*custosA

@@ -3,27 +3,27 @@
 *met(C|)
 *clefC4
 *met(C)
-s c
-s c
-s B
-s : A
-m B
-m c
-M d
-M G
-M : A
-m B
+sc
+sc
+sB
+s:A
+mB
+mc
+Md
+MG
+M:A
+mB
 =
-M c
-M d
+Mc
+Md
 =
-M e
-M : A
-m B
-m c
+Me
+M:A
+mB
+mc
 =
-m d
-M e
-M f
-s c
-*custos G
+md
+Me
+Mf
+sc
+*custosG

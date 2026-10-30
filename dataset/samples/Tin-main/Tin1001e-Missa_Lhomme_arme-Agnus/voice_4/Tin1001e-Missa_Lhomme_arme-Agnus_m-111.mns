@@ -3,32 +3,32 @@
 *k[b-]
 *met(O3/2)
 *MM3/1
-M e
-M f
-M g
-S a
-s : f
-M g
-s a
-M b -
-m a
-m b -
-s cc
-s : a
+Me
+Mf
+Mg
+Sa
+s:f
+Mg
+sa
+Mb-
+ma
+mb-
+scc
+s:a
 =
-m g
-m f
-[ s e
-s d ]
-M g
-m f
-m g
-s a
-M f
-M : a
-m g
-m f #
-m e
-[ s f #
-L : g ]
-*custos d
+mg
+mf
+[se
+sd]
+Mg
+mf
+mg
+sa
+Mf
+M:a
+mg
+mf#
+me
+[sf#
+L:g]
+*custosd

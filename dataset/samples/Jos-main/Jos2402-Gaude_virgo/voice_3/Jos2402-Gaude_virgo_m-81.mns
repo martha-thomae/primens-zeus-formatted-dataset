@@ -11,18 +11,18 @@
 3%m%4a
 *met(C|)
 =
-s f
-s r
+sf
+sr
 =
-[ s f
-s e
-s g
-s d
-s f ]
-M : e
-m f
-s g
-s a
-s r
-s f
-*custos d
+[sf
+se
+sg
+sd
+sf]
+M:e
+mf
+sg
+sa
+sr
+sf
+*custosd

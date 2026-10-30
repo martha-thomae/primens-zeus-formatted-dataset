@@ -5,38 +5,38 @@
 =
 *clefGv2
 *met(C2)
-M : G
-m A
-M B
-M c
-M G
-s c
-M B
-s c
-M r
-s e
-m d
-m c
-s d
-M : c
-m d
-M e
-M f
-M c
-s f
-M e
+M:G
+mA
+MB
+Mc
+MG
+sc
+MB
+sc
+Mr
+se
+md
+mc
+sd
+M:c
+md
+Me
+Mf
+Mc
+sf
+Me
 =
-m f
-m e
-m d
-m c
-s d
-M : B
-m c
-[ s A
-S G ]
-M r
-M : g
-m e
-M f
-*custos G
+mf
+me
+md
+mc
+sd
+M:B
+mc
+[sA
+SG]
+Mr
+M:g
+me
+Mf
+*custosG

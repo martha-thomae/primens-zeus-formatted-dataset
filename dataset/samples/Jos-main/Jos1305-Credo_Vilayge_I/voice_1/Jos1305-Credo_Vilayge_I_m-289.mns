@@ -4,30 +4,30 @@
 =
 *k[b-]
 *met(C|)
-M GG
-M BB -
+MGG
+MBB-
 =
-s AA
-[ s GG
-s D ]
-M E
-s G
-M F
-s D
-M BB -
-M C
-M D
-M GG
-[ s AA
-s GG ]
+sAA
+[sGG
+sD]
+ME
+sG
+MF
+sD
+MBB-
+MC
+MD
+MGG
+[sAA
+sGG]
 =
-s r
+sr
 =
-s GG
-s BB -
-s C
-s D
-M r
-s BB -
-M C
-*custos GG
+sGG
+sBB-
+sC
+sD
+Mr
+sBB-
+MC
+*custosGG

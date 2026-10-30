@@ -3,33 +3,33 @@
 =
 =
 *met(C2)
-s r
-s c
-s : c
-M c
-S G
-s r
-s g
-s : g
-M g
-[ s e
-s c ]
-S g
-s e
-s d
-s c
-M r
-M e
-M e
-M e
-s e
+sr
+sc
+s:c
+Mc
+SG
+sr
+sg
+s:g
+Mg
+[se
+sc]
+Sg
+se
+sd
+sc
+Mr
+Me
+Me
+Me
+se
 =
-s : d
-m e
-m d
-L e
-s d
-s c
-s r
-s A
-*custos G
+s:d
+me
+md
+Le
+sd
+sc
+sr
+sA
+*custosG

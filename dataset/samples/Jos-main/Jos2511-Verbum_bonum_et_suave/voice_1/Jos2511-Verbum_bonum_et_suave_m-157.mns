@@ -2,19 +2,19 @@
 =
 *clefF4
 *met(3)
-s : D
-M C
-< s AA
-s GG >
-S D
-S GG
-s r
-S : r
-S : r
-[ s GG
-s C ]
-s AA
-s : D
-M C
-s AA
-*custos GG
+s:D
+MC
+<sAA
+sGG>
+SD
+SGG
+sr
+S:r
+S:r
+[sGG
+sC]
+sAA
+s:D
+MC
+sAA
+*custosGG

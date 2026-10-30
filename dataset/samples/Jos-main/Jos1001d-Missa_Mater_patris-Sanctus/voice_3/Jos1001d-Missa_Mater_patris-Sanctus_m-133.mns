@@ -6,37 +6,37 @@
 *k[b-]
 *met(C|)
 =
-S r
-s c
-s c
-M B -
-M G
-M : B -
-m A
-s F
-s r
-s G
-s G
-M F
-M D
+Sr
+sc
+sc
+MB-
+MG
+M:B-
+mA
+sF
+sr
+sG
+sG
+MF
+MD
 =
-M : F
-m E
-s C
-M r
-s G
-M F
-M : A
-m B -
-s c
-s : B -
-m A
-m G
-s F
-M r
-s c
-M B -
-M : d
-m e
-s f
-*custos C
+M:F
+mE
+sC
+Mr
+sG
+MF
+M:A
+mB-
+sc
+s:B-
+mA
+mG
+sF
+Mr
+sc
+MB-
+M:d
+me
+sf
+*custosC

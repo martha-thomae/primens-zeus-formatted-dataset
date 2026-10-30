@@ -3,28 +3,28 @@
 *met(C|)
 *clefGv2
 *met(C|)
-S r
-S r
-S g
-s f
-M g
-s e
-m d
-m c
-[ s d
-s c ]
-s g
-M f
-s a
-m g
-m f
-s e
-s d
-M c
-M d
-M e
-s g
-M f
-M g
-M e
-*custos c
+Sr
+Sr
+Sg
+sf
+Mg
+se
+md
+mc
+[sd
+sc]
+sg
+Mf
+sa
+mg
+mf
+se
+sd
+Mc
+Md
+Me
+sg
+Mf
+Mg
+Me
+*custosc

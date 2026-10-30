@@ -3,47 +3,47 @@
 =
 *k[b-]
 *met(C|3)
-S : r
-s r
-s r
-s D
-S D
-s C
-S BB -
+S:r
+sr
+sr
+sD
+SD
+sC
+SBB-
 =
-s AA
-S GG
-s GG
-s : BB -
-M C
-s D
-S GG
-s F
-s G
-[ S D
-S GG ]
-[ s D
-s G ]
-s F
-[ s G
-s C ]
-S D
-S E -
-s E -
-S D
-s D
-S F
-s G
-M A
-M G
-M F
-M E
-s D
-S F
-s F
-s C
-s G
-s D
-[ s E
-S D ]
-*custos GG
+sAA
+SGG
+sGG
+s:BB-
+MC
+sD
+SGG
+sF
+sG
+[SD
+SGG]
+[sD
+sG]
+sF
+[sG
+sC]
+SD
+SE-
+sE-
+SD
+sD
+SF
+sG
+MA
+MG
+MF
+ME
+sD
+SF
+sF
+sC
+sG
+sD
+[sE
+SD]
+*custosGG

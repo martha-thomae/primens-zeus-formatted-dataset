@@ -1,23 +1,23 @@
 **mens
 *clefF3
 *met(3)
-[ s BB
-s C ]
-s : FF
-M GG
-[ s AA
-s BB ]
-s : EE
-M FF
-s GG
-[ s AA
-S DD ]
-s r
-s : AA
-M BB
-M C
+[sBB
+sC]
+s:FF
+MGG
+[sAA
+sBB]
+s:EE
+MFF
+sGG
+[sAA
+SDD]
+sr
+s:AA
+MBB
+MC
 =
-M D
-S E
-S : EE
-*custos DD
+MD
+SE
+S:EE
+*custosDD

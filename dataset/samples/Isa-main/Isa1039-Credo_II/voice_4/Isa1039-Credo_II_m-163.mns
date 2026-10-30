@@ -2,31 +2,31 @@
 *clefC1
 *k[b-]
 *met(C|)
-S r
-S r
+Sr
+Sr
 *met(3)
-[ S g
-s a ]
-[ s b -
-s cc ]
+[Sg
+sa]
+[sb-
+scc]
 =
-< s dd
-s cc >
-S a
-s b -
-[ s g
-s cc ]
-s a
+<sdd
+scc>
+Sa
+sb-
+[sg
+scc]
+sa
 =
-M b -
-M cc
-M dd
-M ee
+Mb-
+Mcc
+Mdd
+Mee
 =
-S ff
-s r
-S ff
-S gg
-s cc
-s cc
-*custos g
+Sff
+sr
+Sff
+Sgg
+scc
+scc
+*custosg

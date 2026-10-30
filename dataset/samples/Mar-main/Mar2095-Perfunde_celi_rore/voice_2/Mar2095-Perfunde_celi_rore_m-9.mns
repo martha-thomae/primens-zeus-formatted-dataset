@@ -3,24 +3,24 @@
 *k[b-]
 *met(O)
 s%5d
-s c
-[ s B -
-S A ]
-M G
-M F
-s G
-s A
-S : G
-s r
-s r
-s G
-s A
-S B -
-S c
-s d
-M c
-s f
-M e
-M d
-M B -
-*custos F
+sc
+[sB-
+SA]
+MG
+MF
+sG
+sA
+S:G
+sr
+sr
+sG
+sA
+SB-
+Sc
+sd
+Mc
+sf
+Me
+Md
+MB-
+*custosF

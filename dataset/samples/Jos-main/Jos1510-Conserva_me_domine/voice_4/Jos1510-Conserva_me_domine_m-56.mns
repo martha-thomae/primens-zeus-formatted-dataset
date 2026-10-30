@@ -3,38 +3,38 @@
 *clefG2
 *met(3)
 =
-S a
-s a
-S g
-s r
-s b
-s b
-s b
-S g
-s g
-[ s a
-s : b ]
-M a
-S a
-s g #
+Sa
+sa
+Sg
+sr
+sb
+sb
+sb
+Sg
+sg
+[sa
+s:b]
+Ma
+Sa
+sg#
 *met(C|)
-s a
-M r
-s e
-M e
-M e
-M e
-M : g
-m f
+sa
+Mr
+se
+Me
+Me
+Me
+M:g
+mf
 =
-m e
-m d
-M : e
-m d
-s d
-M c #
-S d
-s r
-M r
-M dd
-*custos c #
+me
+md
+M:e
+md
+sd
+Mc#
+Sd
+sr
+Mr
+Mdd
+*custosc#

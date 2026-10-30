@@ -4,19 +4,19 @@
 =
 *met(C|)
 =
-M D
-M E
-M AA
-M E
-M F
-s E
-M C
-M D
-M E
-S AA
+MD
+ME
+MAA
+ME
+MF
+sE
+MC
+MD
+ME
+SAA
 *clefF4
 *met(O|)
-S : r
-S : r
-S : E
-*custos AA
+S:r
+S:r
+S:E
+*custosAA

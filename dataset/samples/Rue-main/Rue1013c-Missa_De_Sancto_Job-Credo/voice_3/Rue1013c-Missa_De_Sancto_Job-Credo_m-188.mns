@@ -3,23 +3,23 @@
 =
 *k[b-]
 *met(3)
-s c
-S d
-s : B -
-M c
-s d
-s : c
-M d
-[ s e
-S f ]
-s f
-s e -
-M d
-M c
-s d
-s : B -
-M G
-M B -
-M c
-S : d
-*custos G
+sc
+Sd
+s:B-
+Mc
+sd
+s:c
+Md
+[se
+Sf]
+sf
+se-
+Md
+Mc
+sd
+s:B-
+MG
+MB-
+Mc
+S:d
+*custosG

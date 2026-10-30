@@ -2,17 +2,17 @@
 *clefG2
 *met(C)
 =
-m f
-m e
-M f
-M e
-s d
-M c #
-s d
+mf
+me
+Mf
+Me
+sd
+Mc#
+sd
 *clefG2
 *met(C|)
-s d
-s : f
-M g
-s a
-*custos c #
+sd
+s:f
+Mg
+sa
+*custosc#

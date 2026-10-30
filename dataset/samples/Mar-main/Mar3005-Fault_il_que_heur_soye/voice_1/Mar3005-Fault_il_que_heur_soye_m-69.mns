@@ -6,18 +6,18 @@
 s%M:c
 3B
 3%M%2A
-s G
-M r
-M GG
-M C
-M AA
-M D
-M BB -
-M C
-M FF
-s GG
-M G
-M : E
-m D
-M C
-*custos FF
+sG
+Mr
+MGG
+MC
+MAA
+MD
+MBB-
+MC
+MFF
+sGG
+MG
+M:E
+mD
+MC
+*custosFF

@@ -3,20 +3,20 @@
 =
 =
 *met(C|)
-s r
-M A
-m A
-m A
+sr
+MA
+mA
+mA
 =
-M A
-M A
-M B
-M c
-M d
-s e
-M : d
-m c
-s c
-M B
-S c
-*custos A
+MA
+MA
+MB
+Mc
+Md
+se
+M:d
+mc
+sc
+MB
+Sc
+*custosA

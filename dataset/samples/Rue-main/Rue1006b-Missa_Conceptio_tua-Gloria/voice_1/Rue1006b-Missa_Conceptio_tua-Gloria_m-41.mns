@@ -2,31 +2,31 @@
 *clefF4
 =
 *met(O)
-M FF
-M GG
-s AA
-s FF
+MFF
+MGG
+sAA
+sFF
 =
-M FF
-M GG
-M : AA
-m GG
-M EE
-s DD
-M FF
-M GG
-[ s AA
-S : DD ]
+MFF
+MGG
+M:AA
+mGG
+MEE
+sDD
+MFF
+MGG
+[sAA
+S:DD]
 *clefF4
 *met(C2)
-S r
-S r
-S r
-S r
-S D
-s D
-s C
-s : F
-M E
+Sr
+Sr
+Sr
+Sr
+SD
+sD
+sC
+s:F
+ME
 =
-*custos DD
+*custosDD

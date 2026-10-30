@@ -2,31 +2,31 @@
 =
 *clefG2
 *met(O|)
-S g
-s f #
-S : g
-S : r
-s e
-< s f
-s g >
-s a
-s e
-s r
-s g
-[ s a
-s g ]
-s cc
-M b
-M g
-[ s a
-s g ]
-[ s cc
-s dd
-s cc
-s : b ]
-M a
-S a
-[ s g #
-L : a ]
+Sg
+sf#
+S:g
+S:r
+se
+<sf
+sg>
+sa
+se
+sr
+sg
+[sa
+sg]
+scc
+Mb
+Mg
+[sa
+sg]
+[scc
+sdd
+scc
+s:b]
+Ma
+Sa
+[sg#
+L:a]
 =
-*custos e
+*custose

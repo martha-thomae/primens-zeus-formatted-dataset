@@ -2,17 +2,17 @@
 *clefF4
 *k[b-]
 *met(3)
-s : GG
-M AA
-M BB -
-M C
-s AA
-s GG
-s : G
-M F
-s : D
-M C
-s D
-s E
-s F
-*custos GG
+s:GG
+MAA
+MBB-
+MC
+sAA
+sGG
+s:G
+MF
+s:D
+MC
+sD
+sE
+sF
+*custosGG

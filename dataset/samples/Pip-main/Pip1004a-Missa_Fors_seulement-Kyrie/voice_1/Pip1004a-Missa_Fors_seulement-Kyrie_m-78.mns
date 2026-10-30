@@ -3,19 +3,19 @@
 =
 =
 *met(C|)
-S DD
-S r
-S AA
-< S GG
-S FF >
+SDD
+Sr
+SAA
+<SGG
+SFF>
 =
-S EE
-L EE
-L GG
+SEE
+LEE
+LGG
 =
-S DD
+SDD
 *clefF4
 =
 *met(C|)
-S r
-*custos DD
+Sr
+*custosDD

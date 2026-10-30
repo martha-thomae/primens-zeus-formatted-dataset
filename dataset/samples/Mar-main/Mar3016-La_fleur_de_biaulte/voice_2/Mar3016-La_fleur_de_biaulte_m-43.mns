@@ -1,23 +1,23 @@
 **mens
 *clefC4
 *met(C|)
-s d
-M e
-s c
-M d
-s e
-s f
-M d
-[ s f
-s e ]
+sd
+Me
+sc
+Md
+se
+sf
+Md
+[sf
+se]
 *met(3)
 *rscale:2/3
 =
-S : d
+S:d
 *met(3)
-S : r
+S:r
 *rscale:1
 *met(3)
-S B
-s c
-*custos B
+SB
+sc
+*custosB

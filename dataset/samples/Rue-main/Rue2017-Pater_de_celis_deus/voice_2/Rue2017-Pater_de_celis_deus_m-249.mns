@@ -4,30 +4,30 @@
 =
 =
 *met(3)
-S : r
-M F
-M G
-M A
-M B -
-s G
-s : F
-M D
-s E
-s F
-M c
-M B -
-M A
-M G
-s : G
-M E
-s F
-s G
-s G
-s A
-[ s B
-s c ]
-s A
-S B
-s r
-S : r
-*custos D
+S:r
+MF
+MG
+MA
+MB-
+sG
+s:F
+MD
+sE
+sF
+Mc
+MB-
+MA
+MG
+s:G
+ME
+sF
+sG
+sG
+sA
+[sB
+sc]
+sA
+SB
+sr
+S:r
+*custosD

@@ -3,45 +3,45 @@
 =
 *met(O)
 =
-U g
-U a
-m b -
-M a
-U g
+Ug
+Ua
+mb-
+Ma
+Ug
 =
-U a
-m b -
-M a
-U g
-U f
-M e
-M r
-s f
-M f
-M f
-M f
+Ua
+mb-
+Ma
+Ug
+Uf
+Me
+Mr
+sf
+Mf
+Mf
+Mf
 =
-M : g
+M:g
 =
-m f
-m e
-m d
-M : e
-m d
-s d
-M c #
+mf
+me
+md
+M:e
+md
+sd
+Mc#
 =
-S d
-s r
-s r
-M r
-M f
-M e
-M : g
-m f
-m e
-m d
-M c #
-m d
-m c #
-*custos c #
+Sd
+sr
+sr
+Mr
+Mf
+Me
+M:g
+mf
+me
+md
+Mc#
+md
+mc#
+*custosc#

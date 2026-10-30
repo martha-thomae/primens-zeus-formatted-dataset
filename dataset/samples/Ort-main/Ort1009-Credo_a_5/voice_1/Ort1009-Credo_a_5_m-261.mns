@@ -3,36 +3,36 @@
 *clefF4
 *k[b-]
 *met(3)
-s A
-s D
-S C
-S G
-[ S D
-s F
-s G ]
-S F
-s : BB -
-M C
-S D
-s r
-s G
-M F
-M D
-s G
-M F
-M G
-M F
-m E
-m D
-M C
-M : BB -
-m C
-M D
-M C
-M F
-M D
-M G
-M F
-M E
-s D
-*custos BB -
+sA
+sD
+SC
+SG
+[SD
+sF
+sG]
+SF
+s:BB-
+MC
+SD
+sr
+sG
+MF
+MD
+sG
+MF
+MG
+MF
+mE
+mD
+MC
+M:BB-
+mC
+MD
+MC
+MF
+MD
+MG
+MF
+ME
+sD
+*custosBB-

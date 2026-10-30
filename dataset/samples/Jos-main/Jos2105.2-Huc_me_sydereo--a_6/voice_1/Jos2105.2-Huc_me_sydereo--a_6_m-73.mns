@@ -5,17 +5,17 @@
 *k[b-]
 =
 *met(C|)
-s r
-s BB -
-s GG
-s GG
-S C
-S FF
-S BB -
-s r
-s BB -
-S BB -
-s r
-s BB -
-L BB -
-*custos FF
+sr
+sBB-
+sGG
+sGG
+SC
+SFF
+SBB-
+sr
+sBB-
+SBB-
+sr
+sBB-
+LBB-
+*custosFF

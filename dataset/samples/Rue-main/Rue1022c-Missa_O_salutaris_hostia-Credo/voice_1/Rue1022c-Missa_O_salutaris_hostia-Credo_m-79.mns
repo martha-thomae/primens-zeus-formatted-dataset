@@ -3,45 +3,45 @@
 *k[b-]
 =
 *met(C2)
-S r
-S r
-M : C
-m C
-M C
-M C
-M C
-m BB -
-m AA
-s GG
-s C
-M C
-M C
-s C
-m C
-m BB -
-m AA
-m GG
-s FF
-s F
-S F
-s r
+Sr
+Sr
+M:C
+mC
+MC
+MC
+MC
+mBB-
+mAA
+sGG
+sC
+MC
+MC
+sC
+mC
+mBB-
+mAA
+mGG
+sFF
+sF
+SF
+sr
 =
-s D
-M D
-M D
-M D
-M D
-M C
+sD
+MD
+MD
+MD
+MD
+MC
 =
-s E -
-m D
-m C
-[ S BB -
-s F ]
-M F
-M F
-M G
-s G
-m F
-m E
-*custos FF
+sE-
+mD
+mC
+[SBB-
+sF]
+MF
+MF
+MG
+sG
+mF
+mE
+*custosFF

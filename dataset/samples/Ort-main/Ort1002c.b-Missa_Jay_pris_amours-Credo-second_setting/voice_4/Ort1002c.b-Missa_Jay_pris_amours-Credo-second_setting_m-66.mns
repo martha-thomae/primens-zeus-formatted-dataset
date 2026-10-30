@@ -1,21 +1,21 @@
 **mens
 *clefC1
 *met(C|)
-M dd
-M cc
-M : b
-m a
-s a
-M g #
-S a
+Mdd
+Mcc
+M:b
+ma
+sa
+Mg#
+Sa
 *clefC1
 *met(C)
 *rscale:1/2
-L a
-S a
-S a
-L g
-L a
-L e
-S r
-*custos e
+La
+Sa
+Sa
+Lg
+La
+Le
+Sr
+*custose

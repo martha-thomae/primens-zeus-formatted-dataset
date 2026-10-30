@@ -3,33 +3,33 @@
 *k[b-]
 *met(O/3)
 =
-s B -
-s c
-s d
-S g
-s g
-s e
-S a
-S g
-s f
-s g
-M d
-M e
+sB-
+sc
+sd
+Sg
+sg
+se
+Sa
+Sg
+sf
+sg
+Md
+Me
 =
-[ s f
-s g ]
-[ S d
-s c ]
-S d
-s d
-s d
-s e
-S d
-s e
-s : g
-m f
-m e
-[ s f
-S g ]
-s c
-*custos B -
+[sf
+sg]
+[Sd
+sc]
+Sd
+sd
+sd
+se
+Sd
+se
+s:g
+mf
+me
+[sf
+Sg]
+sc
+*custosB-

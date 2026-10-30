@@ -2,47 +2,47 @@
 =
 *clefGv2
 *met(C|)
-S D
+SD
 *clefGv2
 *met(C|)
 =
-S : G
-[ s A
-s B ]
-s : c
-M B
-s A
-S G
-S r
-s : d
-M c
-M B
-M A
-M G
-M : c
-m d
+S:G
+[sA
+sB]
+s:c
+MB
+sA
+SG
+Sr
+s:d
+Mc
+MB
+MA
+MG
+M:c
+md
 =
-M : e
-m d
-m c
-m B
-M A
-s d
-M c
-M B
-M G
-s A
-M F
-M G
-s A
-S G
+M:e
+md
+mc
+mB
+MA
+sd
+Mc
+MB
+MG
+sA
+MF
+MG
+sA
+SG
 *clefGv2
 *met(C|/3)
 =
-[ s G
-s B ]
-s c
-S d
+[sG
+sB]
+sc
+Sd
 =
-s d
-*custos D
+sd
+*custosD

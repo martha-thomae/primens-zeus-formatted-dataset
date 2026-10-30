@@ -3,41 +3,41 @@
 *k[b-]
 =
 *met(O)
-M G
-M C
-s E -
-M D
-M G
-M F
-M D
-s C
-M G
-M F
-[ s BB -
-s C ]
-M G
-M D
+MG
+MC
+sE-
+MD
+MG
+MF
+MD
+sC
+MG
+MF
+[sBB-
+sC]
+MG
+MD
 =
-s E
-M D
-M C
-[ s D
-S : G ]
+sE
+MD
+MC
+[sD
+S:G]
 *clefF4
 *k[b-]
 *met(O2)
-[ S G
-s F ]
-[ s G
-s F ]
-s E
-< s D
-s G >
-S C
-s F
-M E
-M C
-< s F
-s C >
-S G
-*custos BB -
+[SG
+sF]
+[sG
+sF]
+sE
+<sD
+sG>
+SC
+sF
+ME
+MC
+<sF
+sC>
+SG
+*custosBB-

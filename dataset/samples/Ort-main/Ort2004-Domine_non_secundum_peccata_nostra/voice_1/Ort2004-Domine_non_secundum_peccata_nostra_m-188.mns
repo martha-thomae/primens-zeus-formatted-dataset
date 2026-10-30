@@ -3,31 +3,31 @@
 *k[b-]
 =
 *met(3)
-s GG
-s BB -
-s C
-[ s E -
-S D ]
-s C
-s BB -
-S E -
-S F
-s D
-S C
-s D
-s E
-s F
+sGG
+sBB-
+sC
+[sE-
+SD]
+sC
+sBB-
+SE-
+SF
+sD
+SC
+sD
+sE
+sF
 =
-S : BB -
-S E -
-s C
-s D
-s AA
-[ s C
-s BB - ]
-S AA
-S GG
-[ s G
-S D ]
-s BB -
-*custos GG
+S:BB-
+SE-
+sC
+sD
+sAA
+[sC
+sBB-]
+SAA
+SGG
+[sG
+SD]
+sBB-
+*custosGG

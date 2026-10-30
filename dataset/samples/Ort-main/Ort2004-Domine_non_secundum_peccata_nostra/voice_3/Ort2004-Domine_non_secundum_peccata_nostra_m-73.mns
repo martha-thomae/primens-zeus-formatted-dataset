@@ -2,13 +2,13 @@
 *clefC2
 *k[b-]
 *met(C|)
-s r
-s c
-s d
-s e
-s d
-s r
-[ s d
-s e ]
+sr
+sc
+sd
+se
+sd
+sr
+[sd
+se]
 =
-*custos c
+*custosc

@@ -2,13 +2,13 @@
 *clefF4
 *k[b-]
 *met(C|)
-M A
-M B -
+MA
+MB-
 =
-M A
-s d
-M B -
-s A
+MA
+sd
+MB-
+sA
 3%M%2G
 3%M%2G
 3%M%2F
@@ -25,4 +25,4 @@ s A
 3%M%2A
 3%m%4D
 3%M%2r
-*custos D
+*custosD

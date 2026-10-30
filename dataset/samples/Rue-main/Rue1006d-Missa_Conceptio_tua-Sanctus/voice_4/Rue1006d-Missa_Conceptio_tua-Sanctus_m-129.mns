@@ -3,70 +3,70 @@
 *met(C|)
 *clefGv2
 *met(C2)
-s A
-M : A
-m G
-m F
-m E
-s G
-m F
-m E
-M D
-M E
-M C
-M F
-s B -
-s A
-M r
-M A
-M : c
-m B
-m A
-m G
-M B
-M G
-s c
-M B
+sA
+M:A
+mG
+mF
+mE
+sG
+mF
+mE
+MD
+ME
+MC
+MF
+sB-
+sA
+Mr
+MA
+M:c
+mB
+mA
+mG
+MB
+MG
+sc
+MB
 =
-M c
-m B
-m A
-M G
-M F
-s G
+Mc
+mB
+mA
+MG
+MF
+sG
 =
-S F
-M r
-m D
-m E
-m F
-m G
-m A
-m F
-M G
-M : A
-m B
-m c
-m A
-m B
-m c
-M : d
-m c
-m B
-m A
-M G
-M : c
-m B
-m A
-m G
-m F
+SF
+Mr
+mD
+mE
+mF
+mG
+mA
+mF
+MG
+M:A
+mB
+mc
+mA
+mB
+mc
+M:d
+mc
+mB
+mA
+MG
+M:c
+mB
+mA
+mG
+mF
 =
-m E
-s A
-M G #
-S A
+mE
+sA
+MG#
+SA
 *clefGv2
 *met(C2)
-S r
-S r
-*custos C
+Sr
+Sr
+*custosC

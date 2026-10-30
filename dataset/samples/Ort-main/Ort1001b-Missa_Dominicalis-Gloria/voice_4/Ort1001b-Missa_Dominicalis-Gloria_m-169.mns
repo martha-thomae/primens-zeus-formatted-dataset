@@ -3,23 +3,23 @@
 *k[b-]
 =
 *met(O|)
-M cc
-M : dd
+Mcc
+M:dd
 =
-m cc
-M b -
-[ s a
-s g ]
-M d
-M f
-M g
-M : a
-m b -
-m cc
-m b -
-m a
-m g
-s g
-M f #
-S : g
-*custos d
+mcc
+Mb-
+[sa
+sg]
+Md
+Mf
+Mg
+M:a
+mb-
+mcc
+mb-
+ma
+mg
+sg
+Mf#
+S:g
+*custosd

@@ -3,34 +3,34 @@
 =
 *met(O2)
 =
-[ s AA
-s : C ]
-M D
-M E
+[sAA
+s:C]
+MD
+ME
 =
-M F
-[ S G
-s D ]
-[ s F
-s E
-s : C ]
-M D
-[ s E
-s D ]
-s : A
-M G
+MF
+[SG
+sD]
+[sF
+sE
+s:C]
+MD
+[sE
+sD]
+s:A
+MG
 =
-M F
-m G
-m A
-m B -
+MF
+mG
+mA
+mB-
 =
-m A
-m G
-m F
-[ s E
-L D ]
+mA
+mG
+mF
+[sE
+LD]
 =
-[ S E
-S D ]
-*custos AA
+[SE
+SD]
+*custosAA

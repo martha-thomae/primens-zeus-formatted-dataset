@@ -3,34 +3,34 @@
 =
 *met(C)
 =
-s d
-s c
-s r
-M e
-M e
-M e
-M e
-s e
-s d
-M c
-M d
-M e
+sd
+sc
+sr
+Me
+Me
+Me
+Me
+se
+sd
+Mc
+Md
+Me
 =
-s f
-M e
-[ s d
-s c ]
-s e
-M e
-M e
-s e
-M e
-s f
-M e
-[ s d
-s c ]
-s r
-s e
-M e
-M e
-*custos c
+sf
+Me
+[sd
+sc]
+se
+Me
+Me
+se
+Me
+sf
+Me
+[sd
+sc]
+sr
+se
+Me
+Me
+*custosc

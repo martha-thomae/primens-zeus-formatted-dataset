@@ -3,36 +3,36 @@
 *clefC3
 *k[b-]
 *met(O/3)
-s B -
-s d
-s c
-[ s B -
-S A ]
-S : r
-s : d
+sB-
+sd
+sc
+[sB-
+SA]
+S:r
+s:d
 =
-M c
-s A
-s : B -
-M A
-s F
-s : F
-M G
-s A
-M F
-s f
-M e
-M : d
-m c
-S d
-s G
-s g
-M f
-M e
-M d
-M c
+Mc
+sA
+s:B-
+MA
+sF
+s:F
+MG
+sA
+MF
+sf
+Me
+M:d
+mc
+Sd
+sG
+sg
+Mf
+Me
+Md
+Mc
 *met(C|)
-s B -
-M r
-M d
-*custos F
+sB-
+Mr
+Md
+*custosF

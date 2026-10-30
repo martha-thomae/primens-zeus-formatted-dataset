@@ -3,42 +3,42 @@
 *k[b-]
 =
 *met(3)
-s r
-s D
-s D
-s D
-s : F
-M G
-[ s A
-L : D ]
-S : r
-S D
-s D
-[ s F
-s BB - ]
-S F
-S G
-s c
-s c
-s c
-S F
-s F
-s : A
-M B -
-M c
-M d
-s : c
-M B -
-M A
-M G
-s A
-S F
-s : F
+sr
+sD
+sD
+sD
+s:F
+MG
+[sA
+L:D]
+S:r
+SD
+sD
+[sF
+sBB-]
+SF
+SG
+sc
+sc
+sc
+SF
+sF
+s:A
+MB-
+Mc
+Md
+s:c
+MB-
+MA
+MG
+sA
+SF
+s:F
 =
-M G
-[ s A
-s G ]
-[ s C
-S D ]
-S C
-*custos BB -
+MG
+[sA
+sG]
+[sC
+SD]
+SC
+*custosBB-

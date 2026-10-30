@@ -3,27 +3,27 @@
 *met(C|)
 *clefC1
 *met(C|)
-S e
-s : f
-m e
-m d
-[ s e
-s d ]
-M r
-M : g
-m f #
-M f #
-s : g
-m f
-m e
-M d
+Se
+s:f
+me
+md
+[se
+sd]
+Mr
+M:g
+mf#
+Mf#
+s:g
+mf
+me
+Md
 =
-s g
-s e
-[ s a
-s g ]
-M : cc
-m b
-M b
+sg
+se
+[sa
+sg]
+M:cc
+mb
+Mb
 =
-*custos d
+*custosd

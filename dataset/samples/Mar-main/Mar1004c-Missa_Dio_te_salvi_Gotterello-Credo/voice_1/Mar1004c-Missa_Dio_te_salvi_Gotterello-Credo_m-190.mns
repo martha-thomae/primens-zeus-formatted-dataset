@@ -2,15 +2,15 @@
 *clefF4
 *met(3)
 =
-s r
-[ S C
-s BB ]
-S AA
-S GG
-s AA
-s BB
-s C
-S D
-S AA
-S : D
-*custos GG
+sr
+[SC
+sBB]
+SAA
+SGG
+sAA
+sBB
+sC
+SD
+SAA
+S:D
+*custosGG

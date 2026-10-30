@@ -4,14 +4,14 @@
 =
 *k[b-e-]
 *met(C|)
-S GG
-S GG
-s AA
-s BB -
-s : BB -
-M BB -
-S F
-S F
+SGG
+SGG
+sAA
+sBB-
+s:BB-
+MBB-
+SF
+SF
 *met(3)
 3%m%4D
 3%U%MG
@@ -21,10 +21,10 @@ S F
 3%m%MF
 3%m%4F
 *met(C|)
-s BB -
-s F
-s E -
-S G
-s F
+sBB-
+sF
+sE-
+SG
+sF
 =
-*custos GG
+*custosGG

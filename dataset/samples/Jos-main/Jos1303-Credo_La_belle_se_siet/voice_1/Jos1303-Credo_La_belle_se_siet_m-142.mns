@@ -3,12 +3,12 @@
 *k[b-]
 *met(O2)
 =
-s D
-s C
-s AA
-s BB -
-s AA
-[ s FF
-s C ]
+sD
+sC
+sAA
+sBB-
+sAA
+[sFF
+sC]
 =
-*custos FF
+*custosFF

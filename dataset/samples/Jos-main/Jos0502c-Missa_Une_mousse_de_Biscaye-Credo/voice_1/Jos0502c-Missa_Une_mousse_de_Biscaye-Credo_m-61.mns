@@ -3,56 +3,56 @@
 =
 *k[b-]
 *met(C|)
-M AA
-M : C
-m BB -
-s AA
-M GG
-M AA
-M GG
-M AA
-M BB -
-s AA
-s GG
-s r
-M r
-s C
-m BB -
-m AA
-M GG
-M : C
-m BB -
-M C
-s D
-M r
-s D
-m C
+MAA
+M:C
+mBB-
+sAA
+MGG
+MAA
+MGG
+MAA
+MBB-
+sAA
+sGG
+sr
+Mr
+sC
+mBB-
+mAA
+MGG
+M:C
+mBB-
+MC
+sD
+Mr
+sD
+mC
 =
-m BB -
-m AA
-m FF
-M : F
-m E
+mBB-
+mAA
+mFF
+M:F
+mE
 =
-m D
-m C
-[ s D
-s : C ]
-m BB -
-m AA
-M GG
-M AA
-M GG
-M : C
-m D
-m E
-m F
-s G
-s C
-M r
-s C
-M C
-s C
-S C
-S C
-*custos FF
+mD
+mC
+[sD
+s:C]
+mBB-
+mAA
+MGG
+MAA
+MGG
+M:C
+mD
+mE
+mF
+sG
+sC
+Mr
+sC
+MC
+sC
+SC
+SC
+*custosFF

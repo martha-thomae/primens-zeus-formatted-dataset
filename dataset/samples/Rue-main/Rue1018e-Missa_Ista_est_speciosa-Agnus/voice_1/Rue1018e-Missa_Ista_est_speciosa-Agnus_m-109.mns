@@ -2,22 +2,22 @@
 *clefF3
 *met(3)
 =
-S AA
-s r
-S : r
-s : GG
-M AA
-s BB
-s C
-[ s D
-s E ]
-s : AA
-M BB
-[ s C
-s D
-s : GG ]
-M AA
-[ s BB
-s C ]
-s FF
-*custos FF
+SAA
+sr
+S:r
+s:GG
+MAA
+sBB
+sC
+[sD
+sE]
+s:AA
+MBB
+[sC
+sD
+s:GG]
+MAA
+[sBB
+sC]
+sFF
+*custosFF

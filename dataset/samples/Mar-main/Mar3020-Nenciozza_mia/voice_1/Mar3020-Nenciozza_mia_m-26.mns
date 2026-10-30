@@ -3,17 +3,17 @@
 *met(C|)
 *met(3)
 =
-s : F
-M E
-s D
-s : C
-M D
-[ s E
-S : D ]
-S : r
-< S d
-S G >
+s:F
+ME
+sD
+s:C
+MD
+[sE
+S:D]
+S:r
+<Sd
+SG>
 =
-[ s E
-s F ]
-*custos C
+[sE
+sF]
+*custosC

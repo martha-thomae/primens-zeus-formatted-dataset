@@ -3,13 +3,13 @@
 =
 *met(C2)
 =
-S r
-L G
-S G
-S B
-L : c
-[ S d
-S B ]
+Sr
+LG
+SG
+SB
+L:c
+[Sd
+SB]
 =
-S c
-*custos G
+Sc
+*custosG

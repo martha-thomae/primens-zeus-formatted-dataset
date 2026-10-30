@@ -4,21 +4,21 @@
 =
 *met(O)
 *MM400
-S : r
+S:r
 =
-S BB -
-s BB -
-S C
-s D
+SBB-
+sBB-
+SC
+sD
 s%5E-
-s D
-M C
+sD
+MC
 =
-M D
-M C
+MD
+MC
 =
-s BB -
+sBB-
 =
-M AA
-S : BB -
-*custos AA
+MAA
+S:BB-
+*custosAA

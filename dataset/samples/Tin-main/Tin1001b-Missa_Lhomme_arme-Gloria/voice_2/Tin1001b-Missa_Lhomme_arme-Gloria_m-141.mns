@@ -7,49 +7,49 @@
 *k[b-]
 *met(O|)
 *MM378
-s D
-s D
-s : G
-M F
-s E
-[ s D
-s : E ]
-s F
-M E
-< s G
-s : c >
-m B -
-m c
-s d
-M r
-s G
-M A
-[ s B -
-s c ]
-s A
-s G
-[ s A
-s B - ]
-M c
+sD
+sD
+s:G
+MF
+sE
+[sD
+s:E]
+sF
+ME
+<sG
+s:c>
+mB-
+mc
+sd
+Mr
+sG
+MA
+[sB-
+sc]
+sA
+sG
+[sA
+sB-]
+Mc
 =
-s d
-M G
-M A
-s F
+sd
+MG
+MA
+sF
 =
-s G
-s A
-M : F
-m E
-M D
-M : E
-m F
-s E
-S : D
-S : r
-S : r
+sG
+sA
+M:F
+mE
+MD
+M:E
+mF
+sE
+S:D
+S:r
+S:r
 =
-s d
-s d
-s d
-*custos D
+sd
+sd
+sd
+*custosD

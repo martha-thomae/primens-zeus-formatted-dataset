@@ -4,20 +4,20 @@
 =
 *met()
 *met(3)
-S D
-s D
-s : F
-M E
-s D
+SD
+sD
+s:F
+ME
+sD
 *met(3)
-s C
-M AA
-M BB
-M C
-M D
-s E
-S AA
-s : C
-M BB
-s GG
-*custos GG
+sC
+MAA
+MBB
+MC
+MD
+sE
+SAA
+s:C
+MBB
+sGG
+*custosGG

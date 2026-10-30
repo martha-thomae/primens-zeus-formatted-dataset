@@ -3,13 +3,13 @@
 *met(C|)
 *met(C|)
 =
-S : E
+S:E
 =
-s : AA
-M BB
-M C
-M D
+s:AA
+MBB
+MC
+MD
 =
-[ s E
-s C ]
-*custos AA
+[sE
+sC]
+*custosAA

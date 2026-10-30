@@ -2,74 +2,74 @@
 *clefC1
 *met(O)
 =
-S : r
-S e
-s g
-s : a
-m g
-m f
-S g
-s b
-M a
-s cc
-m b
-m a
-s g
-s a
-M g
-s b
-M cc
-M : dd
+S:r
+Se
+sg
+s:a
+mg
+mf
+Sg
+sb
+Ma
+scc
+mb
+ma
+sg
+sa
+Mg
+sb
+Mcc
+M:dd
 =
-U cc
-U b
-M a
-M g
-M : b
-m dd
-s cc
-M : b
-m cc
-M dd
-M : ee
-m dd
-M b
-M cc
+Ucc
+Ub
+Ma
+Mg
+M:b
+mdd
+scc
+M:b
+mcc
+Mdd
+M:ee
+mdd
+Mb
+Mcc
 =
-m dd
-m cc
-m b
-m a
-s a
-M g #
-s a
-M r
+mdd
+mcc
+mb
+ma
+sa
+Mg#
+sa
+Mr
 =
-M cc
-M b
-M a
+Mcc
+Mb
+Ma
 =
-M cc
-m b
-m a
-M g
-M a
-M b
-s cc
-M b
-M a
-M : b
-m a
-M a
-M g
-M a
-s d
-M : d
-U e
-U f
-s g
-M : e
-U f
-U g
-s a
-*custos d
+Mcc
+mb
+ma
+Mg
+Ma
+Mb
+scc
+Mb
+Ma
+M:b
+ma
+Ma
+Mg
+Ma
+sd
+M:d
+Ue
+Uf
+sg
+M:e
+Uf
+Ug
+sa
+*custosd

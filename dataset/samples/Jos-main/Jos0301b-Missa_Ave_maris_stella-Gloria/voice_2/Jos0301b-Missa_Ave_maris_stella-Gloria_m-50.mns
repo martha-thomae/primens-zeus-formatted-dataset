@@ -3,20 +3,20 @@
 *clefC4
 *k[b-]
 *met(C|)
-s e
-s f
-s : g
-m f
-m e
-M f
-M d
-M f
-M : e
-m d
-s d
-M c #
+se
+sf
+s:g
+mf
+me
+Mf
+Md
+Mf
+M:e
+md
+sd
+Mc#
 =
-L d
-S r
-S r
-*custos c #
+Ld
+Sr
+Sr
+*custosc#

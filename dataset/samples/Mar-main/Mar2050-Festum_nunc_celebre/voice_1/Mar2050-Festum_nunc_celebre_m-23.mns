@@ -1,9 +1,9 @@
 **mens
 *clefF4
 *met(C)
-s r
+sr
 *met(3)
-M AA
+MAA
 6BB
 3C
 =
@@ -12,36 +12,36 @@ M AA
 3%MC
 3%M%2BB
 *met(C)
-M : AA
-m BB
-M C
-M D
-[ s GG
-s AA ]
-< S E
-s D >
-s AA
-M r
-M D
-M BB
-M GG
-s AA
-M GG
-s C
-M BB
-M C
-M D
-M : C
-m BB
-M GG
-M : G
-m F
-M D
+M:AA
+mBB
+MC
+MD
+[sGG
+sAA]
+<SE
+sD>
+sAA
+Mr
+MD
+MBB
+MGG
+sAA
+MGG
+sC
+MBB
+MC
+MD
+M:C
+mBB
+MGG
+M:G
+mF
+MD
 =
 =
-s A
-M : B
-m A
-M F
-M D
-*custos GG
+sA
+M:B
+mA
+MF
+MD
+*custosGG

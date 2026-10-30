@@ -3,21 +3,21 @@
 *clefGv2
 *k[b-]
 *met(C|)
-M G
-s B -
-M A
-M G
-M D
-s F
-s G
-s E
-S D
+MG
+sB-
+MA
+MG
+MD
+sF
+sG
+sE
+SD
 *met(C|2)
 *rscale:2/1
-M r
-M G
-M G
-M G
-s : d
-M d
-*custos D
+Mr
+MG
+MG
+MG
+s:d
+Md
+*custosD

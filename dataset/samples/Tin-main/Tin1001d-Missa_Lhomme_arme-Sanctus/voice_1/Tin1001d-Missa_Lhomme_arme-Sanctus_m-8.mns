@@ -4,47 +4,47 @@
 *k[b-]
 =
 *met(O)
-M E
-M : C
-m BB -
-M : D
-U C
-U BB -
+ME
+M:C
+mBB-
+M:D
+UC
+UBB-
 =
-M AA
-s GG
-s r
-s D
-M E
-M : C
-m GG
-M : BB -
-m AA
-s GG
-M G
-M C
-s : D
-M E
-s C
-M : G
-m F
+MAA
+sGG
+sr
+sD
+ME
+M:C
+mGG
+M:BB-
+mAA
+sGG
+MG
+MC
+s:D
+ME
+sC
+M:G
+mF
 =
-M G
-M E
-M : D
-m E
-m F
-m G
-s A
-M D
-M : F
+MG
+ME
+M:D
+mE
+mF
+mG
+sA
+MD
+M:F
 =
-m G
-m A
-m B -
-s c
-M F
-s A
-M D
-s G
-*custos GG
+mG
+mA
+mB-
+sc
+MF
+sA
+MD
+sG
+*custosGG

@@ -4,14 +4,14 @@
 *k[b-]
 =
 *met(C|3)
-s D
-s r
-[ s c
-s B - ]
+sD
+sr
+[sc
+sB-]
 s%5c
 *clefC2
 *k[b-]
 *met(C|)
-s : F
-M G
-*custos D
+s:F
+MG
+*custosD

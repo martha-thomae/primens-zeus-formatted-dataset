@@ -3,36 +3,36 @@
 =
 *k[b-e-]
 *met(O)
-M D
+MD
 =
-M r
-M AA
-M BB -
-s AA
-M BB -
-M : GG
-m AA
-M BB -
-M C
-M GG
-M D
-M : BB -
-m C
-M D
-s E -
-s D
-s : GG
-s D
-M BB -
-M C
-M GG
-s D
-S : GG
+Mr
+MAA
+MBB-
+sAA
+MBB-
+M:GG
+mAA
+MBB-
+MC
+MGG
+MD
+M:BB-
+mC
+MD
+sE-
+sD
+s:GG
+sD
+MBB-
+MC
+MGG
+sD
+S:GG
 *clefC4
 *k[b-e-]
 *met(C|)
-S GG
-[ s AA
-S BB - ]
-s C
-*custos GG
+SGG
+[sAA
+SBB-]
+sC
+*custosGG

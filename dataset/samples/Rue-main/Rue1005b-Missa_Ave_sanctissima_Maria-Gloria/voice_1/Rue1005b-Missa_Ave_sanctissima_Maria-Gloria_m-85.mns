@@ -2,54 +2,54 @@
 *clefF3
 *met(C)
 =
-m F
-m E
-m D
-m C
-s D
-S C
-s r
-[ s C
-s D
-s F
-s E
-s D ]
-M : E
-m F
-M G
-M E
-s F
-s E
-M r
-M A
-M A
-s A
-M G
-M F
-M : A
-m G
-m F
-m E
-M D
-M F
-s E
-s D
-M r
+mF
+mE
+mD
+mC
+sD
+SC
+sr
+[sC
+sD
+sF
+sE
+sD]
+M:E
+mF
+MG
+ME
+sF
+sE
+Mr
+MA
+MA
+sA
+MG
+MF
+M:A
+mG
+mF
+mE
+MD
+MF
+sE
+sD
+Mr
 =
-M : G
-m F
-m E
-m D
-M C
-M AA
-s BB
-M : AA
-m BB
-m C
-m D
-M : E
-m D
+M:G
+mF
+mE
+mD
+MC
+MAA
+sBB
+M:AA
+mBB
+mC
+mD
+M:E
+mD
 =
-s D
-M C #
-*custos AA
+sD
+MC#
+*custosAA

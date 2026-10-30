@@ -3,23 +3,23 @@
 =
 =
 *met(C|)
-S A
-S r
-s : c
-M d
+SA
+Sr
+s:c
+Md
 =
-[ S e
-s f ]
-M e
-M d
-S c #
-L d
+[Se
+sf]
+Me
+Md
+Sc#
+Ld
 *clefGv2
 *met(C|)
-S e
-S : f
-s e
-S : e
-[ s d
-S c ]
-*custos A
+Se
+S:f
+se
+S:e
+[sd
+Sc]
+*custosA

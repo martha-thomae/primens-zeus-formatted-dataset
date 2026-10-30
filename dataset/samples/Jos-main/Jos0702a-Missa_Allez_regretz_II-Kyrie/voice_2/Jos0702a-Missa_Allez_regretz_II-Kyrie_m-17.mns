@@ -4,9 +4,9 @@
 *met(C|)
 *met(C)
 *rscale:1/2
-S r
-S F
-S c
+Sr
+SF
+Sc
 =
-S c
-*custos F
+Sc
+*custosF

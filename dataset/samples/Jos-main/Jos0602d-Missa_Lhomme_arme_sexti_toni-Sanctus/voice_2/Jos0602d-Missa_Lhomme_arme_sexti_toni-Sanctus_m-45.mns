@@ -4,43 +4,43 @@
 =
 *met(C|)
 =
-s r
-S d
-s e -
-M d
-s e -
-m d
-m c
-[ s B -
-s c ]
-s r
-[ s F
-s G ]
-s A
-s B -
-M A
-M : B -
-m A
-m G
-m F
-m G
-m F
-M : c
-m B -
-m A
+sr
+Sd
+se-
+Md
+se-
+md
+mc
+[sB-
+sc]
+sr
+[sF
+sG]
+sA
+sB-
+MA
+M:B-
+mA
+mG
+mF
+mG
+mF
+M:c
+mB-
+mA
 =
-m G
-m A
-m G
-M : d
-m c
-m B -
-m A
-m B -
-m A
-s d
-[ s c
-s B - ]
-M A
-s G
-*custos F
+mG
+mA
+mG
+M:d
+mc
+mB-
+mA
+mB-
+mA
+sd
+[sc
+sB-]
+MA
+sG
+*custosF

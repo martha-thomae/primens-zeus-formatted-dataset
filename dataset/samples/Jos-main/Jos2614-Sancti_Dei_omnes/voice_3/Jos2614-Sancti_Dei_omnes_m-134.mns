@@ -3,31 +3,31 @@
 *clefC2
 *k[b-]
 *met(C|)
-s d
-M B -
-s f
-M e
-M f
-s B -
+sd
+MB-
+sf
+Me
+Mf
+sB-
 =
-M : e -
-m d
-m c
+M:e-
+md
+mc
 =
-m B -
-M c
-M d
-M G
-s d
-m c
-m B -
-[ s f
-s e
-s : d ]
-m c
-m B -
-M A
+mB-
+Mc
+Md
+MG
+sd
+mc
+mB-
+[sf
+se
+s:d]
+mc
+mB-
+MA
 =
-M G
-S c
-*custos G
+MG
+Sc
+*custosG

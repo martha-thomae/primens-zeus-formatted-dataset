@@ -3,15 +3,15 @@
 *k[b-e-]
 *met(3)
 *met(C|)
-s c
-s A
-s A
-s A
-s A
+sc
+sA
+sA
+sA
+sA
 =
-s A
-s G
-s A
+sA
+sG
+sA
 *met(3)
 s%M:B-
 3A
@@ -20,4 +20,4 @@ s%M:B-
 s%M:A
 3G
 S%m:B-
-*custos G
+*custosG

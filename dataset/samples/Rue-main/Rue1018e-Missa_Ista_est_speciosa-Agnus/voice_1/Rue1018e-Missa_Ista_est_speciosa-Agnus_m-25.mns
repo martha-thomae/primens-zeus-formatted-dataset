@@ -2,37 +2,37 @@
 *clefF3
 *met(O)
 =
-S GG
-m GG
-m AA
-m BB
-m C
-M D
-M GG
-[ s D
-s AA ]
-M r
-s D
-M GG
-M D
-M AA
-M : C
-m BB
-M AA
-M GG
-s FF
-s EE
-s r
-s r
-s EE
-M : AA
-m GG
-M FF
+SGG
+mGG
+mAA
+mBB
+mC
+MD
+MGG
+[sD
+sAA]
+Mr
+sD
+MGG
+MD
+MAA
+M:C
+mBB
+MAA
+MGG
+sFF
+sEE
+sr
+sr
+sEE
+M:AA
+mGG
+MFF
 =
-M EE
-M AA
-M C
-s BB
-M : AA
-m GG
-*custos EE
+MEE
+MAA
+MC
+sBB
+M:AA
+mGG
+*custosEE

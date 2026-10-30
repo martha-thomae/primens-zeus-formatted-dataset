@@ -2,24 +2,24 @@
 *clefF3
 *met(C|)
 =
-s AA
-s r
-M : E
-m E
-M E
-M E
-M : C
-m AA
-M AA
-M r
-M : E
-m E
-M E
+sAA
+sr
+M:E
+mE
+ME
+ME
+M:C
+mAA
+MAA
+Mr
+M:E
+mE
+ME
 =
-M E
-M : C
-m AA
-M AA
-M r
-S r
-*custos AA
+ME
+M:C
+mAA
+MAA
+Mr
+Sr
+*custosAA

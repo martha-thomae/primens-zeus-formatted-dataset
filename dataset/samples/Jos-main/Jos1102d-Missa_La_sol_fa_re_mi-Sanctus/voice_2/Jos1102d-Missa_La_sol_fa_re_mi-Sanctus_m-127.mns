@@ -3,19 +3,19 @@
 *met(C|)
 *clefC4
 *met(3)
-S e
-s d
-S c
-s A
-S : B
-s r
-[ S e
-s d ]
-s c
-s A
+Se
+sd
+Sc
+sA
+S:B
+sr
+[Se
+sd]
+sc
+sA
 =
-S B
-s r
-S e
-s d
-*custos A
+SB
+sr
+Se
+sd
+*custosA

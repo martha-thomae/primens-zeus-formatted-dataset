@@ -3,12 +3,12 @@
 =
 *met(C|)
 =
-S C
-s r
-s E
-[ s F
-s G ]
-L C
-s r
-s C
-*custos C
+SC
+sr
+sE
+[sF
+sG]
+LC
+sr
+sC
+*custosC

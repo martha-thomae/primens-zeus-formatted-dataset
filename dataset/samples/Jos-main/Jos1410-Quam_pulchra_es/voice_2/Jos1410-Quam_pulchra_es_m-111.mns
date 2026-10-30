@@ -3,35 +3,35 @@
 *k[b-]
 =
 *met(3)
-s F
-S D
-S C
-s r
-S E
-[ s D
-s E
-s F ]
-[ s G
-s : E ]
-m D
-m C
-s D
-s E
-M C
-s F
-M E
-< s F
-s C >
-s r
-S E
-s D
+sF
+SD
+SC
+sr
+SE
+[sD
+sE
+sF]
+[sG
+s:E]
+mD
+mC
+sD
+sE
+MC
+sF
+ME
+<sF
+sC>
+sr
+SE
+sD
 *met(C|)
-s : F
-M E
+s:F
+ME
 =
-s E
-M r
-M C
-s C
-s C
-*custos C
+sE
+Mr
+MC
+sC
+sC
+*custosC

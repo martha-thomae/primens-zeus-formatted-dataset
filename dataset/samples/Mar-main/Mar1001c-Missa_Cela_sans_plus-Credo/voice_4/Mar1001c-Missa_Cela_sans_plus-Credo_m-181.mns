@@ -3,30 +3,30 @@
 *met(C|)
 =
 *met(3)
-S : d
-s r
-s r
-[ s d
-S g ]
-s a
-s : b
-M cc
-s dd
-s : dd
-M b
-s cc
-s dd
-[ s b
-S a ]
-s g
-s e
-s f
-S d
-[ S g
-s f #
-S g ]
-s r
-s : dd
-M cc
-s b
-*custos d
+S:d
+sr
+sr
+[sd
+Sg]
+sa
+s:b
+Mcc
+sdd
+s:dd
+Mb
+scc
+sdd
+[sb
+Sa]
+sg
+se
+sf
+Sd
+[Sg
+sf#
+Sg]
+sr
+s:dd
+Mcc
+sb
+*custosd

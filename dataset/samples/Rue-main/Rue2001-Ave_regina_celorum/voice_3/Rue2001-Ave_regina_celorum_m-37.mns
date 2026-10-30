@@ -2,31 +2,31 @@
 *clefGv2
 *k[b-]
 *met(C2)
-M c
-M : d
-m c
-m B -
-m A
-s c
+Mc
+M:d
+mc
+mB-
+mA
+sc
 =
-M A
-s d
-M c
-M : c
-m B -
-M B -
+MA
+sd
+Mc
+M:c
+mB-
+MB-
 =
-s c
-M : A
-m B -
-M c
-M d
-M A
-s f
-M : g
-m f
+sc
+M:A
+mB-
+Mc
+Md
+MA
+sf
+M:g
+mf
 =
-m e -
-m d
-s e -
-*custos A
+me-
+md
+se-
+*custosA

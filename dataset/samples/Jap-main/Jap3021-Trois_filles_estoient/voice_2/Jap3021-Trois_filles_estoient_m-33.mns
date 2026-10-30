@@ -2,12 +2,12 @@
 *clefC4
 =
 *met(3)
-S : A
-[ S : D
-S d ]
-s d
-S c
-s c
-S d
-s d
-*custos D
+S:A
+[S:D
+Sd]
+sd
+Sc
+sc
+Sd
+sd
+*custosD

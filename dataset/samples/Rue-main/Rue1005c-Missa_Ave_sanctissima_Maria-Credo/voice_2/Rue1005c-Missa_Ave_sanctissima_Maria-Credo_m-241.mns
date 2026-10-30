@@ -4,10 +4,10 @@
 *met(3)
 =
 *met(C|)
-S C
-S C
+SC
+SC
 =
-L D
-s r
-s G
-*custos C
+LD
+sr
+sG
+*custosC

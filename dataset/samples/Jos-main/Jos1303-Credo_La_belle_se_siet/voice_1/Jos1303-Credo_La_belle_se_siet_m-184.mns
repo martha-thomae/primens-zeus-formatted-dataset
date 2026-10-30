@@ -4,12 +4,12 @@
 *k[b-]
 *met(C|3)
 =
-s AA
-S C
-S FF
-s AA
-s AA
-S GG
+sAA
+SC
+SFF
+sAA
+sAA
+SGG
 =
-S : D
-*custos FF
+S:D
+*custosFF

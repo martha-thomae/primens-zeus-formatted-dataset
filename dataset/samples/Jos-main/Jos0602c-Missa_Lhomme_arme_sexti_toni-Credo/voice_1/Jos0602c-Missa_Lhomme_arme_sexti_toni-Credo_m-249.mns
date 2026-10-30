@@ -3,30 +3,30 @@
 *clefF4
 *k[b-]
 *met(Cr)
-M C
-M D
-M BB -
-M C
+MC
+MD
+MBB-
+MC
 =
-[ s AA
-s BB - ]
-M AA
-M : C
-m AA
-M BB -
-M C
-M D
-M BB -
-M C
-M AA
-M BB -
-M AA
-s BB -
-M AA
-M : BB -
+[sAA
+sBB-]
+MAA
+M:C
+mAA
+MBB-
+MC
+MD
+MBB-
+MC
+MAA
+MBB-
+MAA
+sBB-
+MAA
+M:BB-
 =
-m AA
-S FF
+mAA
+SFF
 *rscale:1
 =
-*custos FF
+*custosFF

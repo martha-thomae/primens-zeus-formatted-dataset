@@ -3,26 +3,26 @@
 =
 *met(C)
 =
-S r
-S r
+Sr
+Sr
 =
-L : A
-S : c
-[ s B
-s G ]
-[ s A
-s F
-s E
-S c ]
-[ s B
-s G
-s A ]
-s F
-[ s E
-s c ]
-[ s B
-s G ]
-[ s A
-s F ]
-L E
-*custos E
+L:A
+S:c
+[sB
+sG]
+[sA
+sF
+sE
+Sc]
+[sB
+sG
+sA]
+sF
+[sE
+sc]
+[sB
+sG]
+[sA
+sF]
+LE
+*custosE

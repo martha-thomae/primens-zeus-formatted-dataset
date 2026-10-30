@@ -3,20 +3,20 @@
 =
 *k[b-]
 *met(C|)
-M r
-s D
-M D
-s AA
-M : D
-m C
-M : BB -
-m AA
-M GG
-M : G
-m F
-m E
-m D
-s E
-s D
-s r
-*custos GG
+Mr
+sD
+MD
+sAA
+M:D
+mC
+M:BB-
+mAA
+MGG
+M:G
+mF
+mE
+mD
+sE
+sD
+sr
+*custosGG

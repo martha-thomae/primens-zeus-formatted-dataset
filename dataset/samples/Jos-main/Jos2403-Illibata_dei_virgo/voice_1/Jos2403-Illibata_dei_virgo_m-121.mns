@@ -3,14 +3,14 @@
 =
 *k[b-]
 *met(C|)
-[ s GG
-s D ]
-[ s BB -
-s GG ]
-s D
-s GG
+[sGG
+sD]
+[sBB-
+sGG]
+sD
+sGG
 *met(3)
-s G
-s G
-s E
-*custos GG
+sG
+sG
+sE
+*custosGG

@@ -3,56 +3,56 @@
 *k[b-]
 *met(C|)
 =
-M b -
-s a
-M g
-M g
-M f #
-s g
-s r
-s r
-M dd
-M dd
-M dd
-M dd
-M dd
+Mb-
+sa
+Mg
+Mg
+Mf#
+sg
+sr
+sr
+Mdd
+Mdd
+Mdd
+Mdd
+Mdd
 =
-M dd
-M dd
-M dd
-s dd
-M a
+Mdd
+Mdd
+Mdd
+sdd
+Ma
 =
-M a
-M : cc
-m dd
-M b -
-M a
+Ma
+M:cc
+mdd
+Mb-
+Ma
 =
-s g
-M f
-M f
-M g
-M g
-M f
-M : a
-m b -
-m cc
-m b -
-m a
-m g
-s g
-M f #
-s g
+sg
+Mf
+Mf
+Mg
+Mg
+Mf
+M:a
+mb-
+mcc
+mb-
+ma
+mg
+sg
+Mf#
+sg
 *clefC1
 *k[b-]
 *met(C|)
-S r
-s dd
-M dd
-M dd
-M : dd
-U cc
-U b -
-s a
-*custos f
+Sr
+sdd
+Mdd
+Mdd
+M:dd
+Ucc
+Ub-
+sa
+*custosf

@@ -4,19 +4,19 @@
 =
 *met()
 *rscale:2/3
-S : c
+S:c
 *rscale:1
 *met(3)
-S d
-s d
+Sd
+sd
 =
-S e
-s e
-S f
-s f
-S : c
-s r
-s r
-s d
+Se
+se
+Sf
+sf
+S:c
+sr
+sr
+sd
 =
-*custos c
+*custosc

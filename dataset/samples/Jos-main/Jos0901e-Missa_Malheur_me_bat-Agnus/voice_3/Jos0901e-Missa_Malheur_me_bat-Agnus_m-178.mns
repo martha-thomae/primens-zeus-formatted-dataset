@@ -3,10 +3,10 @@
 *met(C|)
 *met(C)
 *rscale:1/2
-S E
-s r
+SE
+sr
 =
-S A
-s G
-S A
-*custos E
+SA
+sG
+SA
+*custosE

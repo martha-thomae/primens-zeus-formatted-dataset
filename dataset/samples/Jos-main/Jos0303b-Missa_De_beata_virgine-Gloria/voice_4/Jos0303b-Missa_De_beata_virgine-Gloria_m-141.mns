@@ -1,19 +1,19 @@
 **mens
 *clefG2
 *met(C|)
-s : cc
-M a
-s : a
-M f
+s:cc
+Ma
+s:a
+Mf
 =
-s : f
-M d
+s:f
+Md
 *met()
-S d
-S r
-S r
-S r
-S r
+Sd
+Sr
+Sr
+Sr
+Sr
 =
 3%m%4dd
 3%M%2cc
@@ -26,9 +26,9 @@ S r
 3%M%2dd
 3%m%4b
 *met()
-s a
-s : dd
-M cc
-M b
-M a
-*custos d
+sa
+s:dd
+Mcc
+Mb
+Ma
+*custosd

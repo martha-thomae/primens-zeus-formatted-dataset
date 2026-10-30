@@ -2,14 +2,14 @@
 *clefC4
 *k[b-]
 *met(O)
-S : FF
-S : BB -
-S : AA
-S : GG
-S : FF
-S : C
-L FF
-S r
-S C
+S:FF
+S:BB-
+S:AA
+S:GG
+S:FF
+S:C
+LFF
+Sr
+SC
 *rscale:1
-*custos FF
+*custosFF

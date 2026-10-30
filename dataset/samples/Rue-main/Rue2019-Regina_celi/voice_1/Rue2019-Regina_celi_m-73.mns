@@ -3,19 +3,19 @@
 *clefF4
 *met(C|)
 =
-S r
-S r
-S r
-S AA
-M : C
-m D
-M E
-s F
-s E
-M D
-L E
-S r
-s G
-M G
-M E
-*custos AA
+Sr
+Sr
+Sr
+SAA
+M:C
+mD
+ME
+sF
+sE
+MD
+LE
+Sr
+sG
+MG
+ME
+*custosAA

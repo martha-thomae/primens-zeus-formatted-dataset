@@ -3,36 +3,36 @@
 *clefG2
 =
 *met(C)
-M b
-M cc
-M dd
-M : ee
-m cc
-s cc
-M b
-S cc
+Mb
+Mcc
+Mdd
+M:ee
+mcc
+scc
+Mb
+Scc
 *clefG2
 *met(C)
-< s g
-s a >
-s b
-s : cc
+<sg
+sa>
+sb
+s:cc
 =
-m b
-m a
-[ s b
-s : cc ]
-m b
-m a
-s g
-s b
-M a
-M cc
-M b
-s g
-M f #
-s g
+mb
+ma
+[sb
+s:cc]
+mb
+ma
+sg
+sb
+Ma
+Mcc
+Mb
+sg
+Mf#
+sg
 =
-s r
-s d
-*custos d
+sr
+sd
+*custosd

@@ -4,57 +4,57 @@
 *k[b-e-]
 =
 *met(O)
-S : CC
+S:CC
 *clefF4
 *k[b-e-]
 *met(C|)
-L CC
-s FF
-M : EE -
-m DD
-M FF
-M : CC
-m DD
-m EE -
-m FF
-s GG
-M r
-M : GG
-m AA
-m BB -
-m C
-s : D
-s F
-M E -
-M D
-M C
-M GG
-M : D
-m E -
+LCC
+sFF
+M:EE-
+mDD
+MFF
+M:CC
+mDD
+mEE-
+mFF
+sGG
+Mr
+M:GG
+mAA
+mBB-
+mC
+s:D
+sF
+ME-
+MD
+MC
+MGG
+M:D
+mE-
 =
-M F
-M C
-M GG
-M r
-M CC
-s GG
-M : CC
-m DD
-M EE -
-M FF
-M CC
-M FF
-M : FF
-m GG
-M AA
+MF
+MC
+MGG
+Mr
+MCC
+sGG
+M:CC
+mDD
+MEE-
+MFF
+MCC
+MFF
+M:FF
+mGG
+MAA
 =
-M BB -
-M C
-M GG
-M C
-M FF
-M : AA
-m BB -
-s : C
-M BB -
-*custos CC
+MBB-
+MC
+MGG
+MC
+MFF
+M:AA
+mBB-
+s:C
+MBB-
+*custosCC

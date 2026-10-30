@@ -2,15 +2,15 @@
 *clefF4
 =
 *met(C2)
-s r
-s AA
-S DD
-s r
-s AA
-s BB
-s : D
-M C #
-s C #
-S D
-S C
-*custos DD
+sr
+sAA
+SDD
+sr
+sAA
+sBB
+s:D
+MC#
+sC#
+SD
+SC
+*custosDD

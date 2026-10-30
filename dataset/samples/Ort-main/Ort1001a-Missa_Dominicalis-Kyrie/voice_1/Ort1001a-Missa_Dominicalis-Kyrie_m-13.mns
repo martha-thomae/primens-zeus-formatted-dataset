@@ -2,30 +2,30 @@
 *clefF4
 *k[b-]
 *met(O)
-M D
-s C
-M C
-s D
-s r
-S G
+MD
+sC
+MC
+sD
+sr
+SG
 *clefF4
 *k[b-]
 =
 *met(C)
-s D
-M C
-s G
-M F
-M A
-M G
-s B -
-M A
-M G
-[ s B -
-s A ]
-M G
-s B -
+sD
+MC
+sG
+MF
+MA
+MG
+sB-
+MA
+MG
+[sB-
+sA]
+MG
+sB-
 =
-M A
+MA
 =
-*custos C
+*custosC

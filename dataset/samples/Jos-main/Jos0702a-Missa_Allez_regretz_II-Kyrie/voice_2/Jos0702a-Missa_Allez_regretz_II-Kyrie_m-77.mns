@@ -3,19 +3,19 @@
 *k[b-]
 *met(O)
 =
-s : A
-M G
+s:A
+MG
 *met(C|)
 *rscale:1
-M F
-M D
-s E
+MF
+MD
+sE
 *met(C)
 *rscale:1/2
-s : D
-M E
-s F
-s G
-s : A
-M G
-*custos D
+s:D
+ME
+sF
+sG
+s:A
+MG
+*custosD

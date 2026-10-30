@@ -5,19 +5,19 @@
 *clefC2
 *k[b-]
 *met(C|)
-S F
-s G
+SF
+sG
 =
-[ s F
-s G ]
-M A
-M F
+[sF
+sG]
+MA
+MF
 =
-s A
-M r
-M F
-M G
-M F
-M G
-M A
-*custos F
+sA
+Mr
+MF
+MG
+MF
+MG
+MA
+*custosF

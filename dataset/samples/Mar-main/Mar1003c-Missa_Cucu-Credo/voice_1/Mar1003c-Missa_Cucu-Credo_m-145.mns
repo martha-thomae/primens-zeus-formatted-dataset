@@ -4,16 +4,16 @@
 *met(C|)
 =
 =
-m C
-m BB
-s AA
-M BB
-M AA
-s C
-M D
-s E
-s AA
+mC
+mBB
+sAA
+MBB
+MAA
+sC
+MD
+sE
+sAA
 =
-M GG
-s C
-*custos GG
+MGG
+sC
+*custosGG

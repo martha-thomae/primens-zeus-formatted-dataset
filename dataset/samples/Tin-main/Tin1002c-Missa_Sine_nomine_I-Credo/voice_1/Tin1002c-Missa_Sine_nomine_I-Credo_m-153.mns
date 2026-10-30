@@ -2,22 +2,22 @@
 *clefF4
 *k[b-e-]
 *met(O)
-M GG
-M C
-s FF
-M BB -
-M GG
+MGG
+MC
+sFF
+MBB-
+MGG
 =
-s FF
-M GG
-M EE -
-s BB -
-M EE -
-s CC
-M DD
-M CC
-M C
-s FF
+sFF
+MGG
+MEE-
+sBB-
+MEE-
+sCC
+MDD
+MCC
+MC
+sFF
 *met(3/2)
 =
 3%M%2GG
@@ -26,8 +26,8 @@ s FF
 3%M%2C
 3GG
 3AA
-M C
+MC
 6BB-
 3AA-
 3%M%2GG
-*custos CC
+*custosCC

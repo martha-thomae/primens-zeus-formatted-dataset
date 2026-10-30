@@ -1,23 +1,23 @@
 **mens
 *clefF3
 *met(C|)
-S r
-S r
-M : AA
-m BB
-m C
-m D
-s E
-M : C
-m D
-m E
-m F
-s G
-M : E
-m F
-m G
-m A
-M B
-M E
-M r
-*custos AA
+Sr
+Sr
+M:AA
+mBB
+mC
+mD
+sE
+M:C
+mD
+mE
+mF
+sG
+M:E
+mF
+mG
+mA
+MB
+ME
+Mr
+*custosAA

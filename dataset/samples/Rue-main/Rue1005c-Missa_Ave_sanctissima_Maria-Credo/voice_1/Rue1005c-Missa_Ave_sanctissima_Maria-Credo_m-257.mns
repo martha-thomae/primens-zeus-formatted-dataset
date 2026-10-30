@@ -3,9 +3,9 @@
 =
 *met(C|)
 =
-s BB -
-s GG
+sBB-
+sGG
 =
-[ S D
-L : GG ]
-*custos GG
+[SD
+L:GG]
+*custosGG

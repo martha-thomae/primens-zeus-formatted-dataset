@@ -4,29 +4,29 @@
 =
 *met(C)
 =
-M g
-s f
-m e
-m d
+Mg
+sf
+me
+md
 =
-M f
-M e
-s : a
-m g
-m f
-s g
-s a
-M r
-s a
-s a
-m g
-m f
-M e
-s f
-m e
-m d
-M e
+Mf
+Me
+s:a
+mg
+mf
+sg
+sa
+Mr
+sa
+sa
+mg
+mf
+Me
+sf
+me
+md
+Me
 =
-M A
-s A
-*custos A
+MA
+sA
+*custosA

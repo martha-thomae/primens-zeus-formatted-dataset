@@ -4,27 +4,27 @@
 =
 *met(C)
 =
-M f
-s g
-s a
-s : b -
-m a
-m g
-s a
-s b -
-s a
-M g
-M : b -
-m a
-s g
-m f #
+Mf
+sg
+sa
+s:b-
+ma
+mg
+sa
+sb-
+sa
+Mg
+M:b-
+ma
+sg
+mf#
 =
-m e
-s f #
-s g
-s r
-S r
+me
+sf#
+sg
+sr
+Sr
 =
-s r
-s g
-*custos e
+sr
+sg
+*custose

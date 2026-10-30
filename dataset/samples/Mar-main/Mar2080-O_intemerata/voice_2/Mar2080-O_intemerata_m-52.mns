@@ -3,13 +3,13 @@
 *clefC4
 *met(3)
 =
-s f
-s : g
-M f
-M e
-M d
-[ S c
-s e
-S d ]
-S : c
-*custos c
+sf
+s:g
+Mf
+Me
+Md
+[Sc
+se
+Sd]
+S:c
+*custosc

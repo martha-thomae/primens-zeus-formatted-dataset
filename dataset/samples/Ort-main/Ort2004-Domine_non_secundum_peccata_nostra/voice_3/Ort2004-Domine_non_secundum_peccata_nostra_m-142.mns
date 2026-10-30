@@ -3,13 +3,13 @@
 =
 *k[b-]
 *met(C|)
-s F
-s A
-s B -
+sF
+sA
+sB-
 =
-s G
+sG
 =
-[ S A
-s c ]
-s d
-*custos F
+[SA
+sc]
+sd
+*custosF

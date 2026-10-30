@@ -5,36 +5,36 @@
 *met(C|)
 =
 =
-m B -
-m A
-s G
-S F
-s r
-[ s F
-S G ]
-s G
-s G
-S G
-s A
-s A
-s : A
-M A
+mB-
+mA
+sG
+SF
+sr
+[sF
+SG]
+sG
+sG
+SG
+sA
+sA
+s:A
+MA
 =
-[ s G
-s : c ]
-M B -
-M A
-M G
-s F
-s r
-[ s E
-s F ]
-S G
-S F
-s F
+[sG
+s:c]
+MB-
+MA
+MG
+sF
+sr
+[sE
+sF]
+SG
+SF
+sF
 =
-s F
-S : G
-s G
-S A
-*custos E
+sF
+S:G
+sG
+SA
+*custosE

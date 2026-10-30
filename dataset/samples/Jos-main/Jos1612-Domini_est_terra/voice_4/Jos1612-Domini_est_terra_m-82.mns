@@ -3,40 +3,40 @@
 =
 *k[b-]
 *met(C|)
-M r
-s cc
-M cc
-M dd
-M ee
-M ff
-M dd
-M : ee
-m dd
-M cc
-M b -
-M a
-M g
-s cc
-s b -
-M a
-M cc
-M b -
-s dd
-s cc
-M b -
-M cc
-M : ff
-m ee
-M ee
-M cc
-M : dd
+Mr
+scc
+Mcc
+Mdd
+Mee
+Mff
+Mdd
+M:ee
+mdd
+Mcc
+Mb-
+Ma
+Mg
+scc
+sb-
+Ma
+Mcc
+Mb-
+sdd
+scc
+Mb-
+Mcc
+M:ff
+mee
+Mee
+Mcc
+M:dd
 =
-m cc
-M cc
-M a
-M : b -
-m b -
-M a
-M f
-M g
-*custos f
+mcc
+Mcc
+Ma
+M:b-
+mb-
+Ma
+Mf
+Mg
+*custosf

@@ -3,41 +3,41 @@
 =
 *k[b-]
 *met(C|)
-m d
-m c #
-m B n
-s c #
-M : d
-m c
-M B -
-M A
-M d
-m c
-m B -
-[ s A
-S : G ]
-s r
-M c
+md
+mc#
+mBn
+sc#
+M:d
+mc
+MB-
+MA
+Md
+mc
+mB-
+[sA
+S:G]
+sr
+Mc
 =
-M d
-M B -
-M : c
-m B -
-M G
-M A
-M B -
-M G
-M : A
-m G
-M E
-s F
-s D
-M r
-M F
-M D
-s G
-M F
+Md
+MB-
+M:c
+mB-
+MG
+MA
+MB-
+MG
+M:A
+mG
+ME
+sF
+sD
+Mr
+MF
+MD
+sG
+MF
 =
-M G
-M d
-*custos D
+MG
+Md
+*custosD

@@ -3,19 +3,19 @@
 *met(C|)
 =
 =
-M c #
-s d
-s r
-M : A
-m B
-M c
-s d
-M c #
+Mc#
+sd
+sr
+M:A
+mB
+Mc
+sd
+Mc#
 =
-s d
-M r
-M f
-s f
-S e
-s g
-*custos A
+sd
+Mr
+Mf
+sf
+Se
+sg
+*custosA

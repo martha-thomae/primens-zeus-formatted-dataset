@@ -3,49 +3,49 @@
 =
 *k[b-]
 *met(C|)
-M BB -
-M C
-M AA
-s BB -
-m AA
-m GG
-[ s FF
-s C ]
-s GG
-M : G
-m F
-M D
-M : E -
-m D
-M BB -
-M C
-M : D
-m C
-M AA
-M BB -
-M C
-s GG
-M r
-s BB -
-M C
-s D
-L C
-M D
-M : BB -
-m C
-M D
-M : GG
-m AA
-M BB -
-M C
-S FF
-s r
-s : C
+MBB-
+MC
+MAA
+sBB-
+mAA
+mGG
+[sFF
+sC]
+sGG
+M:G
+mF
+MD
+M:E-
+mD
+MBB-
+MC
+M:D
+mC
+MAA
+MBB-
+MC
+sGG
+Mr
+sBB-
+MC
+sD
+LC
+MD
+M:BB-
+mC
+MD
+M:GG
+mAA
+MBB-
+MC
+SFF
+sr
+s:C
 =
-M AA
-s AA
-S D
-S GG
-s r
-s C
-*custos FF
+MAA
+sAA
+SD
+SGG
+sr
+sC
+*custosFF

@@ -2,35 +2,35 @@
 *clefC1
 *k[b-]
 *met(C|)
-M G
-M d
-M e
-M f
-M g
-M : b -
+MG
+Md
+Me
+Mf
+Mg
+M:b-
 =
-m a
-M : a
+ma
+M:a
 =
-m g
-s g
-M f #
+mg
+sg
+Mf#
 =
 *met(O/3)
 *met()
 *rscale:2/3
-S : g
+S:g
 *rscale:1
 *met(O/3)
-S : r
-S g
-s g
-S a
-s a
+S:r
+Sg
+sg
+Sa
+sa
 =
 *met(O/3)
-S b -
-s b -
-S a
-s r
-*custos G
+Sb-
+sb-
+Sa
+sr
+*custosG

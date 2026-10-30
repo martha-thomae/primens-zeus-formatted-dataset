@@ -2,33 +2,33 @@
 =
 *clefGv2
 *met(O2)
-s e
+se
 =
-[ s c
-s A ]
-s : e
-M d
-s e
-s : c
-s e
-m d
-m c
-s B
-M A
-M : d
-m e
-s f
-m e
-m d
-s c
-M : d
-m c
-M A
-s d
-M c #
-M : c #
-m B
-S d
-S r
+[sc
+sA]
+s:e
+Md
+se
+s:c
+se
+md
+mc
+sB
+MA
+M:d
+me
+sf
+me
+md
+sc
+M:d
+mc
+MA
+sd
+Mc#
+M:c#
+mB
+Sd
+Sr
 =
-*custos A
+*custosA

@@ -3,43 +3,43 @@
 *k[b-]
 =
 *met(C|)
-m F
-m D
-s G
-M : GG
-m AA
-m BB -
-m GG
-s D
-M r
-s D
-M C
-s BB -
-s AA
-M GG
-M G
-M A
-M F
-M r
-M G
-M A
-M F
-M r
-M G
-M A
-s F
+mF
+mD
+sG
+M:GG
+mAA
+mBB-
+mGG
+sD
+Mr
+sD
+MC
+sBB-
+sAA
+MGG
+MG
+MA
+MF
+Mr
+MG
+MA
+MF
+Mr
+MG
+MA
+sF
 =
-M G
-[ s D
-s GG ]
-s r
+MG
+[sD
+sGG]
+sr
 =
-S G
-S D
-s : E -
-m D
-m C
+SG
+SD
+s:E-
+mD
+mC
 =
-S BB -
-S F
-*custos GG
+SBB-
+SF
+*custosGG

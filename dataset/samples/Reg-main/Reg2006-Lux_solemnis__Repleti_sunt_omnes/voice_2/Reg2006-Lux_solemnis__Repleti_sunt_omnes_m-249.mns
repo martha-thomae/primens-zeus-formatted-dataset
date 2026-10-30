@@ -2,18 +2,18 @@
 =
 *clefF4
 *met(C2)
-s A
-s : A
-M G
-s E
-[ S F
-s E ]
-S C
-s D
-[ S AA
-s BB ]
-S GG
-s C
-s BB
-s AA
-*custos GG
+sA
+s:A
+MG
+sE
+[SF
+sE]
+SC
+sD
+[SAA
+sBB]
+SGG
+sC
+sBB
+sAA
+*custosGG

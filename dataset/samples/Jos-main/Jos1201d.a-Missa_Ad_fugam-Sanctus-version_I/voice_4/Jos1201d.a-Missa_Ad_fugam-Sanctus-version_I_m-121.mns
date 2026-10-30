@@ -3,33 +3,33 @@
 =
 *met(O2)
 =
-S e
-s d
-[ s b -
-s a
-S g ]
-s f #
-S g
+Se
+sd
+[sb-
+sa
+Sg]
+sf#
+Sg
 *clefG2
 =
 *met(C|)
-L g
-S a
-s g
-s b
-s cc
-s : dd
-M cc
-s b
-s : a
-M b
-M cc
-M dd
-s : ee
-M dd
-s : dd
-m cc #
-m b
-s cc #
-S dd
-*custos d
+Lg
+Sa
+sg
+sb
+scc
+s:dd
+Mcc
+sb
+s:a
+Mb
+Mcc
+Mdd
+s:ee
+Mdd
+s:dd
+mcc#
+mb
+scc#
+Sdd
+*custosd

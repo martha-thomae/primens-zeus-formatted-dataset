@@ -3,36 +3,36 @@
 *met(3)
 *met(C|)
 =
-M B
-M c
-s d
-S r
-M d
-M d
-M d
-M c
-M : B
+MB
+Mc
+sd
+Sr
+Md
+Md
+Md
+Mc
+M:B
 =
-m A
-S G
-s : d
-M c
-[ s B
-L A ]
-S r
-S r
-s A
-M G
-M F
-M E
-M A
-M G
-M F
-[ s E
-s A ]
-M G
+mA
+SG
+s:d
+Mc
+[sB
+LA]
+Sr
+Sr
+sA
+MG
+MF
+ME
+MA
+MG
+MF
+[sE
+sA]
+MG
 =
-M F
-s E
+MF
+sE
 =
-*custos E
+*custosE

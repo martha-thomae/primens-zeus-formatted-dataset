@@ -3,26 +3,26 @@
 =
 *met(C)
 =
-S r
-s c
-M c
-s A
+Sr
+sc
+Mc
+sA
 =
-M F
-s A
-M B -
-M G
-S G
+MF
+sA
+MB-
+MG
+SG
 =
-s G
-M r
-M c
-M c
-s A
-M F
-s A
-L B -
+sG
+Mr
+Mc
+Mc
+sA
+MF
+sA
+LB-
 *clefGv2
 *met(C)
-S r
-*custos F
+Sr
+*custosF

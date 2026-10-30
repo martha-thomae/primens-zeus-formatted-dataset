@@ -2,20 +2,20 @@
 *clefF3
 *k[b-]
 *met(C|)
-s FF
-s FF
+sFF
+sFF
 =
-[ S BB -
-S GG ]
-s r
-[ s C
-s AA
-s FF ]
-s BB -
-s D
-s : C
-m BB -
-m AA
-[ s GG
-s C ]
-*custos FF
+[SBB-
+SGG]
+sr
+[sC
+sAA
+sFF]
+sBB-
+sD
+s:C
+mBB-
+mAA
+[sGG
+sC]
+*custosFF

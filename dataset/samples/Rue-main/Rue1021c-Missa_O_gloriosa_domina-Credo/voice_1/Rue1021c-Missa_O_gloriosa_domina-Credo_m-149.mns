@@ -3,17 +3,17 @@
 =
 *met(C2)
 =
-s F
-s r
-s F
+sF
+sr
+sF
 =
-M F
-M A
-M A
-M G
-S F
-s r
-s : F
-m E
-m D
-*custos D
+MF
+MA
+MA
+MG
+SF
+sr
+s:F
+mE
+mD
+*custosD

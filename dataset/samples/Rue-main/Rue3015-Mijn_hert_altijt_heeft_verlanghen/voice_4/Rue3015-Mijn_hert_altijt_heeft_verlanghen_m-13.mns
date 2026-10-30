@@ -2,19 +2,19 @@
 =
 *clefC1
 *met(C|)
-s cc
-M cc
-M : dd
-m cc
-m b -
-m a
-s b -
-s a
-M r
-M ff
-M ee
-M dd
-M cc
+scc
+Mcc
+M:dd
+mcc
+mb-
+ma
+sb-
+sa
+Mr
+Mff
+Mee
+Mdd
+Mcc
 =
-M b -
-*custos a
+Mb-
+*custosa

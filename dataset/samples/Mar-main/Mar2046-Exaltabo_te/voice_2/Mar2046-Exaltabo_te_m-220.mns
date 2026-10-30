@@ -3,17 +3,17 @@
 =
 *met(C)
 =
-s cc
-M b
-M a
-M g
-s cc
-M b
+scc
+Mb
+Ma
+Mg
+scc
+Mb
 =
-s cc
-s r
-M cc
-M cc
-M cc
-M cc
-*custos g
+scc
+sr
+Mcc
+Mcc
+Mcc
+Mcc
+*custosg

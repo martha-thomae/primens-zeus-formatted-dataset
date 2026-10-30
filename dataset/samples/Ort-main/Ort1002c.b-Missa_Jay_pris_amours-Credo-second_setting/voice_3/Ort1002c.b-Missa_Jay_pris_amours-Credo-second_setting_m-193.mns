@@ -3,34 +3,34 @@
 =
 =
 *met(O|)
-s G
-s r
-s r
+sG
+sr
+sr
 =
-[ s d
-S f
-s d
-S g
-S e ]
-S c
+[sd
+Sf
+sd
+Sg
+Se]
+Sc
 =
-s d
-s B
-s r
-s c
-M e
-M f
+sd
+sB
+sr
+sc
+Me
+Mf
 =
-s g
-s f
-s g
-< s f
-s d >
-S f
-s : f
-M e
-M c
-M d
-S e
-S : e
-*custos G
+sg
+sf
+sg
+<sf
+sd>
+Sf
+s:f
+Me
+Mc
+Md
+Se
+S:e
+*custosG

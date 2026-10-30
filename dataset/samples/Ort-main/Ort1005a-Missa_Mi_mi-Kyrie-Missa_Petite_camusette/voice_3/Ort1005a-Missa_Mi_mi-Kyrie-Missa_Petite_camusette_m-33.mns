@@ -2,22 +2,22 @@
 =
 *clefC2
 *met(C|)
-s r
-S e
-s e
-[ s B
-s : d ]
+sr
+Se
+se
+[sB
+s:d]
 =
-m c
-m B
-[ s c
-S d ]
-s B
-[ s c
-s B
-s A ]
-S r
-s E
-M : G
-m A
-*custos E
+mc
+mB
+[sc
+Sd]
+sB
+[sc
+sB
+sA]
+Sr
+sE
+M:G
+mA
+*custosE

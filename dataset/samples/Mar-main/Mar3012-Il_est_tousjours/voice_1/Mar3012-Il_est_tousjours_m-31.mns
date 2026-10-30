@@ -3,18 +3,18 @@
 =
 =
 *met(C|)
-M r
-s C
-M D
-M E
-M F
+Mr
+sC
+MD
+ME
+MF
 =
-s G
-s D
-s d
-[ s e
-s c
-S d ]
-s D
-s G
-*custos C
+sG
+sD
+sd
+[se
+sc
+Sd]
+sD
+sG
+*custosC

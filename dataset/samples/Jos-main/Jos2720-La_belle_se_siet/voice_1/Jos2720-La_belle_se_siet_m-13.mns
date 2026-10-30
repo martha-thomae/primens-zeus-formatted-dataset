@@ -3,24 +3,24 @@
 =
 *k[b-]
 *met(C|)
-s : D
-s BB -
-m AA
-m GG
-s AA
-m GG
-m AA
-m BB -
-m C
-m D
+s:D
+sBB-
+mAA
+mGG
+sAA
+mGG
+mAA
+mBB-
+mC
+mD
 =
-m E
-m F
-m G
-m F
-m D
-s G
-M F #
-s G
-s r
-*custos GG
+mE
+mF
+mG
+mF
+mD
+sG
+MF#
+sG
+sr
+*custosGG

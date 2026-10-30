@@ -3,22 +3,22 @@
 *k[b-e-]
 *met(C|)
 =
-s r
-s EE -
-[ s BB -
-s AA ]
-s : D
-M C
-s BB -
+sr
+sEE-
+[sBB-
+sAA]
+s:D
+MC
+sBB-
 =
-s AA
-s GG
-s EE -
-S FF
-s r
-s C
-M C
-M C
-M C
-M AA -
-*custos EE -
+sAA
+sGG
+sEE-
+SFF
+sr
+sC
+MC
+MC
+MC
+MAA-
+*custosEE-

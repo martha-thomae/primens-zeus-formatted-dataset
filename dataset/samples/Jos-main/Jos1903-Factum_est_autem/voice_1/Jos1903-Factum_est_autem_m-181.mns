@@ -17,24 +17,24 @@ s%M:E
 =
 3%M%2GG#
 *met(C|)
-s AA
-M : C
-m D
-M E
-M F
-M E
-M : F
-m E
-M C
-M D
-M : C
-m AA
-M BB
-M C
-M E
-s D
-s C
-M r
-s D
-M C
-*custos GG #
+sAA
+M:C
+mD
+ME
+MF
+ME
+M:F
+mE
+MC
+MD
+M:C
+mAA
+MBB
+MC
+ME
+sD
+sC
+Mr
+sD
+MC
+*custosGG#

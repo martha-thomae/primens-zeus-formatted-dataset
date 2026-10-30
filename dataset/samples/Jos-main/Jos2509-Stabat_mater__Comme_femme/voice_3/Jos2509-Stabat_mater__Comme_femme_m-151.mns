@@ -3,14 +3,14 @@
 *k[b-]
 *met(C|)
 *MM280
-L F
-L F
-L : c
-S B -
-S G
-S B -
-S A
-S G
-L c
-L d
-*custos F
+LF
+LF
+L:c
+SB-
+SG
+SB-
+SA
+SG
+Lc
+Ld
+*custosF

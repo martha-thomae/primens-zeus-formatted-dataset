@@ -4,38 +4,38 @@
 =
 =
 *met(C)
-M g
-M : b -
-m a
-m g
-m f
-s g
-s f
-[ s a
-s g ]
-M r
-M : f
-m g
-M a
+Mg
+M:b-
+ma
+mg
+mf
+sg
+sf
+[sa
+sg]
+Mr
+M:f
+mg
+Ma
 *met(3)
-M b -
+Mb-
 6a
 6g
 6f
 3g
 3%M%2e
 *met(C)
-s f
+sf
 =
-s r
+sr
 =
-s g
-s f
-M e
-M g
-M f
-M : d
-m c
-M f
-s e
-*custos c
+sg
+sf
+Me
+Mg
+Mf
+M:d
+mc
+Mf
+se
+*custosc

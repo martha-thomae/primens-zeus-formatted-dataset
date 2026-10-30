@@ -3,31 +3,31 @@
 =
 *k[b-]
 *met(C2)
-M r
-M A
-M B -
-M : d
-m c
-M B -
-s A
-M r
-M B -
-M : G
-m A
-M B -
-s c
-M B n
+Mr
+MA
+MB-
+M:d
+mc
+MB-
+sA
+Mr
+MB-
+M:G
+mA
+MB-
+sc
+MBn
 =
-s c
-M c
-M c
-s c
-s c
-X : A
+sc
+Mc
+Mc
+sc
+sc
+X:A
 *clefC4
 *k[b-]
 *met(C2)
-S A
-s A
-s A
-*custos G
+SA
+sA
+sA
+*custosG

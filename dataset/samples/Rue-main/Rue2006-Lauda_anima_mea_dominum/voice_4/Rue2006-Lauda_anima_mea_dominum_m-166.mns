@@ -3,47 +3,47 @@
 *clefC1
 *k[b-]
 *met(3)
-s : c
-M d
-[ s e
-s : f ]
-M g
-M a
-M f
-s b -
-M a
-M g
-s f
-S e
-[ s d
-s : e ]
-M f
-s g
-s a
-s : b -
-m a
-m g
-s a
-s cc
-s dd
-s : g
-M a
-s b -
-s : cc
-M b -
-s : g
-M f
-[ s e
-s d
-S c ]
-s d
-s : e
-M f
-s g
-s : f
-M e
-s c
-S d
-s c #
-S : d
-*custos c
+s:c
+Md
+[se
+s:f]
+Mg
+Ma
+Mf
+sb-
+Ma
+Mg
+sf
+Se
+[sd
+s:e]
+Mf
+sg
+sa
+s:b-
+ma
+mg
+sa
+scc
+sdd
+s:g
+Ma
+sb-
+s:cc
+Mb-
+s:g
+Mf
+[se
+sd
+Sc]
+sd
+s:e
+Mf
+sg
+s:f
+Me
+sc
+Sd
+sc#
+S:d
+*custosc

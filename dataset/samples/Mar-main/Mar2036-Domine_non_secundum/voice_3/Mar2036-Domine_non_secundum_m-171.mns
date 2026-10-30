@@ -2,20 +2,20 @@
 *clefG2
 =
 *met(3)
-s : a
-M g #
-M : g #
-m f #
-s a
-s f
-s e
+s:a
+Mg#
+M:g#
+mf#
+sa
+sf
+se
 =
-[ S d
-s c ]
-s d
-[ s e
-s f ]
-S d
-s c #
-S : d
-*custos c
+[Sd
+sc]
+sd
+[se
+sf]
+Sd
+sc#
+S:d
+*custosc

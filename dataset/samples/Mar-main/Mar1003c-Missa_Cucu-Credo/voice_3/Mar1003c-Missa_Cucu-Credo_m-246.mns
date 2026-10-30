@@ -2,27 +2,27 @@
 *clefC2
 *met(3)
 =
-L c
-[ s A
-s B ]
-s : A
-M G
-[ s E
-s F ]
-S E
-s r
-s r
+Lc
+[sA
+sB]
+s:A
+MG
+[sE
+sF]
+SE
+sr
+sr
 =
-s : e
-M d
-M c
+s:e
+Md
+Mc
 =
-M B
-s A
-s : A
-M F
-s G
-s A
-s : A
-M F
-*custos E
+MB
+sA
+s:A
+MF
+sG
+sA
+s:A
+MF
+*custosE

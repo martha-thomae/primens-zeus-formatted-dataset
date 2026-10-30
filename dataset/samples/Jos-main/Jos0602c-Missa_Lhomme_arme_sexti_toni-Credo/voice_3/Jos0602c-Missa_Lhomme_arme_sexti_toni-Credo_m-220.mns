@@ -3,15 +3,15 @@
 *k[b-]
 =
 *met(C|3)
-[ s D
-S BB - ]
-s C
-s r
-s c
-S d
+[sD
+SBB-]
+sC
+sr
+sc
+Sd
 =
-[ s B -
-s c ]
-S A
+[sB-
+sc]
+SA
 *rscale:1
-*custos BB -
+*custosBB-

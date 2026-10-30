@@ -4,26 +4,26 @@
 *k[b-]
 =
 *met(C|)
-s : D
-M BB -
-M C
+s:D
+MBB-
+MC
 =
-M D
-M : GG
-m AA
-M BB -
-M : C
-m BB -
-m AA
-m GG
-s AA
-M GG
-M BB -
-S AA
-s GG
-s r
-s G
-M A
-M B -
-s c
-*custos GG
+MD
+M:GG
+mAA
+MBB-
+M:C
+mBB-
+mAA
+mGG
+sAA
+MGG
+MBB-
+SAA
+sGG
+sr
+sG
+MA
+MB-
+sc
+*custosGG

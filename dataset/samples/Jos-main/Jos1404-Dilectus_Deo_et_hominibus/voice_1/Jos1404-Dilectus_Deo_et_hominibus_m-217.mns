@@ -2,27 +2,27 @@
 *clefF4
 *met(3)
 *met(C|)
-S C
-s r
-S C
-s C
-s C
-s C
-s GG
-s GG
-S AA
-M r
-M AA
-M GG
-M : AA
-m BB
-m C
-m D
-M E
-M A
-M G
-s A
-m G
-m F
-S E
-*custos GG
+SC
+sr
+SC
+sC
+sC
+sC
+sGG
+sGG
+SAA
+Mr
+MAA
+MGG
+M:AA
+mBB
+mC
+mD
+ME
+MA
+MG
+sA
+mG
+mF
+SE
+*custosGG

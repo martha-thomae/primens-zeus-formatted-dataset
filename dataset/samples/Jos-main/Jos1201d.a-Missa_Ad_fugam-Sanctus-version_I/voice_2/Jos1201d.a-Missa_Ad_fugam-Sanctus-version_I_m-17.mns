@@ -4,24 +4,24 @@
 =
 *met(O)
 =
-s e
-S d
-M c
-M f
-M g
-s e
-M d
-s f
-s r
-s e
-M : d
+se
+Sd
+Mc
+Mf
+Mg
+se
+Md
+sf
+sr
+se
+M:d
 =
-m e
-M f
-s g
-M f #
-s g
-M f
-M e
-s d
-*custos c
+me
+Mf
+sg
+Mf#
+sg
+Mf
+Me
+sd
+*custosc

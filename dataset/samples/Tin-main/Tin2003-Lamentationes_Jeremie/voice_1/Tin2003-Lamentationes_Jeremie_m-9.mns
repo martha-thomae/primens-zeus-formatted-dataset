@@ -3,17 +3,17 @@
 =
 *k[b-]
 *met(C|)
-M AA
-s BB -
-[ s C
-s D ]
-L GG
+MAA
+sBB-
+[sC
+sD]
+LGG
 *clefF4
 *k[b-]
 *met(C|)
-L G
-S A
-[ S D
-s G ]
-s B -
-*custos GG
+LG
+SA
+[SD
+sG]
+sB-
+*custosGG

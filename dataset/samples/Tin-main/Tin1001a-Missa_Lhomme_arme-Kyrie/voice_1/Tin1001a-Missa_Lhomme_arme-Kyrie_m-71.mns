@@ -5,32 +5,32 @@
 *met(C|)
 *MM315
 =
-M : BB -
-m C
-M : D
-m E
-M : F
-m G
-M A
-s : G
-[ s D
-L GG ]
+M:BB-
+mC
+M:D
+mE
+M:F
+mG
+MA
+s:G
+[sD
+LGG]
 *clefF4
 *k[b-]
 *met(O|)
 *MM378
-S : G
-s : C
-M D
+S:G
+s:C
+MD
 =
 =
-s E
-s F
-S C
-s G
-s r
-s r
-S : GG
-s D
-S D
-*custos GG
+sE
+sF
+SC
+sG
+sr
+sr
+S:GG
+sD
+SD
+*custosGG

@@ -2,40 +2,40 @@
 *clefF4
 *k[b-e-]
 *met(O|)
-S AA
+SAA
 =
-s AA
+sAA
 *k[b-]
-s C
-S GG
+sC
+SGG
 =
-S : r
-s r
-S AA
+S:r
+sr
+SAA
 =
-S C
-s D
-s C
-S BB -
-S AA
-s BB -
-s C
-S GG
-s AA
+SC
+sD
+sC
+SBB-
+SAA
+sBB-
+sC
+SGG
+sAA
 =
-M AA
-s AA
-M C
-M D
-M C
-M D
-M AA
-s D
-M : AA
-m BB -
-m C
-m D
-m E
-m F
-s G
-*custos GG
+MAA
+sAA
+MC
+MD
+MC
+MD
+MAA
+sD
+M:AA
+mBB-
+mC
+mD
+mE
+mF
+sG
+*custosGG

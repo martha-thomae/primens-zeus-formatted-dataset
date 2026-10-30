@@ -8,18 +8,18 @@ s%M:a
 3a
 3%M%2a
 3%m%4b-
-S a
-s r
-s cc
-s cc
-M b
-M g
-M : a
+Sa
+sr
+scc
+scc
+Mb
+Mg
+M:a
 =
-m b
-s cc
-S r
-S r
+mb
+scc
+Sr
+Sr
 3%M%2a
 3%M%2a
 3%M%2a
@@ -28,4 +28,4 @@ S r
 3%M%2g
 3%M%2f
 3%m%4g
-*custos f
+*custosf

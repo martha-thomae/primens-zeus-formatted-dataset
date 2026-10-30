@@ -2,18 +2,18 @@
 *clefF3
 *k[b-]
 *met(C|)
-s C
-M AA
-M BB -
-s GG
-s FF
-s r
-[ s C
-s BB - ]
-s C
-s FF
-s r
-s r
-M r
-M F
-*custos FF
+sC
+MAA
+MBB-
+sGG
+sFF
+sr
+[sC
+sBB-]
+sC
+sFF
+sr
+sr
+Mr
+MF
+*custosFF

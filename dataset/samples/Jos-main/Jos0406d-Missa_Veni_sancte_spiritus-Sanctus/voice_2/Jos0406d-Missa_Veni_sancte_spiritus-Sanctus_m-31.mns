@@ -3,51 +3,51 @@
 =
 *met(C|)
 =
-s F
-m E
-m D
-M C
-s c
-m B
-m A
-s G
-s A
-M F
-s A
-m G
-m F
-s E
-M D
+sF
+mE
+mD
+MC
+sc
+mB
+mA
+sG
+sA
+MF
+sA
+mG
+mF
+sE
+MD
 =
-s d
-M c
-s d
-s A
+sd
+Mc
+sd
+sA
 =
-s r
-s : E
-M F
-s G
-M : D
-m E
-m F
-m G
-s A
-m G
-m F
-M : E
-m F
-M G
-M A
-[ s D
-s G ]
+sr
+s:E
+MF
+sG
+M:D
+mE
+mF
+mG
+sA
+mG
+mF
+M:E
+mF
+MG
+MA
+[sD
+sG]
 =
-s E
+sE
 =
-< s F
-s G >
+<sF
+sG>
 =
-s D
-[ S E
-S D ]
-*custos C
+sD
+[SE
+SD]
+*custosC

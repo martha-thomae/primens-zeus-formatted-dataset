@@ -3,43 +3,43 @@
 *k[b-]
 *met(C|)
 =
-M C
-M BB -
-M C
-M GG
+MC
+MBB-
+MC
+MGG
 =
-M C
-M BB -
-M C
-M BB -
-M : E -
-m D
-M C
-M BB -
-M C
-M FF
-s GG
-S FF
+MC
+MBB-
+MC
+MBB-
+M:E-
+mD
+MC
+MBB-
+MC
+MFF
+sGG
+SFF
 *clefF4
 *k[b-]
 *met(C|)
-S BB -
-s C
-s BB -
-[ s C
-s D ]
-M E
-s G
-M F
-M G
-M GG
-s AA
-s GG
-M r
-M C
-M BB -
+SBB-
+sC
+sBB-
+[sC
+sD]
+ME
+sG
+MF
+MG
+MGG
+sAA
+sGG
+Mr
+MC
+MBB-
 =
-M : C
-m D
-M E -
-*custos FF
+M:C
+mD
+ME-
+*custosFF

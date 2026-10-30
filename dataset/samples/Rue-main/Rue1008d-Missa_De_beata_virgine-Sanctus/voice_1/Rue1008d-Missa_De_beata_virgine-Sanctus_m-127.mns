@@ -3,48 +3,48 @@
 *k[b-]
 =
 *met(C|)
-m c
-s c
-M B n
+mc
+sc
+MBn
 =
-s c
-M r
-M F
-s c
-M d
-M B -
-M c
-M : d
-m c
-s c
-M B n
-S : c
-M r
-M F
-M c
-M d
-M B -
-M c
-M d
-M B -
-[ s c
-s F ]
-S c
+sc
+Mr
+MF
+sc
+Md
+MB-
+Mc
+M:d
+mc
+sc
+MBn
+S:c
+Mr
+MF
+Mc
+Md
+MB-
+Mc
+Md
+MB-
+[sc
+sF]
+Sc
 *clefF4
 *k[b-]
 *met(O|)
-s : F
-[ s : G
-s : A ]
-M G
-M : F
-m E
-[ S C
-s A
-s B - ]
-< S G
-s F >
-s r
-M r
-M G
-*custos C
+s:F
+[s:G
+s:A]
+MG
+M:F
+mE
+[SC
+sA
+sB-]
+<SG
+sF>
+sr
+Mr
+MG
+*custosC

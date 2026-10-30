@@ -3,20 +3,20 @@
 =
 *met(C|)
 =
-m C
-m BB
-m AA
-M GG
-M AA
-M C
-M D
-s BB
-M AA
-M : A
-m G
-m F
-m E
-s F
-M : E
-m F
-*custos GG
+mC
+mBB
+mAA
+MGG
+MAA
+MC
+MD
+sBB
+MAA
+M:A
+mG
+mF
+mE
+sF
+M:E
+mF
+*custosGG

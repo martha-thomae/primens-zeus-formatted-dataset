@@ -3,33 +3,33 @@
 *k[b-]
 *met(C|)
 *MM315
-s r
-s G
-s c
+sr
+sG
+sc
 3c
 3B-
 3c
-S d
-s G
-M : F
-m G
-M A
-M D
-s G
-L D
-S r
-M r
-M : D
-m E
-M F
-M : BB -
-m C
-M D
-M GG
-s G
-s r
-S G
-S D
-s : E
-M C
-*custos GG
+Sd
+sG
+M:F
+mG
+MA
+MD
+sG
+LD
+Sr
+Mr
+M:D
+mE
+MF
+M:BB-
+mC
+MD
+MGG
+sG
+sr
+SG
+SD
+s:E
+MC
+*custosGG

@@ -2,13 +2,13 @@
 *clefF4
 =
 *met(O)
-[ S AA
-s BB -
-s GG ]
-[ s D
-s E ]
+[SAA
+sBB-
+sGG]
+[sD
+sE]
 =
-< S : AA
-s BB - >
-S GG
-*custos GG
+<S:AA
+sBB->
+SGG
+*custosGG

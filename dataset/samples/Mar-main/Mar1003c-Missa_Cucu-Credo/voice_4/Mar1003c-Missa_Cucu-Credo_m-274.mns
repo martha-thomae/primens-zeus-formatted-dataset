@@ -1,14 +1,14 @@
 **mens
 *clefG2
 *met(C|)
-s a
-s : a
-M g #
-M : g #
-m f #
-S a
+sa
+s:a
+Mg#
+M:g#
+mf#
+Sa
 *clefG2
 =
 *met(C|)
-S a
-*custos f #
+Sa
+*custosf#

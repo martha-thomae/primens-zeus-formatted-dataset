@@ -3,36 +3,36 @@
 =
 *k[b-]
 *met(C|)
-S r
-S A
-M G
+Sr
+SA
+MG
 =
-M A
-s B -
-s : c
-M : B -
-m A
-m G
-m F
-s G
-S F
-M r
-M c
-M c
-M c
-S A
+MA
+sB-
+s:c
+M:B-
+mA
+mG
+mF
+sG
+SF
+Mr
+Mc
+Mc
+Mc
+SA
 =
-S r
-M r
-M d
-M d
-M d
-s : c
-M : B -
-m A
-m G
-m F
-M G
-M G
-L F
-*custos F
+Sr
+Mr
+Md
+Md
+Md
+s:c
+M:B-
+mA
+mG
+mF
+MG
+MG
+LF
+*custosF

@@ -4,23 +4,23 @@
 =
 =
 *met(C|)
-s FF
-s r
-s : AA
-M AA
-s C
-[ s D
-s C ]
-M r
-M F
-s F
-M F
-M : FF
-m GG
-m AA
-m BB -
-M C
-M AA
-s BB -
-s AA
-*custos FF
+sFF
+sr
+s:AA
+MAA
+sC
+[sD
+sC]
+Mr
+MF
+sF
+MF
+M:FF
+mGG
+mAA
+mBB-
+MC
+MAA
+sBB-
+sAA
+*custosFF

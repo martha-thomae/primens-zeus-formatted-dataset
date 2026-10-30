@@ -2,21 +2,21 @@
 =
 *clefF4
 *met(C|)
-s r
-S A
-s F
-s : G
-M E
-s E
-s : F
-M E
-s D
-s : C
-M D
-s E
-S F
-S E
-S r
-S r
-S r
-*custos C
+sr
+SA
+sF
+s:G
+ME
+sE
+s:F
+ME
+sD
+s:C
+MD
+sE
+SF
+SE
+Sr
+Sr
+Sr
+*custosC

@@ -4,15 +4,15 @@
 *met(O)
 *met(C|)
 *rscale:1
-S r
-s r
-s F
-s G
-s A
-s B
-M A
-s F
-M G
-M A
-M B -
-*custos F
+Sr
+sr
+sF
+sG
+sA
+sB
+MA
+sF
+MG
+MA
+MB-
+*custosF

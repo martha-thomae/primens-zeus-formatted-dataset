@@ -2,21 +2,21 @@
 *clefF4
 *met(C|)
 =
-M C
+MC
 =
-s C
-M C
-s D
-s E
-[ S F
-s E ]
-< s D
-s C >
-s C
+sC
+MC
+sD
+sE
+[SF
+sE]
+<sD
+sC>
+sC
 =
-s : F
-M F
-s F
-s F
-S C
-*custos C
+s:F
+MF
+sF
+sF
+SC
+*custosC

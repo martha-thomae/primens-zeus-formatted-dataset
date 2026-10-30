@@ -2,18 +2,18 @@
 *clefF4
 *met(3)
 =
-s BB
-S AA
-S GG
-s r
-s : D
-M E
-s F
-S G
-s A
-[ s G
-s D
-s F ]
-[ s G
-S D ]
-*custos GG
+sBB
+SAA
+SGG
+sr
+s:D
+ME
+sF
+SG
+sA
+[sG
+sD
+sF]
+[sG
+SD]
+*custosGG

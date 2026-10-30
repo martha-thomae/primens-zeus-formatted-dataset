@@ -3,24 +3,24 @@
 =
 *k[b-]
 *met(3)
-s E
-S D
-s : C
-M D
-s E
-s AA
-s : F
-M E
-M D
-M C
-s BB -
-s F
-[ s G
-s : F ]
-M E
-s C
-S D
-S C
-s C
-S : D
-*custos AA
+sE
+SD
+s:C
+MD
+sE
+sAA
+s:F
+ME
+MD
+MC
+sBB-
+sF
+[sG
+s:F]
+ME
+sC
+SD
+SC
+sC
+S:D
+*custosAA

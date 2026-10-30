@@ -1,20 +1,20 @@
 **mens
 *clefF4
 *met(C|)
-S C
-S r
-S r
+SC
+Sr
+Sr
 *met(2)
 *rscale:2
-M : C
-m D
-M E
-M F
-M D
-M F
-s C
-S r
-s : C
-M D
+M:C
+mD
+ME
+MF
+MD
+MF
+sC
+Sr
+s:C
+MD
 =
-*custos C
+*custosC

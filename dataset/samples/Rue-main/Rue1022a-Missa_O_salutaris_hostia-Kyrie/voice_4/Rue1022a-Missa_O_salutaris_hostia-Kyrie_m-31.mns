@@ -3,16 +3,16 @@
 *k[b-]
 *met(C2)
 =
-S r
-S cc
-s a
-s b -
-S a
-M r
-s dd
-M cc
+Sr
+Scc
+sa
+sb-
+Sa
+Mr
+sdd
+Mcc
 =
-s dd
-M dd
-M b -
-*custos a
+sdd
+Mdd
+Mb-
+*custosa

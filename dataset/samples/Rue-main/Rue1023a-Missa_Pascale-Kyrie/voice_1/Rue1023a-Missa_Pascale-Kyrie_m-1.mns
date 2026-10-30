@@ -3,44 +3,44 @@
 =
 *met(O)
 =
-s r
-s r
-s G
-M G
-s E
-m D
-m C
-M BB
-M E
-M : AA
-m BB
-M C
-M D
-s AA
-M AA
-M : C
+sr
+sr
+sG
+MG
+sE
+mD
+mC
+MBB
+ME
+M:AA
+mBB
+MC
+MD
+sAA
+MAA
+M:C
 =
-m BB
-m AA
-m GG
-S FF
-M : FF
-m GG
-M AA
-M FF
-M : C
-m D
-m E
-m C
-s F
-M E
-s F
-s FF
-M r
-M F
-M : F
-m E
-M D
-M C
-s BB
-*custos FF
+mBB
+mAA
+mGG
+SFF
+M:FF
+mGG
+MAA
+MFF
+M:C
+mD
+mE
+mC
+sF
+ME
+sF
+sFF
+Mr
+MF
+M:F
+mE
+MD
+MC
+sBB
+*custosFF

@@ -5,28 +5,28 @@
 *met(O)
 =
 =
-s C
-M C
+sC
+MC
 =
-M : C
-m D
-m E
-m F
-M G
-M C
-M : E
-m F
-S G
-M r
-s G
-M G
+M:C
+mD
+mE
+mF
+MG
+MC
+M:E
+mF
+SG
+Mr
+sG
+MG
 =
-M F
-s B
+MF
+sB
 =
-M A
-M G
-m F
+MA
+MG
+mF
 =
-m E
-*custos C
+mE
+*custosC

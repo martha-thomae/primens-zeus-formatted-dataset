@@ -3,14 +3,14 @@
 =
 =
 *met(C|)
-s AA
-s C
-S : D
+sAA
+sC
+S:D
 =
-s C
-S C
-M r
-M G
-M D
-M G
-*custos AA
+sC
+SC
+Mr
+MG
+MD
+MG
+*custosAA

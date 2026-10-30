@@ -1,19 +1,19 @@
 **mens
 *clefGv2
 *met(C)
-s f
-M g
-s e
-m d
-m c
-M B
-M : c
-m d
-M e
-M d
-M c
-s d
-s c
+sf
+Mg
+se
+md
+mc
+MB
+M:c
+md
+Me
+Md
+Mc
+sd
+sc
 *clefGv2
 *met(C)
 3%M%2e
@@ -21,4 +21,4 @@ s c
 3%M%2a
 3%m%4g
 3%M%2g
-*custos B
+*custosB

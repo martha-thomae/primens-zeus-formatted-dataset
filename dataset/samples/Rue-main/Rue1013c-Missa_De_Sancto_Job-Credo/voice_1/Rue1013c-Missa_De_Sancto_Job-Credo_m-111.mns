@@ -4,20 +4,20 @@
 *met(C|)
 =
 =
-s BB -
-s BB -
-S D
-M : C
-m D
-M E -
-M : F
-m E -
-M C
-M G
-M F
-[ s G
-s D ]
-s GG
-M r
-M G
-*custos GG
+sBB-
+sBB-
+SD
+M:C
+mD
+ME-
+M:F
+mE-
+MC
+MG
+MF
+[sG
+sD]
+sGG
+Mr
+MG
+*custosGG

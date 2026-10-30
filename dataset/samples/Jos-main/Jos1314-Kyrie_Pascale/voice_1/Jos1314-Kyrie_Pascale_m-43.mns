@@ -3,32 +3,32 @@
 *met(C|)
 *clefF4
 *met(C|)
-S F
-s G
-s : F
+SF
+sG
+s:F
 =
-m E
-m D
-s E
-M : D
-m E
+mE
+mD
+sE
+M:D
+mE
 =
-m F
-m G
-s A
-m G
-m F
-s G
-M : F
-m G
-m A
-m B
-s c
+mF
+mG
+sA
+mG
+mF
+sG
+M:F
+mG
+mA
+mB
+sc
 =
-m B
-m A
-s G
-M F
-M E
-s D
-*custos D
+mB
+mA
+sG
+MF
+ME
+sD
+*custosD

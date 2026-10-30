@@ -1,26 +1,26 @@
 **mens
 *clefF4
 *met(C|3)
-S AA
-S BB -
+SAA
+SBB-
 =
-S AA
-s r
+SAA
+sr
 =
-s r
-s A
-s : A
-M G
-s F
-S E
-s F
-s E
-s : C
-M BB
-S GG
-s D
-s : E
-M F
-s G
+sr
+sA
+s:A
+MG
+sF
+SE
+sF
+sE
+s:C
+MBB
+SGG
+sD
+s:E
+MF
+sG
 =
-*custos GG
+*custosGG

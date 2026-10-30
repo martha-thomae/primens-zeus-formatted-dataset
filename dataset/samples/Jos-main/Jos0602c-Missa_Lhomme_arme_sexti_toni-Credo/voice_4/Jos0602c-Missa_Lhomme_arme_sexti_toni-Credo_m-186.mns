@@ -3,13 +3,13 @@
 *k[b-]
 *met(C|)
 *met(C|3)
-S : r
-S : r
-s r
-s r
-[ s g
-S a ]
-s a
-[ s g
-S f ]
-*custos f
+S:r
+S:r
+sr
+sr
+[sg
+Sa]
+sa
+[sg
+Sf]
+*custosf

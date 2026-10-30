@@ -2,19 +2,19 @@
 *clefC2
 *k[b-]
 *met(C|3)
-s : d
-M c
-M B -
-M A
-s G
-S C
-s D
-s : BB -
-M AA
+s:d
+Mc
+MB-
+MA
+sG
+SC
+sD
+s:BB-
+MAA
 *met(Cr)
 *rscale:2
-s C
-M r
-M C
+sC
+Mr
+MC
 *rscale:1
-*custos AA
+*custosAA

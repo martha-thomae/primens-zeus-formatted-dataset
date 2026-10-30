@@ -2,31 +2,31 @@
 *clefG2
 *k[b-]
 *met(3)
-s : f
-M e
-s e
-s : a
-M g
-s g
-[ s a
-S f ]
-s f
-[ s d
-s e ]
-[ S f
-s e ]
-[ s c
-S f ]
-S e
-s e
-s : a
-M g
-s f
-s : e
-M f
-[ s g
-s a ]
-[ S g
-S e ]
-s g
-*custos c
+s:f
+Me
+se
+s:a
+Mg
+sg
+[sa
+Sf]
+sf
+[sd
+se]
+[Sf
+se]
+[sc
+Sf]
+Se
+se
+s:a
+Mg
+sf
+s:e
+Mf
+[sg
+sa]
+[Sg
+Se]
+sg
+*custosc

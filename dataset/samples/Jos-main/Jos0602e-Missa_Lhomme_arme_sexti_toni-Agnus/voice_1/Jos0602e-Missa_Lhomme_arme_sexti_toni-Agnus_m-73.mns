@@ -3,21 +3,21 @@
 =
 *k[b-]
 *met(C|)
-M D
-s C
+MD
+sC
 =
-S BB -
-S F
+SBB-
+SF
 *clefF4
 *k[b-]
 *rscale:1/2
 *met(O)
-L : FF
-S C
-L C
-S r
-L FF
+L:FF
+SC
+LC
+Sr
+LFF
 =
-S FF
+SFF
 *rscale:1
-*custos FF
+*custosFF

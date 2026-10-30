@@ -2,16 +2,16 @@
 *clefG2
 *met(C)
 =
-M cc #
-s dd
-s r
-s cc
-s cc
-M : a
-m b
-M cc
-s dd
-s cc
-M b
-s cc
-*custos a
+Mcc#
+sdd
+sr
+scc
+scc
+M:a
+mb
+Mcc
+sdd
+scc
+Mb
+scc
+*custosa

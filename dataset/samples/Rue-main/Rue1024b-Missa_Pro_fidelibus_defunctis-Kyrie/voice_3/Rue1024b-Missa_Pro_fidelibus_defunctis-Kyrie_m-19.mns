@@ -3,12 +3,12 @@
 *k[b-e-]
 *met(C|)
 *MM400
-S C
-S BB -
-S E -
-S D
+SC
+SBB-
+SE-
+SD
 =
-L C
-s D
-s E -
-*custos BB -
+LC
+sD
+sE-
+*custosBB-

@@ -3,40 +3,40 @@
 *k[b-]
 *met(O|)
 *MM378
-s b -
-M : cc
-m b -
-M a
-M g
+sb-
+M:cc
+mb-
+Ma
+Mg
 =
-s : g
-m f #
-m e
-s f #
+s:g
+mf#
+me
+sf#
 *met(C2/3)
 *MM252
-L g
-S r
-S r
-s c
-s d
-s e
-M d
-M : f
-m e
-m d
-m c
-s e
-S d
-M : c
-m d
-M e
-s d
-M c
-M B -
-m A
-m G
-S A
-s r
-s a
-*custos G
+Lg
+Sr
+Sr
+sc
+sd
+se
+Md
+M:f
+me
+md
+mc
+se
+Sd
+M:c
+md
+Me
+sd
+Mc
+MB-
+mA
+mG
+SA
+sr
+sa
+*custosG

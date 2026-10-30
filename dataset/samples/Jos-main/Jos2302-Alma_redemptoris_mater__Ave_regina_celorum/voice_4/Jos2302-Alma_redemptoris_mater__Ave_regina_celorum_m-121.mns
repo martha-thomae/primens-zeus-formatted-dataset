@@ -1,34 +1,34 @@
 **mens
 *clefG2
 *met(C|)
-M cc
-M b
-s cc
-M b
-s a
-s g
-s r
-S r
+Mcc
+Mb
+scc
+Mb
+sa
+sg
+sr
+Sr
 =
-s g
-M g
-M : a
-m g
-m f
-m e
-s f
-s e
-s r
-S r
-M : g
-m a
-m b
+sg
+Mg
+M:a
+mg
+mf
+me
+sf
+se
+sr
+Sr
+M:g
+ma
+mb
 =
-m cc
-s dd
+mcc
+sdd
 =
-s cc
-M b
+scc
+Mb
 *met(3)
 =
 3%U%m:cc
@@ -36,4 +36,4 @@ M b
 3%m%4g
 3%M%2g
 =
-*custos e
+*custose

@@ -1,33 +1,33 @@
 **mens
 *clefF3
 *met(C|)
-s : BB -
-M AA
-[ S GG
-L FF ]
-S GG
-S D
-L GG
+s:BB-
+MAA
+[SGG
+LFF]
+SGG
+SD
+LGG
 *clefF3
 =
 *met(C|)
-s GG
-M GG
-M GG
-s GG
-M : D
-m E
-M F
-M : D
-m E
-m F
-m G
-M A
-M D
-s D
-L : GG
-s r
-M r
-M G
+sGG
+MGG
+MGG
+sGG
+M:D
+mE
+MF
+M:D
+mE
+mF
+mG
+MA
+MD
+sD
+L:GG
+sr
+Mr
+MG
 =
-*custos FF
+*custosFF

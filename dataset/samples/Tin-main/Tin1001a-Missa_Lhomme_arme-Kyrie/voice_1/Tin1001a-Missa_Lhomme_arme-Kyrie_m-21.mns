@@ -3,51 +3,51 @@
 *k[b-]
 *met(O)
 *MM252
-s D
-s C
-M GG
-M : C
-m BB -
-m AA
-m GG
-M AA
-M GG
-s D
-M r
-s GG
-M : GG
-m AA
-M BB -
-s AA
-M A
-M : G
-m F
-M D
-s E
-M r
-M D
-s : G
-M A
-M F
-M G
-s D
-S : GG
+sD
+sC
+MGG
+M:C
+mBB-
+mAA
+mGG
+MAA
+MGG
+sD
+Mr
+sGG
+M:GG
+mAA
+MBB-
+sAA
+MA
+M:G
+mF
+MD
+sE
+Mr
+MD
+s:G
+MA
+MF
+MG
+sD
+S:GG
 *clefF4
 *k[b-]
 *met(C|)
 *MM315
-S GG
-M GG
-m AA
-m BB -
-M : C
-m D
-M E
-M F
-M : G
-m F
-m E
-m D
-M C
-s D
-*custos GG
+SGG
+MGG
+mAA
+mBB-
+M:C
+mD
+ME
+MF
+M:G
+mF
+mE
+mD
+MC
+sD
+*custosGG

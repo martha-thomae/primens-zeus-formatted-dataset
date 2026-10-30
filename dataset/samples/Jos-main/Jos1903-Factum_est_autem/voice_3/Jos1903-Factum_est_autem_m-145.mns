@@ -1,14 +1,14 @@
 **mens
 *clefC2
 *met(C|)
-s d
-M : c
-m B
-m c
-m d
-s e
-m d
-m c
+sd
+M:c
+mB
+mc
+md
+se
+md
+mc
 *met(3/2)
 =
 3B
@@ -18,23 +18,23 @@ m c
 3F
 3G
 *met(C|)
-M C
-s c
-M B
-S c
-M r
-s c
-M B
-s A
-s : d
-M e
-s d
-M B
-M c
-M B
-M : e
-m d
-s c
-M B
+MC
+sc
+MB
+Sc
+Mr
+sc
+MB
+sA
+s:d
+Me
+sd
+MB
+Mc
+MB
+M:e
+md
+sc
+MB
 =
-*custos C
+*custosC

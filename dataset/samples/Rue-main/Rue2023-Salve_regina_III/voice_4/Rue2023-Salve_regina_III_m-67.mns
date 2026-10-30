@@ -3,23 +3,23 @@
 *met(C)
 *clefC1
 *met(C)
-S cc
-s ee
-s ff
-s gg
-M gg
-s ee
+Scc
+see
+sff
+sgg
+Mgg
+see
 =
-M dd
-s cc
-M : b
-m cc
-s a
-M : g
-m a
-M b
+Mdd
+scc
+M:b
+mcc
+sa
+M:g
+ma
+Mb
 =
-s cc
-s b
-M a
-*custos g
+scc
+sb
+Ma
+*custosg

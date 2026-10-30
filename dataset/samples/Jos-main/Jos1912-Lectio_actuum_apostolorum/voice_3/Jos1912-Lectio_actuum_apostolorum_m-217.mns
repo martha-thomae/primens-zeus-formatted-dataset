@@ -3,19 +3,19 @@
 =
 *met(3)
 *met(C|)
-S r
-[ S d
-S e
-S d ]
+Sr
+[Sd
+Se
+Sd]
 =
-S c
-S d
-S d
-S c
+Sc
+Sd
+Sd
+Sc
 *met(3)
-S : B
-S : B
-S : r
-S : r
-S : r
-*custos B
+S:B
+S:B
+S:r
+S:r
+S:r
+*custosB

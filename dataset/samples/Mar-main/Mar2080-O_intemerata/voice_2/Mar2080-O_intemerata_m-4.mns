@@ -2,12 +2,12 @@
 *clefC4
 *met(C|)
 =
-s r
-s f
-[ s g
-S e ]
+sr
+sf
+[sg
+Se]
 =
-s c
-[ s d
-s e ]
-*custos c
+sc
+[sd
+se]
+*custosc

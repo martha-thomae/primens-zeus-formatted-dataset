@@ -2,55 +2,55 @@
 =
 *clefGv2
 *met(C|)
-S e
-M c
+Se
+Mc
 =
-s A
-s A
-M d
-M A
-M : d
+sA
+sA
+Md
+MA
+M:d
 =
-m c
-M A
-M B
-M : A
-m B
-m c
-m d
-M e
-M : f
-m e
-s e
-M d
-S e
-S r
-s : c
-M c
-s d
-[ s f
-s e ]
-< s d
-s c >
-s c
-m A
-m B
-m c
+mc
+MA
+MB
+M:A
+mB
+mc
+md
+Me
+M:f
+me
+se
+Md
+Se
+Sr
+s:c
+Mc
+sd
+[sf
+se]
+<sd
+sc>
+sc
+mA
+mB
+mc
 =
-m d
-M e
-s f
-s e
-m d
-m c
-M d
-s e
-M d
-S e
+md
+Me
+sf
+se
+md
+mc
+Md
+se
+Md
+Se
 *met()
-S : r
+S:r
 *met(3)
-s c
-s c
-s A
-*custos A
+sc
+sc
+sA
+*custosA

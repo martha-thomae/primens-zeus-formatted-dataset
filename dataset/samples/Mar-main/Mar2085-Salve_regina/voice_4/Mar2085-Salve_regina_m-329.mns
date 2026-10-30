@@ -2,15 +2,15 @@
 *clefG2
 *k[b-]
 *met(C)
-s r
-s g
-s a
+sr
+sg
+sa
 *met(3)
 3%M%2b-
 3g
 3%M%2a
 3a
-M b -
+Mb-
 6a
 3g
 3%M%2f
@@ -24,5 +24,5 @@ M b -
 3f#
 =
 *met(C)
-S g
-*custos d
+Sg
+*custosd

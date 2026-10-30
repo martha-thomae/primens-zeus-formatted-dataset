@@ -2,13 +2,13 @@
 =
 *clefC4
 *met(C|)
-s r
-s A
-s A
+sr
+sA
+sA
 =
-s A
-s E
-M : E
-m F
-S G
-*custos E
+sA
+sE
+M:E
+mF
+SG
+*custosE

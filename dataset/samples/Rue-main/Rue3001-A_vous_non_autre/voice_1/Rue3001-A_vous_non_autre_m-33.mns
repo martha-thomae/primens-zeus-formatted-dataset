@@ -3,28 +3,28 @@
 =
 *met(C|)
 =
-m E
-s D
-M C
-M D
+mE
+sD
+MC
+MD
 =
-m DD
-m EE
-m FF
-m GG
-M AA
-m EE
-m FF
-m GG
-m AA
-M BB
-M C
-M D
-M DD
-s AA
-M r
-M : DD
-m EE
-m FF
-m GG
-*custos DD
+mDD
+mEE
+mFF
+mGG
+MAA
+mEE
+mFF
+mGG
+mAA
+MBB
+MC
+MD
+MDD
+sAA
+Mr
+M:DD
+mEE
+mFF
+mGG
+*custosDD

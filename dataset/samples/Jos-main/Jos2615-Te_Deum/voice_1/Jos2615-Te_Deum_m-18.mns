@@ -3,56 +3,56 @@
 =
 =
 *met(C|)
-s AA
-[ s D
-s C ]
-M BB
-s C
-m BB
-m AA
-s BB
-M AA
-M A
-M G
-s A
-M F
-s E
-M AA
-M D
-s GG
-M r
-s G
-m F
-m E
-[ s F
-s E ]
-s F
-M E
-M D
-s : G
-M D
-M F
-M G
+sAA
+[sD
+sC]
+MBB
+sC
+mBB
+mAA
+sBB
+MAA
+MA
+MG
+sA
+MF
+sE
+MAA
+MD
+sGG
+Mr
+sG
+mF
+mE
+[sF
+sE]
+sF
+ME
+MD
+s:G
+MD
+MF
+MG
 =
-s D
-M r
-M : E
-m D
-m C
-m BB
-M C
-M BB
-s C
-s GG
-s C
-M BB
-s C
-M BB
-[ s C
-s GG ]
+sD
+Mr
+M:E
+mD
+mC
+mBB
+MC
+MBB
+sC
+sGG
+sC
+MBB
+sC
+MBB
+[sC
+sGG]
 *clefF4
 =
 *met(C|)
-S r
-S r
-*custos GG
+Sr
+Sr
+*custosGG

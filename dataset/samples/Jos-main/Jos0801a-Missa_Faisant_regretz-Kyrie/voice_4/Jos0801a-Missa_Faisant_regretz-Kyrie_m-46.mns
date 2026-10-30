@@ -3,52 +3,52 @@
 *k[b-]
 *met(C|)
 *met(O)
-s r
-s r
-M : g
-m a
-m b -
-m a
-M : b -
-m a
-s g
-M f #
-[ S g
-s cc ]
+sr
+sr
+M:g
+ma
+mb-
+ma
+M:b-
+ma
+sg
+Mf#
+[Sg
+scc]
 =
-s : b -
-m a
-m g
-[ s cc
-s b - ]
-M a
-M g
-s a
-s g
-M r
-M b -
-M : cc
-m dd
-M ee -
-s dd
-M b -
-M cc
-M a
-M : b -
-m a
-M f
-M g
-M r
-s g
+s:b-
+ma
+mg
+[scc
+sb-]
+Ma
+Mg
+sa
+sg
+Mr
+Mb-
+M:cc
+mdd
+Mee-
+sdd
+Mb-
+Mcc
+Ma
+M:b-
+ma
+Mf
+Mg
+Mr
+sg
 =
-M g
-M f
-M g
-M e
-M g
-M f
-M g
-M d
-s g
-M f
-*custos d
+Mg
+Mf
+Mg
+Me
+Mg
+Mf
+Mg
+Md
+sg
+Mf
+*custosd

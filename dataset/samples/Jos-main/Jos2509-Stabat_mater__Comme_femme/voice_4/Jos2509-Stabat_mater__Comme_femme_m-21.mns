@@ -4,39 +4,39 @@
 *k[b-]
 *met(C|)
 *MM280
-s r
-s c
-s c
-s : f
-M e
-M d
-M c
-M : B -
-m c
-m d
-m e
-s f
-M F
-M G
-M F
-M A
-M : c
-m B -
-m A
-m G
-s F
-s G
-s A
+sr
+sc
+sc
+s:f
+Me
+Md
+Mc
+M:B-
+mc
+md
+me
+sf
+MF
+MG
+MF
+MA
+M:c
+mB-
+mA
+mG
+sF
+sG
+sA
 =
-M r
-M F
-s : A
+Mr
+MF
+s:A
 =
-M B -
-s c
+MB-
+sc
 =
-s F
-s r
-M r
-M f
-*custos F
+sF
+sr
+Mr
+Mf
+*custosF

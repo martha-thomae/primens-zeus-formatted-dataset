@@ -3,26 +3,26 @@
 =
 *k[b-]
 *met(C|)
-s c
-S d
-[ s e
-S f ]
-[ S g
-s G
-s A
-s B -
-s c ]
+sc
+Sd
+[se
+Sf]
+[Sg
+sG
+sA
+sB-
+sc]
 =
-[ s A
-s G
-S A
-S G ]
+[sA
+sG
+SA
+SG]
 *clefC4
 *k[b-]
 *met(O|)
-< S A
-s F >
-S : G
-S A
-s r
-*custos F
+<SA
+sF>
+S:G
+SA
+sr
+*custosF

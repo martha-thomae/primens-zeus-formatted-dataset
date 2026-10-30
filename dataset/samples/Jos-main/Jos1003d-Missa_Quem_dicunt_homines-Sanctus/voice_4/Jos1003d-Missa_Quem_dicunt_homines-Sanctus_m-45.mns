@@ -2,20 +2,20 @@
 *clefG2
 *met(C|3)
 *met(C|)
-[ s ee
-s cc ]
-M cc
-M b
+[see
+scc]
+Mcc
+Mb
 =
-s cc
-M : dd
-m cc
-M b
-M a
-s g
-M r
-M a
-M b
-s dd
-M cc
-*custos g
+scc
+M:dd
+mcc
+Mb
+Ma
+sg
+Mr
+Ma
+Mb
+sdd
+Mcc
+*custosg

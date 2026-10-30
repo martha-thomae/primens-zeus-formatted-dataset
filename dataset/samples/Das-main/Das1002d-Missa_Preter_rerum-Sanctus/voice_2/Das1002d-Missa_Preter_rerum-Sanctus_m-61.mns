@@ -2,21 +2,21 @@
 *clefF4
 *k[b-]
 *met(C|)
-s : D
-M C
-M GG
-M BB -
-s AA
-M r
-M : D
-m E
+s:D
+MC
+MGG
+MBB-
+sAA
+Mr
+M:D
+mE
 =
-M F
-M G
-M GG
-s D
-M E
-s G
-m F
-m E
-*custos GG
+MF
+MG
+MGG
+sD
+ME
+sG
+mF
+mE
+*custosGG

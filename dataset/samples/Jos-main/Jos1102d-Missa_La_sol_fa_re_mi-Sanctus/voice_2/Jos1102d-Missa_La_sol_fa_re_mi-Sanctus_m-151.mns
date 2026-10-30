@@ -2,21 +2,21 @@
 *clefC4
 =
 *met(3)
-s c
-[ s A
-s B
-S e
-s d
-s c ]
-s A
-s B
-S e
-s d
-s c
-[ s A
-s B ]
-S e
-s d
-s c
-S A
-*custos A
+sc
+[sA
+sB
+Se
+sd
+sc]
+sA
+sB
+Se
+sd
+sc
+[sA
+sB]
+Se
+sd
+sc
+SA
+*custosA

@@ -5,16 +5,16 @@
 *met(C.)
 *met(C|)
 *rscale:1
-s : c
-m B -
-m A
-M B -
-M A
-M F
-s G
-s A
-M G
+s:c
+mB-
+mA
+MB-
+MA
+MF
+sG
+sA
+MG
 *met(C)
 *rscale:1/2
-L : A
-*custos F
+L:A
+*custosF

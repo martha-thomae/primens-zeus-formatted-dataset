@@ -3,27 +3,27 @@
 *clefF4
 *k[b-]
 *met(O)
-M AA
-M : C
-m BB -
-M GG
-M : BB -
-m AA
-s FF
-s r
-s EE -
-< S FF
-s GG >
-M EE -
-M : FF
-m GG
-M AA
-M BB -
-M C
-L : FF
+MAA
+M:C
+mBB-
+MGG
+M:BB-
+mAA
+sFF
+sr
+sEE-
+<SFF
+sGG>
+MEE-
+M:FF
+mGG
+MAA
+MBB-
+MC
+L:FF
 *met(C|)
-S r
-S r
-S F
+Sr
+Sr
+SF
 *rscale:1
-*custos EE -
+*custosEE-

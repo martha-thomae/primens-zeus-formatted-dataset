@@ -3,16 +3,16 @@
 *k[b-]
 *met(C|)
 *MM280
-S B -
-L A
-[ S G
-L c ]
-S d
-< S e
-S f >
-X g
+SB-
+LA
+[SG
+Lc]
+Sd
+<Se
+Sf>
+Xg
 *clefC4
 *k[b-]
 *met(C|)
-L : a
-*custos G
+L:a
+*custosG

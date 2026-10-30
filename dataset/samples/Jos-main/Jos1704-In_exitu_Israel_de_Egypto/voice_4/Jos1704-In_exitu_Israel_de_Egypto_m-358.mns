@@ -7,23 +7,23 @@
 3%M%2g
 3%M%2e
 3%m%4f
-s g
-M r
-M g
-M b -
+sg
+Mr
+Mg
+Mb-
 =
-M g
-s : dd
-M dd
-s dd
-M b -
+Mg
+s:dd
+Mdd
+sdd
+Mb-
 =
-M b -
-M b -
-M b -
-s cc
-s : dd
+Mb-
+Mb-
+Mb-
+scc
+s:dd
 =
-M dd
-s dd
-*custos e
+Mdd
+sdd
+*custose

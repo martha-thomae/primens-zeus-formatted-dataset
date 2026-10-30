@@ -2,50 +2,50 @@
 *clefG2
 *met(C3)
 =
-M d
-M : g
-m f
-s e
-M d
+Md
+M:g
+mf
+se
+Md
 *met(C|)
-s e
-s r
+se
+sr
 =
-s c
-M B
-M : c
-m B
-M A
-M G
-M : A
-m B
-m c
-m A
-s B
-s A
-s r
+sc
+MB
+M:c
+mB
+MA
+MG
+M:A
+mB
+mc
+mA
+sB
+sA
+sr
 *met(C3)
-s c
-M B
+sc
+MB
 =
-M A
-s c
+MA
+sc
 *met(C|)
-M : B
-m c
-M d
-M G
-M A
-M G
-M d
+M:B
+mc
+Md
+MG
+MA
+MG
+Md
 =
-M B
-M : c
-m d
-M e
-s f
-m e
-m d
-M f
-M e
-*custos G
+MB
+M:c
+md
+Me
+sf
+me
+md
+Mf
+Me
+*custosG

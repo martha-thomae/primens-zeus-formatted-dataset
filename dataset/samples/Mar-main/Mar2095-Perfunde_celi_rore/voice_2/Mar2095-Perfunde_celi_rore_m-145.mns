@@ -4,26 +4,26 @@
 *met(C|)
 *met(3)
 =
-S G
-S d
-s c
-S B -
-[ s A
-s G
-s B - ]
-[ s c
-s d ]
-[ s B -
-S c ]
+SG
+Sd
+sc
+SB-
+[sA
+sG
+sB-]
+[sc
+sd]
+[sB-
+Sc]
 =
-S B -
-s r
-S d
-s c
-s : B -
-M A
-[ s G
-s F
-s G ]
-s D
-*custos D
+SB-
+sr
+Sd
+sc
+s:B-
+MA
+[sG
+sF
+sG]
+sD
+*custosD

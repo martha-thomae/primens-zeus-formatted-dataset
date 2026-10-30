@@ -3,16 +3,16 @@
 =
 *clefC1
 *met(C|)
-s f
-s g
-M e
-M : g
-m a
-M cc
-M b
+sf
+sg
+Me
+M:g
+ma
+Mcc
+Mb
 =
-s a
-M g #
-L a
-S r
-*custos e
+sa
+Mg#
+La
+Sr
+*custose

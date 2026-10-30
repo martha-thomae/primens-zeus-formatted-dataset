@@ -2,12 +2,12 @@
 *clefG2
 *met(3)
 *met(O)
-M g
-M d
-M e
-M d
-M : g
-m f
+Mg
+Md
+Me
+Md
+M:g
+mf
 *met(3)
 3%M%2d
 3e
@@ -23,20 +23,20 @@ m f
 3%M%2d
 3c#
 *met(O)
-s d
-M r
-M : a
-m g
-M f
-M e
-M d
-M f
-M e
-m d
-m c
-M B
+sd
+Mr
+M:a
+mg
+Mf
+Me
+Md
+Mf
+Me
+md
+mc
+MB
 =
-s A
-s r
-s r
-*custos A
+sA
+sr
+sr
+*custosA

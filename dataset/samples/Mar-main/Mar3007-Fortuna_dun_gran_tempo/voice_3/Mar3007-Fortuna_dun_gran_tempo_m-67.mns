@@ -3,20 +3,20 @@
 *k[b-]
 *met(C|3)
 =
-s : f
-M e
+s:f
+Me
 =
-[ s d
-s : g ]
-m f #
-m e
-s f #
-s : g
-M f
-M e
-M d
-s f
-M d
-s e
-M d
-*custos d
+[sd
+s:g]
+mf#
+me
+sf#
+s:g
+Mf
+Me
+Md
+sf
+Md
+se
+Md
+*custosd

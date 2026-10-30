@@ -3,42 +3,42 @@
 *k[b-]
 *met(C|)
 =
-s : A
-M B -
-L c
-s r
-s g
-s : a
-M b -
-S cc
-s : b -
-m a
-m g
-[ s a
-s : g ]
+s:A
+MB-
+Lc
+sr
+sg
+s:a
+Mb-
+Scc
+s:b-
+ma
+mg
+[sa
+s:g]
 =
-m f #
-m e
-s f #
-S g
+mf#
+me
+sf#
+Sg
 *clefG2
 *k[b-]
 =
 *met(C|)
-S : g
-M f
-M e
-S : f
-s : g
-M f
-M e -
-m d
-m c
-S e -
-S d
+S:g
+Mf
+Me
+S:f
+s:g
+Mf
+Me-
+md
+mc
+Se-
+Sd
 *clefG2
 =
 *k[b-]
 *met(C|)
-S d
-*custos A
+Sd
+*custosA

@@ -2,24 +2,24 @@
 **mens
 *clefF4
 *met(C|)
-S r
-S AA
-s : DD
-M EE
-s FF
+Sr
+SAA
+s:DD
+MEE
+sFF
 =
-[ s GG
-s EE ]
-[ s FF
-s DD ]
-[ s EE
-s FF ]
-s DD
-S AA
-S DD
+[sGG
+sEE]
+[sFF
+sDD]
+[sEE
+sFF]
+sDD
+SAA
+SDD
 *clefF4
 *met(C|)
-L AA
+LAA
 =
-S DD
-*custos DD
+SDD
+*custosDD

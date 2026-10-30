@@ -3,16 +3,16 @@
 *met(O)
 *clefC4
 *met(C3)
-S : r
-S : r
-s r
-s r
-S E
-[ s F
-s E
-s C
-s D ]
+S:r
+S:r
+sr
+sr
+SE
+[sF
+sE
+sC
+sD]
 =
-S E
-S C
-*custos C
+SE
+SC
+*custosC

@@ -3,56 +3,56 @@
 =
 *k[b-]
 *met(C|)
-M f #
+Mf#
 =
-s g
-M r
-M g
-s g
-M d
-M dd
-s dd
-s a
-M r
-s d
+sg
+Mr
+Mg
+sg
+Md
+Mdd
+sdd
+sa
+Mr
+sd
 =
-M c
-M : d
-m e
-m f
-m g
+Mc
+M:d
+me
+mf
+mg
 =
-s a
-M : f
-m g
-m a
-m b -
-M : cc
-m dd
-M cc
-M f
-s g
-M : f
-m g
+sa
+M:f
+mg
+ma
+mb-
+M:cc
+mdd
+Mcc
+Mf
+sg
+M:f
+mg
 =
-M a
+Ma
 =
-s b -
-m a
-m g
-M f
-M : d
-m e
-m f
-m g
-M a
-s g
-M f
-[ s b -
-s a ]
-s g
-S r
-S r
-s a
-s cc
-*custos c
+sb-
+ma
+mg
+Mf
+M:d
+me
+mf
+mg
+Ma
+sg
+Mf
+[sb-
+sa]
+sg
+Sr
+Sr
+sa
+scc
+*custosc

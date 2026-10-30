@@ -3,47 +3,47 @@
 *k[b-]
 =
 *met(O2)
-s G
-M A
-s F
-s G
-M F
-M G
-m F
-m E
+sG
+MA
+sF
+sG
+MF
+MG
+mF
+mE
 =
-[ s D
-s C ]
-s G
-M r
-s A
-s F
-M D
-M : F
-m E
-M : C
-m D
-m E
-m F
-s G
-M E
-s D
-M r
-M C
-M D
-M E
-M : F
-m G
-M A
-M B -
-M c
-M A
-s G
-s F
-s D
-S r
-s r
-[ s A
-s : B - ]
-M A
-*custos C
+[sD
+sC]
+sG
+Mr
+sA
+sF
+MD
+M:F
+mE
+M:C
+mD
+mE
+mF
+sG
+ME
+sD
+Mr
+MC
+MD
+ME
+M:F
+mG
+MA
+MB-
+Mc
+MA
+sG
+sF
+sD
+Sr
+sr
+[sA
+s:B-]
+MA
+*custosC

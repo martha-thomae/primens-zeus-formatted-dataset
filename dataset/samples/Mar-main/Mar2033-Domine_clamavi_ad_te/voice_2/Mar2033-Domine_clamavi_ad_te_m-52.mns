@@ -2,19 +2,19 @@
 *clefG2
 =
 *met(C)
-s cc
+scc
 =
-M a
-M b
-M cc
+Ma
+Mb
+Mcc
 =
-s dd
-s cc
-M b
-s cc
+sdd
+scc
+Mb
+scc
 =
-M cc
-M cc
-M cc
-M cc
-*custos a
+Mcc
+Mcc
+Mcc
+Mcc
+*custosa

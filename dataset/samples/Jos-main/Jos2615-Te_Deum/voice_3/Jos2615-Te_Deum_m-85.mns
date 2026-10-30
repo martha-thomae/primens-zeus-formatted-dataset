@@ -4,24 +4,24 @@
 *met(C|)
 *clefC4
 *met(C|)
-S r
-s r
-s f
-M f
-s f
-m e
-m d
-s f
-M : d
-m e
-m f
-m g
-s f
-s e
+Sr
+sr
+sf
+Mf
+sf
+me
+md
+sf
+M:d
+me
+mf
+mg
+sf
+se
 =
 =
-M d
-S e
-s e
-S e
-*custos d
+Md
+Se
+se
+Se
+*custosd

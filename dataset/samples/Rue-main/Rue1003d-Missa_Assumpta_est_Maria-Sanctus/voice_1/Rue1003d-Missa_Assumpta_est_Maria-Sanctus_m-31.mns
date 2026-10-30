@@ -8,57 +8,57 @@ S:CC	S:C
 *clefF4
 *k[b-]
 *met(O)
-S C
-s C
-s BB -
-M : C
-m BB -
-M AA
-M GG
-M GG
-M : C
-m BB -
-M GG
-M AA
-M : FF
-m GG
-M AA
-M GG
-M FF
-s C
-M BB -
-M D
-m C
-m BB -
-m AA
-m GG
-s AA
-s GG
-M r
-M : GG
-m AA
-M BB -
-M C
-M : D
-m C
-M AA
-M D
-M C
-s E
-M : D
-m C
-m BB -
-m AA
-M GG
-M FF
-s C
-M BB -
-M : C
-m BB -
-M C
-M D
-M E
-M : C
-m BB -
-M C
-*custos CC
+SC
+sC
+sBB-
+M:C
+mBB-
+MAA
+MGG
+MGG
+M:C
+mBB-
+MGG
+MAA
+M:FF
+mGG
+MAA
+MGG
+MFF
+sC
+MBB-
+MD
+mC
+mBB-
+mAA
+mGG
+sAA
+sGG
+Mr
+M:GG
+mAA
+MBB-
+MC
+M:D
+mC
+MAA
+MD
+MC
+sE
+M:D
+mC
+mBB-
+mAA
+MGG
+MFF
+sC
+MBB-
+M:C
+mBB-
+MC
+MD
+ME
+M:C
+mBB-
+MC
+*custosCC

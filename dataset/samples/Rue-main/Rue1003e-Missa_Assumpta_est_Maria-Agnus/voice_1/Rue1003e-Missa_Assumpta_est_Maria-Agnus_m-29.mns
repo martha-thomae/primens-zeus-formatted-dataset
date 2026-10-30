@@ -3,50 +3,50 @@
 *k[b-]
 *met(O)
 =
-M GG
-M r
-s GG
-M : GG
-m AA
-m BB -
-m C
+MGG
+Mr
+sGG
+M:GG
+mAA
+mBB-
+mC
 =
-M D
-M GG
-M BB -
-s AA
-S GG
-s GG
-S : CC
+MD
+MGG
+MBB-
+sAA
+SGG
+sGG
+S:CC
 *clefF4
 *k[b-]
 *met(C|)
-S C
-s C
-s C
-s E
-s F
-M G
-s E
-m D
-m C
-M BB -
-M C
-s GG
-S r
+SC
+sC
+sC
+sE
+sF
+MG
+sE
+mD
+mC
+MBB-
+MC
+sGG
+Sr
 =
-S GG
-M AA
+SGG
+MAA
 =
-M : FF
-m GG
-m AA
-m BB -
-M C
-M FF
-s : C
+M:FF
+mGG
+mAA
+mBB-
+MC
+MFF
+s:C
 =
-M E
-s D
-S GG
-*custos CC
+ME
+sD
+SGG
+*custosCC

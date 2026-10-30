@@ -3,36 +3,36 @@
 *k[b-]
 *met(C|)
 *MM315
-m D
-s E
-m D
-m C
-s E
-M : D
-m C
-s D
-s D
-S C
-S r
-s AA
-s : AA
-M BB -
-[ s C
-s D ]
-s GG
-[ S AA
-s : BB - ]
-M GG
-S GG
+mD
+sE
+mD
+mC
+sE
+M:D
+mC
+sD
+sD
+SC
+Sr
+sAA
+s:AA
+MBB-
+[sC
+sD]
+sGG
+[SAA
+s:BB-]
+MGG
+SGG
 *clefF4
 *k[b-]
 *met(O|)
 *MM378
-S GG
-s GG
-[ S C
-s BB - ]
+SGG
+sGG
+[SC
+sBB-]
 =
-s AA
-S AA
-*custos GG
+sAA
+SAA
+*custosGG

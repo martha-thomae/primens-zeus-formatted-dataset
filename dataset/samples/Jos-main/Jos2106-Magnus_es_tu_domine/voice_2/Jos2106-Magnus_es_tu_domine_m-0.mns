@@ -3,39 +3,39 @@
 *staff3
 *clefC4
 *met(O)
-S : r
+S:r
 =
-S : r
-s r
-s G
-s A
-M B
-s c
-m B
-m A
-[ s B
-s A ]
-[ s F
-s G ]
-M A
-M : G
-m F
-s E
-M D
-M : E
-m F
-[ s G
-s A ]
-M B
-M c
+S:r
+sr
+sG
+sA
+MB
+sc
+mB
+mA
+[sB
+sA]
+[sF
+sG]
+MA
+M:G
+mF
+sE
+MD
+M:E
+mF
+[sG
+sA]
+MB
+Mc
 =
-M B
-M A
+MB
+MA
 =
-s B
-M : A
-m B
-M c
-s d
-M c #
-*custos D
+sB
+M:A
+mB
+Mc
+sd
+Mc#
+*custosD

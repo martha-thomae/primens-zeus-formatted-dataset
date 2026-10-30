@@ -4,30 +4,30 @@
 *met(C|)
 3%M%2AA
 3%m%4EE
-S AA
-s FF
-s EE
-s : DD
-M EE
-s FF
-s DD
-S GG
-S DD
-s r
-s FF
-[ s BB -
-s AA ]
-s r
-S DD
-s DD
-< s EE
-s GG >
-s r
-s : GG
-M AA
-M BB -
-M GG
+SAA
+sFF
+sEE
+s:DD
+MEE
+sFF
+sDD
+SGG
+SDD
+sr
+sFF
+[sBB-
+sAA]
+sr
+SDD
+sDD
+<sEE
+sGG>
+sr
+s:GG
+MAA
+MBB-
+MGG
 *met(3)
 3%m%4C
 3%M%2FF
-*custos DD
+*custosDD

@@ -4,25 +4,25 @@
 *met(C)
 *clefC1
 *met(C)
-s : cc
-m b
-m a
-M g
-M a
-M : b
-m cc
-M dd
-M ee
-s ff
-M ee
-M : gg
-m ff
-s ee
-m dd
-m cc
-M : b
-m g
-M b
-M cc
-s dd
-*custos g
+s:cc
+mb
+ma
+Mg
+Ma
+M:b
+mcc
+Mdd
+Mee
+sff
+Mee
+M:gg
+mff
+see
+mdd
+mcc
+M:b
+mg
+Mb
+Mcc
+sdd
+*custosg

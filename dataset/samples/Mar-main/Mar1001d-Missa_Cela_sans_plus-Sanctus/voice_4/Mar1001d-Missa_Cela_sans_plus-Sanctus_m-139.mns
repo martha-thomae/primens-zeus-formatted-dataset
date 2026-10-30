@@ -3,15 +3,15 @@
 *met(C|3)
 *clefG2
 *met(C|)
-s d
-s : a
-M b
-[ s cc
-s dd ]
-M cc
-M : a
-m g
-M f
+sd
+s:a
+Mb
+[scc
+sdd]
+Mcc
+M:a
+mg
+Mf
 =
-s e
-*custos d
+se
+*custosd

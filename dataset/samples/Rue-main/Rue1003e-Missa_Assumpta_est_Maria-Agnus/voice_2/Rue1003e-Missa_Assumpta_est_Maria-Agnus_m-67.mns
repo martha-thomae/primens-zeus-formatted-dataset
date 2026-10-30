@@ -4,22 +4,22 @@
 =
 *met(C|)
 =
-[ S C
-S D ]
-L : F
-S G
-s G
-s G
-s : F
-M G
-S G
+[SC
+SD]
+L:F
+SG
+sG
+sG
+s:F
+MG
+SG
 =
-M r
-[ s G
-s A ]
-[ s F
-s B - ]
-M G
-M : G
-m F
-*custos C
+Mr
+[sG
+sA]
+[sF
+sB-]
+MG
+M:G
+mF
+*custosC

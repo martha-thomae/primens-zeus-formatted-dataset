@@ -2,24 +2,24 @@
 *clefC1
 *met(3)
 =
-s a
-s a
-s b
-s : cc
-M b
-s g
-M a
-M b
-M cc
-M dd
-s b
-M cc
-M dd
-M ee
-M cc
-s dd
-s : cc
-M a
-s b
-S : cc
-*custos g
+sa
+sa
+sb
+s:cc
+Mb
+sg
+Ma
+Mb
+Mcc
+Mdd
+sb
+Mcc
+Mdd
+Mee
+Mcc
+sdd
+s:cc
+Ma
+sb
+S:cc
+*custosg

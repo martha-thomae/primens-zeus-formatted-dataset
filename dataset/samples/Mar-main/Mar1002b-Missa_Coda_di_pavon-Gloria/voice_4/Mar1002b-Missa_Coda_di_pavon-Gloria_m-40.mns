@@ -5,14 +5,14 @@
 s%M:ee
 3dd
 3%M%2cc
-S b
+Sb
 *clefG2
 *met(C)
-M g
-M g
-M a
-s cc
-M b
-M : cc
-m b
-*custos g
+Mg
+Mg
+Ma
+scc
+Mb
+M:cc
+mb
+*custosg

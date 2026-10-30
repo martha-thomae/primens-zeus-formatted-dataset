@@ -3,21 +3,21 @@
 =
 *met(3)
 =
-s b
+sb
 =
-s g
-s a
-s : g
-M a
-[ s b
-S cc ]
-[ s b
-s cc
-s : b ]
-M a
-S a
+sg
+sa
+s:g
+Ma
+[sb
+Scc]
+[sb
+scc
+s:b]
+Ma
+Sa
 =
-s g #
-S a
-s r
-*custos g
+sg#
+Sa
+sr
+*custosg

@@ -2,51 +2,51 @@
 *clefF4
 *met(C|3)
 =
-S F
-s C
-M D
-M E
-M F
-M G
-s A
-[ S B -
-S A ]
-S D
-s : A
-M G
-s E
+SF
+sC
+MD
+ME
+MF
+MG
+sA
+[SB-
+SA]
+SD
+s:A
+MG
+sE
 =
-s : F
-M E
-[ s C
-s E ]
-s : A
-M G
-s E
-[ S F
-s : E ]
-M F
-[ s G
-s A ]
-S G
-M C
-M D
-M E
-M F
-[ s G
-s A
-S E ]
-[ s A
-s E
-s G ]
-[ s A
-s G
-s A ]
-[ s F
-S E ]
-s r
-[ s A
-s F
-s G ]
-S E
-*custos C
+s:F
+ME
+[sC
+sE]
+s:A
+MG
+sE
+[SF
+s:E]
+MF
+[sG
+sA]
+SG
+MC
+MD
+ME
+MF
+[sG
+sA
+SE]
+[sA
+sE
+sG]
+[sA
+sG
+sA]
+[sF
+SE]
+sr
+[sA
+sF
+sG]
+SE
+*custosC

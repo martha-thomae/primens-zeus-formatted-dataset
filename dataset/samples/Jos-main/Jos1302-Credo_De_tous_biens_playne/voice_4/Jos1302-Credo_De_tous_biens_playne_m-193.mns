@@ -2,21 +2,21 @@
 *clefC2
 =
 *met(C|)
-m c
-M : g
-m f
-M : d
-m c
-M : f
-m e
-m d
-m c
-m g
-m f
-m e
-m d
-s c
-s d
-M r
-M G
-*custos G
+mc
+M:g
+mf
+M:d
+mc
+M:f
+me
+md
+mc
+mg
+mf
+me
+md
+sc
+sd
+Mr
+MG
+*custosG

@@ -5,34 +5,34 @@
 =
 *met(C|)
 =
-s r
-s A
-[ s B -
-s c ]
-S d
-S G
-[ S A
-S D
-S E ]
-[ s D
-s d ]
-s B -
-s : c
-m B -
-m c
-S d
-s G
-s : A
-M B -
-s : c
+sr
+sA
+[sB-
+sc]
+Sd
+SG
+[SA
+SD
+SE]
+[sD
+sd]
+sB-
+s:c
+mB-
+mc
+Sd
+sG
+s:A
+MB-
+s:c
 =
-M B -
-[ s G
-s : B - ]
-M A
-s F
-s : G
-s : A
-M F
-M A
-*custos D
+MB-
+[sG
+s:B-]
+MA
+sF
+s:G
+s:A
+MF
+MA
+*custosD

@@ -3,39 +3,39 @@
 *k[b-]
 *met(O)
 =
-m G
-m A
-m B -
+mG
+mA
+mB-
 =
-m c
+mc
 s%5d
 *clefC2
 *k[b-]
 *met(C|)
-S G
-[ s A
-s : B - ]
-M A
-s B -
-s c
-M d
-s d
+SG
+[sA
+s:B-]
+MA
+sB-
+sc
+Md
+sd
 =
-m c
-m B -
-s A
+mc
+mB-
+sA
 =
-[ s G
-S F ]
-s G
-s : B -
-m A
-m G
-S A
-s r
-S : d
-M c
+[sG
+SF]
+sG
+s:B-
+mA
+mG
+SA
+sr
+S:d
+Mc
 =
-s A
-M B -
-*custos F
+sA
+MB-
+*custosF

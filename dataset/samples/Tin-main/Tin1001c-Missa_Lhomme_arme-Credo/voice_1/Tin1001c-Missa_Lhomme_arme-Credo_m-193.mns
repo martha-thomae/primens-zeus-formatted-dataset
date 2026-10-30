@@ -12,22 +12,22 @@
 3%M%2G
 3%M%2F
 3%m%4E
-s D
-s r
-S : GG
-S C
-s BB -
-S AA
-M GG
-s D
-m C
-m D
-M E
-M : C
-m D
+sD
+sr
+S:GG
+SC
+sBB-
+SAA
+MGG
+sD
+mC
+mD
+ME
+M:C
+mD
 =
-m E
-m F
-[ s G
-s E ]
-*custos GG
+mE
+mF
+[sG
+sE]
+*custosGG

@@ -2,33 +2,33 @@
 =
 *clefC1
 *met(C2)
-M a
-s cc
-m b
-m a
-M b
-s a
-M g #
-M a
-s cc
-M b
-S a
-S g
+Ma
+scc
+mb
+ma
+Mb
+sa
+Mg#
+Ma
+scc
+Mb
+Sa
+Sg
 *clefC1
 *met(C2)
-s r
-s e
-s e
+sr
+se
+se
 =
-[ s g
-S a ]
-s a
-M a
-s a
-m g
-m f
-s : cc
-M b
-s a
+[sg
+Sa]
+sa
+Ma
+sa
+mg
+mf
+s:cc
+Mb
+sa
 =
-*custos e
+*custose

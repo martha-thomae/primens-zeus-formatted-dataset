@@ -2,18 +2,18 @@
 *clefF4
 *k[b-]
 *met(C|)
-M C
+MC
 6D
 3E
-s F
-s D
-s E
-M D
-M C
-s D
+sF
+sD
+sE
+MD
+MC
+sD
 *met(C|3)
-S G
-s E
-[ S F
-s G ]
-*custos C
+SG
+sE
+[SF
+sG]
+*custosC

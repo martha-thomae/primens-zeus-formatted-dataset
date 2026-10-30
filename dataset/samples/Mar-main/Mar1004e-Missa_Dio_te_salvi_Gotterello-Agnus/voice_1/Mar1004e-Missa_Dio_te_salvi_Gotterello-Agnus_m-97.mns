@@ -2,30 +2,30 @@
 =
 *clefF4
 *met(3)
-S D
-[ s GG
-S AA ]
-s D
-s : C
-M D
+SD
+[sGG
+SAA]
+sD
+s:C
+MD
 =
 =
-[ s E
-s F
-S C ]
-S D
-[ s E
-S D ]
-s D
-[ s C
-s BB
-s GG ]
-s D
-[ s AA
-s C
-s D ]
+[sE
+sF
+SC]
+SD
+[sE
+SD]
+sD
+[sC
+sBB
+sGG]
+sD
+[sAA
+sC
+sD]
 =
-S AA
-S : D
+SAA
+S:D
 =
-*custos GG
+*custosGG

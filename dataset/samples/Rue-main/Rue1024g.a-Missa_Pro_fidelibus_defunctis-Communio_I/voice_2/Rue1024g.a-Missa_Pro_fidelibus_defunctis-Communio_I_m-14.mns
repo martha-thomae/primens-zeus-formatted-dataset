@@ -3,23 +3,23 @@
 *clefC4
 =
 *met(3)
-s B
-s : c
-M A
-S : A
-s r
-S A
-s c
-[ s G
-s : A ]
-M G
-S E
+sB
+s:c
+MA
+S:A
+sr
+SA
+sc
+[sG
+s:A]
+MG
+SE
 *met(C|)
-S E
-S F
-S G
-X A
+SE
+SF
+SG
+XA
 =
-L G
+LG
 =
-*custos E
+*custosE

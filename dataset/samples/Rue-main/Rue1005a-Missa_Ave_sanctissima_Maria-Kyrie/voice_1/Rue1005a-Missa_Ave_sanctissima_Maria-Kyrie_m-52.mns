@@ -2,15 +2,15 @@
 *clefF3
 *met(C2)
 =
-s GG
-s GG
-M : GG
-m AA
-m BB
-m C
+sGG
+sGG
+M:GG
+mAA
+mBB
+mC
 =
-s D
-M GG
-s D
-S E
-*custos GG
+sD
+MGG
+sD
+SE
+*custosGG

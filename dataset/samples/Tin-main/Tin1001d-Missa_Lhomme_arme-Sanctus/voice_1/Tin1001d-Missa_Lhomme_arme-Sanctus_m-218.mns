@@ -4,30 +4,30 @@
 *k[b-]
 *met(O3/2)
 =
-S AA
-s GG
-s : G
-M F
+SAA
+sGG
+s:G
+MF
 =
 =
-s G
-s A
-M : F #
-m E
-s G
-s : D
-M E
-[ s F
-s G ]
-[ s E
-s C ]
-M D
-M BB -
-[ s AA
-s GG ]
-M r
-M D
-s F
-s G
-S D
-*custos GG
+sG
+sA
+M:F#
+mE
+sG
+s:D
+ME
+[sF
+sG]
+[sE
+sC]
+MD
+MBB-
+[sAA
+sGG]
+Mr
+MD
+sF
+sG
+SD
+*custosGG

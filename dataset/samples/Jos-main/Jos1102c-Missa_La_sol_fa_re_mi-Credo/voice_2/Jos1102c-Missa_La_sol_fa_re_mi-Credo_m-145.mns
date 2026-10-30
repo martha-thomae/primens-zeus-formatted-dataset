@@ -2,19 +2,19 @@
 *clefC4
 *met(C|)
 *met(3)
-s r
-S e
+sr
+Se
 =
-s d
-s c
-s A
-S B
-L e
-s d
-s c
-L A
+sd
+sc
+sA
+SB
+Le
+sd
+sc
+LA
 *met(C|)
-X : B
+X:B
 =
 =
 *met(3)
@@ -28,4 +28,4 @@ X : B
 3%m%4c
 3%M%2A
 =
-*custos A
+*custosA

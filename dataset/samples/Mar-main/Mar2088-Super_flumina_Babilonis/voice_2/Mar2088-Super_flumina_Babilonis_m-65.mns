@@ -3,21 +3,21 @@
 =
 *met(C)
 =
-M a
-M b
-M cc
-s dd
-M cc #
-s dd
-s r
+Ma
+Mb
+Mcc
+sdd
+Mcc#
+sdd
+sr
 =
-M cc
-M cc
-M cc
-M cc
-s cc
-M cc
-M cc
-M a
-M cc
-*custos a
+Mcc
+Mcc
+Mcc
+Mcc
+scc
+Mcc
+Mcc
+Ma
+Mcc
+*custosa

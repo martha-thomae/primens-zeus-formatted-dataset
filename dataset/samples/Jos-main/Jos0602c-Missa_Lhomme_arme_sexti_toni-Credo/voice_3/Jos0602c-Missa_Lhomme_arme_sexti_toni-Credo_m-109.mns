@@ -4,19 +4,19 @@
 =
 =
 *met(C|)
-m C
-s F
-M E
-m F
-m G
-m A
-m B -
-M c
-M : d
-m c
-m B -
-m A
-s G
-S C
+mC
+sF
+ME
+mF
+mG
+mA
+mB-
+Mc
+M:d
+mc
+mB-
+mA
+sG
+SC
 *rscale:1
-*custos C
+*custosC

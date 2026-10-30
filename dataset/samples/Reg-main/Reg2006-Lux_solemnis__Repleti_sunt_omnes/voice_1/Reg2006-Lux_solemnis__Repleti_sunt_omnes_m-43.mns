@@ -3,23 +3,23 @@
 =
 *met(O)
 =
-S : r
-S : DD
-S GG
-s AA
-M : BB
-m C
-M : D
-m C
-M D
-M E
-M AA
-M BB
-M C
-M D
-s BB
-S : AA
-s DD
-s r
-s r
-*custos DD
+S:r
+S:DD
+SGG
+sAA
+M:BB
+mC
+M:D
+mC
+MD
+ME
+MAA
+MBB
+MC
+MD
+sBB
+S:AA
+sDD
+sr
+sr
+*custosDD

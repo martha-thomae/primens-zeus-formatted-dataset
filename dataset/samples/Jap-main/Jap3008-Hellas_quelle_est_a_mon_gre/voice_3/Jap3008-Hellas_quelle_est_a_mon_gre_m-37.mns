@@ -3,29 +3,29 @@
 *met(C|)
 =
 *met(3)
-S a
-s b
-s : cc
+Sa
+sb
+s:cc
 =
-M b
-s g
-s a
-S b
-S a
-s r
-S dd
-s dd
-s : cc
-M a
-s b
-s a
-S g
-S f
-s e
-S d
-s c
-s d
-s : a
-M g
+Mb
+sg
+sa
+Sb
+Sa
+sr
+Sdd
+sdd
+s:cc
+Ma
+sb
+sa
+Sg
+Sf
+se
+Sd
+sc
+sd
+s:a
+Mg
 =
-*custos c
+*custosc

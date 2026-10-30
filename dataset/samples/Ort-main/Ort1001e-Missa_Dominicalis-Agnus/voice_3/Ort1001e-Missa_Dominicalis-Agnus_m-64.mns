@@ -2,19 +2,19 @@
 *clefC2
 *k[b-]
 *met(C|)
-S g
+Sg
 *clefC2
 *k[b-]
 *met(C|)
-s : d
-M e
-s f
-s : g
-m f
+s:d
+Me
+sf
+s:g
+mf
 =
-m e
-m f
-m e
-m d
-m c
-*custos c
+me
+mf
+me
+md
+mc
+*custosc

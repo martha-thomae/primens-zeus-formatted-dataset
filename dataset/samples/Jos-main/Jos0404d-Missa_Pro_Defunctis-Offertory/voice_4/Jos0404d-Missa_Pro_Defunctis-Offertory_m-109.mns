@@ -3,43 +3,43 @@
 *k[b-]
 =
 *met(C|)
-[ s D
-s d ]
-M d
-M : d
-m c
-m B -
-m A
-M G
-M : c
-m B -
-M A
-s G
-s r
-M r
-M d
-M : d
-m c
-M d
-M D
-s A
-M r
-M d
-M d
-M d
-[ S G
-s E ]
-s F
-M D
-M d
-M d
-M d
-s G
-s c
+[sD
+sd]
+Md
+M:d
+mc
+mB-
+mA
+MG
+M:c
+mB-
+MA
+sG
+sr
+Mr
+Md
+M:d
+mc
+Md
+MD
+sA
+Mr
+Md
+Md
+Md
+[SG
+sE]
+sF
+MD
+Md
+Md
+Md
+sG
+sc
 =
-S B -
+SB-
 *clefC4
 *k[b-]
 *met(C|)
-S A
-*custos D
+SA
+*custosD

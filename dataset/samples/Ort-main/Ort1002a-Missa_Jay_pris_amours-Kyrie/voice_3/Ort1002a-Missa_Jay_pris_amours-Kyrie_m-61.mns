@@ -3,21 +3,21 @@
 *clefC2
 =
 *met(O|)
-s A
-s B
-[ s c
-S B
-s A
-S B ]
-S c
+sA
+sB
+[sc
+SB
+sA
+SB]
+Sc
 =
-[ s B
-s A
-s d
-s f ]
-S e
-[ s f
-s g
-S d ]
-s d
-*custos A
+[sB
+sA
+sd
+sf]
+Se
+[sf
+sg
+Sd]
+sd
+*custosA

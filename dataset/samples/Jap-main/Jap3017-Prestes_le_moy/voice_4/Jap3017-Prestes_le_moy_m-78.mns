@@ -4,8 +4,8 @@
 =
 *met(C|)
 =
-s a
-s r
+sa
+sr
 3%m%4cc
 3%M%2b-
 3%M%2a
@@ -13,5 +13,5 @@ s%M:g
 3f
 3%m%4f
 3%M%2e
-S f
-*custos e
+Sf
+*custose

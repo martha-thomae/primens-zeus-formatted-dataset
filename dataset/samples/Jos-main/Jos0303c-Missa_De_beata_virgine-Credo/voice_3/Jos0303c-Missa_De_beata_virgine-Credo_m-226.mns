@@ -2,13 +2,13 @@
 *clefC2
 =
 *met()
-M D
-M E
-M E
-M : C
-m D
-s E
-S r
+MD
+ME
+ME
+M:C
+mD
+sE
+Sr
 *met(3)
 *rscale:3/2
 3%m%4E
@@ -43,4 +43,4 @@ s%M:A
 3%M%2C
 3%m%4F
 3%M%2E
-*custos C
+*custosC

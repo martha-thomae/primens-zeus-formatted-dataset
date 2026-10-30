@@ -2,14 +2,14 @@
 *clefC4
 *k[b-e-]
 *met(C|)
-< S BB -
-S C >
-L D
-M r
-M D
-s D
-s D
-s D
+<SBB-
+SC>
+LD
+Mr
+MD
+sD
+sD
+sD
 *met(3)
 s%M:BB-
 3C
@@ -31,4 +31,4 @@ s%M:E-
 3%M%2D
 3%M%2E-
 3%m%4C
-*custos BB -
+*custosBB-

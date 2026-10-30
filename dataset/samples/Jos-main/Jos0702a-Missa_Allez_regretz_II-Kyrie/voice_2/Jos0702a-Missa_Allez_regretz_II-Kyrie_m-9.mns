@@ -2,15 +2,15 @@
 *clefC4
 *k[b-]
 *met(C|)
-S A
-s : G
-m A
-m B -
+SA
+s:G
+mA
+mB-
 *met(C)
 *rscale:1/2
-S c
-S : B -
-M A
-M G
+Sc
+S:B-
+MA
+MG
 =
-*custos G
+*custosG

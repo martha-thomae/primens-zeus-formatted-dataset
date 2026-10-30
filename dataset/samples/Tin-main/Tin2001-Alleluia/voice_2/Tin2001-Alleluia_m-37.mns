@@ -11,28 +11,28 @@ s%M:f
 6f
 *met(4/3)
 *rscale:2
-s : g
-M : e
-m d
-M c
-M d
-m c
-m d
-M e
-m d
-m c
-M B
-M : c
-m d
-M : e
-m f
-M : g
-m f
-m e
-m d
-M : c #
-m B
+s:g
+M:e
+md
+Mc
+Md
+mc
+md
+Me
+md
+mc
+MB
+M:c
+md
+M:e
+mf
+M:g
+mf
+me
+md
+M:c#
+mB
 =
-S d
+Sd
 *rscale:1
-*custos A
+*custosA

@@ -2,29 +2,29 @@
 *clefG2
 *k[b-]
 *met(C|)
-s r
-s f
-[ s g
-s a ]
+sr
+sf
+[sg
+sa]
 =
-s b -
-M a
-M f
-M : g
-m f
-s d
-M r
-M a
-M b -
-M cc
-M : dd
-m cc
-m b -
-m a
-s b -
-m a
-m g
-M : f #
-m e
-S g
-*custos d
+sb-
+Ma
+Mf
+M:g
+mf
+sd
+Mr
+Ma
+Mb-
+Mcc
+M:dd
+mcc
+mb-
+ma
+sb-
+ma
+mg
+M:f#
+me
+Sg
+*custosd

@@ -3,22 +3,22 @@
 =
 *met(C|)
 =
-S A
+SA
 *clefC4
 *met(C|)
-s A
-M : c
-m d
-M e
-[ s f
-s e ]
+sA
+M:c
+md
+Me
+[sf
+se]
 =
-m d
-m c
-[ s d
-L c ]
-S r
-S r
-L e
-S f
-*custos A
+md
+mc
+[sd
+Lc]
+Sr
+Sr
+Le
+Sf
+*custosA

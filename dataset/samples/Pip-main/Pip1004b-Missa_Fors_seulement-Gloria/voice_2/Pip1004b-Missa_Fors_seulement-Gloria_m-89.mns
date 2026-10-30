@@ -3,11 +3,11 @@
 =
 *clefC4
 *met(C|)
-S r
-S r
-S r
-s r
-s : C
-M C
-s C
-*custos C
+Sr
+Sr
+Sr
+sr
+s:C
+MC
+sC
+*custosC

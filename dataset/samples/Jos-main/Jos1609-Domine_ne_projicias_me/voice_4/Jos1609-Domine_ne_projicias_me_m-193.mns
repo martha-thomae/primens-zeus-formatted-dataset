@@ -2,21 +2,21 @@
 =
 *clefG2
 *met(C|)
-S r
-S r
-s : cc
-M cc
-s cc
-s cc
-s b
-s g
-s a
-s b
-s cc
-M r
-M g
-s a
-s : a
-M b
-s cc
-*custos g
+Sr
+Sr
+s:cc
+Mcc
+scc
+scc
+sb
+sg
+sa
+sb
+scc
+Mr
+Mg
+sa
+s:a
+Mb
+scc
+*custosg

@@ -3,21 +3,21 @@
 =
 *met(C|)
 =
-s r
-M r
-M C
+sr
+Mr
+MC
 =
-M D
-M D
-s E
-s r
-s : A
-M B
-s c
-s : F
-M G
-[ s A
-s E ]
+MD
+MD
+sE
+sr
+s:A
+MB
+sc
+s:F
+MG
+[sA
+sE]
 =
-S A
-*custos C
+SA
+*custosC

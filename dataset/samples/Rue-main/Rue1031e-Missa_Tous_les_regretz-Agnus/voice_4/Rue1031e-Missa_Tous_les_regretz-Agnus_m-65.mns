@@ -3,37 +3,37 @@
 =
 =
 *met(C2)
-[ s A
-s B ]
-S A
-s r
-M r
-s c
-m B
-m A
-M B
-M : c
-m d
-m e
-m f
-M d
-M c
-M r
-M f
-M : g
-m f
-m d
-m e
-s f
-m c
-m d
-m e
-m f
-M : g
-m f
-m e
-m d
-M e
-s d
-M c #
-*custos A
+[sA
+sB]
+SA
+sr
+Mr
+sc
+mB
+mA
+MB
+M:c
+md
+me
+mf
+Md
+Mc
+Mr
+Mf
+M:g
+mf
+md
+me
+sf
+mc
+md
+me
+mf
+M:g
+mf
+me
+md
+Me
+sd
+Mc#
+*custosA

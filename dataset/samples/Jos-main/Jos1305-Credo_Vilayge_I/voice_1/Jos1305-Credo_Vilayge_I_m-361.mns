@@ -3,23 +3,23 @@
 *k[b-]
 =
 *met(O/3)
-S : r
-S : r
-S : r
+S:r
+S:r
+S:r
 =
-S G
-s G
+SG
+sG
 =
-s : A
-M G
-s F
-s : E
-M D
+s:A
+MG
+sF
+s:E
+MD
 =
-s E
-s F
-S D
-S : C
-S : r
+sE
+sF
+SD
+S:C
+S:r
 =
-*custos C
+*custosC

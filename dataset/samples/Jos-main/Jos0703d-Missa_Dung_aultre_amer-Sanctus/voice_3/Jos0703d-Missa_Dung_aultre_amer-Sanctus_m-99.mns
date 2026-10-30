@@ -3,20 +3,20 @@
 *k[b-]
 *met(C|)
 *met(3)
-S : r
-S : r
-S : r
-S : r
-s f
-s f
-s f
-s : g
-M f
+S:r
+S:r
+S:r
+S:r
+sf
+sf
+sf
+s:g
+Mf
 =
-s e
-s d
-s d
-s c
-[ S d
-s B - ]
-*custos B -
+se
+sd
+sd
+sc
+[Sd
+sB-]
+*custosB-

@@ -3,21 +3,21 @@
 *met(C)
 *clefGv2
 *met(C2)
-s d
-M : d
-m e
-M f
-s d
-m c
-m B
-s A
-s d
-M : c
-m d
-M e
-M f
-s e
-s r
-s r
-s e
-*custos A
+sd
+M:d
+me
+Mf
+sd
+mc
+mB
+sA
+sd
+M:c
+md
+Me
+Mf
+se
+sr
+sr
+se
+*custosA

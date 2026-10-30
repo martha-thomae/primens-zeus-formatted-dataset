@@ -5,18 +5,18 @@ s%1Se
 =
 *clefC1
 *met(C|)
-s cc
-M cc
-s cc
+scc
+Mcc
+scc
 =
-m b
-m a
-s cc
-L : a
-s r
-s a
-s : cc
-M b
-s a
-s g
-*custos e
+mb
+ma
+scc
+L:a
+sr
+sa
+s:cc
+Mb
+sa
+sg
+*custose

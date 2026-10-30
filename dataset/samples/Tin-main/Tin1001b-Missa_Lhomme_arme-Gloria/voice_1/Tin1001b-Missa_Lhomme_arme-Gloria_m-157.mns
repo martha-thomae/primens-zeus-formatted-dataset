@@ -3,41 +3,41 @@
 *k[b-]
 *met(O|)
 *MM378
-s G
-M A
-s F
-M E -
-s G
-S D
+sG
+MA
+sF
+ME-
+sG
+SD
 *met(C2/3)
 *MM252
-S GG
-s C
-s E
-s D
-M : G
-m F
-M D
-M : F
-m E
-s C
-M E
-s D
-s C
-s r
-M : BB -
-m AA
-s C
-s GG
-s GG
-M : AA
-m BB -
+SGG
+sC
+sE
+sD
+M:G
+mF
+MD
+M:F
+mE
+sC
+ME
+sD
+sC
+sr
+M:BB-
+mAA
+sC
+sGG
+sGG
+M:AA
+mBB-
 =
-M C
-M GG
-M BB -
-M C
+MC
+MGG
+MBB-
+MC
 =
-s GG
-L D
-*custos GG
+sGG
+LD
+*custosGG

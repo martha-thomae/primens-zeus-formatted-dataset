@@ -2,27 +2,27 @@
 =
 *clefG2
 *met(C|)
-s cc
-s r
-M r
-M g
-M a
-s cc
-M b
-M a
-s g
-M f #
-s g
-M r
-M g
-M a
-M b
-M cc
-M c
-M d
-M e
-M : f
-U e
-U d
-s g
-*custos c
+scc
+sr
+Mr
+Mg
+Ma
+scc
+Mb
+Ma
+sg
+Mf#
+sg
+Mr
+Mg
+Ma
+Mb
+Mcc
+Mc
+Md
+Me
+M:f
+Ue
+Ud
+sg
+*custosc

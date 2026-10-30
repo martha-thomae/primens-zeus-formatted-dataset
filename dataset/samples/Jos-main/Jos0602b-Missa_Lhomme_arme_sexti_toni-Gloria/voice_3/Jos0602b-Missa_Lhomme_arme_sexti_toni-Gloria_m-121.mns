@@ -4,32 +4,32 @@
 *k[b-]
 *met(C|)
 *met(3)
-s : A
-M B -
-s c
-M F
-s B -
-M A
-M G
-M F
-S F
-s E
-S F
-s r
-s E
-s E
-s E
-S F
-s r
-S : r
-S c
-[ s B -
-s A ]
-S G
-[ s C
-S G ]
-s C
-s E
-M D
-M C
-*custos C
+s:A
+MB-
+sc
+MF
+sB-
+MA
+MG
+MF
+SF
+sE
+SF
+sr
+sE
+sE
+sE
+SF
+sr
+S:r
+Sc
+[sB-
+sA]
+SG
+[sC
+SG]
+sC
+sE
+MD
+MC
+*custosC

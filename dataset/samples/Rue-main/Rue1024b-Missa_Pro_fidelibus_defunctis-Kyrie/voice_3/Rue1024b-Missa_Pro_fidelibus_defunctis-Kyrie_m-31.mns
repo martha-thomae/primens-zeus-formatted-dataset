@@ -3,17 +3,17 @@
 *k[b-e-]
 *met(C|)
 *MM400
-S E -
-s : C
-M BB -
-S BB -
-s : C
-M BB -
-S BB -
+SE-
+s:C
+MBB-
+SBB-
+s:C
+MBB-
+SBB-
 *clefC4
 *k[b-e-]
 =
 *met(O)
-S : r
-S : r
-*custos BB -
+S:r
+S:r
+*custosBB-

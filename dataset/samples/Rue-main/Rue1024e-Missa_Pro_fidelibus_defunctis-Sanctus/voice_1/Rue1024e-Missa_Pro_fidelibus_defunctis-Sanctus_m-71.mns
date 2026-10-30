@@ -2,22 +2,22 @@
 =
 *clefF4
 *met(3)
-[ s BB -
-s GG ]
-S BB -
-S AA
-S GG
-s r
-s : GG
-M AA
-s BB
-[ s C
-s FF ]
-S BB -
-S AA
-S GG
-s r
-S : r
-S : r
-S : GG
-*custos FF
+[sBB-
+sGG]
+SBB-
+SAA
+SGG
+sr
+s:GG
+MAA
+sBB
+[sC
+sFF]
+SBB-
+SAA
+SGG
+sr
+S:r
+S:r
+S:GG
+*custosFF

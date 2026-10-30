@@ -3,13 +3,13 @@
 *k[b-]
 =
 *met(C|)
-m A
-m G
-m F
-s G
-S F
-S r
-s r
-s c
+mA
+mG
+mF
+sG
+SF
+Sr
+sr
+sc
 *rscale:1
-*custos F
+*custosF

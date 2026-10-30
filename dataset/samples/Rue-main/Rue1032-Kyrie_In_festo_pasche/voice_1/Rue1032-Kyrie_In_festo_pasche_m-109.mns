@@ -2,20 +2,20 @@
 *clefF4
 =
 *met(C|)
-S GG
+SGG
 *clefF4
 *met(O|)
-S E
-s : E
-s F
-M E
-s C
-M : E
-m F
-M G
-s G
-M F
+SE
+s:E
+sF
+ME
+sC
+M:E
+mF
+MG
+sG
+MF
 =
-S G
-s E
-*custos GG
+SG
+sE
+*custosGG

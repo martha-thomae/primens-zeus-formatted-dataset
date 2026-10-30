@@ -3,57 +3,57 @@
 =
 =
 *met(C|)
-M C
-M AA
+MC
+MAA
 =
-s GG
-S r
+sGG
+Sr
 *met(C3)
-S : r
+S:r
 =
 =
 *met(C|)
-M r
-s C
-M D
-M GG
-s D
-M C
-M E
-M D
-M : F
-m E
-M C
-M F
-M E
-s G
-s C
-M BB
+Mr
+sC
+MD
+MGG
+sD
+MC
+ME
+MD
+M:F
+mE
+MC
+MF
+ME
+sG
+sC
+MBB
 =
-M C
-s c
-M B
-M : c
-m B
-M A
-M G
-M : F
-m E
-s D
+MC
+sc
+MB
+M:c
+mB
+MA
+MG
+M:F
+mE
+sD
 *met(C3)
-M C
-s F
-M E
-s A
-M G
-M E
+MC
+sF
+ME
+sA
+MG
+ME
 =
-M F
-M E
-M C
-M D
+MF
+ME
+MC
+MD
 *met(C|)
-s GG
-M : G
-m A
-*custos GG
+sGG
+M:G
+mA
+*custosGG

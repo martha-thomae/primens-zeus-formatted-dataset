@@ -1,16 +1,16 @@
 **mens
 *clefC4
 *met(C|)
-m B
-m A
-s B
-s E
-s E
-s E
+mB
+mA
+sB
+sE
+sE
+sE
 =
-s F
+sF
 *met(C)
 =
 *rscale:1/2
-S E
-*custos E
+SE
+*custosE

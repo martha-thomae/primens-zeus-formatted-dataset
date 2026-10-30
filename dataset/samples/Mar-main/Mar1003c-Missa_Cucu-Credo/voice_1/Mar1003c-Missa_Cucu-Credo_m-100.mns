@@ -3,19 +3,19 @@
 =
 *met(C|)
 =
-M : E
-m F
-M G
-s A
-m G
-m F
-[ s G
-s E ]
-M C
-M : D
-m C
-m BB
-m AA
-M GG
-M AA
-*custos GG
+M:E
+mF
+MG
+sA
+mG
+mF
+[sG
+sE]
+MC
+M:D
+mC
+mBB
+mAA
+MGG
+MAA
+*custosGG

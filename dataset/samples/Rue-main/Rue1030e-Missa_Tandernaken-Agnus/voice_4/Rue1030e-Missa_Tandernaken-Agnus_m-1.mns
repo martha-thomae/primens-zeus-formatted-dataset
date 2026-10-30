@@ -4,28 +4,28 @@
 =
 =
 *met(O)
-S : r
-S : r
-s r
-s r
-s a
-M : b -
-m a
-M a
+S:r
+S:r
+sr
+sr
+sa
+M:b-
+ma
+Ma
 =
-s b -
-m a
-m g
-M f
-M b -
-M a
-s g
-M f
-M g
-M d
-M e
-s g
-m f
-m e
+sb-
+ma
+mg
+Mf
+Mb-
+Ma
+sg
+Mf
+Mg
+Md
+Me
+sg
+mf
+me
 =
-*custos d
+*custosd

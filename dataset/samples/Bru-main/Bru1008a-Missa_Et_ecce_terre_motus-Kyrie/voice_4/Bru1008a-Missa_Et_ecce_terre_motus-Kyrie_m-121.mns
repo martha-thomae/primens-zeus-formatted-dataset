@@ -2,26 +2,26 @@
 =
 *clefC4
 *met(O|)
-s : d
-s : B
-M : G
-U F
-U E
-M D
-M : d
-m c
-M d
-M G
-M : e
-m f
-M g
-M c
-M : g
-m f
-m e
-m d
-m e
-m f
-M g
-s c
-*custos D
+s:d
+s:B
+M:G
+UF
+UE
+MD
+M:d
+mc
+Md
+MG
+M:e
+mf
+Mg
+Mc
+M:g
+mf
+me
+md
+me
+mf
+Mg
+sc
+*custosD

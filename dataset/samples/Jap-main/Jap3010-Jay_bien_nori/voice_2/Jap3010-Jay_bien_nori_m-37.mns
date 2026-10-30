@@ -4,23 +4,23 @@
 *met(C|)
 *met(C|2)
 *rscale:2
-S r
-S r
-s G
-M G
-M G
-s : d
-M d
-M e
-M d
-M c
-M B -
-s A
-M r
-M A
-M c
+Sr
+Sr
+sG
+MG
+MG
+s:d
+Md
+Me
+Md
+Mc
+MB-
+sA
+Mr
+MA
+Mc
 =
-M c
-M c
-M c
-*custos G
+Mc
+Mc
+Mc
+*custosG

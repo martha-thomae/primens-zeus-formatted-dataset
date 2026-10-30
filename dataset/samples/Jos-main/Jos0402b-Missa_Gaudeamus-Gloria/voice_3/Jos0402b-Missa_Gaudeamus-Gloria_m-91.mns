@@ -1,40 +1,40 @@
 **mens
 *clefC2
 *met(C|)
-s A
-M G
-s A
-M F
-s E
-s : F
-m E
-m D
-M E
-s F
-M D
-s B -
-M A
-s B -
-M A
-M B -
-M G
+sA
+MG
+sA
+MF
+sE
+s:F
+mE
+mD
+ME
+sF
+MD
+sB-
+MA
+sB-
+MA
+MB-
+MG
 =
-[ s A
-s E
-s F ]
-s D
-s : F
-M G
-S A
-S r
-S r
-S r
-s r
-s : A
-M B
+[sA
+sE
+sF]
+sD
+s:F
+MG
+SA
+Sr
+Sr
+Sr
+sr
+s:A
+MB
 =
-< s A
-s B >
-M G
-M d
-*custos D
+<sA
+sB>
+MG
+Md
+*custosD

@@ -4,25 +4,25 @@
 =
 *met(O|)
 *met(O)
-[ s : G
-s c ]
-M B -
-s : c
-M : c
-m A
-m G
-U F
-U E n
+[s:G
+sc]
+MB-
+s:c
+M:c
+mA
+mG
+UF
+UEn
 *met(O|)
-s F
-M G
-M A
-s B -
-M c
-M : d
-m c
-M B -
+sF
+MG
+MA
+sB-
+Mc
+M:d
+mc
+MB-
 =
-M A
-M G
-*custos E
+MA
+MG
+*custosE

@@ -1,55 +1,55 @@
 **mens
 *clefC1
 *met(C2)
-s ee
-M : dd
-m b
-s cc
-M b
-M ee
-M cc
-[ s ff
-s ee ]
-M dd
-M cc
-M b
-M : cc
-m b
-M a
-m g
-m f
-M e
-s a
-M g
-M a
-M b
-M cc
-m dd
-m cc
-m b
-m a
-s a
-M g #
-S a
+see
+M:dd
+mb
+scc
+Mb
+Mee
+Mcc
+[sff
+see]
+Mdd
+Mcc
+Mb
+M:cc
+mb
+Ma
+mg
+mf
+Me
+sa
+Mg
+Ma
+Mb
+Mcc
+mdd
+mcc
+mb
+ma
+sa
+Mg#
+Sa
 *clefC1
 *met(C|3)
-S : r
-S cc
-s g
-M a
-M b
-M cc
-M dd
-[ s ee
-S ff ]
-[ s ee
-s dd ]
-s : ff
-M ee
-S ee
-< s dd
-S : ee >
-S : r
-[ S ee
-s dd ]
-*custos e
+S:r
+Scc
+sg
+Ma
+Mb
+Mcc
+Mdd
+[see
+Sff]
+[see
+sdd]
+s:ff
+Mee
+See
+<sdd
+S:ee>
+S:r
+[See
+sdd]
+*custose

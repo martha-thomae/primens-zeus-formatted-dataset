@@ -2,19 +2,19 @@
 *clefF3
 =
 *met(C2)
-M GG
+MGG
 =
-M AA
-s EE
+MAA
+sEE
 *met(3)
-s : AA
-M BB
-M C
-M D
-S E
-[ s D
-S E ]
-s r
-S EE
-s DD
-*custos DD
+s:AA
+MBB
+MC
+MD
+SE
+[sD
+SE]
+sr
+SEE
+sDD
+*custosDD

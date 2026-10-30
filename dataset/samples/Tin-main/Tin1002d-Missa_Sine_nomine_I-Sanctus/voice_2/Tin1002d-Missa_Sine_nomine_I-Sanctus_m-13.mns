@@ -3,95 +3,95 @@
 *clefC4
 *k[b-e-]
 *met(O)
-m F
-M G
-M E -
-U D
-U C
-m : BB n
-U AA
-M : C
-U BB -
-U AA
-M GG
-M G
-M : C
-m D
-M : E -
-m F
-s G
-s G
+mF
+MG
+ME-
+UD
+UC
+m:BBn
+UAA
+M:C
+UBB-
+UAA
+MGG
+MG
+M:C
+mD
+M:E-
+mF
+sG
+sG
 =
-M : G
+M:G
 =
-m F
-m E -
-U D
-U C
-m D
-M GG
-m AA
+mF
+mE-
+UD
+UC
+mD
+MGG
+mAA
 =
-M BB -
-M : C
-m D
-m E -
+MBB-
+M:C
+mD
+mE-
 =
-m F
-m G
+mF
+mG
 =
-m A
-M B -
-s G
-M F
-s E -
-S D
-s G
-M : G
-U F
-U E -
-M D
-M C
-m BB -
-m C
-M D
-M : E -
-U D
-U C
-M BB -
-M C
-m D
-M C
-m BB -
-s C
-M GG
+mA
+MB-
+sG
+MF
+sE-
+SD
+sG
+M:G
+UF
+UE-
+MD
+MC
+mBB-
+mC
+MD
+M:E-
+UD
+UC
+MBB-
+MC
+mD
+MC
+mBB-
+sC
+MGG
 =
-m r
-m C
-m BB -
-m C
-M GG
-M : E -
-m D
-m E -
-m F
-M : G
-m F
-m E -
-m D
-s D
-M E -
-m F
-m D
-M C
-m D
-m C
-M E -
-M : F
-m E -
-s D
-M C
-s D
-M : C
-m D
-*custos GG
+mr
+mC
+mBB-
+mC
+MGG
+M:E-
+mD
+mE-
+mF
+M:G
+mF
+mE-
+mD
+sD
+ME-
+mF
+mD
+MC
+mD
+mC
+ME-
+M:F
+mE-
+sD
+MC
+sD
+M:C
+mD
+*custosGG

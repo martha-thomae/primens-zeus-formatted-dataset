@@ -3,31 +3,31 @@
 *k[b-]
 *met(O|)
 *MM378
-s B -
-M G
-M : d
-m e
-M f
-M : g
-m f
-m e
-m d
-M e
-M : c #
-m B n
-[ s d
-s a
-s g
-s f
-s : e ]
-m d
-m c
+sB-
+MG
+M:d
+me
+Mf
+M:g
+mf
+me
+md
+Me
+M:c#
+mBn
+[sd
+sa
+sg
+sf
+s:e]
+md
+mc
 =
-M d
-s g
-M f #
-M f #
-m e
-m f #
-S : g
-*custos G
+Md
+sg
+Mf#
+Mf#
+me
+mf#
+S:g
+*custosG

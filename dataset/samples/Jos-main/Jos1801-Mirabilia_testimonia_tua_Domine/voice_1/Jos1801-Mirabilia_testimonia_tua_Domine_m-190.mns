@@ -2,31 +2,31 @@
 *clefF4
 =
 *met(C|)
-m C
-m BB
-m AA
+mC
+mBB
+mAA
 =
-M BB
-M BB
-M AA
-M : A
-m G
-M F
-M E
-M A
-M D
-M A
-M F
-M B -
-s A
-s D
-s r
-s G
-[ s D
-s E ]
-s F
-M : C
-m D
-M E
-M F
-*custos AA
+MBB
+MBB
+MAA
+M:A
+mG
+MF
+ME
+MA
+MD
+MA
+MF
+MB-
+sA
+sD
+sr
+sG
+[sD
+sE]
+sF
+M:C
+mD
+ME
+MF
+*custosAA

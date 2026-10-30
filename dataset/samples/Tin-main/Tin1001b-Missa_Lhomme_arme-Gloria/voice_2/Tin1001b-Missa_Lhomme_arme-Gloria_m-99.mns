@@ -4,18 +4,18 @@
 *k[b-]
 *met(C|)
 *MM315
-S r
-L G
-S G
-S : c
-S B -
-s B -
-S A
-S G
-S r
-S r
-L d
+Sr
+LG
+SG
+S:c
+SB-
+sB-
+SA
+SG
+Sr
+Sr
+Ld
 =
-S G
-S d
-*custos G
+SG
+Sd
+*custosG

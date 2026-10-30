@@ -4,47 +4,47 @@
 *k[b-e-]
 =
 *met(O|)
-s c
-s e -
-s d
-M c
-M e -
-M d
-M c
-m B -
-m A
-M G
-m F
-m E -
-M D
-s G
-M F #
-S : G
-S : r
-S : r
-S : r
-S : r
+sc
+se-
+sd
+Mc
+Me-
+Md
+Mc
+mB-
+mA
+MG
+mF
+mE-
+MD
+sG
+MF#
+S:G
+S:r
+S:r
+S:r
+S:r
 =
-[ s : G
-s c ]
+[s:G
+sc]
 =
-M A
-M B -
-M : c
-m B -
-m A
-m G
-M B -
-M c
-s d
-M e -
-M : f
-m e -
-m d
-m c
-M e -
-M : d
-m G
-s c
-M B n
-*custos D
+MA
+MB-
+M:c
+mB-
+mA
+mG
+MB-
+Mc
+sd
+Me-
+M:f
+me-
+md
+mc
+Me-
+M:d
+mG
+sc
+MBn
+*custosD

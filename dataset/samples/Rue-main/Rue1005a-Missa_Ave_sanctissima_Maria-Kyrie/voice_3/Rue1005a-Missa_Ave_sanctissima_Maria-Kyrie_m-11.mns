@@ -2,30 +2,30 @@
 =
 *clefGv2
 *met(C2)
-s E
-S A
-s A
+sE
+SA
+sA
 =
-s : F
-M G
-L : G
+s:F
+MG
+L:G
 *clefGv2
 *met(C2)
-s G
-M G
+sG
+MG
 =
-M : E
-m F
-M : G
-m F
-m E
-m D
-M C
-M G
-M A
-s A
-m G
-m F
-s E
-S F
-*custos C
+M:E
+mF
+M:G
+mF
+mE
+mD
+MC
+MG
+MA
+sA
+mG
+mF
+sE
+SF
+*custosC

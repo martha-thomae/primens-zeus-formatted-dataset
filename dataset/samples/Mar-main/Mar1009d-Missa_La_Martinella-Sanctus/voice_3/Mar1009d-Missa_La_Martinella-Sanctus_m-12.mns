@@ -4,42 +4,42 @@
 *k[b-]
 =
 *met(C)
-s A
-M G
-M : B -
-m A
-M B -
-M c
-s d
-M e
-s : f
-s : d
-M : B -
-m c
-M d
-M : e -
-m B -
+sA
+MG
+M:B-
+mA
+MB-
+Mc
+sd
+Me
+s:f
+s:d
+M:B-
+mc
+Md
+M:e-
+mB-
 =
-M c
-S d
-[ s d
-s : f ]
-m c
-m d
-M : e -
-m d
-m c
-m B -
-M c
-s B -
-M : G
-m A
-M B -
-M G
-M B -
-M : c
-m B -
-m A
-m G
-s A
-*custos G
+Mc
+Sd
+[sd
+s:f]
+mc
+md
+M:e-
+md
+mc
+mB-
+Mc
+sB-
+M:G
+mA
+MB-
+MG
+MB-
+M:c
+mB-
+mA
+mG
+sA
+*custosG

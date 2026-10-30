@@ -5,69 +5,69 @@
 *met(C|)
 *MM280
 =
-M c
-M B n
-M c
+Mc
+MBn
+Mc
 =
-s e
-[ s d
-S c ]
+se
+[sd
+Sc]
 *clefC3
 *k[b-]
 *met(C|)
-s c
-M d
-s f
-m e
-m d
-s e
-s : d
-m c
-m B -
-s A
-M D
-M d
-m e
-m d
+sc
+Md
+sf
+me
+md
+se
+s:d
+mc
+mB-
+sA
+MD
+Md
+me
+md
 =
-m c #
-m B n
+mc#
+mBn
 =
-s c #
-s d
-M r
-M A
-m B -
-m A
-m G
-m F
-s G
-s : A
-M B -
-M c
-M B -
-M c
-M : G
-m A
-m B -
-m c
-M d
-m G
-m A
-m B -
-m c
-M d
-M G
-M d
-m G
-m A
-m B -
-m c
-M d
-M G
-S A
-S r
-M r
-M G
-s c
-*custos D
+sc#
+sd
+Mr
+MA
+mB-
+mA
+mG
+mF
+sG
+s:A
+MB-
+Mc
+MB-
+Mc
+M:G
+mA
+mB-
+mc
+Md
+mG
+mA
+mB-
+mc
+Md
+MG
+Md
+mG
+mA
+mB-
+mc
+Md
+MG
+SA
+Sr
+Mr
+MG
+sc
+*custosD

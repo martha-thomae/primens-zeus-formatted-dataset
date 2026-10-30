@@ -2,30 +2,30 @@
 *clefGv2
 *met(C3)
 =
-[ s d
-s : B - ]
+[sd
+s:B-]
 =
-M A
-S G
-[ s F #
-S G ]
-s r
-s : B
-M c
-s d
-s e
-s c
-s : d
-M G
-S c
-s B
-[ s G
-s A ]
-s B
-M G
-s A
-M G
-S G
-s F #
-S : G
-*custos F #
+MA
+SG
+[sF#
+SG]
+sr
+s:B
+Mc
+sd
+se
+sc
+s:d
+MG
+Sc
+sB
+[sG
+sA]
+sB
+MG
+sA
+MG
+SG
+sF#
+S:G
+*custosF#

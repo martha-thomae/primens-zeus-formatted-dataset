@@ -3,22 +3,22 @@
 *k[b-]
 =
 *met(C|)
-m d
-m c
-m B -
+md
+mc
+mB-
 =
-M A
-s B -
-M A
+MA
+sB-
+MA
 =
-M B -
-M c
-M A
+MB-
+Mc
+MA
 =
-s d
-M c
-M d
-M e
-M c
-M f
-*custos A
+sd
+Mc
+Md
+Me
+Mc
+Mf
+*custosA

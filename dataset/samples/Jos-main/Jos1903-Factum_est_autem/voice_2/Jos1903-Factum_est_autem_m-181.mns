@@ -10,40 +10,40 @@ s%M:G
 3%M%2B
 s%M:G
 3F
-M E
+ME
 6D
 3%M%2F
 3%M%2E
 3%M%2G
 3%M%2A
-M E
+ME
 6F
 3%M%2G
 *met(C|)
-s C
-M : E
-m F
-M G
-M A
-M G
-M : A
-m G
-M E
-M F
-M : E
-m D
-M D
-M E
-M : G
-m E
-M F
+sC
+M:E
+mF
+MG
+MA
+MG
+M:A
+mG
+ME
+MF
+M:E
+mD
+MD
+ME
+M:G
+mE
+MF
 =
-M G
-M : A
-m G
-m F
-m E
+MG
+M:A
+mG
+mF
+mE
 =
-M F
-M E
-*custos C
+MF
+ME
+*custosC

@@ -3,23 +3,23 @@
 =
 =
 *met(C|)
-S c
-M r
-s c
-s d
-M e
-s f
-M f
-s g
-M e
-M : f
-m e
-m d
-m c
-M d
-m e
-m d
-s g
-M f #
-S g
-*custos c
+Sc
+Mr
+sc
+sd
+Me
+sf
+Mf
+sg
+Me
+M:f
+me
+md
+mc
+Md
+me
+md
+sg
+Mf#
+Sg
+*custosc

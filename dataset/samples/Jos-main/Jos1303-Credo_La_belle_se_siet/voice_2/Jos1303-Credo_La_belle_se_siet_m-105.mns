@@ -3,20 +3,20 @@
 *k[b-]
 *met(O2)
 =
-m A
-m G
-s F
-s : A
+mA
+mG
+sF
+s:A
 =
-m G
-m F
-s E
+mG
+mF
+sE
 =
-s r
-s c
-s : d
-m c
-m B -
-s A
+sr
+sc
+s:d
+mc
+mB-
+sA
 =
-*custos E
+*custosE

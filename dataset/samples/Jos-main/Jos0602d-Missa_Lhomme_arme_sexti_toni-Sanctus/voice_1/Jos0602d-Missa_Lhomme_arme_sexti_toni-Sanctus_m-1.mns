@@ -3,34 +3,34 @@
 *k[b-]
 *met(O)
 =
-S FF
-s FF
-s FF
-s : BB -
-M AA
-s AA
-S GG
-L FF
-S EE -
-S FF
-s r
-S C
-s C
-[ S : FF
-s : C ]
-M AA
-M BB -
-M C
-s : AA
-M FF
-M GG
-M AA
-S FF
-s r
-S FF
-s r
-S FF
-s r
-S FF
-s F
-*custos EE -
+SFF
+sFF
+sFF
+s:BB-
+MAA
+sAA
+SGG
+LFF
+SEE-
+SFF
+sr
+SC
+sC
+[S:FF
+s:C]
+MAA
+MBB-
+MC
+s:AA
+MFF
+MGG
+MAA
+SFF
+sr
+SFF
+sr
+SFF
+sr
+SFF
+sF
+*custosEE-

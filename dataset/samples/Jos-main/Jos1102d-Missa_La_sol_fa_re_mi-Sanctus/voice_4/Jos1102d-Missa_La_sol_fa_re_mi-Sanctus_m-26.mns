@@ -3,34 +3,34 @@
 *met(O)
 *clefG2
 *met(O)
-s : a
-M g
-M f
-M d
-s e
-S a
-s g
-M f
-s e
-m d
-m c
-M B
-M : e
-m d
-s d
-M c
-M g
-M : f
-m e
+s:a
+Mg
+Mf
+Md
+se
+Sa
+sg
+Mf
+se
+md
+mc
+MB
+M:e
+md
+sd
+Mc
+Mg
+M:f
+me
 =
-M : a
-m g
-M g
+M:a
+mg
+Mg
 =
-M cc
-M : b
-m a
-s a
+Mcc
+M:b
+ma
+sa
 =
-M g #
-*custos B
+Mg#
+*custosB

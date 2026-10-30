@@ -2,20 +2,20 @@
 *clefC4
 *met(3)
 *met(C|)
-s : B -
-m A
-m G
-M F
-M G
-s D
-s r
-s : D
-M E
-M F
-M G
-M A
-M B
+s:B-
+mA
+mG
+MF
+MG
+sD
+sr
+s:D
+ME
+MF
+MG
+MA
+MB
 =
-M c
-M c
-*custos D
+Mc
+Mc
+*custosD

@@ -3,38 +3,38 @@
 =
 *k[b-]
 *met(3)
-S : r
+S:r
 =
-[ s G
-s F
-S G ]
-S A
-s G
-s r
-s r
-S : r
-S G
-s F
-s G
-S A
-s B -
-s : c
-M B -
-S B -
-s A
-s B -
+[sG
+sF
+SG]
+SA
+sG
+sr
+sr
+S:r
+SG
+sF
+sG
+SA
+sB-
+s:c
+MB-
+SB-
+sA
+sB-
 =
-s : c
-M B -
-[ s G
-s F ]
-s : B -
-M c
-M d
-M e
+s:c
+MB-
+[sG
+sF]
+s:B-
+Mc
+Md
+Me
 =
-s f
-s B -
-S c
-S : B -
-*custos F
+sf
+sB-
+Sc
+S:B-
+*custosF

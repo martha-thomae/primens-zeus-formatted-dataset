@@ -4,37 +4,37 @@
 =
 *met(O2)
 =
-s : a
-M g
-s a
-M b -
-s a
-m g
-m f
-s e
-S d
-S r
+s:a
+Mg
+sa
+Mb-
+sa
+mg
+mf
+se
+Sd
+Sr
 =
-S r
-s : dd
-M cc
-s dd
-M ee
-s dd
-m cc
-m b
-s a
-s : g
-M a
-s b
-M cc
-M b
-M g
-s cc
-M b
-S cc
-S r
-S r
-s : a
-M b
-*custos d
+Sr
+s:dd
+Mcc
+sdd
+Mee
+sdd
+mcc
+mb
+sa
+s:g
+Ma
+sb
+Mcc
+Mb
+Mg
+scc
+Mb
+Scc
+Sr
+Sr
+s:a
+Mb
+*custosd

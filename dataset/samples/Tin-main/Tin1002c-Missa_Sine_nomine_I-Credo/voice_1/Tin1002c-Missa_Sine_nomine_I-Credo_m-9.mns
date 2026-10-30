@@ -3,36 +3,36 @@
 *clefF4
 *k[b-e-]
 *met(O)
-s : CC
-M CC
-m GG
-M BB -
-m AA -
-M FF
-m GG
-m AA
-M BB -
-M GG
-s FF
+s:CC
+MCC
+mGG
+MBB-
+mAA-
+MFF
+mGG
+mAA
+MBB-
+MGG
+sFF
 MBBB-
-M : EE -
-m FF
-M GG
-m EE -
-M GG
-m AA
-m : BB -
-U AA
-m GG
-m FF
-M GG
-M EE -
-s FF
-s EE -
-M r
-M : E -
-U D
+M:EE-
+mFF
+MGG
+mEE-
+MGG
+mAA
+m:BB-
+UAA
+mGG
+mFF
+MGG
+MEE-
+sFF
+sEE-
+Mr
+M:E-
+UD
 =
-U C
-M D
+UC
+MD
 *custosBBB-

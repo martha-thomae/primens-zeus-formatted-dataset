@@ -3,40 +3,40 @@
 =
 *met(C)
 =
-m BB
-M GG
-s C
-s GG
-M AA
-M BB
+mBB
+MGG
+sC
+sGG
+MAA
+MBB
 =
-M C
-M E
-s D
-s GG
-s D
-M r
-M C
-M D
+MC
+ME
+sD
+sGG
+sD
+Mr
+MC
+MD
 =
-M AA
-[ s D
-s AA ]
-S r
-M r
-M E
-M C
-M D
-M E
-M C
-M D
-M BB
-s AA
-S : GG
+MAA
+[sD
+sAA]
+Sr
+Mr
+ME
+MC
+MD
+ME
+MC
+MD
+MBB
+sAA
+S:GG
 =
-s r
-s C
-s GG
-M C
-M C
-*custos GG
+sr
+sC
+sGG
+MC
+MC
+*custosGG

@@ -3,25 +3,25 @@
 =
 *met(C2)
 =
-s c
-M c
-M : A
-m G
-M F
-s E
-M D
-M A
-M B
-M : d
-m c
-M B
-s A
+sc
+Mc
+M:A
+mG
+MF
+sE
+MD
+MA
+MB
+M:d
+mc
+MB
+sA
 =
-S G
-M r
-M G
-M E
-M C
-[ s G
-s C ]
-*custos C
+SG
+Mr
+MG
+ME
+MC
+[sG
+sC]
+*custosC

@@ -3,19 +3,19 @@
 =
 *met(C|)
 =
-M c #
-s c #
+Mc#
+sc#
 =
-m B
+mB
 =
-m c #
-S d
+mc#
+Sd
 *clefG2
 *met(C|)
-S f
-s e
-s f
-s d
-S e
-s c
-*custos B
+Sf
+se
+sf
+sd
+Se
+sc
+*custosB

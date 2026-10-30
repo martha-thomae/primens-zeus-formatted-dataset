@@ -3,10 +3,10 @@
 *k[b-]
 *met(C|)
 *met(3)
-S D
-s r
-S : r
-S : r
-< S F
-s D >
-*custos D
+SD
+sr
+S:r
+S:r
+<SF
+sD>
+*custosD

@@ -3,33 +3,33 @@
 *k[b-]
 *met(C)
 =
-s g
-s f
-S r
-S : a
-s b -
-s a
+sg
+sf
+Sr
+S:a
+sb-
+sa
 =
-s : g
-m f #
-m e
-s f #
-S g
-[ s f
-s e ]
-s d
-M r
-M g
-M a
+s:g
+mf#
+me
+sf#
+Sg
+[sf
+se]
+sd
+Mr
+Mg
+Ma
 =
-M : cc
-m b -
-s a
-s g
-M f #
-S g
+M:cc
+mb-
+sa
+sg
+Mf#
+Sg
 *clefC1
 *k[b-]
 *met(O2)
-S r
-*custos d
+Sr
+*custosd

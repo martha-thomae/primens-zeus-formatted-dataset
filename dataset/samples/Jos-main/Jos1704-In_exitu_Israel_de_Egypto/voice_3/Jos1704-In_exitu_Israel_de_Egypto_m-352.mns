@@ -2,11 +2,11 @@
 *clefC2
 *k[b-]
 *met(C|)
-s c
-s : A
-M F
+sc
+s:A
+MF
 =
-s F
+sF
 3%M%2r
 3%M%2r
 3%M%2f
@@ -20,9 +20,9 @@ s F
 3%M%2B-
 3%M%2c
 3%m%4A
-s G
-s r
-s G
-M B -
-M G
-*custos F
+sG
+sr
+sG
+MB-
+MG
+*custosF

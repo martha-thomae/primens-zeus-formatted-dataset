@@ -2,20 +2,20 @@
 =
 *clefF4
 *met(C2)
-m BB
+mBB
 =
-m AA
-s BB
-L : AA
-L D
+mAA
+sBB
+L:AA
+LD
 *clefF4
 *met(C2)
-S r
-[ s D
-s F ]
-[ s G
-s D ]
-M r
-s G
-M F
-*custos AA
+Sr
+[sD
+sF]
+[sG
+sD]
+Mr
+sG
+MF
+*custosAA

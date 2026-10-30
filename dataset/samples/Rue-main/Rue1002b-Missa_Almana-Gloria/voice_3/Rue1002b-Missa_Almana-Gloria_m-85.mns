@@ -6,19 +6,19 @@
 =
 *k[b-]
 *met(C|)
-s r
-s F
-s B -
-M : B -
+sr
+sF
+sB-
+M:B-
 =
-m c
-M d
-s d
+mc
+Md
+sd
 =
-m c
-m B -
+mc
+mB-
 =
-S A
-s A
-s c
-*custos F
+SA
+sA
+sc
+*custosF

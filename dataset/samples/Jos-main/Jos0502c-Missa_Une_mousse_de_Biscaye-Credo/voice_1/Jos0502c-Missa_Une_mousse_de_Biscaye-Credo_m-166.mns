@@ -4,43 +4,43 @@
 =
 *k[b-]
 *met(C|)
-s GG
-s GG
+sGG
+sGG
 =
-[ s D
-s GG ]
-s D
-S E -
-M D
-s E -
-M F
-s G
-M D
-M : G
-m F
-M D
-[ s E
-s F ]
-S D
-s FF
-s GG
-M FF
-s BB -
-M C
-M D
-M : BB -
-m C
-m D
-m E
-M F
-M D
-[ s E -
-s D ]
-M E -
-M F
-[ s BB -
-s C ]
-[ S BB -
-s E -
-s D ]
-*custos FF
+[sD
+sGG]
+sD
+SE-
+MD
+sE-
+MF
+sG
+MD
+M:G
+mF
+MD
+[sE
+sF]
+SD
+sFF
+sGG
+MFF
+sBB-
+MC
+MD
+M:BB-
+mC
+mD
+mE
+MF
+MD
+[sE-
+sD]
+ME-
+MF
+[sBB-
+sC]
+[SBB-
+sE-
+sD]
+*custosFF

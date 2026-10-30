@@ -2,32 +2,32 @@
 =
 *clefF4
 *met(C|)
-S AA
-S C
-s BB
-s AA
-s : C
-m BB
-m AA
-s GG
-S AA
-s GG
-s C
-M : D
-m E
-M F
-s E
-M C
-s D
-s E
-S AA
-s r
-s F
-s E
-s C
-s D
-s : F
-M G
-M : F
-m D
-*custos GG
+SAA
+SC
+sBB
+sAA
+s:C
+mBB
+mAA
+sGG
+SAA
+sGG
+sC
+M:D
+mE
+MF
+sE
+MC
+sD
+sE
+SAA
+sr
+sF
+sE
+sC
+sD
+s:F
+MG
+M:F
+mD
+*custosGG

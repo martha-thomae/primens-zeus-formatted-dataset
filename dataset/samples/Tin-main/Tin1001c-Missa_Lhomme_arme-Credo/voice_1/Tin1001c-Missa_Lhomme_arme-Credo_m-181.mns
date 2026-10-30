@@ -2,7 +2,7 @@
 *clefF4
 *k[b-]
 *met(C|)
-S D
+SD
 s%M:D
 3E
 3%M%2F
@@ -11,32 +11,32 @@ s%M:D
 3%M%2G
 s%M:F#
 3E
-s G
-s r
-s G
-M D
-M : E
-m D
-M C
-[ s G
-s C ]
-s r
-M : C
-m D
-M E
+sG
+sr
+sG
+MD
+M:E
+mD
+MC
+[sG
+sC]
+sr
+M:C
+mD
+ME
 =
-M F
-M G
-m A
-m B -
-M c
-s B -
-m A
-m G
-s A
+MF
+MG
+mA
+mB-
+Mc
+sB-
+mA
+mG
+sA
 3%M%2G
 3%M%2C
 3%M%2E
 3%M%2G
 3%m%4D
-*custos C
+*custosC

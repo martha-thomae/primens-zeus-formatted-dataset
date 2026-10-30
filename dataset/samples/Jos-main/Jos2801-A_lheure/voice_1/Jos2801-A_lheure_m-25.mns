@@ -4,23 +4,23 @@
 *k[b-]
 *met(O)
 =
-M r
-s c
-M A
-s A
-M : B -
-m A
-M F
-M : G
-m F
-M D
-s C
-s r
-M r
+Mr
+sc
+MA
+sA
+M:B-
+mA
+MF
+M:G
+mF
+MD
+sC
+sr
+Mr
 =
-M C
-[ s D
-s E ]
-M F
-M D
-*custos C
+MC
+[sD
+sE]
+MF
+MD
+*custosC

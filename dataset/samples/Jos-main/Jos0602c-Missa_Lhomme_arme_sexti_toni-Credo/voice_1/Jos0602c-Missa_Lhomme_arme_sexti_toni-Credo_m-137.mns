@@ -3,18 +3,18 @@
 *k[b-]
 *met(C|)
 =
-s : F
-M E
-s D
-[ s C
-S AA ]
-s : D
-M C
-s BB -
-s AA
-S FF
-S r
-S r
-S r
+s:F
+ME
+sD
+[sC
+SAA]
+s:D
+MC
+sBB-
+sAA
+SFF
+Sr
+Sr
+Sr
 *rscale:1
-*custos FF
+*custosFF

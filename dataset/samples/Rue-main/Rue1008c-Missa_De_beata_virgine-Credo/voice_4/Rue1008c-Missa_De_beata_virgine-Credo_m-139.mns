@@ -3,21 +3,21 @@
 *clefC1
 *met(C|)
 *met(3)
-S : r
-S a
-s f
-s g
-s g
-s b
-s cc
-S cc
-S a
-s r
-s a
-s a
+S:r
+Sa
+sf
+sg
+sg
+sb
+scc
+Scc
+Sa
+sr
+sa
+sa
 =
-[ s g
-s a ]
+[sg
+sa]
 =
-S cc
-*custos f
+Scc
+*custosf

@@ -3,19 +3,19 @@
 *k[b-]
 =
 *met(O)
-M B -
-M G
-M : g
-m f
-m e
-m d
-s d
-M e
-M f
+MB-
+MG
+M:g
+mf
+me
+md
+sd
+Me
+Mf
 =
-s d
-M c #
-s d
+sd
+Mc#
+sd
 s%M:G
 3%M%2A
 3%MB-
@@ -32,77 +32,77 @@ s%M:G
 3d
 3B-
 3%M%2A
-s G
-M d
-s g
-M : e
-m f
-M g
-M e
-m f
-M a
-m g
-m e
+sG
+Md
+sg
+M:e
+mf
+Mg
+Me
+mf
+Ma
+mg
+me
 =
-m f
-M d
-M g
-M : f
-m : a
-U g
-U f #
+mf
+Md
+Mg
+M:f
+m:a
+Ug
+Uf#
 =
-U e
-M f #
-S g
-s r
-M : d
-m c
-M d
-M B -
-M G
-M d
-M r
-M c
-M : A
-m G
-m A
-m B -
-s c
+Ue
+Mf#
+Sg
+sr
+M:d
+mc
+Md
+MB-
+MG
+Md
+Mr
+Mc
+M:A
+mG
+mA
+mB-
+sc
 =
-s d
-M c
-[ s B -
-S : A ]
-M r
-M : B -
-m A
-M G
-M g
-M e
+sd
+Mc
+[sB-
+S:A]
+Mr
+M:B-
+mA
+MG
+Mg
+Me
 =
-s : f
-M : d
+s:f
+M:d
 =
-m e
-m f
-m g
-M a
-M g
-m e
-m : f
-U g
-m : a
-U g
-m e
+me
+mf
+mg
+Ma
+Mg
+me
+m:f
+Ug
+m:a
+Ug
+me
 =
-M f
-M g
-M : d
-m e
-m d
-U c
-U B -
-M A
-M d
-*custos G
+Mf
+Mg
+M:d
+me
+md
+Uc
+UB-
+MA
+Md
+*custosG

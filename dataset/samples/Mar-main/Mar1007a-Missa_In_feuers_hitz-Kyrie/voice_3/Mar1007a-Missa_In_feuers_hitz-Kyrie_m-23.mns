@@ -3,28 +3,28 @@
 =
 *met(C|)
 =
-M a
-M g
-S g
-s f #
-S g
+Ma
+Mg
+Sg
+sf#
+Sg
 *clefG2
 *met(C|)
-s g
-s a
-s b
-[ s cc
-s g ]
-[ s cc
-s dd ]
-s : ee
-M dd
-s cc
-S ff
-s ee
-s : ee
-M dd
-s cc
-[ s b
-s ee ]
-*custos f #
+sg
+sa
+sb
+[scc
+sg]
+[scc
+sdd]
+s:ee
+Mdd
+scc
+Sff
+see
+s:ee
+Mdd
+scc
+[sb
+see]
+*custosf#

@@ -3,46 +3,46 @@
 *k[b-]
 *met(C|)
 *MM3/1
-s : e
-m d
-m c
-M e
-s d
-m c
-m d
-s : e
-M f
-M d
-m c
-m B -
-s c
-s d
-s G
-s r
-s g
-M a
-s cc
-M b -
-M g
-M : a
+s:e
+md
+mc
+Me
+sd
+mc
+md
+s:e
+Mf
+Md
+mc
+mB-
+sc
+sd
+sG
+sr
+sg
+Ma
+scc
+Mb-
+Mg
+M:a
 =
-m g
-m f
-m e
-M d
-M : f
-m e
+mg
+mf
+me
+Md
+M:f
+me
 =
-m d
-m c
-M B -
-M : b -
-U a
-U g
-M : a
-m g
-s g
-M f #
-s g
-s r
-*custos G
+md
+mc
+MB-
+M:b-
+Ua
+Ug
+M:a
+mg
+sg
+Mf#
+sg
+sr
+*custosG

@@ -4,32 +4,32 @@
 =
 *met(C2)
 =
-s A
-s r
-s A
+sA
+sr
+sA
 =
-M A
-M A
-M : B -
-m A
-M G
-M G
-M F
-M D
-M : F
-U E
-U D
-M C
-M G
-M A
-M A
-M D
-s d
-m c
-m B -
-M A
-M A
-s A
-s r
-s G
-*custos C
+MA
+MA
+M:B-
+mA
+MG
+MG
+MF
+MD
+M:F
+UE
+UD
+MC
+MG
+MA
+MA
+MD
+sd
+mc
+mB-
+MA
+MA
+sA
+sr
+sG
+*custosC

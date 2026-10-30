@@ -2,29 +2,29 @@
 *clefC1
 *k[b-]
 *met(3)
-S : r
-s : g
-M a
-[ s b -
-s g ]
-S cc
-s : a
-M b -
-[ s cc
-s a
-s dd ]
-s : g
-M a
-s b -
-s g
-s : cc
-M b -
-M a
-M g
-s : b -
-s a
-M g
-S g
-[ s f #
-S : g ]
-*custos f #
+S:r
+s:g
+Ma
+[sb-
+sg]
+Scc
+s:a
+Mb-
+[scc
+sa
+sdd]
+s:g
+Ma
+sb-
+sg
+s:cc
+Mb-
+Ma
+Mg
+s:b-
+sa
+Mg
+Sg
+[sf#
+S:g]
+*custosf#

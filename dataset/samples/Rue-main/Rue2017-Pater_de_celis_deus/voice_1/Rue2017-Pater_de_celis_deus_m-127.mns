@@ -2,31 +2,31 @@
 =
 *clefF4
 *met(C2)
-m C
-M BB
-s AA
-S GG
-M r
-M C
-M D
-M C
+mC
+MBB
+sAA
+SGG
+Mr
+MC
+MD
+MC
 =
-[ s D
-s AA ]
-S DD
+[sD
+sAA]
+SDD
 *clefF4
 *met(C2)
-s r
-s D
-M C
-M AA
-M BB
-M C
-m C
-m BB
-m AA
-m GG
-s AA
-S GG
-S r
-*custos DD
+sr
+sD
+MC
+MAA
+MBB
+MC
+mC
+mBB
+mAA
+mGG
+sAA
+SGG
+Sr
+*custosDD

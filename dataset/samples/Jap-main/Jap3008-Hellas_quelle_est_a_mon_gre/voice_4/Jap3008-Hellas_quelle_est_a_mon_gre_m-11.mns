@@ -1,20 +1,20 @@
 **mens
 *clefC1
 *met(C|)
-M ee
-s ff
-S r
-s : ff
-M ee
-s dd
-M cc
-s cc
-m b
-m a
+Mee
+sff
+Sr
+s:ff
+Mee
+sdd
+Mcc
+scc
+mb
+ma
 =
-s b
+sb
 *met()
 *rscale:2/3
-S : cc
+S:cc
 *rscale:1
-*custos a
+*custosa

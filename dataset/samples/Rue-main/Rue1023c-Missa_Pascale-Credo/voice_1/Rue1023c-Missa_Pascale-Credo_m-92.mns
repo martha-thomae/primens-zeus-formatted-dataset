@@ -3,23 +3,23 @@
 =
 *met(C2)
 =
-S r
-S r
-s r
-M : AA
-m BB
-M C
-M C
-M C
-M C
-s GG
-s GG
-M : AA
-m BB
-M C
-M AA
-M : C
-m D
-s E
-S AA
-*custos GG
+Sr
+Sr
+sr
+M:AA
+mBB
+MC
+MC
+MC
+MC
+sGG
+sGG
+M:AA
+mBB
+MC
+MAA
+M:C
+mD
+sE
+SAA
+*custosGG

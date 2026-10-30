@@ -3,52 +3,52 @@
 *k[b-e-]
 *met(O|)
 *met(O)
-[ S A -
-s G ]
-S : F
+[SA-
+sG]
+S:F
 *met(O|)
-s : G
-M F
-M E -
-m D
-m C
-M D
-s GG
+s:G
+MF
+ME-
+mD
+mC
+MD
+sGG
 =
-M AA
-M BB -
-m C
-m D
-M E -
+MAA
+MBB-
+mC
+mD
+ME-
 =
-s C
-M BB n
-M BB n
-m AA
-m BB
-M : C
-m BB -
-M AA
-m GG
-m FF
-M GG
-M AA
-S : GG
-S : r
-[ S : BB -
-S : E - ]
-S : D
-S : C
+sC
+MBBn
+MBBn
+mAA
+mBB
+M:C
+mBB-
+MAA
+mGG
+mFF
+MGG
+MAA
+S:GG
+S:r
+[S:BB-
+S:E-]
+S:D
+S:C
 *clefC4
 *k[b-e-]
 *met(O)
-S C
-s BB -
-s C
-s AA
-s FF
-s F
-s E -
-M C
-M D
-*custos FF
+SC
+sBB-
+sC
+sAA
+sFF
+sF
+sE-
+MC
+MD
+*custosFF

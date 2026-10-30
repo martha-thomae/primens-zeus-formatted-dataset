@@ -3,30 +3,30 @@
 *clefC1
 *k[b-]
 *met(C|)
-[ s dd
-s cc ]
-s : b -
-M cc
-s dd
-M cc
-M : b -
-m a
-s a
-M g
-S a
-S r
-M r
-M dd
-M cc
-M a
-M b -
-M g
-s r
-M r
-M dd
-M cc
-M a
-M b -
-s a
-M g
-*custos g
+[sdd
+scc]
+s:b-
+Mcc
+sdd
+Mcc
+M:b-
+ma
+sa
+Mg
+Sa
+Sr
+Mr
+Mdd
+Mcc
+Ma
+Mb-
+Mg
+sr
+Mr
+Mdd
+Mcc
+Ma
+Mb-
+sa
+Mg
+*custosg

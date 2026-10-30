@@ -3,43 +3,43 @@
 =
 *met(C|)
 =
-M : e
-m c
-s c
-M r
-s d
-M d
-M d
-M d
-M d
-M d
+M:e
+mc
+sc
+Mr
+sd
+Md
+Md
+Md
+Md
+Md
 =
-M e
-M c
+Me
+Mc
 =
-s d
-M e
-M c
-M d
-M e
-M f
-M d
-M : e
-m c
-M c
-s d
-M d
-M e
+sd
+Me
+Mc
+Md
+Me
+Mf
+Md
+M:e
+mc
+Mc
+sd
+Md
+Me
 =
-M c
-M d
-M e
-M A
-M : f
-m e
-m d
-m c
-M B
-M A
-s B
-*custos A
+Mc
+Md
+Me
+MA
+M:f
+me
+md
+mc
+MB
+MA
+sB
+*custosA

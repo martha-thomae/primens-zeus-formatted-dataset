@@ -3,26 +3,26 @@
 *clefC2
 *k[b-]
 *met(C|)
-s c
-M d
-M f
-M e
-M d
-s e
-S d
+sc
+Md
+Mf
+Me
+Md
+se
+Sd
 *clefC2
 *k[b-]
 *met(C|3)
-S g
-s g
-[ s f
-s e ]
-s f
-s d
-M e
-s g
-M f #
-[ s g
-s d ]
-s e
-*custos c
+Sg
+sg
+[sf
+se]
+sf
+sd
+Me
+sg
+Mf#
+[sg
+sd]
+se
+*custosc

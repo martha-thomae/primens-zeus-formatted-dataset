@@ -3,25 +3,25 @@
 =
 *met(C|)
 =
-s D
-M C
-s D
-M r
-s E
-M F
-M E
-M F
-M : D
-m E
-M D
-M G
-s C
+sD
+MC
+sD
+Mr
+sE
+MF
+ME
+MF
+M:D
+mE
+MD
+MG
+sC
 =
-s : c
-M B
-s c
-M A
-s d
-M c #
-S d
-*custos C
+s:c
+MB
+sc
+MA
+sd
+Mc#
+Sd
+*custosC

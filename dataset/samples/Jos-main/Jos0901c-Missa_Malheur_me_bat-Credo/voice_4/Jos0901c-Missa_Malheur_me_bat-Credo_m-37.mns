@@ -1,29 +1,29 @@
 **mens
 *clefG2
 *met(C)
-S b
-S cc
-s b
-S g
-s a
-S b
+Sb
+Scc
+sb
+Sg
+sa
+Sb
 *met(C|)
 *rscale:1
-[ s b
-s g ]
-[ s a
-s b ]
-s cc
-M b
-s g
-M a
-s b
+[sb
+sg]
+[sa
+sb]
+scc
+Mb
+sg
+Ma
+sb
 *met(C)
 *rscale:1/2
-S e
-s r
-S b
-[ s cc
-s b ]
-s ee
-*custos e
+Se
+sr
+Sb
+[scc
+sb]
+see
+*custose

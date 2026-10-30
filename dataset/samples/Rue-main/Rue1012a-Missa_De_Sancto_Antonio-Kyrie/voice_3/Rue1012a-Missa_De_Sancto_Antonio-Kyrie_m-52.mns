@@ -1,90 +1,90 @@
 **mens
 *clefGv2
 *met(C|)
-s : f
-m e
-m d
-M e
-s A
-M A
-s E
-s A
-S G
+s:f
+me
+md
+Me
+sA
+MA
+sE
+sA
+SG
 *clefGv2
 *met(O|)
-S e
-s A
-s e
-M e
-s c
-M d
-s e
-M e
-M : c
-m A
-M B
-s c
-s r
-s c
-M : d
-m c
-M A
-M : d
-m e
-M f
-S g
-M f
-M g
-M : e
-m f
-M g
-M : a
-m g
-m f
-m e
-M d
-M G
-M r
-M G
+Se
+sA
+se
+Me
+sc
+Md
+se
+Me
+M:c
+mA
+MB
+sc
+sr
+sc
+M:d
+mc
+MA
+M:d
+me
+Mf
+Sg
+Mf
+Mg
+M:e
+mf
+Mg
+M:a
+mg
+mf
+me
+Md
+MG
+Mr
+MG
 =
-M : c
-m B
-m A
-m G
-s F
-M G
-M r
-M A
-M B
-M : e
+M:c
+mB
+mA
+mG
+sF
+MG
+Mr
+MA
+MB
+M:e
 =
-m d
-M B
-M : e
+md
+MB
+M:e
 =
-m d
-m c
+md
+mc
 =
-m B
-M A
-M : d
-m c
-M A
-M : d
-m B
-s e
-M d
-M e
-M d
+mB
+MA
+M:d
+mc
+MA
+M:d
+mB
+se
+Md
+Me
+Md
 =
-M e
-M d
-< s f
-s e >
-M : d
-m c
-M B
-M A
-M : c
-m B
-*custos E
+Me
+Md
+<sf
+se>
+M:d
+mc
+MB
+MA
+M:c
+mB
+*custosE

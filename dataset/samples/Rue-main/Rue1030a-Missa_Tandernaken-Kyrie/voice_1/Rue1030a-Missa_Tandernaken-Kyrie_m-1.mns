@@ -3,40 +3,40 @@
 =
 *k[b-]
 *met(C|)
-S D
-[ s E -
-s D ]
-S C
-M : BB -
-m C
-M D
-s C
-m BB -
-m AA
-s GG
-M r
-s D
-m C
-m BB -
-s AA
-M r
-s F
+SD
+[sE-
+sD]
+SC
+M:BB-
+mC
+MD
+sC
+mBB-
+mAA
+sGG
+Mr
+sD
+mC
+mBB-
+sAA
+Mr
+sF
 =
-m E
-m D
-[ s C
-S BB -
-s C ]
-[ s D
-S GG ]
-M r
-M : D
-m E
-M : F
-m E
-m D
-m C
-M D
-m C
-m BB -
-*custos GG
+mE
+mD
+[sC
+SBB-
+sC]
+[sD
+SGG]
+Mr
+M:D
+mE
+M:F
+mE
+mD
+mC
+MD
+mC
+mBB-
+*custosGG

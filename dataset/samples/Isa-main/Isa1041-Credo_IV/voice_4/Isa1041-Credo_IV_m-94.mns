@@ -2,16 +2,16 @@
 *clefC1
 *k[b-]
 *met(C|)
-M cc
+Mcc
 =
-M dd
-M dd
-M cc #
-s dd
+Mdd
+Mdd
+Mcc#
+sdd
 =
-s r
-S r
-M r
-s dd
-M g
-*custos g
+sr
+Sr
+Mr
+sdd
+Mg
+*custosg

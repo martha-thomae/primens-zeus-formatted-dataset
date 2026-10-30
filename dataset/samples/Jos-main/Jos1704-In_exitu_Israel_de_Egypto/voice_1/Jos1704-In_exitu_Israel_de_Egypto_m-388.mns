@@ -3,10 +3,10 @@
 *k[b-]
 *met(C|)
 =
-L GG
-s r
-s D
-M E
-s G
-M F
-*custos GG
+LGG
+sr
+sD
+ME
+sG
+MF
+*custosGG

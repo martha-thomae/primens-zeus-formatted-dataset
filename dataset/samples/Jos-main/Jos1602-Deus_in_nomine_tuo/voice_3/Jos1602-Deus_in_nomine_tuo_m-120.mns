@@ -3,43 +3,43 @@
 =
 *met(C|)
 =
-s e
-M d
-M B
-M : c
-m d
+se
+Md
+MB
+M:c
+md
 =
-s e
-M A
-M d
-M e
-M f
+se
+MA
+Md
+Me
+Mf
 =
-s e
-M e
-M f
-M e
-M d
+se
+Me
+Mf
+Me
+Md
 =
-s e
-S e
+se
+Se
 =
 *clefC2
 *met(C|)
-S r
-S r
-s : d
-M d
+Sr
+Sr
+s:d
+Md
 =
-s f
-s e
-s d
-s g
-M f
+sf
+se
+sd
+sg
+Mf
 =
-M d
-s f
-M : e
-m d
-s e
-*custos A
+Md
+sf
+M:e
+md
+se
+*custosA

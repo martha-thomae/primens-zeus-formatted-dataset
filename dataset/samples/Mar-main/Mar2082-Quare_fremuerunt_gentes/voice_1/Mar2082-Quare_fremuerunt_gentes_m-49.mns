@@ -3,51 +3,51 @@
 =
 =
 *met(C)
-s G
-s C
-s r
+sG
+sC
+sr
 =
-[ s c
-s A ]
-M A
-M A
-M A
-M A
-s A
-s A
-M D
-s F
-M G
-s D
+[sc
+sA]
+MA
+MA
+MA
+MA
+sA
+sA
+MD
+sF
+MG
+sD
 =
-[ S d
-s c ]
-M A
+[Sd
+sc]
+MA
 =
-M A
-s A
-M A
-M A
-M A
-M A
+MA
+sA
+MA
+MA
+MA
+MA
 =
-s c
-M G
-M A
-[ s E
-s A ]
-s A
-M A
-M A
-s A
-s A
-M c
-s B -
-M c
-[ s G
-s C ]
-s r
-M c
-M c
-s A
-*custos C
+sc
+MG
+MA
+[sE
+sA]
+sA
+MA
+MA
+sA
+sA
+Mc
+sB-
+Mc
+[sG
+sC]
+sr
+Mc
+Mc
+sA
+*custosC

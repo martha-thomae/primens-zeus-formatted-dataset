@@ -2,19 +2,19 @@
 *clefF4
 *k[b-]
 *met(C|)
-M : AA
+M:AA
 =
-m BB -
-M C
-s C
-m BB -
-m AA
-s GG
-L FF
+mBB-
+MC
+sC
+mBB-
+mAA
+sGG
+LFF
 *clefF4
 *k[b-]
 *met(C|)
-S BB -
-s BB -
-s BB -
-*custos FF
+SBB-
+sBB-
+sBB-
+*custosFF

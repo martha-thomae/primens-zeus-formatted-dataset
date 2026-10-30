@@ -3,16 +3,16 @@
 *k[b-]
 *met(C|)
 *MM280
-L c
-[ S A
-S B - ]
-S G
-S F
-[ S B -
-S A
-L F ]
+Lc
+[SA
+SB-]
+SG
+SF
+[SB-
+SA
+LF]
 =
-L G
-S F
-S F
-*custos F
+LG
+SF
+SF
+*custosF

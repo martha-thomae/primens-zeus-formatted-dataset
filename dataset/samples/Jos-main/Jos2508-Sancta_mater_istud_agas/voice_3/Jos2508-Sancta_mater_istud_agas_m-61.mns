@@ -3,16 +3,16 @@
 *clefC2
 *met(C|)
 =
-S d
-s r
-s : c
-M c
-s d
-S c
+Sd
+sr
+s:c
+Mc
+sd
+Sc
 =
-s r
-s : e
-M e
-[ s d
-S e ]
-*custos c
+sr
+s:e
+Me
+[sd
+Se]
+*custosc

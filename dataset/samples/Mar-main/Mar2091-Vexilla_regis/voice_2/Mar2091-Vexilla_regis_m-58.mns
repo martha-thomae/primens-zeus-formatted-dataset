@@ -2,15 +2,15 @@
 *clefGv2
 =
 *met(C|)
-M d
-s c
-M B
-s : c
-s e
-M d
+Md
+sc
+MB
+s:c
+se
+Md
 =
-M c
-s A
-s d
-M c #
-*custos A
+Mc
+sA
+sd
+Mc#
+*custosA

@@ -4,73 +4,73 @@
 =
 *met(O)
 *MM252
-s GG
-s C
-s r
-M r
-M C
-M : E -
-U D
-U C
+sGG
+sC
+sr
+Mr
+MC
+M:E-
+UD
+UC
 =
-M BB -
-M BB -
-M : C
-U BB -
-U AA
-M GG
-M D
-[ s E -
-S : D ]
-M E -
-M C
-S GG
-s AA
-M GG
-M : D
-m E
-M F
-M G
-M D
+MBB-
+MBB-
+M:C
+UBB-
+UAA
+MGG
+MD
+[sE-
+S:D]
+ME-
+MC
+SGG
+sAA
+MGG
+M:D
+mE
+MF
+MG
+MD
 =
-M : F
-m E
-M : C
-m BB -
-s GG
-M : D
-m C
-s D
-S GG
-M : GG
-m AA
-M BB -
-s C
-M : C
-m D
+M:F
+mE
+M:C
+mBB-
+sGG
+M:D
+mC
+sD
+SGG
+M:GG
+mAA
+MBB-
+sC
+M:C
+mD
 =
-m E
-m F
-s G
-M F
-M D
-s A
-M B -
-s G
-M A
-M : F
-m E
-M G
-M : d
-m c
-m B -
-m A
-M B -
-M G
-M r
-s GG
-M : GG
-m AA
-m BB -
-m C
-*custos GG
+mE
+mF
+sG
+MF
+MD
+sA
+MB-
+sG
+MA
+M:F
+mE
+MG
+M:d
+mc
+mB-
+mA
+MB-
+MG
+Mr
+sGG
+M:GG
+mAA
+mBB-
+mC
+*custosGG

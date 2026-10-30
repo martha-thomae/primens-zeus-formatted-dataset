@@ -3,21 +3,21 @@
 =
 *k[b-]
 *met(O)
-s C
-s GG
-M : C
-m BB -
-M GG
-s C
-M BB -
+sC
+sGG
+M:C
+mBB-
+MGG
+sC
+MBB-
 =
-M C
-m BB -
-m AA
-S GG
-s GG
-s BB -
-M AA
-M BB -
-s GG
-*custos GG
+MC
+mBB-
+mAA
+SGG
+sGG
+sBB-
+MAA
+MBB-
+sGG
+*custosGG

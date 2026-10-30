@@ -3,28 +3,28 @@
 *k[b-]
 *met(3)
 =
-S G
-S B -
-S c
-S B -
-s r
-S A
-< s B -
-S c >
-s B -
-[ s G
-s B -
-s A ]
-s F
-[ s G
-s A ]
-[ s B -
-s : c ]
-M B -
-[ s G
-S A ]
-S G
-s r
-S : r
-S : r
-*custos F
+SG
+SB-
+Sc
+SB-
+sr
+SA
+<sB-
+Sc>
+sB-
+[sG
+sB-
+sA]
+sF
+[sG
+sA]
+[sB-
+s:c]
+MB-
+[sG
+SA]
+SG
+sr
+S:r
+S:r
+*custosF

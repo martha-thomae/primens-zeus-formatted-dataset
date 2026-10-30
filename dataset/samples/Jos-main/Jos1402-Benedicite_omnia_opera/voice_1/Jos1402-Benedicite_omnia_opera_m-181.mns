@@ -4,19 +4,19 @@
 =
 *met(3)
 *met(C|)
-s C
-M r
+sC
+Mr
 =
-s C
-M G
-s C
-< s G
-s C >
-M r
-s c
-M B -
-[ s c
-s C ]
-s G
-s G
-*custos C
+sC
+MG
+sC
+<sG
+sC>
+Mr
+sc
+MB-
+[sc
+sC]
+sG
+sG
+*custosC

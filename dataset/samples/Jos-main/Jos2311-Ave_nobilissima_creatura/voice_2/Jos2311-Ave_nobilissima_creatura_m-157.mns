@@ -5,18 +5,18 @@
 *met(C|)
 =
 =
-s D
-s r
-s D
-s GG
-M r
-s G
-M F
-[ s G
-s A ]
-s G
+sD
+sr
+sD
+sGG
+Mr
+sG
+MF
+[sG
+sA]
+sG
 =
-M r
+Mr
 =
-M D
-*custos GG
+MD
+*custosGG

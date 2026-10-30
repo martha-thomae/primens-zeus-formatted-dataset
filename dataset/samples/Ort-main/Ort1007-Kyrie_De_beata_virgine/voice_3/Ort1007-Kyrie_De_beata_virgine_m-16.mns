@@ -4,61 +4,61 @@
 =
 *clefC2
 *met(C|)
-s A
-M : c
-m B
-m A
-m G
-M F
-M : c
-m d
-m e
-m f
-M e
-[ s d
-s c ]
-M r
-M : F
-m G
-m A
-m B
-s c
-M d
-s e
-m d
-m c
-s d
-M : G
-m A
-m B -
-m c
-s d
-M c
-M B -
-M A
-M G
-M c
-M F
-s E
-M D
-M E
-M : F
-m G
-m A
-m B
-M c
-M F
-M : c
-m d
-m e
-m f
-M : e
-m d
-m c
-m B
-M A
-s d
-M c #
-< s d
-s f >
-*custos D
+sA
+M:c
+mB
+mA
+mG
+MF
+M:c
+md
+me
+mf
+Me
+[sd
+sc]
+Mr
+M:F
+mG
+mA
+mB
+sc
+Md
+se
+md
+mc
+sd
+M:G
+mA
+mB-
+mc
+sd
+Mc
+MB-
+MA
+MG
+Mc
+MF
+sE
+MD
+ME
+M:F
+mG
+mA
+mB
+Mc
+MF
+M:c
+md
+me
+mf
+M:e
+md
+mc
+mB
+MA
+sd
+Mc#
+<sd
+sf>
+*custosD

@@ -5,16 +5,16 @@
 =
 *met(C)
 *rscale:1/2
-s : D
-M E
-s F
-[ s G
-s : A ]
-M G
-M F
-M E
-[ s F
-s A
-s B -
-S G ]
-*custos D
+s:D
+ME
+sF
+[sG
+s:A]
+MG
+MF
+ME
+[sF
+sA
+sB-
+SG]
+*custosD

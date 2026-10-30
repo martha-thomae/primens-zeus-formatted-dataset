@@ -4,36 +4,36 @@
 =
 =
 *met(C|)
-s : D
-M E
-M F
-M E
-M F
-M G
-S E
-s D
-s r
-s : E -
-M E -
-s : E -
-M F
-M G
-M F
-M E -
-M D
-S E -
-S D
-s GG
-M r
+s:D
+ME
+MF
+ME
+MF
+MG
+SE
+sD
+sr
+s:E-
+ME-
+s:E-
+MF
+MG
+MF
+ME-
+MD
+SE-
+SD
+sGG
+Mr
 =
-M C
-M D
-M E
-s D
-M r
+MC
+MD
+ME
+sD
+Mr
 =
-M GG
-M BB -
+MGG
+MBB-
 =
-M C
-*custos GG
+MC
+*custosGG

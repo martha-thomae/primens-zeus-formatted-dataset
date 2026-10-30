@@ -17,14 +17,14 @@ S%m:r
 =
 S%m:r
 *met(C|)
-s r
-s E
-s F
-M E
-M : A
-m G
+sr
+sE
+sF
+ME
+M:A
+mG
 =
-M E
-s F
-L E
-*custos C
+ME
+sF
+LE
+*custosC

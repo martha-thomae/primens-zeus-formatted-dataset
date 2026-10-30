@@ -3,17 +3,17 @@
 *clefF4
 *k[b-e-]
 *met(C|)
-s : C
-M C
-s : C
-M D
-M : E -
-m E -
-M E -
-M : E -
-m D
-m C
-m BB -
-[ s C
-S BB - ]
-*custos BB -
+s:C
+MC
+s:C
+MD
+M:E-
+mE-
+ME-
+M:E-
+mD
+mC
+mBB-
+[sC
+SBB-]
+*custosBB-

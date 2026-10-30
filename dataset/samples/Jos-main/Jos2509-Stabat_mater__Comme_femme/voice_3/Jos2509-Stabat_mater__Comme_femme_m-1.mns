@@ -4,14 +4,14 @@
 *met(C|)
 *MM280
 =
-L c
-S d
-L f
-S e
-X f
-L g
-S f
+Lc
+Sd
+Lf
+Se
+Xf
+Lg
+Sf
 =
-[ S c
-L f ]
-*custos c
+[Sc
+Lf]
+*custosc

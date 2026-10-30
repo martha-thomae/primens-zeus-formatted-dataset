@@ -5,21 +5,21 @@
 *clefC3
 *k[b-]
 *met(C|)
-s c
-s c
-M : G
-m A
-m B -
-m c
-s d
-M : f
-m e
-M : e
-m d
-s d
-M c #
-M d
-M f
-M : g
-m f
-*custos G
+sc
+sc
+M:G
+mA
+mB-
+mc
+sd
+M:f
+me
+M:e
+md
+sd
+Mc#
+Md
+Mf
+M:g
+mf
+*custosG

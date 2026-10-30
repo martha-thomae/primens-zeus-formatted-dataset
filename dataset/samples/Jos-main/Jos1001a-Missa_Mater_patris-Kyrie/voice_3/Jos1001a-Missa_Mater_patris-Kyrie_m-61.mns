@@ -3,45 +3,45 @@
 *k[b-]
 *met(C|)
 *met(C|)
-S d
-M c
-M B -
-s d
-M c
-M B -
-s d
-M c
-M B -
-s d
-M c
-M B -
-M : A
-m B -
-M c
-s d
+Sd
+Mc
+MB-
+sd
+Mc
+MB-
+sd
+Mc
+MB-
+sd
+Mc
+MB-
+M:A
+mB-
+Mc
+sd
 =
-M c
-M B -
-M G
-s A
-[ s G
-s : B - ]
-m A
-m G
-M A
-M G
-s c
+Mc
+MB-
+MG
+sA
+[sG
+s:B-]
+mA
+mG
+MA
+MG
+sc
 =
-M B -
-s A
-m G
-m F
-M E
-M D
-m E
-m D
-s G
-M F #
-s G
-s r
-*custos D
+MB-
+sA
+mG
+mF
+ME
+MD
+mE
+mD
+sG
+MF#
+sG
+sr
+*custosD

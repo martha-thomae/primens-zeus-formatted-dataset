@@ -2,19 +2,19 @@
 *clefC2
 *k[b-e-]
 *met(C|)
-s A
-s B -
-M : c
-m B -
-s G
-M E -
-M F
-[ s G
-S F ]
-[ s B -
-s c ]
-M d
-s B -
-M A
-L B -
-*custos E -
+sA
+sB-
+M:c
+mB-
+sG
+ME-
+MF
+[sG
+SF]
+[sB-
+sc]
+Md
+sB-
+MA
+LB-
+*custosE-

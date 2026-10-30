@@ -3,23 +3,23 @@
 =
 =
 *met(C|)
-s C
-s AA
-s AA
-s D
-s D
-[ S GG
-s : D ]
-M D
+sC
+sAA
+sAA
+sD
+sD
+[SGG
+s:D]
+MD
 =
-s AA
-s AA
-s : C
-m BB
-m AA
-s GG
-s GG
+sAA
+sAA
+s:C
+mBB
+mAA
+sGG
+sGG
 =
-s D
-s D
-*custos GG
+sD
+sD
+*custosGG

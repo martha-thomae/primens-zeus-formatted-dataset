@@ -1,45 +1,45 @@
 **mens
 *clefC4
 *met(C|)
-s D
-s D
-s E
-M r
-M G
-s G
-s G
-s A
-s A
+sD
+sD
+sE
+Mr
+MG
+sG
+sG
+sA
+sA
 =
 *met(3)
-S D
-S G
-s E
-s C
-s F
-S F
-S : D
-S D
-s D
-s E
-s D
-s F
-[ s A
-S G ]
-S C
-s r
-S : E
-s E
-s A
-s A
-s A
-s G
-s G
+SD
+SG
+sE
+sC
+sF
+SF
+S:D
+SD
+sD
+sE
+sD
+sF
+[sA
+SG]
+SC
+sr
+S:E
+sE
+sA
+sA
+sA
+sG
+sG
 =
-s A
-s A
-s G #
+sA
+sA
+sG#
 *met(C|)
-S A
-S r
-*custos C
+SA
+Sr
+*custosC

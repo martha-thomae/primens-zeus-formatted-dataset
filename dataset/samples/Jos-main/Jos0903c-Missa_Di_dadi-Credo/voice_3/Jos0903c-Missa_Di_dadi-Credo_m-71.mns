@@ -3,20 +3,20 @@
 =
 *k[b-]
 *met(C2)
-s : F
-M G
-M A
-M B -
-s : c
-M B -
-s G
-M B -
-M c
-s : d
-M c
-M d
-s c
-m B -
-m A
-s G
-*custos F
+s:F
+MG
+MA
+MB-
+s:c
+MB-
+sG
+MB-
+Mc
+s:d
+Mc
+Md
+sc
+mB-
+mA
+sG
+*custosF

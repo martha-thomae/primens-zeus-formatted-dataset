@@ -3,50 +3,50 @@
 =
 =
 *met(C)
-M cc
-M cc
-s cc
-M cc
+Mcc
+Mcc
+scc
+Mcc
 =
-M cc
-M cc
-M cc
-s cc
+Mcc
+Mcc
+Mcc
+scc
 =
-s a
-M b
-[ s a
-s g ]
-M f #
+sa
+Mb
+[sa
+sg]
+Mf#
 =
-s g
-s cc
-M cc
-M cc
-s cc
-s cc
-s a
-M cc
-M b
-s a
-s g
-s cc
-s cc
-M cc
-M cc
-s cc
-M a
-M cc
-M b
-s a
-s g
-M f #
-S g
-M cc
-M cc
-s cc
-M cc
-M cc
-M a
-M cc
-*custos f #
+sg
+scc
+Mcc
+Mcc
+scc
+scc
+sa
+Mcc
+Mb
+sa
+sg
+scc
+scc
+Mcc
+Mcc
+scc
+Ma
+Mcc
+Mb
+sa
+sg
+Mf#
+Sg
+Mcc
+Mcc
+scc
+Mcc
+Mcc
+Ma
+Mcc
+*custosf#

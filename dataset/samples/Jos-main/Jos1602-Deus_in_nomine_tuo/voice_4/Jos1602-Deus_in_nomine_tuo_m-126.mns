@@ -3,30 +3,30 @@
 *met(C|)
 *clefG2
 *met(C|)
-s : a
-M a
+s:a
+Ma
 =
-[ s cc
-s b ]
-s a
-s dd
-M cc
-M a
+[scc
+sb]
+sa
+sdd
+Mcc
+Ma
 =
-s cc
-M b
-M a
-s b
-M : a
-m g
-m a
-m b
-M : cc
-m b
-M a
-m g
-m e
-s a
-M g #
-s a
-*custos e
+scc
+Mb
+Ma
+sb
+M:a
+mg
+ma
+mb
+M:cc
+mb
+Ma
+mg
+me
+sa
+Mg#
+sa
+*custose

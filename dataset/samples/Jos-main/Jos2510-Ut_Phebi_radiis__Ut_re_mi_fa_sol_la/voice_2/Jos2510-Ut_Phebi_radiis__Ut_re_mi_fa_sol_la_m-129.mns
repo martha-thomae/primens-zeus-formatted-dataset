@@ -2,31 +2,31 @@
 *clefC4
 *k[b-]
 *met(C|)
-[ S c
-S B -
-S A ]
-S G
+[Sc
+SB-
+SA]
+SG
 =
-S F
-S c
-s c
-S c
+SF
+Sc
+sc
+Sc
 =
-[ s G
-s g ]
-M g
-s e
-m d
-m c
-s c
-s r
-S c
-s G
-M A
-M G
-s : c
-M d
-s e
+[sG
+sg]
+Mg
+se
+md
+mc
+sc
+sr
+Sc
+sG
+MA
+MG
+s:c
+Md
+se
 *met(3/2)
 =
 3%M%2G
@@ -38,4 +38,4 @@ s%M:e
 3%M%2c
 s%M:g
 3f
-*custos F
+*custosF

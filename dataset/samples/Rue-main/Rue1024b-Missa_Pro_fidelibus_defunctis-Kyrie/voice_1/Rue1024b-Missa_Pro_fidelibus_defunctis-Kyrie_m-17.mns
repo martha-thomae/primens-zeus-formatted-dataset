@@ -3,35 +3,35 @@
 *k[b-e-]
 *met(C|)
 *MM400
-s r
-s : C
-M GG
+sr
+s:C
+MGG
 =
-[ s BB -
-S AA -
-S GG ]
-s r
-S GG
-s GG
-s : AA -
-M FF
-S FF
-s r
+[sBB-
+SAA-
+SGG]
+sr
+SGG
+sGG
+s:AA-
+MFF
+SFF
+sr
 =
-S EE -
+SEE-
 =
-S EE -
-[ s GG
-s FF ]
-S EE -
+SEE-
+[sGG
+sFF]
+SEE-
 sBBB-
-M CC
-M EE -
-s DD
-M CC
-s EE -
-M GG
+MCC
+MEE-
+sDD
+MCC
+sEE-
+MGG
 =
-s FF
-S : EE -
+sFF
+S:EE-
 *custosBBB-

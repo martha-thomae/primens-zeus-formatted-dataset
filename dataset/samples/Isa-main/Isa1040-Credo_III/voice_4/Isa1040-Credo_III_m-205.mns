@@ -4,19 +4,19 @@
 =
 =
 *met(C|)
-S r
-s r
-M r
-M dd
-s dd
+Sr
+sr
+Mr
+Mdd
+sdd
 =
-s ee
-M : ff
-m ee
-M ff
-M gg
-m ff
-m ee
-s dd
-M cc #
-*custos cc #
+see
+M:ff
+mee
+Mff
+Mgg
+mff
+mee
+sdd
+Mcc#
+*custoscc#

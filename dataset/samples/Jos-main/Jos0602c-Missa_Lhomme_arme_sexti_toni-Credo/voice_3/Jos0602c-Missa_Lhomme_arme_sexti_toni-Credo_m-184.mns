@@ -2,12 +2,12 @@
 *clefC2
 *k[b-]
 *met(C|)
-s r
-s D
-s E
-s E
-S E
+sr
+sD
+sE
+sE
+SE
 *met(C|3)
-S : r
+S:r
 *rscale:1
-*custos D
+*custosD

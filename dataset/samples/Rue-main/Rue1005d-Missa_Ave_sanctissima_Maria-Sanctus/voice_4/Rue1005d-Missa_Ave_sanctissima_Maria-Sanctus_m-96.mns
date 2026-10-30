@@ -2,15 +2,15 @@
 *clefGv2
 *met(3)
 s%5d
-s d
-s : B -
-M c
-[ s d
-s e - ]
-M d
-M c
-[ s d
-S c ]
-S c
-S c
-*custos B -
+sd
+s:B-
+Mc
+[sd
+se-]
+Md
+Mc
+[sd
+Sc]
+Sc
+Sc
+*custosB-

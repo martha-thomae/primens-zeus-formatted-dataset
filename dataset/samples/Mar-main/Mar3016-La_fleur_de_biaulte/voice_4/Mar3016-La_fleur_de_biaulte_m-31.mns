@@ -1,57 +1,57 @@
 **mens
 *clefC1
 *met(3)
-s g
-M a
-M b
-M cc
-M dd
-s b
-[ S a
-s g ]
+sg
+Ma
+Mb
+Mcc
+Mdd
+sb
+[Sa
+sg]
 =
-s : dd
-M cc
+s:dd
+Mcc
 =
-s b
-M g
-s a
-M g
-s : g
-m f #
-m e
-s f #
+sb
+Mg
+sa
+Mg
+s:g
+mf#
+me
+sf#
 *met(C|)
-s : g
-m f
-m e
-S d
-s r
-s g
-M a
-s b
-M a
-M b
+s:g
+mf
+me
+Sd
+sr
+sg
+Ma
+sb
+Ma
+Mb
 =
-M cc
-[ s dd
-s g ]
-M d
+Mcc
+[sdd
+sg]
+Md
 =
-s g
-M cc
-M b
-M g
-s a
-M b
-s g
-M a
-s b
+sg
+Mcc
+Mb
+Mg
+sa
+Mb
+sg
+Ma
+sb
 =
-[ s cc
-s dd ]
+[scc
+sdd]
 =
-M a
-s dd
-M cc #
-*custos d
+Ma
+sdd
+Mcc#
+*custosd

@@ -3,32 +3,32 @@
 *clefF3
 =
 *met(O)
-M : C
-m D
+M:C
+mD
 =
-M E
-M F
-M D
-M E
-s AA
-M : D
-m C
-s AA
-s GG
-M D
-M BB
-M AA
-M GG
-s AA
-s GG
-s r
-M GG
+ME
+MF
+MD
+ME
+sAA
+M:D
+mC
+sAA
+sGG
+MD
+MBB
+MAA
+MGG
+sAA
+sGG
+sr
+MGG
 =
-s C
-M BB
-[ s C
-S : GG ]
+sC
+MBB
+[sC
+S:GG]
 *clefF3
 *met(C2)
-S r
-*custos GG
+Sr
+*custosGG

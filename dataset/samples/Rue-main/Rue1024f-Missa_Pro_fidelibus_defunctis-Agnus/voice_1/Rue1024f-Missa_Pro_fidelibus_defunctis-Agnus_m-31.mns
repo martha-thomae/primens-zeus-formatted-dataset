@@ -2,21 +2,21 @@
 *clefF4
 *k[b-]
 *met(3)
-[ s C
-S BB - ]
-[ s C
-s GG
-s BB - ]
-S : FF
+[sC
+SBB-]
+[sC
+sGG
+sBB-]
+S:FF
 *clefF4
 *k[b-]
 *met(3)
-S : r
-[ s DD
-s FF ]
-< s GG
-L DD >
-s r
+S:r
+[sDD
+sFF]
+<sGG
+LDD>
+sr
 =
-s DD
-*custos DD
+sDD
+*custosDD

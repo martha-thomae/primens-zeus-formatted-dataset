@@ -3,15 +3,15 @@
 *k[b-]
 =
 *met(C|)
-s FF
-s FF
-s FF
-s : BB -
+sFF
+sFF
+sFF
+s:BB-
 =
-M AA
-M GG
-M FF
+MAA
+MGG
+MFF
 =
-S EE -
-S FF
-*custos EE -
+SEE-
+SFF
+*custosEE-

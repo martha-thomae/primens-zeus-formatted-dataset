@@ -3,26 +3,26 @@
 *met(O)
 *clefF4
 *met(C|)
-s : A
-s : G
-M : A
-m G
-M E
-M G
-[ s F
-s E ]
-s r
-s E
-s G
-[ s F
-s E ]
-s : G
-M F
-M D
-M : F
-m E
-M C
-[ s D
-s E ]
-S AA
-*custos AA
+s:A
+s:G
+M:A
+mG
+ME
+MG
+[sF
+sE]
+sr
+sE
+sG
+[sF
+sE]
+s:G
+MF
+MD
+M:F
+mE
+MC
+[sD
+sE]
+SAA
+*custosAA

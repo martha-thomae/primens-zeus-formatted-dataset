@@ -4,48 +4,48 @@
 =
 =
 *met(C|)
-s r
-M : cc
-m cc
-M cc
-M a
-s b -
-M g
-s a
-m g
-m f
-M e
-M : f
-m e
-s a
-M g
-S a
-s r
-s r
-M r
-s d
-M d
-M d
-M e
-s f
-s e
-M d
-M f
-M e
-M d
-M e
+sr
+M:cc
+mcc
+Mcc
+Ma
+sb-
+Mg
+sa
+mg
+mf
+Me
+M:f
+me
+sa
+Mg
+Sa
+sr
+sr
+Mr
+sd
+Md
+Md
+Me
+sf
+se
+Md
+Mf
+Me
+Md
+Me
 =
-s f
+sf
 =
-m e
-m d
-M c
-M d
-M A
-s a
+me
+md
+Mc
+Md
+MA
+sa
 =
-M g
-s f
-s e
-s d
-*custos A
+Mg
+sf
+se
+sd
+*custosA

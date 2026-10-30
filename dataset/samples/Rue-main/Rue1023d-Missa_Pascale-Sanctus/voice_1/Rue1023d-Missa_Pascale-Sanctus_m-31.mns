@@ -4,26 +4,26 @@
 =
 *met(O)
 =
-M r
-M : D
-m E
-m F
-m G
+Mr
+M:D
+mE
+mF
+mG
 =
-M A
-M : AA
-m BB
-m C
-m D
-m E
-m F
-M G
-s D
-S : GG
-S : GG
+MA
+M:AA
+mBB
+mC
+mD
+mE
+mF
+MG
+sD
+S:GG
+S:GG
 *clefF4
 *met(C|)
-S G
-s F
-s F
-*custos GG
+SG
+sF
+sF
+*custosGG

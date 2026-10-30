@@ -3,17 +3,17 @@
 *k[b-]
 *met(C|)
 *met(O|)
-L : BB -
-S : C
-S : D
-S : C
-s r
-S D
-M C
-s F
-m E
+L:BB-
+S:C
+S:D
+S:C
+sr
+SD
+MC
+sF
+mE
 =
-m D
-M E
-M F
-*custos BB -
+mD
+ME
+MF
+*custosBB-

@@ -2,18 +2,18 @@
 *clefC1
 *k[b-e-]
 *met(C|)
-s B -
-M A
-S B -
+sB-
+MA
+SB-
 *clefC1
 *k[b-e-]
 =
 *met(C|)
-S B -
-s B -
-S A
-s A
-s A
-S A
-s d
-*custos A
+SB-
+sB-
+SA
+sA
+sA
+SA
+sd
+*custosA

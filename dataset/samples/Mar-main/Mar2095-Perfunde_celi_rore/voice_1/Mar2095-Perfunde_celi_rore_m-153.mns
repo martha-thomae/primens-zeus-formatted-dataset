@@ -2,28 +2,28 @@
 *clefC4
 *k[b-e-]
 *met(3)
-M AA
-M BB -
-M C
-s D
-s BB -
-S AA
-S GG
-[ s D
-s GG ]
-s C
-[ s D
-s E -
-S C ]
-s D
-s r
-s AA
-s : BB -
-M C
-[ s D
-S : GG
-s C
-s BB -
-s E - ]
+MAA
+MBB-
+MC
+sD
+sBB-
+SAA
+SGG
+[sD
+sGG]
+sC
+[sD
+sE-
+SC]
+sD
+sr
+sAA
+s:BB-
+MC
+[sD
+S:GG
+sC
+sBB-
+sE-]
 =
-*custos GG
+*custosGG

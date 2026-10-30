@@ -3,15 +3,15 @@
 *k[b-]
 =
 *met(C|)
-M : g
-m f
-m e
-m d
-M e
-M f
-s d
-M c #
-s d
+M:g
+mf
+me
+md
+Me
+Mf
+sd
+Mc#
+sd
 3%M%2g
 3a
 3%M%2b-
@@ -23,21 +23,21 @@ s d
 3a
 3%M%2g
 3f#
-S g
+Sg
 *clefC2
 *k[b-]
 *met(C|)
-[ s a
-s f ]
-s g
-s a
-M r
-M g
-M : a
+[sa
+sf]
+sg
+sa
+Mr
+Mg
+M:a
 =
-m g
-M f
-M e
-s d
-S r
-*custos c #
+mg
+Mf
+Me
+sd
+Sr
+*custosc#

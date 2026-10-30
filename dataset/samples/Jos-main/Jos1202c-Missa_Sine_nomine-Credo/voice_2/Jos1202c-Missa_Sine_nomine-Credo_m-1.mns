@@ -1,96 +1,96 @@
 **mens
 *clefC4
 *met(O)
-s A
-s d
-M : c
-m B
-M A
-M F
-s G
-s A
-M D
-M G
-M F
-M G
-s A
-M G
-M B
-M B
-M B
-s B
-s c
-M B
-M : G
+sA
+sd
+M:c
+mB
+MA
+MF
+sG
+sA
+MD
+MG
+MF
+MG
+sA
+MG
+MB
+MB
+MB
+sB
+sc
+MB
+M:G
 =
-m F
-m G
-m A
-M B -
-M A
-M F
-M G
-s A
-s c
-M B -
-M c
-M d
-M e
-M f
-M F
-M G
-M : B -
-m G
-M A
-M : B -
-m A
-M F
-M c
+mF
+mG
+mA
+MB-
+MA
+MF
+MG
+sA
+sc
+MB-
+Mc
+Md
+Me
+Mf
+MF
+MG
+M:B-
+mG
+MA
+M:B-
+mA
+MF
+Mc
 =
-m d
-M B -
+md
+MB-
 =
-m A
-M c
-M : B -
-m A
-M F
-s G
-M A
-M c
-M : B -
-m A
-M F
-M G
-m F
-m D
-s d
-M B
-s A
-s G
-M : B
-m B
-M B
-M B
-M B
-s e
-m d
-m c
-s B
-s c
-M d
-M A
-s B
-M A
-M c
-M c
-M c
-M d
-M : A
-m B
-M c
-M A
-M : d
-m B
-M G
-*custos D
+mA
+Mc
+M:B-
+mA
+MF
+sG
+MA
+Mc
+M:B-
+mA
+MF
+MG
+mF
+mD
+sd
+MB
+sA
+sG
+M:B
+mB
+MB
+MB
+MB
+se
+md
+mc
+sB
+sc
+Md
+MA
+sB
+MA
+Mc
+Mc
+Mc
+Md
+M:A
+mB
+Mc
+MA
+M:d
+mB
+MG
+*custosD

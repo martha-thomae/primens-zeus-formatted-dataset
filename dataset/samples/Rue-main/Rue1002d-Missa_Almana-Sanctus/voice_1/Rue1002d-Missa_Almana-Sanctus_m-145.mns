@@ -2,50 +2,50 @@
 *clefF4
 *k[b-]
 *met(C|)
-s AA
-M : AA
-m BB -
-M C
-M AA
-M C
-M AA
-M : GG
-m AA
-M BB -
-M GG
-M BB -
-M GG
-M FF
-M C
-s D
+sAA
+M:AA
+mBB-
+MC
+MAA
+MC
+MAA
+M:GG
+mAA
+MBB-
+MGG
+MBB-
+MGG
+MFF
+MC
+sD
 =
-s C
-S FF
+sC
+SFF
 *clefF4
 *k[b-]
 *met(C|)
-s FF
-M FF
-m GG
-m AA
-M BB -
-s AA
-m GG
-m FF
-s C
-M C
-M BB -
-M C
-s E -
-s D
-M C
-M D
-s F
-m E
-m D
+sFF
+MFF
+mGG
+mAA
+MBB-
+sAA
+mGG
+mFF
+sC
+MC
+MBB-
+MC
+sE-
+sD
+MC
+MD
+sF
+mE
+mD
 =
-s C
-M BB -
-s F
-M E
-*custos FF
+sC
+MBB-
+sF
+ME
+*custosFF

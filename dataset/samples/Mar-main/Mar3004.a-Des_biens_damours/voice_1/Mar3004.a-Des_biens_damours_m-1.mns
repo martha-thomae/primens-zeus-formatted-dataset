@@ -4,59 +4,59 @@
 =
 =
 *met(C|)
-s D
-s D
-M AA
-s D
-m C
-m BB -
-M AA
-s D
-M C #
+sD
+sD
+MAA
+sD
+mC
+mBB-
+MAA
+sD
+MC#
 =
-S D
-s AA
-s r
-s D
-s E
-M : AA
-m BB -
-M C
-M : D
+SD
+sAA
+sr
+sD
+sE
+M:AA
+mBB-
+MC
+M:D
 =
-m C
-M D
-s AA
+mC
+MD
+sAA
 =
-s A
-s B -
-M A
-s F
-M G
-s A
-M D
-M E
-M F
-M : D
-m C
-M BB -
-s AA
-M r
-s A
+sA
+sB-
+MA
+sF
+MG
+sA
+MD
+ME
+MF
+M:D
+mC
+MBB-
+sAA
+Mr
+sA
 =
-M G
-M A
-M F
-s G
-s D
-M E
-M C
-s D
-M C
-M AA
-s BB -
-M AA
-s A
-m G
-m F
-*custos AA
+MG
+MA
+MF
+sG
+sD
+ME
+MC
+sD
+MC
+MAA
+sBB-
+MAA
+sA
+mG
+mF
+*custosAA

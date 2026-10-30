@@ -3,18 +3,18 @@
 =
 *k[b-]
 *met(3)
-s b -
-s a
-s b -
-s : cc
-M b -
-M a
-M g
-s f
-s : a
-M g
-S g
-[ s f #
-S g ]
-s r
-*custos f
+sb-
+sa
+sb-
+s:cc
+Mb-
+Ma
+Mg
+sf
+s:a
+Mg
+Sg
+[sf#
+Sg]
+sr
+*custosf

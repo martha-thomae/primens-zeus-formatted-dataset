@@ -2,14 +2,14 @@
 *clefF4
 *k[b-]
 *met(O)
-S F
-L F
-S : C
-S : D
-S : F
-S : E
-S F
-L F
-S r
+SF
+LF
+S:C
+S:D
+S:F
+S:E
+SF
+LF
+Sr
 *rscale:1
-*custos C
+*custosC

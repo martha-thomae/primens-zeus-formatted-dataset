@@ -5,11 +5,11 @@
 *k[b-]
 *met(C|)
 =
-[ s FF
-s GG ]
-s AA
-s r
-S r
-s r
-s C
-*custos FF
+[sFF
+sGG]
+sAA
+sr
+Sr
+sr
+sC
+*custosFF

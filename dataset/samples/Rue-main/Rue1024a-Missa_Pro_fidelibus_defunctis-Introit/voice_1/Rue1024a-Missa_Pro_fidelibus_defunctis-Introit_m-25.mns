@@ -3,13 +3,13 @@
 *k[b-e-]
 *met(3)
 *met(C|)
-s EE -
-s FF
-S EE -
-s r
-s EE -
-S EE -
+sEE-
+sFF
+SEE-
+sr
+sEE-
+SEE-
 =
-[ s FF
-s GG ]
-*custos EE -
+[sFF
+sGG]
+*custosEE-
