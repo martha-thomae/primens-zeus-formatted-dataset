@@ -4,55 +4,55 @@
 =
 *met(C|)
 =
-S r
-S r
-M : c
+Sr
+Sr
+M:c
 =
-m d
-M e
-M : f
-m g
-M a
+md
+Me
+M:f
+mg
+Ma
 =
-M f
-M : b -
-m a
-s a
-M g
-M a
-s f
-m e
-m d
-S c
+Mf
+M:b-
+ma
+sa
+Mg
+Ma
+sf
+me
+md
+Sc
 *clefG2
 *met(C|)
-[ S a
-s g ]
-s : cc
-m b
-m a
-s b
-M a
-m g
-m f
-M : e
-m f
-M g
-s a
-M g #
-s a
-M r
-M : a
-m g
-m f
-m e
-s f
-M e
-M : g
-m f
-m e
-m d
-s c
-M r
-M c
-*custos c
+[Sa
+sg]
+s:cc
+mb
+ma
+sb
+Ma
+mg
+mf
+M:e
+mf
+Mg
+sa
+Mg#
+sa
+Mr
+M:a
+mg
+mf
+me
+sf
+Me
+M:g
+mf
+me
+md
+sc
+Mr
+Mc
+*custosc

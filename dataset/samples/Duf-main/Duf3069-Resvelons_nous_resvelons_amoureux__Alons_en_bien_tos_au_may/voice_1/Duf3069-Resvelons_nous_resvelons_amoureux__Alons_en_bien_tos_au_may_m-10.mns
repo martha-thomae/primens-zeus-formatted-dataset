@@ -2,22 +2,22 @@
 *clefC4
 *met(O|)
 *MM520
-S : D
-S : r
+S:D
+S:r
 =
-[ S F
-s G
-S F ]
-< s E
-S D >
-s C
-S : D
-S : r
-< S F
-s G >
-S F
+[SF
+sG
+SF]
+<sE
+SD>
+sC
+S:D
+S:r
+<SF
+sG>
+SF
 =
-s E
-S D
-s C
-*custos C
+sE
+SD
+sC
+*custosC

@@ -3,41 +3,41 @@
 *k[b-]
 *met(C.)
 =
-[ s a
-s : g ]
-M f
-S f
-s e
+[sa
+s:g]
+Mf
+Sf
+se
 *met(O)
 *rscale:1
-S f
-s r
-s a
-M g
-M a
-[ s b -
-S : a ]
+Sf
+sr
+sa
+Mg
+Ma
+[sb-
+S:a]
 *clefC1
 *k[b-]
 *met(C|)
-s : e
-m f
-m g
-[ s a
-s e ]
-M f
-s d
-M c
-M d
-M : f
-m e
-m d
-m c
-M B -
+s:e
+mf
+mg
+[sa
+se]
+Mf
+sd
+Mc
+Md
+M:f
+me
+md
+mc
+MB-
 =
-M : b -
-m a
-m g
-m f
+M:b-
+ma
+mg
+mf
 =
-*custos B -
+*custosB-

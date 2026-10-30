@@ -4,14 +4,14 @@
 *k[b-]
 *met(C|)
 *lg
-s FF
-s : AA
+sFF
+s:AA
 *Xlg
-M BB -
-S C
-[ s BB n
-S : C ]
-[ s BB -
-s : AA ]
-M FF
-*custos FF
+MBB-
+SC
+[sBBn
+S:C]
+[sBB-
+s:AA]
+MFF
+*custosFF

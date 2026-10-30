@@ -4,11 +4,11 @@
 =
 *met(C|)
 *MM400
-S G
-S C
-S r
-s GG
-[ s AA
-s : BB - ]
-M AA
-*custos GG
+SG
+SC
+Sr
+sGG
+[sAA
+s:BB-]
+MAA
+*custosGG

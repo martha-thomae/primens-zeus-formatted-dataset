@@ -2,36 +2,36 @@
 *clefG2
 *met(O/3)
 *lg
-[ s f
-s g ]
+[sf
+sg]
 *Xlg
-s e
+se
 *col
-s : f
-M g
-S a
-[ s b
-s a ]
+s:f
+Mg
+Sa
+[sb
+sa]
 *Xcol
-S dd
-[ s cc #
-s : dd ]
-M b
-M a
-M b
-M cc
-M b
-M a
-M g
-[ s f
-s e
-S a ]
-s : g
+Sdd
+[scc#
+s:dd]
+Mb
+Ma
+Mb
+Mcc
+Mb
+Ma
+Mg
+[sf
+se
+Sa]
+s:g
 =
-M e
-M f
-M e
-s : g
-M e
-s f #
-*custos e
+Me
+Mf
+Me
+s:g
+Me
+sf#
+*custose

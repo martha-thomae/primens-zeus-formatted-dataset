@@ -2,16 +2,16 @@
 *clefC4
 *k[b-]
 *met(O)
-s A
-M F
-s F
-M G
-M B -
-M A
-M G
-s F
-M r
-M G
+sA
+MF
+sF
+MG
+MB-
+MA
+MG
+sF
+Mr
+MG
 =
 3A
 3B-
@@ -19,9 +19,9 @@ M G
 3B-
 3A
 3G
-S A
-s r
-s c
-s c
-s B -
-*custos F
+SA
+sr
+sc
+sc
+sB-
+*custosF

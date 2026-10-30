@@ -4,18 +4,18 @@
 *met(C|)
 *clefG2
 *met(C|)
-s : a
-M b -
-[ s cc
-s dd
-s : cc ]
+s:a
+Mb-
+[scc
+sdd
+s:cc]
 =
-m b -
-m a
-M a
-M cc
-s b -
-s : a
-m g
-m f
-*custos f
+mb-
+ma
+Ma
+Mcc
+sb-
+s:a
+mg
+mf
+*custosf

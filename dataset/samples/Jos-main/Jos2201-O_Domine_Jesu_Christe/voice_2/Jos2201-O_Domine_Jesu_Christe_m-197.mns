@@ -2,20 +2,20 @@
 *clefC4
 *met(C|)
 *MM360
-s c
-s c
+sc
+sc
 =
-s d
-S e
-s f
-s : e
-M d
-s e
-s f
-S f
-s : e
-M e
-s e
+sd
+Se
+sf
+s:e
+Md
+se
+sf
+Sf
+s:e
+Me
+se
 =
-s e
-*custos c
+se
+*custosc

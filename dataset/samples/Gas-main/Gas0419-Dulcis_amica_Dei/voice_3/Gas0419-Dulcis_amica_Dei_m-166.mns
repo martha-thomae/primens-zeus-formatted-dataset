@@ -3,21 +3,21 @@
 *clefC4
 *k[b-]
 *met(C|)
-s d
-s c
-M B -
-M A
-[ s B -
-S c
-L B - ]
+sd
+sc
+MB-
+MA
+[sB-
+Sc
+LB-]
 =
-S r
-S r
-S r
+Sr
+Sr
+Sr
 =
-S r
-L B -
+Sr
+LB-
 *col
 *lg
-S : A
-*custos A
+S:A
+*custosA

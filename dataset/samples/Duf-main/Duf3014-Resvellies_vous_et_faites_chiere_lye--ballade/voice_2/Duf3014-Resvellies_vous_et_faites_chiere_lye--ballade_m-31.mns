@@ -4,52 +4,52 @@
 =
 *met(O)
 *MM340
-M g
-M f
+Mg
+Mf
 =
-s e
-s d
-S c
-[ s d
-s G
-s d
-s c ]
-S d
-s f
-s d
-M e
-M d
-M c
-M B -
-S : A
+se
+sd
+Sc
+[sd
+sG
+sd
+sc]
+Sd
+sf
+sd
+Me
+Md
+Mc
+MB-
+S:A
 =
-[ S G
-s c ]
-s B -
-s A
-s : G
-s B -
-M c
-s d
-M f
-s e
-M d
-s c
-M d
-s B -
-M A
-s G
-M G
-s B -
+[SG
+sc]
+sB-
+sA
+s:G
+sB-
+Mc
+sd
+Mf
+se
+Md
+sc
+Md
+sB-
+MA
+sG
+MG
+sB-
 =
-M d
-s c
-S d
-s d
-s g
-s f
-s e
-S : d
-S c #
-s c #
-*custos G
+Md
+sc
+Sd
+sd
+sg
+sf
+se
+S:d
+Sc#
+sc#
+*custosG

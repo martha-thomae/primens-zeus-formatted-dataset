@@ -4,68 +4,68 @@
 *k[b-]
 =
 *met(O)
-S f
-s r
-s r
-M f
-M g
-s a
-M b -
-M : g
-m f
-m e
-m d
-s c
-M d
-s e
-m d
-m c
-s d
-M r
-M g
-M a
-M f
-s g
-m f
-m e
-m d
-m c
-M B -
-s b -
-M a
-M b -
-M : a
-m g
-s g
-M f #
-s g
-s r
-s : g
-s b -
-s g
-M f #
-M g
-M : b -
-m cc
-M : dd
-m cc
-M b -
-M a
-M : g
-m f
-s f
-M e
-s f
-s : g
-s b -
-s g
-M f #
-M g
-M : b -
-m cc
-M : dd
-m cc
-M b -
-M cc
-M a
-*custos B -
+Sf
+sr
+sr
+Mf
+Mg
+sa
+Mb-
+M:g
+mf
+me
+md
+sc
+Md
+se
+md
+mc
+sd
+Mr
+Mg
+Ma
+Mf
+sg
+mf
+me
+md
+mc
+MB-
+sb-
+Ma
+Mb-
+M:a
+mg
+sg
+Mf#
+sg
+sr
+s:g
+sb-
+sg
+Mf#
+Mg
+M:b-
+mcc
+M:dd
+mcc
+Mb-
+Ma
+M:g
+mf
+sf
+Me
+sf
+s:g
+sb-
+sg
+Mf#
+Mg
+M:b-
+mcc
+M:dd
+mcc
+Mb-
+Mcc
+Ma
+*custosB-

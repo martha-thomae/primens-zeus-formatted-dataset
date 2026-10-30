@@ -3,74 +3,74 @@
 *k[b-]
 *met(O)
 =
-S d
-s c
-s d
-s : e
-M d
-s d
-M c
-M A
+Sd
+sc
+sd
+s:e
+Md
+sd
+Mc
+MA
 =
-s B -
-M A
-s A
-M F
-s G
-M : F
-m G
+sB-
+MA
+sA
+MF
+sG
+M:F
+mG
 =
-M A
-s G
-m F
-m E
-M D
-M C
-M D
-M F
-s E
-S D
-s r
-s : A
-M B -
-M : c
-m B -
-s : d
+MA
+sG
+mF
+mE
+MD
+MC
+MD
+MF
+sE
+SD
+sr
+s:A
+MB-
+M:c
+mB-
+s:d
 =
-M c
+Mc
 =
-M : d
-m f
+M:d
+mf
 =
-M : e
-m d
-m B -
+M:e
+md
+mB-
 =
-m A
-M : d
-m c #
-m c #
-m B n
-s d
-M r
-M d
-M g
-M f
+mA
+M:d
+mc#
+mc#
+mBn
+sd
+Mr
+Md
+Mg
+Mf
 =
-M e
-M d
-s c
-M f
-M e
-M d
-M c
+Me
+Md
+sc
+Mf
+Me
+Md
+Mc
 =
-s B -
-M e -
-M d
-M c
-M B -
-s A
-M d
-M c
-*custos C
+sB-
+Me-
+Md
+Mc
+MB-
+sA
+Md
+Mc
+*custosC

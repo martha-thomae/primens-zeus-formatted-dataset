@@ -3,23 +3,23 @@
 *met(C|)
 *met(O)
 *col
-[ S : g
-s e ]
-S f
+[S:g
+se]
+Sf
 *Xcol
-s g
-s G
-s B
+sg
+sG
+sB
 *lg
-s c
-S d
+sc
+Sd
 *Xlg
-S B
-s r
-s : A
-M B
-M c
-M d
-S e
-s A
-*custos G
+SB
+sr
+s:A
+MB
+Mc
+Md
+Se
+sA
+*custosG

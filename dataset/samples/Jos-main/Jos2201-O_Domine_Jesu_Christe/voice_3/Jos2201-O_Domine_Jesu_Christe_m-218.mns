@@ -3,16 +3,16 @@
 =
 *met(C|)
 *MM360
-S F
-< S G
-S A >
-s r
-S A
+SF
+<SG
+SA>
+sr
+SA
 =
-s B
-S c
-S c
+sB
+Sc
+Sc
 *met(C|)
 *MM360
-S c
-*custos F
+Sc
+*custosF

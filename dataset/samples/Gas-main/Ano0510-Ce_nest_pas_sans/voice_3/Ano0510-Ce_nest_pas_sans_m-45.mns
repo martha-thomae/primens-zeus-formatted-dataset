@@ -5,12 +5,12 @@
 *met(C|)
 *lg
 =
-s b -
-s : a
+sb-
+s:a
 *Xlg
-M g
-S g
-s f #
-S g
+Mg
+Sg
+sf#
+Sg
 =
-*custos f #
+*custosf#

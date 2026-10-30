@@ -2,24 +2,24 @@
 *clefC4
 *met(C|)
 *MM360
-M A
-s B
-M : c
-m B
-m A
-m G
+MA
+sB
+M:c
+mB
+mA
+mG
 =
-s A
-M F
-s E
-s r
-[ s D
-s : E ]
-s F
-m E
-m D
-s E
-s r
-S A
-s G
-*custos D
+sA
+MF
+sE
+sr
+[sD
+s:E]
+sF
+mE
+mD
+sE
+sr
+SA
+sG
+*custosD

@@ -4,23 +4,23 @@
 =
 *met(C|)
 *MM400
-s G
-S D
+sG
+SD
 =
-s : A
+s:A
 =
-M G
-s F
-s E n
-s D
-s AA
-M BB -
-M GG
-M BB -
-M C
-s D
-s r
-s G
-s D
-s G
-*custos GG
+MG
+sF
+sEn
+sD
+sAA
+MBB-
+MGG
+MBB-
+MC
+sD
+sr
+sG
+sD
+sG
+*custosGG

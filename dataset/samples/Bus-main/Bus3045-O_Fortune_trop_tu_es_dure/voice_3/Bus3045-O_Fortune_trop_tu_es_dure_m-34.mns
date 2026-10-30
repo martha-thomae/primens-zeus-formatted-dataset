@@ -3,34 +3,34 @@
 =
 *k[b-]
 *met(C|)
-S a
-S a
-s a
-s a
-s b -
-s : dd
-M cc
-s a
-s : b -
+Sa
+Sa
+sa
+sa
+sb-
+s:dd
+Mcc
+sa
+s:b-
 =
-m a
-m g
-s f
-[ s b -
-s cc ]
-s : dd
-M cc
-M b -
-M a
-s a
-M r
-s dd
-M cc
-M dd
-M ee
-M ff
-m ee
-m ff
-M gg
-M ff
-*custos f
+ma
+mg
+sf
+[sb-
+scc]
+s:dd
+Mcc
+Mb-
+Ma
+sa
+Mr
+sdd
+Mcc
+Mdd
+Mee
+Mff
+mee
+mff
+Mgg
+Mff
+*custosf

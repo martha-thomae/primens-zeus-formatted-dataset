@@ -2,13 +2,13 @@
 *clefC4
 *met(C|)
 =
-S r
-S : c
-s B
+Sr
+S:c
+sB
 *lg
-[ S c
-S : d ]
+[Sc
+S:d]
 *Xlg
-s d
-L d
-*custos B
+sd
+Ld
+*custosB

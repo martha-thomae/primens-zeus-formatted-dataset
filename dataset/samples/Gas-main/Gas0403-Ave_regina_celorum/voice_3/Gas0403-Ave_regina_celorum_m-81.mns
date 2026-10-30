@@ -5,38 +5,38 @@
 =
 =
 *met(C|)
-M : D
-m E
-[ s F
-S G ]
-s E
-s : C
+M:D
+mE
+[sF
+SG]
+sE
+s:C
 *col
-M : c
-m B -
+M:c
+mB-
 *Xcol
-M G
-s A
-M B -
-M G
+MG
+sA
+MB-
+MG
 =
-M A
-M G
-s B -
-M c
-M A
-M B -
-M A
-s c
-M d
-M B -
-M c
-M B -
-s d
-M e
-M c
-M d
-s : c
-M : F
-m G
-*custos C
+MA
+MG
+sB-
+Mc
+MA
+MB-
+MA
+sc
+Md
+MB-
+Mc
+MB-
+sd
+Me
+Mc
+Md
+s:c
+M:F
+mG
+*custosC

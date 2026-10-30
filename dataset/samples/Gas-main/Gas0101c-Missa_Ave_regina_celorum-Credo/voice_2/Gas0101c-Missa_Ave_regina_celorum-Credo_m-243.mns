@@ -3,44 +3,44 @@
 *clefC4
 *k[b-]
 *met(3)
-S c
-s B -
+Sc
+sB-
 *col
-S c
+Sc
 *lg
-[ s B -
-s G ]
-S A
+[sB-
+sG]
+SA
 *Xcol
 *Xlg
 *lg
 =
-s G
-s F
+sG
+sF
 *Xlg
-s G
+sG
 *lg
-s E
-S D
+sE
+SD
 *Xlg
-S C
-s r
-s : C
-M D
-s E
+SC
+sr
+s:C
+MD
+sE
 =
-S F
-s G
-S A
-s G
+SF
+sG
+SA
+sG
 *lg
-[ s F
-s c ]
+[sF
+sc]
 *Xlg
-s d
-[ s c
-s : B - ]
-M A
-[ s F
-S G ]
-*custos C
+sd
+[sc
+s:B-]
+MA
+[sF
+SG]
+*custosC

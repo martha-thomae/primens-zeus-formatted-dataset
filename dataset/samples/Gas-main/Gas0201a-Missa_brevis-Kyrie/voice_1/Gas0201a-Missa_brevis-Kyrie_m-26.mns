@@ -4,25 +4,25 @@
 *met(C2)
 =
 *Xlg
-M C
-s G
-M A
-M c
-M B -
-M : d
-m c
-M B -
-s A
-s G
-M r
+MC
+sG
+MA
+Mc
+MB-
+M:d
+mc
+MB-
+sA
+sG
+Mr
 =
-M G
-M F
-M : A
-m G
-m F
-m E
-s D
-M G
-M C
-*custos C
+MG
+MF
+M:A
+mG
+mF
+mE
+sD
+MG
+MC
+*custosC

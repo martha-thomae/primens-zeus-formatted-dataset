@@ -3,15 +3,15 @@
 *k[b-]
 *met(C|)
 *MM360
-M D
-s E
-L AA
-S D
-s BB n
-s : AA
-M BB n
+MD
+sE
+LAA
+SD
+sBBn
+s:AA
+MBBn
 =
-s C
-S FF
-S F
-*custos FF
+sC
+SFF
+SF
+*custosFF

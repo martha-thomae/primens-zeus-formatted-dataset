@@ -4,34 +4,34 @@
 =
 *met(C|)
 =
-s c
-s r
-s A
-s A
-M : c
-m d
-s e
-s : c
-M A
+sc
+sr
+sA
+sA
+M:c
+md
+se
+s:c
+MA
 =
-s e
-M B
-M B
-M c
-M c
-s c
-S B
-S r
-s r
+se
+MB
+MB
+Mc
+Mc
+sc
+SB
+Sr
+sr
 =
-s d
-s d
-M : B
-m c
-s : d
-M d
-s A
-[ s B
-S A ]
-S r
-*custos A
+sd
+sd
+M:B
+mc
+s:d
+Md
+sA
+[sB
+SA]
+Sr
+*custosA

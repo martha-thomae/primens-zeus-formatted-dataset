@@ -2,19 +2,19 @@
 *clefF4
 *met(C|)
 *MM400
-s D
-M C
-M BB
-s AA
-s D
-[ s BB
-s C ]
-M r
-s D
-M E
-M F
-M G
-s A
-[ s B
-s c ]
-*custos AA
+sD
+MC
+MBB
+sAA
+sD
+[sBB
+sC]
+Mr
+sD
+ME
+MF
+MG
+sA
+[sB
+sc]
+*custosAA

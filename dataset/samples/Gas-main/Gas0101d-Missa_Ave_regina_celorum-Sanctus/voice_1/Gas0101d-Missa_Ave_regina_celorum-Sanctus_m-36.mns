@@ -3,33 +3,33 @@
 *k[b-]
 *met(O)
 *lg
-s FF
-s GG
+sFF
+sGG
 *Xlg
-s AA
-[ s BB -
-s AA ]
-M GG
-M : C
-m BB -
-M AA
-s GG
-M FF
-M F
-M E -
-M : F
-m C
-M F
-s C
-M FF
-M BB -
+sAA
+[sBB-
+sAA]
+MGG
+M:C
+mBB-
+MAA
+sGG
+MFF
+MF
+ME-
+M:F
+mC
+MF
+sC
+MFF
+MBB-
 =
-M AA
-M : BB -
-m FF
-M BB -
-S : FF
+MAA
+M:BB-
+mFF
+MBB-
+S:FF
 *met(C|)
-S r
-S r
-*custos FF
+Sr
+Sr
+*custosFF

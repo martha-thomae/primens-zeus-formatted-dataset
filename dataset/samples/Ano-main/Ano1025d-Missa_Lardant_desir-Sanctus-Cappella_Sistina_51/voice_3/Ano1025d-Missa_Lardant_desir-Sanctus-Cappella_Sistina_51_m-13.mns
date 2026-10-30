@@ -2,24 +2,24 @@
 *clefC2
 *met(O)
 *MM300
-s : F
-M D
-s D
-s r
-S G
-s A
-M : F
-m G
-m A
-m B -
-s A
-m G
-m F
-s E
-M D
+s:F
+MD
+sD
+sr
+SG
+sA
+M:F
+mG
+mA
+mB-
+sA
+mG
+mF
+sE
+MD
 =
-s A
-M B
-s c
-s A
-*custos D
+sA
+MB
+sc
+sA
+*custosD

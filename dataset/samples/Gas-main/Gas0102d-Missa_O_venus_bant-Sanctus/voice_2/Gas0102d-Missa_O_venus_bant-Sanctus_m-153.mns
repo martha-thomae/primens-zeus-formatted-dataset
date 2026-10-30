@@ -3,24 +3,24 @@
 *met(C|3)
 *lg
 =
-L G
-S A
+LG
+SA
 *Xlg
 *lg
-S G
-L c
+SG
+Lc
 *Xlg
 *lg
-[ S c
-L A ]
+[Sc
+LA]
 *Xlg
 *lg
-[ S c
-S G ]
+[Sc
+SG]
 =
 *Xlg
-S d
+Sd
 *lg
-S B
-s G
-*custos G
+SB
+sG
+*custosG

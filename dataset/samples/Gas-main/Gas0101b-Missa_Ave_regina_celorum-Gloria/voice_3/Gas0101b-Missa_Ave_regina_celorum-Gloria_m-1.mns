@@ -4,48 +4,48 @@
 =
 *met(O)
 *col
-L F
+LF
 *Xcol
-M : E
-m C
-M D
+M:E
+mC
+MD
 =
 *lg
 *col
-s E
-s C
+sE
+sC
 *Xcol
 *Xlg
-s D
-M E
-M : F
-m E
-s C
-s r
-s C
-M BB -
-s D
-M BB -
-M : C
-m D
-M E
-M F
-M : D
-m E
-M F
+sD
+ME
+M:F
+mE
+sC
+sr
+sC
+MBB-
+sD
+MBB-
+M:C
+mD
+ME
+MF
+M:D
+mE
+MF
 *lg
 =
-s G
-s F
+sG
+sF
 *Xlg
-M E
-s F
-s D
-M C
-M c
-M B -
-M A
-s : c
-m B -
-m A
-*custos BB -
+ME
+sF
+sD
+MC
+Mc
+MB-
+MA
+s:c
+mB-
+mA
+*custosBB-

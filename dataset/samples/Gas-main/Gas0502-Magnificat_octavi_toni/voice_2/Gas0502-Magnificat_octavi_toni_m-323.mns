@@ -2,19 +2,19 @@
 *clefC4
 *met(C|)
 *lg
-s G
-s A
+sG
+sA
 *Xlg
-L G
+LG
 *met(O)
-S : r
-S : r
+S:r
+S:r
 *col
-L G
-S A
+LG
+SA
 *Xcol
 *lg
-[ S : G
-S : c ]
+[S:G
+S:c]
 *Xlg
-*custos G
+*custosG

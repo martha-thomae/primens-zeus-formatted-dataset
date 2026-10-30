@@ -2,35 +2,35 @@
 *clefGv2
 *k[b-]
 *met(C|)
-S r
-S r
-S r
-S f
+Sr
+Sr
+Sr
+Sf
 *lg
-S g
-S a
+Sg
+Sa
 *Xlg
-S b -
-s a
-s f
-M : g
-U f
-U e
-s d
-M c
-M d
-M c
-s d
-M e
-M d
-s e
+Sb-
+sa
+sf
+M:g
+Uf
+Ue
+sd
+Mc
+Md
+Mc
+sd
+Me
+Md
+se
 =
-M f
+Mf
 =
-M e
-s f
-M : g
-m f
-m e
-m d
-*custos c
+Me
+sf
+M:g
+mf
+me
+md
+*custosc

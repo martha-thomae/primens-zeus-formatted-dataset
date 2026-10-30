@@ -3,20 +3,20 @@
 *met(C|)
 =
 *MM180
-[ s a
-s g # ]
-[ S a
-s g ]
-s f
+[sa
+sg#]
+[Sa
+sg]
+sf
 *lg
-s e
-s d
+se
+sd
 *Xlg
-L c
-S e
-[ s f
-s e ]
-M d
-s e
-M d
-*custos c
+Lc
+Se
+[sf
+se]
+Md
+se
+Md
+*custosc

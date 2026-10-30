@@ -3,17 +3,17 @@
 *k[b-]
 *met(C|)
 *met(C|)
-[ s d
-s e ]
-[ s c
-s d ]
-S e
-s : f
-M e
-M d
-M c
-s : d
-M c
-M B -
-M A
-*custos A
+[sd
+se]
+[sc
+sd]
+Se
+s:f
+Me
+Md
+Mc
+s:d
+Mc
+MB-
+MA
+*custosA

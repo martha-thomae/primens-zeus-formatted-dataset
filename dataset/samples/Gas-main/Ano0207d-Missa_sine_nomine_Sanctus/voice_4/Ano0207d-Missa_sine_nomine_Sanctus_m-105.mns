@@ -4,16 +4,16 @@
 =
 *met(C|)
 =
-s dd
-M b -
-s cc
-M a
+sdd
+Mb-
+scc
+Ma
 *lg
-s g
-s f
+sg
+sf
 *Xlg
-s r
-S r
-s r
-s b -
-*custos f
+sr
+Sr
+sr
+sb-
+*custosf

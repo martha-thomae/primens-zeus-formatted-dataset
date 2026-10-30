@@ -4,32 +4,32 @@
 *k[b-]
 *met(C|)
 *MM400
-s r
-s G
+sr
+sG
 =
-s F
-M G
+sF
+MG
 =
-s B -
-M G
+sB-
+MG
 =
-s A
-M D
-s G
-M F
-M G
-s B -
-M A
-M G
+sA
+MD
+sG
+MF
+MG
+sB-
+MA
+MG
 =
-M c
-M B -
-s A
-M d
-M c
-M : B -
+Mc
+MB-
+sA
+Md
+Mc
+M:B-
 =
-m A
-s d
-M c
-*custos D
+mA
+sd
+Mc
+*custosD

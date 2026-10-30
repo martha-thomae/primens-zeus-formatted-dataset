@@ -3,19 +3,19 @@
 *met(C|)
 =
 *MM180
-M c
-s cc
-s b
-s a
-M g #
-S a
-S a
-s g
-s a
+Mc
+scc
+sb
+sa
+Mg#
+Sa
+Sa
+sg
+sa
 *lg
-s g
-s f
+sg
+sf
 *Xlg
-L e
-S r
-*custos c
+Le
+Sr
+*custosc

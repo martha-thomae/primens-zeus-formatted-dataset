@@ -3,13 +3,13 @@
 =
 *met(O2)
 *MM400
-S F
-< S D
-s E >
-S E
+SF
+<SD
+sE>
+SE
 =
-M D
-M C
-S BB
-S AA
-*custos AA
+MD
+MC
+SBB
+SAA
+*custosAA

@@ -2,53 +2,53 @@
 *clefC4
 *k[b-]
 *met(C|)
-M : G
-m A
-M B -
-M c
-M A
-M B -
-M G
-M c
+M:G
+mA
+MB-
+Mc
+MA
+MB-
+MG
+Mc
 *lg
-s F
-s G
+sF
+sG
 *Xlg
-M : F
-m G
-s A
-M F
-s G
-M D
-M F
-M G
-s E
-M : D
-m E
+M:F
+mG
+sA
+MF
+sG
+MD
+MF
+MG
+sE
+M:D
+mE
 =
-M F
-M BB -
-M B -
-s c
-M G
-M B -
-M c
-s A
+MF
+MBB-
+MB-
+sc
+MG
+MB-
+Mc
+sA
 *met(C|3)
 *col
 *lg
-S G
-S B -
+SG
+SB-
 *Xlg
-S A
+SA
 *Xcol
-S c
+Sc
 =
-s B -
+sB-
 *lg
 *col
-[ S d
-S c ]
-S d
+[Sd
+Sc]
+Sd
 *Xlg
-*custos BB -
+*custosBB-

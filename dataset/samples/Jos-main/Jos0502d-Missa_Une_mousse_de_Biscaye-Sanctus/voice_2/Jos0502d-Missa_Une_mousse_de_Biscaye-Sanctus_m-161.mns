@@ -3,16 +3,16 @@
 *k[b-]
 *met(C|)
 *met(3)
-S F
-s r
-S F
-s G
-s F
-[ s A
-s G ]
-s A
+SF
+sr
+SF
+sG
+sF
+[sA
+sG]
+sA
 =
-S d
-s B -
-S c
-*custos F
+Sd
+sB-
+Sc
+*custosF

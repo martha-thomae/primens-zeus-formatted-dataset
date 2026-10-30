@@ -4,21 +4,21 @@
 =
 *k[b-]
 *met(C|)
-M D
-M C
+MD
+MC
 *col
-M : D
-m C
+M:D
+mC
 *Xcol
-m BB -
-m AA
-s GG
-M FF
-[ s F
-s G ]
-s F
-M E
-s F
-s r
-S r
-*custos FF
+mBB-
+mAA
+sGG
+MFF
+[sF
+sG]
+sF
+ME
+sF
+sr
+Sr
+*custosFF

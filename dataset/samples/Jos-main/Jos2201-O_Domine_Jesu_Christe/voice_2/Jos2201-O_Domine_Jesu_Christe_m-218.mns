@@ -2,17 +2,17 @@
 *clefC4
 *met(C|)
 *MM360
-S r
-S r
-s r
-s A
-[ s B -
-s A ]
-< S F
-S G >
+Sr
+Sr
+sr
+sA
+[sB-
+sA]
+<SF
+SG>
 =
-S F
+SF
 *met(C|)
 *MM360
-S F
-*custos F
+SF
+*custosF

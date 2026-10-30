@@ -3,49 +3,49 @@
 *k[b-]
 *met(C2)
 *met(C|3)
-S D
-s E
-[ S F
-s D ]
+SD
+sE
+[SF
+sD]
 *lg
-[ s C
-s E ]
+[sC
+sE]
 *Xlg
-[ s F
-S G
-s F ]
+[sF
+SG
+sF]
 =
 *lg
-[ s D
-s BB - ]
+[sD
+sBB-]
 *Xlg
-s C
-S D
-s G
-S C
-s r
+sC
+SD
+sG
+SC
+sr
 =
-S G
-s E
+SG
+sE
 *lg
-s D
-s F
+sD
+sF
 *Xlg
-s G
-s : A
-M G
-s E
-S D
-s r
-s r
+sG
+s:A
+MG
+sE
+SD
+sr
+sr
 *lg
 *col
-s D
-s G
+sD
+sG
 *Xcol
 *Xlg
-s B -
-S A
-[ S B -
-s G ]
-*custos BB -
+sB-
+SA
+[SB-
+sG]
+*custosBB-

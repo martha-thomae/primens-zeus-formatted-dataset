@@ -3,24 +3,24 @@
 =
 *met(O2)
 *MM400
-s B
-M A
-M B
-M : c
-m d
-s B
-s A
-L : a
-s g
-s f
-M e
-M d
-S c
+sB
+MA
+MB
+M:c
+md
+sB
+sA
+L:a
+sg
+sf
+Me
+Md
+Sc
 *clefC1
 *met(C|)
 *MM400
-L d
-S f
-S e
-S A
-*custos A
+Ld
+Sf
+Se
+SA
+*custosA

@@ -2,50 +2,50 @@
 *clefC1
 *k[b-]
 *met(3)
-[ S cc
-s b - ]
-[ s a
-S g
-s f ]
-[ s g
-s b - ]
-[ s a
-s : g ]
-M f
-s f
-s : e -
-M d
-S d
-< s c
-L : d >
-s r
+[Scc
+sb-]
+[sa
+Sg
+sf]
+[sg
+sb-]
+[sa
+s:g]
+Mf
+sf
+s:e-
+Md
+Sd
+<sc
+L:d>
+sr
 =
-s r
-S d
-s g
-< s f
-S g >
-[ s a
-s b - ]
-M cc
-M b -
-M a
-M g
-S g
+sr
+Sd
+sg
+<sf
+Sg>
+[sa
+sb-]
+Mcc
+Mb-
+Ma
+Mg
+Sg
 =
-[ s f #
-s g ]
+[sf#
+sg]
 =
-[ s d
-s : f ]
-M e -
-s c
-s : e -
-M f
-[ s g
-s d ]
-s : f
-M e -
-M d
-M c
-*custos c
+[sd
+s:f]
+Me-
+sc
+s:e-
+Mf
+[sg
+sd]
+s:f
+Me-
+Md
+Mc
+*custosc

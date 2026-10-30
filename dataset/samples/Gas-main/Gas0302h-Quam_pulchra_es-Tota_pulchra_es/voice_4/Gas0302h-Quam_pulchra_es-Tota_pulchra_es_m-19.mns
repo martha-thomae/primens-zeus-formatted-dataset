@@ -2,42 +2,42 @@
 *clefC1
 *k[b-]
 *met(O)
-M e -
-S f
-M r
-M b -
-M b -
-s b -
-M a
-s a
-M : g
-m f
-M g
-s a
-M g
-s f #
-s r
+Me-
+Sf
+Mr
+Mb-
+Mb-
+sb-
+Ma
+sa
+M:g
+mf
+Mg
+sa
+Mg
+sf#
+sr
 *met(O3)
-s g
-M b -
-s b -
-M b -
-s b -
-M a
+sg
+Mb-
+sb-
+Mb-
+sb-
+Ma
 *col
-[ s a
-s dd ]
+[sa
+sdd]
 =
-M : ee
-m dd
+M:ee
+mdd
 *Xcol
-s dd
-M cc #
-s dd
+sdd
+Mcc#
+sdd
 =
-M r
-s dd
-M cc
-s dd
-M ee
-*custos e -
+Mr
+sdd
+Mcc
+sdd
+Mee
+*custose-

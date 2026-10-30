@@ -3,56 +3,56 @@
 *met(O)
 *MM312
 =
-M r
-M : A
-m B
-M : c
-m d
-M : e
-m f
-M : g
-m f
-m e
-m d
-M : c #
-m B
-s d
-s r
-s r
-S : d
-M c
-M e
-M d
-M f
-s e
-s A
-M r
-s : e
-s : g
-m f
-m e
-s : d
-s f
-m e
-m d
-s : c
+Mr
+M:A
+mB
+M:c
+md
+M:e
+mf
+M:g
+mf
+me
+md
+M:c#
+mB
+sd
+sr
+sr
+S:d
+Mc
+Me
+Md
+Mf
+se
+sA
+Mr
+s:e
+s:g
+mf
+me
+s:d
+sf
+me
+md
+s:c
 =
-M : e
-m f
-M g
-M : d
-m e
-m f
-m g
-M : a
-m g
-M e
-M : g
-m f
-M d
-M : f
-m e
-M c
-M : e
-m d
-*custos A
+M:e
+mf
+Mg
+M:d
+me
+mf
+mg
+M:a
+mg
+Me
+M:g
+mf
+Md
+M:f
+me
+Mc
+M:e
+md
+*custosA

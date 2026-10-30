@@ -3,28 +3,28 @@
 =
 *met(C)
 *MM448
-S b
-s r
-s cc
-s cc
+Sb
+sr
+scc
+scc
 =
-s a
-[ s b -
-s a ]
-M g
-s g
+sa
+[sb-
+sa]
+Mg
+sg
 =
-M f
-S a
-S r
-s ee
-s ee
-S dd
-S b
-S cc
-s a
-s b
+Mf
+Sa
+Sr
+see
+see
+Sdd
+Sb
+Scc
+sa
+sb
 =
-S cc
-S dd
-*custos f
+Scc
+Sdd
+*custosf

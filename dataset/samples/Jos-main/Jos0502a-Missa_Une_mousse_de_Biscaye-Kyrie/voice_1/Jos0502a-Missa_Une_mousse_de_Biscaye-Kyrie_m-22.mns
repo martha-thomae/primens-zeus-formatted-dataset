@@ -4,14 +4,14 @@
 =
 *met(C|)
 =
-S r
+Sr
 =
-s : C
-m D
-m E
+s:C
+mD
+mE
 =
-[ S F
-s E ]
-M D
-M E
-*custos C
+[SF
+sE]
+MD
+ME
+*custosC

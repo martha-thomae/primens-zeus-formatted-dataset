@@ -3,41 +3,41 @@
 *k[b-]
 *met(C|)
 m%s1GG
-m AA
-M BB -
-M : C
-m BB -
-m AA
-m GG
-s AA
-M GG
-s G
-s C
-M E -
-s D
-S GG
-S r
-S r
-S GG
-s D
-s D
+mAA
+MBB-
+M:C
+mBB-
+mAA
+mGG
+sAA
+MGG
+sG
+sC
+ME-
+sD
+SGG
+Sr
+Sr
+SGG
+sD
+sD
 =
-M C
-s E -
-M C
-M D
-M BB -
-s AA
-S GG
-s r
+MC
+sE-
+MC
+MD
+MBB-
+sAA
+SGG
+sr
 =
-s GG
-s GG
-s D
-s E
-M D
-M F
-s C
-M D
-M F
-*custos GG
+sGG
+sGG
+sD
+sE
+MD
+MF
+sC
+MD
+MF
+*custosGG

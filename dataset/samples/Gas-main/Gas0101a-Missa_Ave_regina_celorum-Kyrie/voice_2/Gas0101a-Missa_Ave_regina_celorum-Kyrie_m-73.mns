@@ -4,28 +4,28 @@
 *met(C|)
 *met(O)
 *lg
-S : F
-S A
+S:F
+SA
 =
 *Xlg
-[ s B -
-S c ]
-s B -
-s A
-S G
+[sB-
+Sc]
+sB-
+sA
+SG
 *lg
 *col
-L F
-S G
+LF
+SG
 *Xcol
 *Xlg
 *lg
-[ s A
-s F ]
+[sA
+sF]
 *Xlg
-[ s F
-s D ]
-M E
-M C
-s D
-*custos C
+[sF
+sD]
+ME
+MC
+sD
+*custosC

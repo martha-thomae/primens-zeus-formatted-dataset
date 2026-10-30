@@ -3,37 +3,37 @@
 =
 *met(C|)
 *MM180
-M c
-m B
-m A
-s G
-s F
-S E
-s D
+Mc
+mB
+mA
+sG
+sF
+SE
+sD
 =
-S E
-s G
-M : A
-m B
-S : c
+SE
+sG
+M:A
+mB
+S:c
 =
-s A
-M : c
+sA
+M:c
 =
-m d
-s : e
-M d
-S d
+md
+s:e
+Md
+Sd
 =
-s c #
-S d
-s r
+sc#
+Sd
+sr
 =
-S A
-s B -
-S A
-s r
-s B
+SA
+sB-
+SA
+sr
+sB
 =
-S c
-*custos D
+Sc
+*custosD

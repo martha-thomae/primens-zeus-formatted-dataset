@@ -4,21 +4,21 @@
 *k[b-]
 *met(C|)
 =
-s d
+sd
 M%7f
 *col
 =
-m e -
+me-
 =
-m d
+md
 *Xcol
-s c
-s r
-s : d
-M : f
-m e
-m d
-m c
+sc
+sr
+s:d
+M:f
+me
+md
+mc
 *col
 3%m%4B-
 3%M%2B-
@@ -30,7 +30,7 @@ m c
 3%M%2A
 =
 *Xcol
-s B -
-M G
-M A
-*custos G
+sB-
+MG
+MA
+*custosG

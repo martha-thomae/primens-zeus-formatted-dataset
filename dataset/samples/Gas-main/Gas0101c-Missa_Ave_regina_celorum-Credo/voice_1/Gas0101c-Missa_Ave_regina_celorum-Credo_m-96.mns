@@ -3,22 +3,22 @@
 *k[b-]
 *met(C|)
 *lg
-[ s GG
-s C ]
+[sGG
+sC]
 =
 *Xlg
-M : FF
-m GG
-M AA
-M : BB -
-m AA
-m GG
-m FF
-s EE
-< s FF
-s GG >
-s FF
+M:FF
+mGG
+MAA
+M:BB-
+mAA
+mGG
+mFF
+sEE
+<sFF
+sGG>
+sFF
 =
-s r
-S r
-*custos EE
+sr
+Sr
+*custosEE

@@ -2,33 +2,33 @@
 *clefF4
 *met(O)
 *MM300
-s D
-M C
-s D
-M F
-s E
-s D
-s C
-s D
-M E
-M F
-s G
-s r
-s G
-s : c
-s : c
-M : d
-m c
-M B
-M : A
-m G
-M : F
-m E
-M D
+sD
+MC
+sD
+MF
+sE
+sD
+sC
+sD
+ME
+MF
+sG
+sr
+sG
+s:c
+s:c
+M:d
+mc
+MB
+M:A
+mG
+M:F
+mE
+MD
 =
-M C
-M BB
-s AA
-s r
-S D
-*custos AA
+MC
+MBB
+sAA
+sr
+SD
+*custosAA

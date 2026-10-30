@@ -2,19 +2,19 @@
 *clefF4
 *met(C3)
 =
-[ S G
-s F
-S G
-s D
-S F ]
-s G
-[ s E
-S D ]
-S : GG
+[SG
+sF
+SG
+sD
+SF]
+sG
+[sE
+SD]
+S:GG
 *met(C|)
-M : D
-m E
+M:D
+mE
 =
-M F
-M G
-*custos GG
+MF
+MG
+*custosGG

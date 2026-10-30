@@ -3,28 +3,28 @@
 *k[b-]
 *met(C|)
 *col
-M : A
-m B -
+M:A
+mB-
 =
 *Xcol
-M A
-s d
-m c
-m B -
+MA
+sd
+mc
+mB-
 =
-s A
-M : G
+sA
+M:G
 =
-m A
-M B -
-M : c
-m B -
-m A
-m G
-M F
+mA
+MB-
+M:c
+mB-
+mA
+mG
+MF
 *lg
-s A
-s G
+sA
+sG
 *Xlg
-M F #
-*custos F
+MF#
+*custosF

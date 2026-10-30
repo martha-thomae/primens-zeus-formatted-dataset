@@ -2,21 +2,21 @@
 *clefC4
 *k[b-]
 *met(O)
-s : F
-M A
-s G
-S : F
-s r
+s:F
+MA
+sG
+S:F
+sr
 *lg
 =
-[ s F
-s G ]
+[sF
+sG]
 *Xlg
 *lg
-< s A
-s B - >
+<sA
+sB->
 =
 *Xlg
-M A
-M A
-*custos F
+MA
+MA
+*custosF

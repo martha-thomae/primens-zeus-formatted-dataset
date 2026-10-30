@@ -2,20 +2,20 @@
 *clefC3
 *k[b-]
 *met(3)
-S : r
-s r
-s r
-S c
-S d
-s : f
-M e
-M c
-M d
-s e
-S d
-s c
-S d
+S:r
+sr
+sr
+Sc
+Sd
+s:f
+Me
+Mc
+Md
+se
+Sd
+sc
+Sd
 *met(C|)
-S d
-S B -
-*custos B -
+Sd
+SB-
+*custosB-

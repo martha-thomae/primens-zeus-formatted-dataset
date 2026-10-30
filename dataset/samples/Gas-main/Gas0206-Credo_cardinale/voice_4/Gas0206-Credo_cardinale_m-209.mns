@@ -2,17 +2,17 @@
 *clefC1
 *met(C|)
 *MM180
-S r
-S d
-[ s c
-s e
-s g ]
-s : a
+Sr
+Sd
+[sc
+se
+sg]
+s:a
 =
-m g #
-m f #
-s g #
-L a
-S r
-S r
-*custos c
+mg#
+mf#
+sg#
+La
+Sr
+Sr
+*custosc

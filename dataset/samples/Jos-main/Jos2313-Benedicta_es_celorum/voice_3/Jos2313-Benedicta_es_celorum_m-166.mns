@@ -3,36 +3,36 @@
 *met(C|3)
 =
 *met(C|)
-s G
-s r
-M : G
-m A
-m B
-m c
-M d
-M B
-M : d
-m c
-M A
-M B
-M A
-s B
-s A
-M r
-M G
-M A
-m D
-m E
-m F
-m G
-M A
-m D
-m E
-m F
-m G
-M A
-M D
-L A
-S G
-S G
-*custos D
+sG
+sr
+M:G
+mA
+mB
+mc
+Md
+MB
+M:d
+mc
+MA
+MB
+MA
+sB
+sA
+Mr
+MG
+MA
+mD
+mE
+mF
+mG
+MA
+mD
+mE
+mF
+mG
+MA
+MD
+LA
+SG
+SG
+*custosD

@@ -4,23 +4,23 @@
 *met(3)
 *col
 LG:
-S E
+SE
 *Xcol
 *lg
-s G
-s B
+sG
+sB
 *Xlg
 =
-s c
+sc
 *lg
-s d
-s : e
+sd
+s:e
 *Xlg
-M d
-M B
-M c
-S d
-s B
+Md
+MB
+Mc
+Sd
+sB
 =
-S G
-*custos E
+SG
+*custosE

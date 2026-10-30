@@ -3,16 +3,16 @@
 *met(O2)
 =
 *MM400
-s e
-s : d
-M c
-S e
+se
+s:d
+Mc
+Se
 =
-s r
-[ s e
-s d ]
-M B
-M c
-[ s d
-s e ]
-*custos B
+sr
+[se
+sd]
+MB
+Mc
+[sd
+se]
+*custosB

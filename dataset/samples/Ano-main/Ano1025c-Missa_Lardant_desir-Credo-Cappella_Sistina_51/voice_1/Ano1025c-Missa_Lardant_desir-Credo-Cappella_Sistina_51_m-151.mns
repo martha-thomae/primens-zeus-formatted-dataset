@@ -3,11 +3,11 @@
 *met(O2)
 *MM400
 =
-S AA
+SAA
 =
-L D
-s : AA
-M BB
-s C
-s D
-*custos AA
+LD
+s:AA
+MBB
+sC
+sD
+*custosAA

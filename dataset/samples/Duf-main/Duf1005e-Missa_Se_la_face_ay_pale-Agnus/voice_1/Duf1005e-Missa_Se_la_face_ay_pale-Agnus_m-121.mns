@@ -2,34 +2,34 @@
 *clefF4
 *met(O)
 *MM384
-s F
-S C
-s : C
-s : D
-[ S : C
-s F ]
-S E
-s C
-s r
-s C
-S C
-s : D
-s D
-M E
-s F
-M F
-M G
-[ s A
-s B - ]
-s A
-s : c
-M B
-s G
-S F
-L C
-[ S G
-s C ]
-M F
-M G
-s A
-*custos C
+sF
+SC
+s:C
+s:D
+[S:C
+sF]
+SE
+sC
+sr
+sC
+SC
+s:D
+sD
+ME
+sF
+MF
+MG
+[sA
+sB-]
+sA
+s:c
+MB
+sG
+SF
+LC
+[SG
+sC]
+MF
+MG
+sA
+*custosC

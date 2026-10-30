@@ -2,24 +2,24 @@
 =
 *clefG2
 *met(O/3)
-s cc
-S a
-s b
-S g
+scc
+Sa
+sb
+Sg
 *col
-S cc
-S b
-s : g
-M e
+Scc
+Sb
+s:g
+Me
 *Xcol
 *lg
-s f
-s : a
+sf
+s:a
 *Xlg
-M g
+Mg
 =
-S g
+Sg
 =
-s f #
+sf#
 s%9g
-*custos e
+*custose

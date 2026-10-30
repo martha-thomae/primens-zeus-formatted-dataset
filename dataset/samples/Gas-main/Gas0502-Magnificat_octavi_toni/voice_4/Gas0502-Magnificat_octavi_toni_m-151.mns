@@ -2,23 +2,23 @@
 *clefG2
 *met(C|)
 =
-S cc
+Scc
 =
-S a
-s b
-M g
-s a
-M f
-M g
-M e
-M f
-s a
-M cc
-M b
+Sa
+sb
+Mg
+sa
+Mf
+Mg
+Me
+Mf
+sa
+Mcc
+Mb
 *col
-M : a
-m g
+M:a
+mg
 *Xcol
-m f
-m e
-*custos e
+mf
+me
+*custose

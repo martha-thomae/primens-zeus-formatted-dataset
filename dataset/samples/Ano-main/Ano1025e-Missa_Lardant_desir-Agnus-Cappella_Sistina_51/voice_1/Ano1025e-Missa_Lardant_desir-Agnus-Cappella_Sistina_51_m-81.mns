@@ -2,44 +2,44 @@
 *clefF4
 *met(O2)
 *MM400
-S r
-L A
-S A
-s : E
-M D
-M E
+Sr
+LA
+SA
+s:E
+MD
+ME
 =
-M : BB
-m C
-M D
-M GG
-M D
-M BB
-M E
-M C
-M F
-M E
-M A
-M G
-M F
-[ s B -
-s A ]
-s : c
-M c
-s G
-M : A
-m G
-s E
-s r
-s G
-s D
-s F
-s C
-M : E
-m D
-s BB
-s D
-s AA
-M C
-M D
-*custos GG
+M:BB
+mC
+MD
+MGG
+MD
+MBB
+ME
+MC
+MF
+ME
+MA
+MG
+MF
+[sB-
+sA]
+s:c
+Mc
+sG
+M:A
+mG
+sE
+sr
+sG
+sD
+sF
+sC
+M:E
+mD
+sBB
+sD
+sAA
+MC
+MD
+*custosGG

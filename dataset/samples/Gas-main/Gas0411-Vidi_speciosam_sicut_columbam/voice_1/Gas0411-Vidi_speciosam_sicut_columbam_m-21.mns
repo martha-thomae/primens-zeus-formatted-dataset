@@ -3,32 +3,32 @@
 =
 *met(C|3)
 *col
-s B
-s c
-S A
-S G
+sB
+sc
+SA
+SG
 =
 *Xcol
-s C
-s C
-s C
-[ S G
-s E ]
-S D
-s D
-[ S E
-s F ]
-S E
-s G
-S C
-s D
+sC
+sC
+sC
+[SG
+sE]
+SD
+sD
+[SE
+sF]
+SE
+sG
+SC
+sD
 *lg
-s E
-s C
+sE
+sC
 *Xlg
-[ s F
-s C ]
-S D
-S AA
-s r
-*custos AA
+[sF
+sC]
+SD
+SAA
+sr
+*custosAA

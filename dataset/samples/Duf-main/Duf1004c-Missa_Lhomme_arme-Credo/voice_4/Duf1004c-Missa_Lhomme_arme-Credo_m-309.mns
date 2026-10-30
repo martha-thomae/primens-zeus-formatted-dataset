@@ -2,21 +2,21 @@
 *clefC1
 *met(C)
 *MM420
-S a
-s r
-[ s ee
-s dd
-s b
-s cc ]
-s a
-s g
-s : a
-M g
-s f
-s : e
-M d
-S d
-S c
+Sa
+sr
+[see
+sdd
+sb
+scc]
+sa
+sg
+s:a
+Mg
+sf
+s:e
+Md
+Sd
+Sc
 *met(3)
 s%M:d
 3e
@@ -26,4 +26,4 @@ s%M:d
 3%m%4e
 3%M%2r
 3%m%4d
-*custos c
+*custosc

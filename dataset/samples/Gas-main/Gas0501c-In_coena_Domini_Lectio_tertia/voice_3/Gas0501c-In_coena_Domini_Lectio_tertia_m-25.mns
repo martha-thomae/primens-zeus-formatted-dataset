@@ -3,13 +3,13 @@
 =
 =
 *met(C|)
-S r
-S A
+Sr
+SA
 *col
-s : A
-M B -
+s:A
+MB-
 *Xcol
-S c
-s : A
-M B -
-*custos A
+Sc
+s:A
+MB-
+*custosA

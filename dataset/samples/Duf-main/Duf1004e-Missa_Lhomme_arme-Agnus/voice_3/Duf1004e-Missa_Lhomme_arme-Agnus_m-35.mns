@@ -3,50 +3,50 @@
 *k[b-]
 *met(O)
 *MM320
-s G
-M : B -
-m c
-[ s d
-s G ]
-[ S g
-S f ]
-s f
-S d
-s d
-M : B -
-m c
-S d
+sG
+M:B-
+mc
+[sd
+sG]
+[Sg
+Sf]
+sf
+Sd
+sd
+M:B-
+mc
+Sd
 *clefGv2
 *k[b-]
 *met(C)
 *MM480
-S r
-S G
+Sr
+SG
 3%m%4d
 3c
 3B-
-[ S A
-s : F ]
-M G
-s A
-s B -
-s A
-s d
-M c
-M A
+[SA
+s:F]
+MG
+sA
+sB-
+sA
+sd
+Mc
+MA
 =
-[ s B -
-s A ]
-[ s f
-s e ]
-s d
-s r
+[sB-
+sA]
+[sf
+se]
+sd
+sr
 =
-s g
-M f
-M : a
-m g
-M f
-s e
-s d
-*custos F
+sg
+Mf
+M:a
+mg
+Mf
+se
+sd
+*custosF

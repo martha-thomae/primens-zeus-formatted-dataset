@@ -3,13 +3,13 @@
 =
 =
 *met(C|)
-S D
-S r
-M r
-M D
-M C
-M D
-s C
-[ s D
-S AA ]
-*custos AA
+SD
+Sr
+Mr
+MD
+MC
+MD
+sC
+[sD
+SAA]
+*custosAA

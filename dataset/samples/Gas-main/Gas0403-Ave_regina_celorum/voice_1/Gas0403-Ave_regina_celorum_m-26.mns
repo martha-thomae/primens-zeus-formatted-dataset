@@ -3,25 +3,25 @@
 *k[b-]
 =
 *met(O)
-s r
-M r
-M FF
-s C
-M FF
-M BB -
+sr
+Mr
+MFF
+sC
+MFF
+MBB-
 =
-M AA
-m GG
-m FF
-s EE
-s FF
-s r
-s r
-< s EE
-S FF >
-[ s GG
-s BB - ]
-s FF
-[ S C
-s BB - ]
-*custos EE
+MAA
+mGG
+mFF
+sEE
+sFF
+sr
+sr
+<sEE
+SFF>
+[sGG
+sBB-]
+sFF
+[SC
+sBB-]
+*custosEE

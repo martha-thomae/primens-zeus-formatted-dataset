@@ -3,16 +3,16 @@
 *met(C|)
 *MM360
 =
-s c
-S d
-[ s c
-s d ]
-s e
-L f
-S e
-s e
-s e
+sc
+Sd
+[sc
+sd]
+se
+Lf
+Se
+se
+se
 =
-s e
-s f
-*custos c
+se
+sf
+*custosc

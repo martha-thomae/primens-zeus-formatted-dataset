@@ -3,17 +3,17 @@
 *met(C|)
 *clefC2
 *met(3)
-s : d
-M e
-s f
-s g
+s:d
+Me
+sf
+sg
 =
-s : a
-M g
-M f #
-M e
-s : f #
-M e
-S g
-s r
-*custos d
+s:a
+Mg
+Mf#
+Me
+s:f#
+Me
+Sg
+sr
+*custosd

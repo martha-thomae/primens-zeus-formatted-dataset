@@ -3,22 +3,22 @@
 *k[b-]
 *met(O)
 *col
-L F
+LF
 *Xcol
-M : E
-m C
-M D
+M:E
+mC
+MD
 *lg
 *col
 =
-s E
-s C
+sE
+sC
 *Xcol
 *Xlg
-s D
-M E
-s : F
-M D
+sD
+ME
+s:F
+MD
 =
-s E
-*custos C
+sE
+*custosC

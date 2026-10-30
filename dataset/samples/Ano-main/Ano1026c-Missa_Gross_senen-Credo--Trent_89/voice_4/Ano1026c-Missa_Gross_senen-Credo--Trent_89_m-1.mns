@@ -4,47 +4,47 @@
 =
 *met(O)
 *MM300
-L g
-S f
-s b -
-s b -
-s : a
-M g
+Lg
+Sf
+sb-
+sb-
+s:a
+Mg
 =
-M g
-m f
-m e
-s d
-M e
-s f
-s d
-M e
-M f
-s g
-M f
+Mg
+mf
+me
+sd
+Me
+sf
+sd
+Me
+Mf
+sg
+Mf
 =
-s e
-S : d
-S : r
-s f
-s f
-[ s g
-s b -
-s : a
-s f ]
-s b -
-M a
-M g
-m f
-m e
-s d
-M r
-M c
-M B -
-s d
-M e -
-M : d
-m c
-M : A
-m B -
-*custos A
+se
+S:d
+S:r
+sf
+sf
+[sg
+sb-
+s:a
+sf]
+sb-
+Ma
+Mg
+mf
+me
+sd
+Mr
+Mc
+MB-
+sd
+Me-
+M:d
+mc
+M:A
+mB-
+*custosA

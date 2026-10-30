@@ -4,11 +4,11 @@
 *k[b-]
 *met(C|)
 *met(O|)
-S : r
-S : r
-S d
-s d
-s : A
-s B -
-M c
-*custos A
+S:r
+S:r
+Sd
+sd
+s:A
+sB-
+Mc
+*custosA

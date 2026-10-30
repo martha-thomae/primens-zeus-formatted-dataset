@@ -2,21 +2,21 @@
 *clefC2
 =
 *met(O)
-S : r
-S d
-s d
+S:r
+Sd
+sd
 *lg
 *col
-S B
-S G
+SB
+SG
 *Xlg
 =
-S c
+Sc
 *Xcol
 *lg
-[ s B
-S G ]
+[sB
+SG]
 *Xlg
-S : A
-S : r
-*custos G
+S:A
+S:r
+*custosG

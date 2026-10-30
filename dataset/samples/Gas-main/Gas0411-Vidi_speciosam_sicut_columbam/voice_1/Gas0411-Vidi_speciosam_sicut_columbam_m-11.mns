@@ -3,31 +3,31 @@
 *clefF4
 *met(C|3)
 *col
-S C
-s C
-s C
-S G
+SC
+sC
+sC
+SG
 *Xcol
-S : C
-S : r
-s G
-M A
-s G
-M A
+S:C
+S:r
+sG
+MA
+sG
+MA
 *lg
-s F
-S E
+sF
+SE
 *Xlg
-S F
-s D
-S C
-s r
-S : r
-s : F
-M G
-s A
+SF
+sD
+SC
+sr
+S:r
+s:F
+MG
+sA
 *col
-s B
-s c
-s A
-*custos C
+sB
+sc
+sA
+*custosC

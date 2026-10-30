@@ -2,34 +2,34 @@
 *clefC1
 *met(C.)
 *MM340
-M r
-M r
-M a
-M b
-s cc
-s dd
-M b
-M a
+Mr
+Mr
+Ma
+Mb
+scc
+sdd
+Mb
+Ma
 =
-M r
+Mr
 =
-M a
-M cc
-M b
-M a
-s g
-M f
-s g
-M e
-s : d
-M r
-[ s a
-s cc ]
-M b
-M g
-s a
-s g
+Ma
+Mcc
+Mb
+Ma
+sg
+Mf
+sg
+Me
+s:d
+Mr
+[sa
+scc]
+Mb
+Mg
+sa
+sg
 =
-M f #
-S : g
-*custos d
+Mf#
+S:g
+*custosd

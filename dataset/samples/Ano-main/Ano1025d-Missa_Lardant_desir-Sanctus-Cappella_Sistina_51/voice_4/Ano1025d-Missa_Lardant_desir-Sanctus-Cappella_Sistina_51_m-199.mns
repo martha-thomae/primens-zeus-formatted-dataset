@@ -3,33 +3,33 @@
 *met(C3)
 *MM450
 =
-s r
-s f
-M e
-M c
-s d
-s c
-s e
+sr
+sf
+Me
+Mc
+sd
+sc
+se
 =
-s f
-S g
-s f
-s : d
-M e
+sf
+Sg
+sf
+s:d
+Me
 s%5f
-M e
-M d
-s : c
-M d
-M e
-M f
+Me
+Md
+s:c
+Md
+Me
+Mf
 =
 s%5g
 =
-M f
-M e
-s : d
-M e
-M f
-M g
-*custos c
+Mf
+Me
+s:d
+Me
+Mf
+Mg
+*custosc

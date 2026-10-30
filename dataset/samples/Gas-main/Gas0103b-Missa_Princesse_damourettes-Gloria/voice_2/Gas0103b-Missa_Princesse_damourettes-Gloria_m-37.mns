@@ -3,33 +3,33 @@
 *met(O)
 *col
 *lg
-L c
-S B
+Lc
+SB
 *Xcol
 *Xlg
 s%9A
 *lg
 *col
-S B
-S G
+SB
+SG
 =
 *Xlg
-S A
+SA
 *Xcol
-s : G
-M F
-s E
-S D
-s r
-S : r
-S : r
+s:G
+MF
+sE
+SD
+sr
+S:r
+S:r
 =
-s r
-s A
-s B
-M A
-s G
+sr
+sA
+sB
+MA
+sG
 =
-M F
-s G
-*custos D
+MF
+sG
+*custosD

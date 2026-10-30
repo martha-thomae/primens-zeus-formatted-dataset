@@ -4,37 +4,37 @@
 =
 *met(3)
 *met(C|)
-M : G
-m A
-M B -
-m c
-m d
+M:G
+mA
+MB-
+mc
+md
 =
-s : e -
-M d
-M c
-M B -
-s c
-M r
-M : e -
-m f
+s:e-
+Md
+Mc
+MB-
+sc
+Mr
+M:e-
+mf
 =
-M : g
-m f
-m e -
-m d
+M:g
+mf
+me-
+md
 =
-s c
+sc
 *col
-s : d
-M c
+s:d
+Mc
 *Xcol
-s A
-M r
-s d
-m c
-m B -
-[ s A
-S G ]
-S r
-*custos G
+sA
+Mr
+sd
+mc
+mB-
+[sA
+SG]
+Sr
+*custosG

@@ -3,34 +3,34 @@
 *clefC4
 *k[b-]
 *met(C|)
-s f
-S d
-s e
-s f
-[ s B -
-S c ]
-s : B -
-M A
-*custos F #
+sf
+Sd
+se
+sf
+[sB-
+Sc]
+s:B-
+MA
+*custosF#
 **mens
-s f
-s B -
-< S c
-s : B - >
-M A
-[ s G
-s F # ]
-S G
+sf
+sB-
+<Sc
+s:B->
+MA
+[sG
+sF#]
+SG
 *clefC4
 *k[b-]
 *met(C|)
-s f
-S d
-[ s e
-s f
-s B - ]
+sf
+Sd
+[se
+sf
+sB-]
 =
-[ S c
-s : B - ]
-M A
-*custos F #
+[Sc
+s:B-]
+MA
+*custosF#

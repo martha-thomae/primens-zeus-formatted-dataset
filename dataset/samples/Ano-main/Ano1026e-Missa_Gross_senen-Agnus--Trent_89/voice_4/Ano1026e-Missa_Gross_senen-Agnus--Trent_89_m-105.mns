@@ -4,17 +4,17 @@
 *met(C|)
 =
 *MM300
-s r
-s g
+sr
+sg
 =
-s : f
-m e
-m d
-s g
-s : d
-M c
-M B -
-m A
-m G
-S A
-*custos G
+s:f
+me
+md
+sg
+s:d
+Mc
+MB-
+mA
+mG
+SA
+*custosG

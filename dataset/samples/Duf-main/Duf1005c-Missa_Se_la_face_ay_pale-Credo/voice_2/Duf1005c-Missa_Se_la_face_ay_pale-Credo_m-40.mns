@@ -5,20 +5,20 @@
 *met(O)
 *MM384
 =
-L : c
-[ S : B
-s : c ]
-[ s : d
-s : e
-s : f
-S : d
-L : c ]
+L:c
+[S:B
+s:c]
+[s:d
+s:e
+s:f
+S:d
+L:c]
 =
-S : r
-S : a
-s : a
-S : a
-s : a
-L : g
+S:r
+S:a
+s:a
+S:a
+s:a
+L:g
 =
-*custos B
+*custosB

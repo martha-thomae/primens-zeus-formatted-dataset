@@ -4,25 +4,25 @@
 *met(C|)
 *Xlg
 =
-s B
-S c
-S r
+sB
+Sc
+Sr
 *lg
-[ S A
-S B - ]
+[SA
+SB-]
 =
 *Xlg
 *lg
-S c
-S B -
+Sc
+SB-
 *Xlg
-s : d
-M c
-S B -
-s A
-S G
-s F
-L F
-S r
-L B -
-*custos F
+s:d
+Mc
+SB-
+sA
+SG
+sF
+LF
+Sr
+LB-
+*custosF

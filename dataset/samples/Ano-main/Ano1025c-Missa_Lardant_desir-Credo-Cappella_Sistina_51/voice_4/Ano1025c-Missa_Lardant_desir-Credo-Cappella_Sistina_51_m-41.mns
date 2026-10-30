@@ -2,26 +2,26 @@
 *clefC1
 *met(O)
 *MM300
-[ s : d
-s : f ]
-[ s : e
-s : g ]
-s : d
-s f
-m e
-m d
-s c
-M g
-s a
-M b
-M a
-s cc
-s a
-M g
-M f
-m e
-m d
-M c
-s f
-M e
-*custos c
+[s:d
+s:f]
+[s:e
+s:g]
+s:d
+sf
+me
+md
+sc
+Mg
+sa
+Mb
+Ma
+scc
+sa
+Mg
+Mf
+me
+md
+Mc
+sf
+Me
+*custosc

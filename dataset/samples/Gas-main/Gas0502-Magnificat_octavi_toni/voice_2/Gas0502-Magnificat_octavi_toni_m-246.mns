@@ -1,19 +1,19 @@
 **mens
 *clefC4
 *met(C|)
-S c
+Sc
 *Xlg
-S : c
-s c
-S c
-S B
+S:c
+sc
+Sc
+SB
 *lg
-[ S c
-S d ]
+[Sc
+Sd]
 *Xlg
 *col
-s : d
+s:d
 =
-M e
+Me
 *Xcol
-*custos B
+*custosB

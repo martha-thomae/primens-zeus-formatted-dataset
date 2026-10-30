@@ -2,18 +2,18 @@
 *clefC4
 *met(C|)
 *met(O/3)
-s : E
-M F
-s G
-M A
+s:E
+MF
+sG
+MA
 =
-s c
-M d
-s B
-S A
-[ s G
-S A ]
-[ s B
-S c
-s B ]
-*custos E
+sc
+Md
+sB
+SA
+[sG
+SA]
+[sB
+Sc
+sB]
+*custosE

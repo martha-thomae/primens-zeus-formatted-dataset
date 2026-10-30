@@ -9,41 +9,41 @@
 3%M%2e
 *3/2
 *met()
-S d
-s G
-[ s F
-s D ]
-s A
-M B
-s d
-M B
-s A
-s : G
-s g
-M f #
-s g
-s e
-< s f
-S d >
-s g
+Sd
+sG
+[sF
+sD]
+sA
+MB
+sd
+MB
+sA
+s:G
+sg
+Mf#
+sg
+se
+<sf
+Sd>
+sg
 *col
-[ S g
-s e ]
-[ s f
-S d ]
+[Sg
+se]
+[sf
+Sd]
 *Xcol
-S : r
-s e
-s f
-[ s e
-S c ]
-s G
+S:r
+se
+sf
+[se
+Sc]
+sG
 *lg
 =
-s A
-s : c
+sA
+s:c
 *Xlg
-M A
-s A
-S B
-*custos D
+MA
+sA
+SB
+*custosD

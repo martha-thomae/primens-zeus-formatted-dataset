@@ -4,15 +4,15 @@
 =
 *met(C|)
 *MM320
-s D
-[ s E
-s D ]
-s AA
+sD
+[sE
+sD]
+sAA
 *lg
-s D
-s BB -
+sD
+sBB-
 *Xlg
-s AA
-M r
-M AA
-*custos AA
+sAA
+Mr
+MAA
+*custosAA

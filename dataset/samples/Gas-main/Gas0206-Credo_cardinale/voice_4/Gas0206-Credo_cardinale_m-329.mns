@@ -4,20 +4,20 @@
 *met(C|)
 *MM180
 *lg
-S f
-S g
+Sf
+Sg
 *Xlg
-S a
-S d
-s c
-s : f
-M g
-s : a
+Sa
+Sd
+sc
+s:f
+Mg
+s:a
 =
-M g
-M f
-M e
-s d
-S g
-s f #
-*custos c
+Mg
+Mf
+Me
+sd
+Sg
+sf#
+*custosc

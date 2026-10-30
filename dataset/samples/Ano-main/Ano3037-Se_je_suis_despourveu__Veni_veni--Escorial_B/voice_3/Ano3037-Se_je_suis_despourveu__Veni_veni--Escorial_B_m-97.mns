@@ -5,23 +5,23 @@
 *met(C|)
 *met(2)
 *rscale:2
-M b -
-M a
-M b -
+Mb-
+Ma
+Mb-
 =
-M cc
-M b -
-M a
-M g
-M a
-M g
-M f #
-M g
-M e
+Mcc
+Mb-
+Ma
+Mg
+Ma
+Mg
+Mf#
+Mg
+Me
 *met(C|)
 *rscale:1
-s g
-s f
-s d
-s e
-*custos d
+sg
+sf
+sd
+se
+*custosd

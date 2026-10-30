@@ -2,23 +2,23 @@
 *clefC1
 *met(C|)
 *MM180
-s e
-s d
-M e
-s d
-m c #
-m B
-M c #
-s d
-M c #
-S d
+se
+sd
+Me
+sd
+mc#
+mB
+Mc#
+sd
+Mc#
+Sd
 *met(C|)
-S r
-S r
-S dd
-s cc
-s dd
+Sr
+Sr
+Sdd
+scc
+sdd
 =
-[ s cc
-s b ]
-*custos B
+[scc
+sb]
+*custosB

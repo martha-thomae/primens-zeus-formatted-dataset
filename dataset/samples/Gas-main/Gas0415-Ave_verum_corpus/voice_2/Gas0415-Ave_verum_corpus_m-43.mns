@@ -4,42 +4,42 @@
 =
 *met(C|)
 =
-S A
+SA
 *Xlg
-S G
+SG
 *met(C|3)
-S G
-< s F
-S G >
-[ s A
-S B - ]
+SG
+<sF
+SG>
+[sA
+SB-]
 =
-s A
-S G
-s F
-S G
-s A
-S A
-s A
+sA
+SG
+sF
+SG
+sA
+SA
+sA
 =
-S A
-s B -
-s : c
-M A
-M B -
-M c
-s : d
-m c
-m B -
-s A
+SA
+sB-
+s:c
+MA
+MB-
+Mc
+s:d
+mc
+mB-
+sA
 *lg
-s B -
-S c
+sB-
+Sc
 *Xlg
-S B -
+SB-
 =
 *met(C|)
-s r
-s d
-S d
-*custos F
+sr
+sd
+Sd
+*custosF

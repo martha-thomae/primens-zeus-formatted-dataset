@@ -4,21 +4,21 @@
 =
 *met(C|)
 =
-s r
-s g
-s g
-S a
-s g
-M r
-s cc
-m b n
-m a
-s b n
-S cc
-M r
-s b -
-m a
-m g
-s a
-S b -
-*custos g
+sr
+sg
+sg
+Sa
+sg
+Mr
+scc
+mbn
+ma
+sbn
+Scc
+Mr
+sb-
+ma
+mg
+sa
+Sb-
+*custosg

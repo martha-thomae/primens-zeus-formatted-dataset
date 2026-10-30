@@ -2,15 +2,15 @@
 *clefF4
 *met(C|3)
 *col
-s G
-s C
-S F
-S E
+sG
+sC
+SF
+SE
 *Xcol
 =
-s F
-S G
-[ s A
-S E ]
-S : AA
-*custos AA
+sF
+SG
+[sA
+SE]
+S:AA
+*custosAA

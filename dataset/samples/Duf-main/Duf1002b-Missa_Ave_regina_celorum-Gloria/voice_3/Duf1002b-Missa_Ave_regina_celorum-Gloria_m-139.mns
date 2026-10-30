@@ -3,13 +3,13 @@
 *met(C)
 =
 *MM448
-S c
-s A
-M B
-s A
-M c
-M B
-M A
-s : c
-M B
-*custos A
+Sc
+sA
+MB
+sA
+Mc
+MB
+MA
+s:c
+MB
+*custosA

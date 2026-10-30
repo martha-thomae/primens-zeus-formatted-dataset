@@ -3,51 +3,51 @@
 *met(C|)
 =
 *MM180
-s G
-M r
-s g
-m f #
-m e
-s f #
-s g
-m f
-m e
-m d
-m c
-M B
-s : e
-S c
-s e
-s f
-S g
-S f
-M : e
-m f
-M g
-s a
-m g
-m f
-m g
-m f
-m e
-m d
-S c
-s d
-s d
-M : B
-m G
-M A
-M B
-M : A
-m B
-m c
-m d
-M : e
+sG
+Mr
+sg
+mf#
+me
+sf#
+sg
+mf
+me
+md
+mc
+MB
+s:e
+Sc
+se
+sf
+Sg
+Sf
+M:e
+mf
+Mg
+sa
+mg
+mf
+mg
+mf
+me
+md
+Sc
+sd
+sd
+M:B
+mG
+MA
+MB
+M:A
+mB
+mc
+md
+M:e
 =
-m f
-M g
-M : c
-m d
-s e
-s A
-*custos G
+mf
+Mg
+M:c
+md
+se
+sA
+*custosG

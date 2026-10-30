@@ -2,28 +2,28 @@
 *clefG2
 *met(C3)
 =
-s : a
-s : r
-s g
-s g
-s e
-s : c
-s : g
-s : g
-s a
-M g
-M e
-s g
-M f
-M g
-M e
-s : d
-M r
-s r
-s : dd
-s cc
-M b
-[ s : g
-s : cc ]
+s:a
+s:r
+sg
+sg
+se
+s:c
+s:g
+s:g
+sa
+Mg
+Me
+sg
+Mf
+Mg
+Me
+s:d
+Mr
+sr
+s:dd
+scc
+Mb
+[s:g
+s:cc]
 =
-*custos c
+*custosc

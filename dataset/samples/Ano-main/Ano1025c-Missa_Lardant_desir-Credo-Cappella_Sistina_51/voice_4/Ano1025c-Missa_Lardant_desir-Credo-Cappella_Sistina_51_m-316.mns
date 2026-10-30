@@ -2,23 +2,23 @@
 *clefC1
 *met(C)
 *MM312
-s c
-s c
-M : d
-m e
-M f
-M g
-M a
-s d
-M g
-M a
-M : cc
-m b
-M a
-M g
-M b -
-M a
-M f
-s g
-s a
-*custos c
+sc
+sc
+M:d
+me
+Mf
+Mg
+Ma
+sd
+Mg
+Ma
+M:cc
+mb
+Ma
+Mg
+Mb-
+Ma
+Mf
+sg
+sa
+*custosc

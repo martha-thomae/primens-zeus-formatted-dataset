@@ -2,19 +2,19 @@
 =
 *clefC4
 *met(C|)
-s : c
-m B -
-m A
-S G
+s:c
+mB-
+mA
+SG
 *lg
-s B -
-s A
+sB-
+sA
 *Xlg
-S G
-S F
+SG
+SF
 *lg
-[ S A
-S B - ]
+[SA
+SB-]
 *Xlg
-S A
-*custos F
+SA
+*custosF

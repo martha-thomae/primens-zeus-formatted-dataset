@@ -4,31 +4,31 @@
 *k[b-]
 =
 *met(O)
-s r
-s : A
-M : G
-m A
-s B -
-M A
-s G
-S F
-s r
+sr
+s:A
+M:G
+mA
+sB-
+MA
+sG
+SF
+sr
 *col
-L F
+LF
 *Xcol
 =
-M : E
-m C
-M D
+M:E
+mC
+MD
 *lg
 *col
-s E
-s C
+sE
+sC
 *Xcol
 =
 *Xlg
-s D
-M E
-S F
-s r
-*custos C
+sD
+ME
+SF
+sr
+*custosC

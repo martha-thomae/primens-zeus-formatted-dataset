@@ -6,17 +6,17 @@
 =
 *met(C|)
 *MM400
-L : D
-L AA
-S : D
-S F
-s G
-[ S A
-s F
-S G ]
-s F
-L D
-S r
-S r
-L D
-*custos AA
+L:D
+LAA
+S:D
+SF
+sG
+[SA
+sF
+SG]
+sF
+LD
+Sr
+Sr
+LD
+*custosAA

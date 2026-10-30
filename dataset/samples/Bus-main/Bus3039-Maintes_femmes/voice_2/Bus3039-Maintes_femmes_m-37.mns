@@ -3,17 +3,17 @@
 *clefC4
 =
 *met(O2)
-[ S AA
-S D ]
+[SAA
+SD]
 =
-[ S BB
-S E ]
-[ S C
-S F ]
-S C
-[ S D
-S G ]
-S D
-S E
-L A
-*custos AA
+[SBB
+SE]
+[SC
+SF]
+SC
+[SD
+SG]
+SD
+SE
+LA
+*custosAA

@@ -4,33 +4,33 @@
 =
 *met(C|)
 =
-S r
-m FF
-m GG
-m AA
-m BB -
-M C
-M FF
-M F
-m E
-m D
+Sr
+mFF
+mGG
+mAA
+mBB-
+MC
+MFF
+MF
+mE
+mD
 =
-M E
-M F
-M : D
-m C
-m D
-m C
-M AA
-M : C
-m BB -
-m C
-m BB -
-M GG
-M : BB -
-m AA
-m BB -
-m AA
-M FF
+ME
+MF
+M:D
+mC
+mD
+mC
+MAA
+M:C
+mBB-
+mC
+mBB-
+MGG
+M:BB-
+mAA
+mBB-
+mAA
+MFF
 =
-*custos FF
+*custosFF

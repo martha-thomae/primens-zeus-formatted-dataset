@@ -3,18 +3,18 @@
 *met(C|)
 =
 *MM360
-m g #
-m f #
-s g #
-L a
-S r
-S g
-s g
-S g
-S f
+mg#
+mf#
+sg#
+La
+Sr
+Sg
+sg
+Sg
+Sf
 =
-< s e
-s f >
-s d
+<se
+sf>
+sd
 =
-*custos d
+*custosd

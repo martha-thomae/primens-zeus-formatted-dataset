@@ -3,25 +3,25 @@
 *k[b-]
 *met(O|)
 S:G0.g
-S d
-s d
-s c
+Sd
+sd
+sc
 SG0d
-s r
-[ S d
-s c ]
-S A
-s r
-S G
+sr
+[Sd
+sc]
+SA
+sr
+SG
 S:D0.d
-S d
-s r
-S G
-s D
-[ s G
-S F ]
-[ s G
-S D ]
+Sd
+sr
+SG
+sD
+[sG
+SF]
+[sG
+SD]
 =
-S : d
-*custos D
+S:d
+*custosD

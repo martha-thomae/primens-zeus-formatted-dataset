@@ -4,17 +4,17 @@
 =
 =
 *met(C|)
-s F
-s E
-S D
-M r
-M D
-< s F
-s E >
+sF
+sE
+SD
+Mr
+MD
+<sF
+sE>
 =
-S D
-M r
-M D
-S E
-S D
-*custos D
+SD
+Mr
+MD
+SE
+SD
+*custosD

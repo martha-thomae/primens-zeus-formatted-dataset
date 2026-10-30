@@ -2,11 +2,11 @@
 *clefF4
 *met(C|)
 *MM360
-L AA
+LAA
 =
-L BB
-L AA
-S r
-S r
+LBB
+LAA
+Sr
+Sr
 =
-*custos AA
+*custosAA

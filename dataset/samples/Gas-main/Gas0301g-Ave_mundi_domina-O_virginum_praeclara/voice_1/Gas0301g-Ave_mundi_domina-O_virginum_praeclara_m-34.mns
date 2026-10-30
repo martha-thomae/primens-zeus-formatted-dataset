@@ -3,20 +3,20 @@
 *k[b-]
 *met(C|)
 *MM320
-S GG
+SGG
 *met(C)
 *MM220
 =
-s GG
-M BB -
-M BB -
+sGG
+MBB-
+MBB-
 =
-M C
-M C
-M AA
-M AA
-M GG
-M GG
-M D
-M D
-*custos GG
+MC
+MC
+MAA
+MAA
+MGG
+MGG
+MD
+MD
+*custosGG

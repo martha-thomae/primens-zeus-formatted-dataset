@@ -3,19 +3,19 @@
 =
 *k[b-]
 *met(C)
-m A
-m G
-s g
-M f #
-L g
+mA
+mG
+sg
+Mf#
+Lg
 *met(C|)
 M%7f
 *col
-M g
+Mg
 *Xcol
 M%7a
 *col
-m g
-m f
+mg
+mf
 *Xcol
-*custos G
+*custosG

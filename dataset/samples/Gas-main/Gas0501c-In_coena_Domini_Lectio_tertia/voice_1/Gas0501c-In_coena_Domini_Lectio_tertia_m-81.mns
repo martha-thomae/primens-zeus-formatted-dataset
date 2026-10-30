@@ -3,26 +3,26 @@
 =
 *met(C|)
 *col
-s : D
-M F
+s:D
+MF
 *Xcol
-s C
-[ s D
-S C ]
-S F
+sC
+[sD
+SC]
+SF
 =
-[ S D
-S F
-S C
-S G ]
-S D
-[ S E
-S D ]
-S r
-S G
-s E
-s D
-S C
-S F
-S G
-*custos C
+[SD
+SF
+SC
+SG]
+SD
+[SE
+SD]
+Sr
+SG
+sE
+sD
+SC
+SF
+SG
+*custosC

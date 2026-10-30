@@ -2,14 +2,14 @@
 *clefF4
 *met(C3)
 *MM450
-M E
-M D
+ME
+MD
 =
-s : C
-M D
-M E
-M F
+s:C
+MD
+ME
+MF
 s%5G
-M F
-M E
-*custos C
+MF
+ME
+*custosC

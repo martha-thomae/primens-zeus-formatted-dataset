@@ -2,34 +2,34 @@
 *clefG2
 *k[b-]
 *met(O/3)
-s : b -
-m a
-m b -
-M : a
-m g
-s : g
-m f
-m e
-M : f #
-m e
-s g
-s r
-s g
-s : g
-M e
-M f
-M g
-M e
-M : a
-m g
-s f
-M : b -
-m a
-s g
-M f
-M g
-M e
-S f
-s r
-S : r
-*custos e
+s:b-
+ma
+mb-
+M:a
+mg
+s:g
+mf
+me
+M:f#
+me
+sg
+sr
+sg
+s:g
+Me
+Mf
+Mg
+Me
+M:a
+mg
+sf
+M:b-
+ma
+sg
+Mf
+Mg
+Me
+Sf
+sr
+S:r
+*custose

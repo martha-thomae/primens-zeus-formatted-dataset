@@ -3,52 +3,52 @@
 *clefF4
 *met(C|3)
 *lg
-< s E
-S C >
+<sE
+SC>
 *Xlg
 *col
 *lg
-S F
-S C
-S F
+SF
+SC
+SF
 *Xcol
 *Xlg
-S : F
-s E
-s C
-< s BB
-S GG >
-s D
+S:F
+sE
+sC
+<sBB
+SGG>
+sD
 *lg
-[ s E
-s : G ]
+[sE
+s:G]
 *Xlg
-M F
-s E
-[ S D
-s : GG ]
-M AA
-[ s BB
-s : C ]
-M D
-s E
-s : F
-M E
-M D
-M C
+MF
+sE
+[SD
+s:GG]
+MAA
+[sBB
+s:C]
+MD
+sE
+s:F
+ME
+MD
+MC
 *lg
-[ s BB -
-s G ]
+[sBB-
+sG]
 *Xlg
-s D
-s E
-S D
+sD
+sE
+SD
 *lg
-s GG
+sGG
 =
-s C
+sC
 *Xlg
-s BB
-s C
-S D
-*custos GG
+sBB
+sC
+SD
+*custosGG

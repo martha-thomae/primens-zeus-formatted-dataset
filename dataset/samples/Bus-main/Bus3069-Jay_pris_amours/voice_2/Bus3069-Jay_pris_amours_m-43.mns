@@ -3,16 +3,16 @@
 *k[b-]
 *met(C|)
 =
-S A
-L B -
-s r
-s d
-s c
-[ s B -
-s A ]
-s d
-s r
-[ s B -
-s A ]
-s B -
-*custos A
+SA
+LB-
+sr
+sd
+sc
+[sB-
+sA]
+sd
+sr
+[sB-
+sA]
+sB-
+*custosA

@@ -2,25 +2,25 @@
 *clefC2
 *met(C|)
 *met(3)
-S g
-s c
+Sg
+sc
 *col
-s : B
-M c
+s:B
+Mc
 =
 *lg
-S d
-S e
+Sd
+Se
 *Xcol
 *Xlg
-s g
-S f
-s d
-S e
-S d
-s r
-S d
-[ s A
-S B ]
-s A
-*custos A
+sg
+Sf
+sd
+Se
+Sd
+sr
+Sd
+[sA
+SB]
+sA
+*custosA

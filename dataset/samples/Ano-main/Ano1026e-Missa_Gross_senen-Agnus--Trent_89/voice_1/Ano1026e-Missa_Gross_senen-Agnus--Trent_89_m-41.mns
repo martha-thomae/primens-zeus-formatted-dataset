@@ -3,14 +3,14 @@
 *k[b-e-]
 *met(C)
 *MM300
-M GG
-M : BB -
-m C
-S D
-s r
-S D
-s GG
-s r
-s D
-S GG
-*custos GG
+MGG
+M:BB-
+mC
+SD
+sr
+SD
+sGG
+sr
+sD
+SGG
+*custosGG

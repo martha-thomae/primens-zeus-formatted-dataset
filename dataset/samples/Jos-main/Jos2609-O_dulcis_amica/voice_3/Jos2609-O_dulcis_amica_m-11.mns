@@ -10,22 +10,22 @@
 3%M%2e
 3%m%4e
 *met(C|)
-S a
-S r
-M : f
-m g
-M a
-M f
-s b
-s b
-M : a
-m g
-[ s a
-S b ]
-S r
-s B
-M B
-M B
-s e
-s e
-*custos B
+Sa
+Sr
+M:f
+mg
+Ma
+Mf
+sb
+sb
+M:a
+mg
+[sa
+Sb]
+Sr
+sB
+MB
+MB
+se
+se
+*custosB

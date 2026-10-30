@@ -2,15 +2,15 @@
 *clefC4
 *k[b-]
 *met(C|)
-S r
-M c
-M c
-M B -
-M G
-M A
-M A
-s G
-s r
+Sr
+Mc
+Mc
+MB-
+MG
+MA
+MA
+sG
+sr
 *col
 3%M%2A
 3B-
@@ -18,18 +18,18 @@ s r
 3A
 3%M%2B-
 3c
-M d
+Md
 6c
 6B-
 6A
 3%M%2A
 3G
 *Xcol
-s A
-M c
-M c
-M B -
-M G
-M A
-M A
-*custos G
+sA
+Mc
+Mc
+MB-
+MG
+MA
+MA
+*custosG

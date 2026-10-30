@@ -4,65 +4,65 @@
 =
 *met(O)
 =
-L g
-s : a
-M g
-s g
-s : cc
-M b -
+Lg
+s:a
+Mg
+sg
+s:cc
+Mb-
 =
-s b -
-M cc
-M : dd
-m cc
-M a
-M g
-M : b -
-m a
-M : cc
-m b -
-m a
-m g
-M f
-M : a
-m g
-M e
-s d
-M r
-s e
-M d
+sb-
+Mcc
+M:dd
+mcc
+Ma
+Mg
+M:b-
+ma
+M:cc
+mb-
+ma
+mg
+Mf
+M:a
+mg
+Me
+sd
+Mr
+se
+Md
 =
-s f
-M : g
-m a
-M : b -
-m cc
-M : dd
-m cc
-M b -
-M : a
-m g
-M : a
-m e
-M f #
-M g
-M b -
-s a
-M r
+sf
+M:g
+ma
+M:b-
+mcc
+M:dd
+mcc
+Mb-
+M:a
+mg
+M:a
+me
+Mf#
+Mg
+Mb-
+sa
+Mr
 =
-s dd
-M cc
-M b -
-m a
-m g
+sdd
+Mcc
+Mb-
+ma
+mg
 =
-M f
-M a
-M g
+Mf
+Ma
+Mg
 =
-M : b -
-m a
-s g
-M f #
-S : g
-*custos d
+M:b-
+ma
+sg
+Mf#
+S:g
+*custosd

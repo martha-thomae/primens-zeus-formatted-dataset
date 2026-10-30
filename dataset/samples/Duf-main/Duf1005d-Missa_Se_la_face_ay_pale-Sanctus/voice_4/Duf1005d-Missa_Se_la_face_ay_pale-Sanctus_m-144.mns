@@ -3,34 +3,34 @@
 *met(C)
 *MM420
 =
-s d
-S c
-s B
-S c
-M e
-M f
-s g
-S a
-s g
-M f
+sd
+Sc
+sB
+Sc
+Me
+Mf
+sg
+Sa
+sg
+Mf
 =
-s e
+se
 =
-M c
-s d
-s e
-s c
-M r
-M f
-M g
-M a
-M b
-s cc
-M a
-M cc
-M b
-s g
-s f
-M e
-M d
-*custos B
+Mc
+sd
+se
+sc
+Mr
+Mf
+Mg
+Ma
+Mb
+scc
+Ma
+Mcc
+Mb
+sg
+sf
+Me
+Md
+*custosB

@@ -2,71 +2,71 @@
 *clefGv2
 *k[b-]
 *met(O)
-s c
+sc
 *col
-M : c
-m d
+M:c
+md
 *Xcol
-M e
-M : f
-m e
-M c
-M f
-m e
-m f
-m g
-m f
-m e
-m d
-s c
-M e
-M f
-s g
-M e
-M a
-M g
-s f
-M e
-s f
-s r
-s r
-S f
-[ s e
-s d ]
-S c
+Me
+M:f
+me
+Mc
+Mf
+me
+mf
+mg
+mf
+me
+md
+sc
+Me
+Mf
+sg
+Me
+Ma
+Mg
+sf
+Me
+sf
+sr
+sr
+Sf
+[se
+sd]
+Sc
 *lg
-s A
-s : G
+sA
+s:G
 *Xlg
-s g
-s e
-M c
-M d
-M e
+sg
+se
+Mc
+Md
+Me
 *col
-M : A
-m B -
+M:A
+mB-
 *Xcol
-M A
-s d
-M c
-M : d
-m e
-m f
-m e
-m f
-m e
-M c
-M f
-M e
-m d
-M e
-m f
-M g
-s c
-M f
-M g
-s : a
-m g
-m f
-*custos G
+MA
+sd
+Mc
+M:d
+me
+mf
+me
+mf
+me
+Mc
+Mf
+Me
+md
+Me
+mf
+Mg
+sc
+Mf
+Mg
+s:a
+mg
+mf
+*custosG

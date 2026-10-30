@@ -3,42 +3,42 @@
 =
 *met(O)
 *lg
-s a
-s b
+sa
+sb
 *Xlg
-s : cc
-m b
-m a
-s : g
+s:cc
+mb
+ma
+s:g
 *lg
-s a
-s b
+sa
+sb
 =
 *Xlg
-s a
-M g #
-s a
-M r
-s a
-M d
-M f
-M g
-s a
-M : b
-m cc
+sa
+Mg#
+sa
+Mr
+sa
+Md
+Mf
+Mg
+sa
+M:b
+mcc
 *col
-M : dd
-m cc
+M:dd
+mcc
 *Xcol
-M a
-M g
-s cc
-M b
-[ s a
-s g ]
-M f #
-S g
+Ma
+Mg
+scc
+Mb
+[sa
+sg]
+Mf#
+Sg
 *met(C|)
-S r
-S r
-*custos d
+Sr
+Sr
+*custosd

@@ -2,28 +2,28 @@
 **mens
 *clefG2
 *met(O)
-s : cc
-M b
-s a
-s : g
-M a
-s b
+s:cc
+Mb
+sa
+s:g
+Ma
+sb
 *lg
-s cc
-s : f
+scc
+s:f
 *Xlg
 =
-M d
-s e
-s : g
-M f
-s e
-S d
+Md
+se
+s:g
+Mf
+se
+Sd
 *lg
-s cc
-s b
+scc
+sb
 *Xlg
-s dd
-S cc
-s b
-*custos d
+sdd
+Scc
+sb
+*custosd

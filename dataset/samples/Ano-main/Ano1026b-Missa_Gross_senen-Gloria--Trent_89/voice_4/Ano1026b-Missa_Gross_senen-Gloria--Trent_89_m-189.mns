@@ -3,15 +3,15 @@
 *k[b-]
 *met(C|)
 *MM400
-S f
-s r
-< s e
-s d >
-s f
-M g
-s b -
-M a
-M b -
-s g
-M f
-*custos d
+Sf
+sr
+<se
+sd>
+sf
+Mg
+sb-
+Ma
+Mb-
+sg
+Mf
+*custosd

@@ -3,23 +3,23 @@
 =
 =
 *met(O|)
-s C
-M : C
-m D
-M E
-s F
-M E
-M D
-M C
-s BB
+sC
+M:C
+mD
+ME
+sF
+ME
+MD
+MC
+sBB
 *lg
-s AA
-s D
+sAA
+sD
 *Xlg
-s : D
-M : F
-m E
-m D
-m C
-s D
-*custos AA
+s:D
+M:F
+mE
+mD
+mC
+sD
+*custosAA

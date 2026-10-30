@@ -3,16 +3,16 @@
 *met(C|)
 =
 *MM360
-s F
-s G
-S A
-S AA
-S BB
-[ S AA
-s D
-s C ]
-s : F
-M E
-s D
-s E
-*custos AA
+sF
+sG
+SA
+SAA
+SBB
+[SAA
+sD
+sC]
+s:F
+ME
+sD
+sE
+*custosAA

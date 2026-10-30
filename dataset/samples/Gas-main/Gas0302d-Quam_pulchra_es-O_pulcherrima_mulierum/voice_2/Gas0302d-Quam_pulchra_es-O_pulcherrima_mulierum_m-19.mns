@@ -3,44 +3,44 @@
 *k[b-]
 *met(C)
 =
-M c
-M d
+Mc
+Md
 *col
-M : f
-m e
+M:f
+me
 =
-M : f
-m e
+M:f
+me
 *Xcol
-M d
-M c
+Md
+Mc
 *col
-M : d
-m c
+M:d
+mc
 *Xcol
-M A
-M G
+MA
+MG
 =
-s c
-M B -
-[ s A
-s G ]
-M r
-M B -
-M B -
-M B -
-s B -
-M A
+sc
+MB-
+[sA
+sG]
+Mr
+MB-
+MB-
+MB-
+sB-
+MA
 =
-s A
-M G
-M F
-s A
-M G
-s A
-M r
+sA
+MG
+MF
+sA
+MG
+sA
+Mr
 =
-M A
-M A
-M A
-*custos F
+MA
+MA
+MA
+*custosF

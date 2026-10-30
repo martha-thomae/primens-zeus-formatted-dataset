@@ -2,53 +2,53 @@
 *clefG2
 *k[b-]
 *met(3)
-s : g
-M f
-s d
-S g
-s f
+s:g
+Mf
+sd
+Sg
+sf
 *lg
-s g
-s b -
+sg
+sb-
 *Xlg
-s cc
-s : dd
-M cc
-s b -
-s a
-s : g
-M f
-S f
-s e
-S : f
-s r
-s r
-s f
-s g
-S d
+scc
+s:dd
+Mcc
+sb-
+sa
+s:g
+Mf
+Sf
+se
+S:f
+sr
+sr
+sf
+sg
+Sd
 *lg
-s g
-S b -
+sg
+Sb-
 *Xlg
-S g
-s f
+Sg
+sf
 *lg
-s g
-s b -
+sg
+sb-
 *Xlg
-[ s cc
-S dd ]
-s b -
-s : cc
-M b -
-M a
-M g
-[ S f
-s g ]
-s a
-s : b -
-M a
-S g
-s f #
-S : g
-*custos d
+[scc
+Sdd]
+sb-
+s:cc
+Mb-
+Ma
+Mg
+[Sf
+sg]
+sa
+s:b-
+Ma
+Sg
+sf#
+S:g
+*custosd

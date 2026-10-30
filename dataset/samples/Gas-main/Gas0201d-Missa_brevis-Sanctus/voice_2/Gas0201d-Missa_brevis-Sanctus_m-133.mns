@@ -3,33 +3,33 @@
 *k[b-]
 *met(C|)
 *met(O)
-S G
-s G
-s : A
-M B -
-[ s c
-S d
-s A ]
-[ s B -
-s G
-s d
-S G
-s B - ]
-s c
-[ S d
-S c ]
+SG
+sG
+s:A
+MB-
+[sc
+Sd
+sA]
+[sB-
+sG
+sd
+SG
+sB-]
+sc
+[Sd
+Sc]
 =
-s e
-S f
-s e
+se
+Sf
+se
 *lg
 *col
-S d
-S g
-S a
+Sd
+Sg
+Sa
 *Xcol
 *Xlg
-S : g
-s f
-S e
-*custos G
+S:g
+sf
+Se
+*custosG

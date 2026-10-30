@@ -3,18 +3,18 @@
 =
 *k[b-]
 *met(C|)
-M BB -
+MBB-
 =
-s C
-M AA
-M BB -
-M : C
-m BB -
-m AA
-m GG
-M FF
-M AA
-s GG
+sC
+MAA
+MBB-
+M:C
+mBB-
+mAA
+mGG
+MFF
+MAA
+sGG
 *met(3)
 *rscale:3/2
 3%M%2r
@@ -37,4 +37,4 @@ s%M:D
 s%M:C
 3AA
 3%M%2AA
-*custos FF
+*custosFF

@@ -5,25 +5,25 @@
 *clefC4
 *met(O)
 *MM384
-L c
-[ S B
-L c ]
-S d
-S e
-S c
-S r
-s g
-s g
-s e
-[ s f
-S g ]
-s r
-s r
-S c
-s d
+Lc
+[SB
+Lc]
+Sd
+Se
+Sc
+Sr
+sg
+sg
+se
+[sf
+Sg]
+sr
+sr
+Sc
+sd
 =
-s e
-s f
-s e
-s c
-*custos B
+se
+sf
+se
+sc
+*custosB

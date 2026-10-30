@@ -5,20 +5,20 @@
 3%M%2b
 3%M%2cc
 *met(C|)
-M dd
-M a
-M b
-M a
-s b
-s a
-M g
-M f
-M g
-M a
-M : d
-m e
-m f
-m g
-m a
-m f #
-*custos d
+Mdd
+Ma
+Mb
+Ma
+sb
+sa
+Mg
+Mf
+Mg
+Ma
+M:d
+me
+mf
+mg
+ma
+mf#
+*custosd

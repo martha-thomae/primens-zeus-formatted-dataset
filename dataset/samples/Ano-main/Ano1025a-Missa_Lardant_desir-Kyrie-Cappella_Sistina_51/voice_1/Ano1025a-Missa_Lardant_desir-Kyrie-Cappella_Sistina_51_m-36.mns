@@ -3,21 +3,21 @@
 *met(O2)
 =
 *MM400
-S G
-s r
-s : G
-M F
-s : D
+SG
+sr
+s:G
+MF
+s:D
 =
-m C
-m BB
-M : AA
-m BB
-M C
-s D
-M C #
-s D
-s r
-S : D
-s F
-*custos AA
+mC
+mBB
+M:AA
+mBB
+MC
+sD
+MC#
+sD
+sr
+S:D
+sF
+*custosAA

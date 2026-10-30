@@ -2,17 +2,17 @@
 *clefC1
 *met(C|)
 *met(O|)
-S b
-s cc
-[ s dd
-s : b ]
-M g
-S g
-s e
-s f
-s : b -
-M a
-s a
-s : g
-M f
-*custos e
+Sb
+scc
+[sdd
+s:b]
+Mg
+Sg
+se
+sf
+s:b-
+Ma
+sa
+s:g
+Mf
+*custose

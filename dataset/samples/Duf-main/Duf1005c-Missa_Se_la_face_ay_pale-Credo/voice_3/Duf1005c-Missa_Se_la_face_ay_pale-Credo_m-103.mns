@@ -2,62 +2,62 @@
 *clefC4
 *met(O)
 *MM384
-S a
-s a
-s d
+Sa
+sa
+sd
 =
-< s e
-s c >
-M c
-M B
-M c
-s d
-M d
+<se
+sc>
+Mc
+MB
+Mc
+sd
+Md
 =
-[ S B
-s G
-s g
-S a
-s f ]
-S g
+[SB
+sG
+sg
+Sa
+sf]
+Sg
 =
-s e
-M : f
-m e
+se
+M:f
+me
 =
-M c
-M f
-M e
-M : a
-m g
-M f
-M : e
-m d
-S f
-s c
-s r
-s r
-s G
-s G
-S c
-s A
-s A
-s B -
-S A
-s F
-s F
-S A
-s A
-[ S G
-s F ]
-M A
-M B
+Mc
+Mf
+Me
+M:a
+mg
+Mf
+M:e
+md
+Sf
+sc
+sr
+sr
+sG
+sG
+Sc
+sA
+sA
+sB-
+SA
+sF
+sF
+SA
+sA
+[SG
+sF]
+MA
+MB
 =
-s c
+sc
 *clefC4
 *met(C)
 *MM420
-S F
-s F
-s F
-*custos F
+SF
+sF
+sF
+*custosF

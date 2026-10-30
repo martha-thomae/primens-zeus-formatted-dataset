@@ -3,40 +3,40 @@
 *met(C|)
 *MM180
 *lg
-s B
-s c #
+sB
+sc#
 *Xlg
-S d
-s e
-s d
-M B
-M c
-S : A
-s : F
-M D
+Sd
+se
+sd
+MB
+Mc
+S:A
+s:F
+MD
 *lg
-S D
-S d
+SD
+Sd
 *Xlg
-S e
-s d
-M : g
-m f
-m e
-m d
-M : c
-m d
-M e
-s : A
-M F
-[ s G
-s E ]
-M r
-s G
-s E
-s : e
-M c
-m B
-m A
-s G
-*custos D
+Se
+sd
+M:g
+mf
+me
+md
+M:c
+md
+Me
+s:A
+MF
+[sG
+sE]
+Mr
+sG
+sE
+s:e
+Mc
+mB
+mA
+sG
+*custosD

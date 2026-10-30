@@ -3,21 +3,21 @@
 *k[b-]
 *met(C|)
 =
-M : d
-m e
-m f
-m g
-s a
-M : b -
-m a
-s g
-M f #
+M:d
+me
+mf
+mg
+sa
+M:b-
+ma
+sg
+Mf#
 =
 *met(C|3)
 =
-S : g
-S : r
+S:g
+S:r
 *col
-[ S g
-s b - ]
-*custos d
+[Sg
+sb-]
+*custosd

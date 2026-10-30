@@ -3,22 +3,22 @@
 =
 *met(C|)
 *MM180
-S e
-S r
-s d
+Se
+Sr
+sd
 =
-[ s c
-s d ]
-s e
-S g
-S f
+[sc
+sd]
+se
+Sg
+Sf
 *lg
-s e
-s f
+se
+sf
 *Xlg
-s e
-s : d
-m c #
-m B
-s c #
-*custos B
+se
+s:d
+mc#
+mB
+sc#
+*custosB

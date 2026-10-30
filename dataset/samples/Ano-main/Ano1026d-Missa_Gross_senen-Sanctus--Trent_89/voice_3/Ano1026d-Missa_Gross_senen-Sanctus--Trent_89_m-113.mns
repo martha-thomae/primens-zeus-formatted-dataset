@@ -3,23 +3,23 @@
 *k[b-]
 *met(O2)
 *MM400
-S A
-s B -
-M F
-M G
-M A
-M B -
-[ s c
-s A ]
-s : d
-M c
-[ s B -
-s A ]
-s d
-s B -
-s : c
-M B -
-M A
+SA
+sB-
+MF
+MG
+MA
+MB-
+[sc
+sA]
+s:d
+Mc
+[sB-
+sA]
+sd
+sB-
+s:c
+MB-
+MA
 =
-M G
-*custos F
+MG
+*custosF

@@ -2,21 +2,21 @@
 *clefC1
 *met(C|)
 *MM180
-S cc
+Scc
 *lg
-s a
-s g
+sa
+sg
 *Xlg
-s a
-s a
-[ s g
-s f ]
-[ S e
-S d ]
-s c
-s : e
-m d
-m c
-[ s d
-S e ]
-*custos c
+sa
+sa
+[sg
+sf]
+[Se
+Sd]
+sc
+s:e
+md
+mc
+[sd
+Se]
+*custosc

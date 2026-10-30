@@ -4,57 +4,57 @@
 *k[b-]
 *met(C|)
 =
-s d
-M d
-s d
-m c
-m B -
-M c
-M : B -
-m F
-s B -
-m A
-m G
-M A
-s G
-m F
-m E
-M F
-M G
-M r
-s B -
-m A
-m G
+sd
+Md
+sd
+mc
+mB-
+Mc
+M:B-
+mF
+sB-
+mA
+mG
+MA
+sG
+mF
+mE
+MF
+MG
+Mr
+sB-
+mA
+mG
 =
-M A
-M B -
-M G
-s d
-m c
-m B -
-M c
-M d
-M B -
-s f
-m e
-m d
-M e
+MA
+MB-
+MG
+sd
+mc
+mB-
+Mc
+Md
+MB-
+sf
+me
+md
+Me
 =
-M f
-M d
-M : e -
-m d
-m c
-m B -
+Mf
+Md
+M:e-
+md
+mc
+mB-
 =
-M c
-M B -
-s A
+Mc
+MB-
+sA
 =
-s G
-M c
-s c
-M B -
-s c
-S r
-*custos E
+sG
+Mc
+sc
+MB-
+sc
+Sr
+*custosE

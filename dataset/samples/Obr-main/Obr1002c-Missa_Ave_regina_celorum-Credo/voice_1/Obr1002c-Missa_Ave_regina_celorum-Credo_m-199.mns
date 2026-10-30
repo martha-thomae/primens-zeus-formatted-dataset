@@ -14,23 +14,23 @@ s%MAA
 3%m%4GG
 *rscale:1
 *met(C|)
-s FF
-s r
-s : F
-M E
-[ s D
-s C
-s F ]
+sFF
+sr
+s:F
+ME
+[sD
+sC
+sF]
 =
-s BB -
-s : F
-M BB -
-M C
-M E
-M D
-m C
-m BB -
+sBB-
+s:F
+MBB-
+MC
+ME
+MD
+mC
+mBB-
 =
-s AA
-s FF
-*custos FF
+sAA
+sFF
+*custosFF

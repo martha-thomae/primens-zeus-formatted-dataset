@@ -2,20 +2,20 @@
 *clefC4
 *k[b-]
 *met(C|)
-S c
-s d
-M B -
+Sc
+sd
+MB-
 =
-M c
-M : d
-m c
-M A
+Mc
+M:d
+mc
+MA
 =
-s G
-M B -
-[ s A
-S G ]
-*custos G
+sG
+MB-
+[sA
+SG]
+*custosG
 **kern
 2c\
 2.d\
@@ -27,9 +27,9 @@ S G ]
 1A
 [0Gl
 0G]
-*custos G
+*custosG
 *clefGv2
 *k[b-]
 *met(C|)
 =
-*custos G
+*custosG

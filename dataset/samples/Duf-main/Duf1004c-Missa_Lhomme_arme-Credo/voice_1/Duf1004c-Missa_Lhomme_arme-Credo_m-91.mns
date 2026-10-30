@@ -4,18 +4,18 @@
 *met(C.)
 *MM320
 =
-s : D
-s D
-M D
-M G
-s G
-s : D
+s:D
+sD
+MD
+MG
+sG
+s:D
 *met(O)
-S d
-s d
-s G
-M A
-M B -
+Sd
+sd
+sG
+MA
+MB-
 =
-s G
-*custos D
+sG
+*custosD

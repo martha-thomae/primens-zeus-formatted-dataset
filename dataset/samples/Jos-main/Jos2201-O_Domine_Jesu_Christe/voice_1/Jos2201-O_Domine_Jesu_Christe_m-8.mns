@@ -3,13 +3,13 @@
 =
 *met(C|)
 *MM360
-S D
-s C
-s D
-[ S BB -
-L : AA ]
+SD
+sC
+sD
+[SBB-
+L:AA]
 =
 SAA0A
-s A
-s F
-*custos AA
+sA
+sF
+*custosAA

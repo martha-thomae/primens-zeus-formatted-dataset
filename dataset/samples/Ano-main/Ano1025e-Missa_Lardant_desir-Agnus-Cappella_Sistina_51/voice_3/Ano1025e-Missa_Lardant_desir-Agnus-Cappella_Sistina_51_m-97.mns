@@ -3,45 +3,45 @@
 *met(O2)
 *MM400
 =
-m G
-M F
-M E
-M F
-M G
-M : A
-m G
-m F
-m E
-M F
-M E
-M : D
-m C
-s : E
-M F
-M G
-M A
-M G #
-m F #
-m G #
-s : A
-m G
-m A
-M : G
-m F
-M E
-M C
-M D
-m C
-m D
+mG
+MF
+ME
+MF
+MG
+M:A
+mG
+mF
+mE
+MF
+ME
+M:D
+mC
+s:E
+MF
+MG
+MA
+MG#
+mF#
+mG#
+s:A
+mG
+mA
+M:G
+mF
+ME
+MC
+MD
+mC
+mD
 =
-M E
-M F
-M E
-M F
-M G
-m F
-m G
-L A
-S r
-S A
-*custos C
+ME
+MF
+ME
+MF
+MG
+mF
+mG
+LA
+Sr
+SA
+*custosC

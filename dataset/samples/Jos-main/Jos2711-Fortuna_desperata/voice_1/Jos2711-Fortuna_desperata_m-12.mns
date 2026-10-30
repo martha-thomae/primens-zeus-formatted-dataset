@@ -3,65 +3,65 @@
 =
 *k[b-]
 *met(C|)
-M r
-M : c
-m B -
-m A
-m G
-M c
-M : F
-m E
-m D
-m C
-M F
-m E
-m D
-s C
-M r
-M : c
-m B -
-m A
-m G
-M c
-M : A
-m G
-m F
-m E
-M A
-M : F
-m E
-m D
-m C
-s F
-M r
-M : d
-m c
+Mr
+M:c
+mB-
+mA
+mG
+Mc
+M:F
+mE
+mD
+mC
+MF
+mE
+mD
+sC
+Mr
+M:c
+mB-
+mA
+mG
+Mc
+M:A
+mG
+mF
+mE
+MA
+M:F
+mE
+mD
+mC
+sF
+Mr
+M:d
+mc
 =
-m B -
+mB-
 =
-m A
-M d
-M : B -
-m A
-m G
-m F
-M A
+mA
+Md
+M:B-
+mA
+mG
+mF
+MA
 =
-M : F
-m E
-m D
-m C
-M F
-M : D
+M:F
+mE
+mD
+mC
+MF
+M:D
 =
-m C
-m BB -
-m AA
-M D
-M F
-M E
-M : C
-m D
-m E
-m F
-*custos AA
+mC
+mBB-
+mAA
+MD
+MF
+ME
+M:C
+mD
+mE
+mF
+*custosAA

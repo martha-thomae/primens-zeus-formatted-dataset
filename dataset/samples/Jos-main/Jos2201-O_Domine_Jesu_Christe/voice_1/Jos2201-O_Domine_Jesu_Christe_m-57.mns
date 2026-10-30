@@ -3,13 +3,13 @@
 *k[b-]
 *met(C|)
 *MM360
-S D
+SD
 *met(C|)
 *MM360
-L F
+LF
 =
-L BB -
-S : D
-s D
-S D
-*custos BB -
+LBB-
+S:D
+sD
+SD
+*custosBB-

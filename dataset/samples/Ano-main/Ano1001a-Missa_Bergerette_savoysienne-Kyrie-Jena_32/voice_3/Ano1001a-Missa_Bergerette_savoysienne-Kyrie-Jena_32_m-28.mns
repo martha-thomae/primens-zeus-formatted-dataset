@@ -2,21 +2,21 @@
 *clefC2
 *met(C|)
 =
-S g
+Sg
 *clefC2
 *met(C|)
-s : cc
-m b
-m a
-s : b
-M : cc
-m b
-m a
-m g
-s a
-L g
-S r
-s r
-S g
-s f
-*custos f
+s:cc
+mb
+ma
+s:b
+M:cc
+mb
+ma
+mg
+sa
+Lg
+Sr
+sr
+Sg
+sf
+*custosf

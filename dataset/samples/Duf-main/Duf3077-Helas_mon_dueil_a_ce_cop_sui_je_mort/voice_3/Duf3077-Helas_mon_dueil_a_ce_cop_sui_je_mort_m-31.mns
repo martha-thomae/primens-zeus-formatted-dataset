@@ -3,19 +3,19 @@
 =
 *met(C)
 *MM336
-S d
-S r
-M d
-M e
-s f
-s g
-s a
-M : b -
-m a
-s f
-s g
-s a
-s b -
-M : cc
-m b -
-*custos d
+Sd
+Sr
+Md
+Me
+sf
+sg
+sa
+M:b-
+ma
+sf
+sg
+sa
+sb-
+M:cc
+mb-
+*custosd

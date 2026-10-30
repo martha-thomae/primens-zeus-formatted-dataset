@@ -1,17 +1,17 @@
 **mens
 *clefC2
 *met(C|)
-S r
+Sr
 *clefC2
 *met(C|3)
-[ s A
-s c
-s d ]
-s : e
-M c
+[sA
+sc
+sd]
+s:e
+Mc
 =
-[ s d
-s e ]
-s c
-s d
-*custos A
+[sd
+se]
+sc
+sd
+*custosA

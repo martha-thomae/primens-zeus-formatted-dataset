@@ -2,18 +2,18 @@
 *clefF4
 *met(O2)
 *MM400
-S : A
-M G
-M F
-S E
-S E
+S:A
+MG
+MF
+SE
+SE
 *clefF4
 =
 *met(C)
 *MM312
-[ s AA
-s C ]
-s D
-s C
+[sAA
+sC]
+sD
+sC
 =
-*custos AA
+*custosAA

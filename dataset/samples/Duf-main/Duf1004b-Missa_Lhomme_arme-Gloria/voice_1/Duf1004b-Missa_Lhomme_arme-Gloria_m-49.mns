@@ -3,41 +3,41 @@
 *k[b-]
 *met(O)
 *MM320
-S : B -
-S : A
-S : G
-S : D
-s r
+S:B-
+S:A
+S:G
+S:D
+sr
 s%5G
-S : G
-S F
-s G
-s r
-S A
-S D
-s D
-s E
-M D
-s G
-M F
-s G
-M B -
-M c
-M : d
-m c
-M A
-M B -
-M : c
-m B -
-M G
-M F
-s B -
-s A
-s : G
-M F
-M G
-M D
-s E -
-S : D
-S : r
-*custos D
+S:G
+SF
+sG
+sr
+SA
+SD
+sD
+sE
+MD
+sG
+MF
+sG
+MB-
+Mc
+M:d
+mc
+MA
+MB-
+M:c
+mB-
+MG
+MF
+sB-
+sA
+s:G
+MF
+MG
+MD
+sE-
+S:D
+S:r
+*custosD

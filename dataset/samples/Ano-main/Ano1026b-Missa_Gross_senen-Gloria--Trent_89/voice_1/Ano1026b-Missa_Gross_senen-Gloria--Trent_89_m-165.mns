@@ -4,14 +4,14 @@
 *met(C|)
 *MM400
 =
-s r
-s GG
+sr
+sGG
 =
-s : D
-M E n
-s : F
-M E n
-s : D
+s:D
+MEn
+s:F
+MEn
+s:D
 =
-M C
-*custos GG
+MC
+*custosGG

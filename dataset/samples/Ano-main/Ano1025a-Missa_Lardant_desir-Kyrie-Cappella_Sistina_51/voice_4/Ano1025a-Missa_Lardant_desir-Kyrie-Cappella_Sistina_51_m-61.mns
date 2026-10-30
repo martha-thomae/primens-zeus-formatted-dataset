@@ -2,49 +2,49 @@
 *clefC1
 *met(O2)
 *MM400
-s B
+sB
 =
-s A
-s : d
-M B
-s c
-M d
-M e
-M f
-M g
-s e
+sA
+s:d
+MB
+sc
+Md
+Me
+Mf
+Mg
+se
 =
-s d
-s r
-s g
-M f
-s a
-M g
-M f
-M d
-s e
-M d
-s f
-M e
-s d
-s c
-s d
-M A
-M c
-M d
-M f
-[ s e
-S a ]
-M r
-M : a
-m g
-M f
-M e
-M d
-M c
-M d
-s e
-s A
-M B
-M c
-*custos A
+sd
+sr
+sg
+Mf
+sa
+Mg
+Mf
+Md
+se
+Md
+sf
+Me
+sd
+sc
+sd
+MA
+Mc
+Md
+Mf
+[se
+Sa]
+Mr
+M:a
+mg
+Mf
+Me
+Md
+Mc
+Md
+se
+sA
+MB
+Mc
+*custosA

@@ -3,19 +3,19 @@
 =
 *met(C)
 *MM448
-s ee
+see
 =
-s ff
+sff
 =
-[ s dd
-s ee ]
-M ff
-M : ee
-m dd
+[sdd
+see]
+Mff
+M:ee
+mdd
 =
-M cc
-S b
-S r
+Mcc
+Sb
+Sr
 *met(3)
 3%M%2g
 3%M%2a
@@ -30,13 +30,13 @@ S r
 3%M%2dd
 3%M%2b
 3%M%2ee
-s dd
+sdd
 3cc
 3%m%4cc
 3%M%2b
 =
-S cc
+Scc
 *clefC4
 *met(C)
-S r
-*custos g
+Sr
+*custosg

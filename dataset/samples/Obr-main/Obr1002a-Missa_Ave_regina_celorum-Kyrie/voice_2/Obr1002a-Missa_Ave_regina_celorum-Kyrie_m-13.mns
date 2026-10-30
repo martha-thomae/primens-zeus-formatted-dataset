@@ -2,27 +2,27 @@
 *clefC4
 *k[b-]
 *met(O)
-s F
-M r
-M G
-M A
-M B -
-S : c
+sF
+Mr
+MG
+MA
+MB-
+S:c
 *clefC4
 *k[b-]
 *met(O)
 *rscale:1/2
-S f
-S f
-[ S e
-S d ]
-s : c
-M B -
-s A
-s G
-[ s F
-s E
-S A
-S G
-L F ]
-*custos E
+Sf
+Sf
+[Se
+Sd]
+s:c
+MB-
+sA
+sG
+[sF
+sE
+SA
+SG
+LF]
+*custosE

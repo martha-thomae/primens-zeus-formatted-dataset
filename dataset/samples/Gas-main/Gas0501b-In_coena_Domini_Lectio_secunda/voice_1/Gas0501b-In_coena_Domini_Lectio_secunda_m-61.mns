@@ -4,27 +4,27 @@
 =
 *k[b-]
 *met(C|)
-s D
+sD
 =
-s GG
-S AA
-s BB -
-s AA
+sGG
+SAA
+sBB-
+sAA
 *lg
-S BB -
+SBB-
 =
-S AA
+SAA
 *Xlg
-S D
-S AA
-L C
+SD
+SAA
+LC
 *lg
-s D
-s AA
+sD
+sAA
 *Xlg
-L D
-S AA
-S : FF
-s FF
-S AA
-*custos FF
+LD
+SAA
+S:FF
+sFF
+SAA
+*custosFF

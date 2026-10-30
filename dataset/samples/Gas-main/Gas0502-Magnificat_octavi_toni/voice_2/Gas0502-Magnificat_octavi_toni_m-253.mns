@@ -2,17 +2,17 @@
 *clefC4
 *met(C|)
 *col
-s : d
-M e
+s:d
+Me
 *Xcol
 =
-s f
-S g
-[ s f #
-L g ]
+sf
+Sg
+[sf#
+Lg]
 =
-S f
-[ s e
-S g ]
-s c
-*custos c
+Sf
+[se
+Sg]
+sc
+*custosc

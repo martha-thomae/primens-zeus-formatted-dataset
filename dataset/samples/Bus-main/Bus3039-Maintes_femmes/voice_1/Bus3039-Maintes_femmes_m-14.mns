@@ -2,50 +2,50 @@
 *clefF4
 *met(O|)
 =
-M D
-s F
-M G
-[ s A
-s D ]
-s r
-[ s BB
-s AA ]
-[ s C
-s D ]
-s E
-M C
-M : G
-m F
-M E
-s D
-s r
-s D
-M AA
-s C
-M BB
+MD
+sF
+MG
+[sA
+sD]
+sr
+[sBB
+sAA]
+[sC
+sD]
+sE
+MC
+M:G
+mF
+ME
+sD
+sr
+sD
+MAA
+sC
+MBB
 =
-M GG
-M AA
-s : BB
-M : C
-m BB
-M C
-M D
-M : BB -
-m AA
-M FF
-M GG
-M BB -
-M AA
-M : C
-m BB -
-M GG
-< s AA
-L : D >
+MGG
+MAA
+s:BB
+M:C
+mBB
+MC
+MD
+M:BB-
+mAA
+MFF
+MGG
+MBB-
+MAA
+M:C
+mBB-
+MGG
+<sAA
+L:D>
 *clefF4
 *met(O2)
-S AA
-s AA
-s AA
-S BB -
-*custos FF
+SAA
+sAA
+sAA
+SBB-
+*custosFF

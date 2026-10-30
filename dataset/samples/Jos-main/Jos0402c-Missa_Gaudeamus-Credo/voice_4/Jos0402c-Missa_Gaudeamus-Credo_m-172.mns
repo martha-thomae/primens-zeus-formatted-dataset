@@ -2,33 +2,33 @@
 =
 *clefF4
 *met(C|)
-m b
-m a
+mb
+ma
 =
-s b
-M a
-M : dd
-m cc
-s cc
-M b
-M cc
-M f
-M e
-M : a
-m g
-s g
-M f #
-s g
-s r
+sb
+Ma
+M:dd
+mcc
+scc
+Mb
+Mcc
+Mf
+Me
+M:a
+mg
+sg
+Mf#
+sg
+sr
 =
-S r
-M r
-M g
-M f
-M : b -
-m a
-s a
+Sr
+Mr
+Mg
+Mf
+M:b-
+ma
+sa
 =
-M g
-S a
-*custos e
+Mg
+Sa
+*custose

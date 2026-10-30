@@ -3,21 +3,21 @@
 =
 =
 *met(C|)
-M D
-M BB -
-M BB -
-M BB -
-M GG
-M GG
-s GG
-M D
-M F
-M D
-M F
-s BB -
-s BB -
-M : FF
-m FF
+MD
+MBB-
+MBB-
+MBB-
+MGG
+MGG
+sGG
+MD
+MF
+MD
+MF
+sBB-
+sBB-
+M:FF
+mFF
 =
-s FF
-*custos FF
+sFF
+*custosFF

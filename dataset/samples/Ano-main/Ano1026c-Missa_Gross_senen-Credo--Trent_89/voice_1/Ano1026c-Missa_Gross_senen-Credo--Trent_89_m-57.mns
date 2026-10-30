@@ -3,42 +3,42 @@
 *k[b-e-]
 *met(O)
 *MM300
-m BB -
-M C
-s D
-s F
-M C
-M GG
-M BB -
-M C
-s GG
-M r
-M C
-M GG
-M BB -
-s C
-S GG
-s : G
-M A
-M D
-s G
-M D
-M E -
-s F
-M G
-s D
-s GG
-M r
-m BB -
-m AA
-M FF
-M GG
-M BB -
-M FF
-s GG
-M C
-M BB -
-s GG
-[ s G
-s D ]
-*custos FF
+mBB-
+MC
+sD
+sF
+MC
+MGG
+MBB-
+MC
+sGG
+Mr
+MC
+MGG
+MBB-
+sC
+SGG
+s:G
+MA
+MD
+sG
+MD
+ME-
+sF
+MG
+sD
+sGG
+Mr
+mBB-
+mAA
+MFF
+MGG
+MBB-
+MFF
+sGG
+MC
+MBB-
+sGG
+[sG
+sD]
+*custosFF

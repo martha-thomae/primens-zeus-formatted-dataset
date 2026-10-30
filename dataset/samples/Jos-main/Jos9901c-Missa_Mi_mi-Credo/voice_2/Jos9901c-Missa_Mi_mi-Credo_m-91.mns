@@ -3,22 +3,22 @@
 =
 *met(C2)
 =
-s F
-[ s G
-s E ]
-M r
-M E
-s G
-s A
-M B
-s G
-s c
-M B
-s c
-M r
-M c
+sF
+[sG
+sE]
+Mr
+ME
+sG
+sA
+MB
+sG
+sc
+MB
+sc
+Mr
+Mc
 =
-s B
-[ s A
-s G ]
-*custos E
+sB
+[sA
+sG]
+*custosE

@@ -2,16 +2,16 @@
 *clefC4
 =
 *met(O/3)
-S : r
-S : r
-s r
-s r
-s B
-S B
-s B
-s B
+S:r
+S:r
+sr
+sr
+sB
+SB
+sB
+sB
 =
-s A
+sA
 *col
-s B
-*custos A
+sB
+*custosA

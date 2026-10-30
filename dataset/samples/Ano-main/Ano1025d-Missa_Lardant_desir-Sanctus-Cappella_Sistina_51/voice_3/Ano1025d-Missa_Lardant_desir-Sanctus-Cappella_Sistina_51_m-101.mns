@@ -3,12 +3,12 @@
 =
 *met(O2)
 *MM400
-s : A
-m B
-m c
-S d
+s:A
+mB
+mc
+Sd
 =
-S B
-S c
-S A
-*custos A
+SB
+Sc
+SA
+*custosA

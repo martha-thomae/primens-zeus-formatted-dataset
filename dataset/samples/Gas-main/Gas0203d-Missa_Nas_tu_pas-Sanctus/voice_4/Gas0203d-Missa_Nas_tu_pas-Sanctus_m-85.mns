@@ -3,31 +3,31 @@
 *clefG2
 *k[b-]
 *met(C|)
-m e
-m f
-s g
+me
+mf
+sg
 *col
-M : f
-m e
+M:f
+me
 *Xcol
-m d
-m c
-s d
-S r
-S r
-M r
-s cc
-m b -
-m a
-m g
-m f
-M b -
-M a
-M f
+md
+mc
+sd
+Sr
+Sr
+Mr
+scc
+mb-
+ma
+mg
+mf
+Mb-
+Ma
+Mf
 *lg
-s g
+sg
 =
-s f
+sf
 *Xlg
-S a
-*custos c
+Sa
+*custosc

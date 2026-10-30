@@ -3,17 +3,17 @@
 =
 *met(C)
 *MM300
-S r
-s r
-S AA
-s D
-M AA
-s D
-M : F
-m E
-m D
-m C
+Sr
+sr
+SAA
+sD
+MAA
+sD
+M:F
+mE
+mD
+mC
 =
-M BB -
-M D
-*custos AA
+MBB-
+MD
+*custosAA

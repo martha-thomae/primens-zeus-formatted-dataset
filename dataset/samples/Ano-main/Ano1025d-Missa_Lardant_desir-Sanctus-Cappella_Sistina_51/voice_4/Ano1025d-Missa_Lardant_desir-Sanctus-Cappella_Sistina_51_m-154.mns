@@ -3,30 +3,30 @@
 =
 *met(C3)
 *MM450
-[ S a
-s b ]
-S cc
-M b
-M a
-[ S g
-s a ]
-S b -
-M a
-M g
-[ S f
-s g ]
-S a
-M g
-M f
-[ S e
-s A ]
-[ s B
-s G ]
-s A
-s r
-[ s B
-s c ]
-s A
-s r
-s G
-*custos G
+[Sa
+sb]
+Scc
+Mb
+Ma
+[Sg
+sa]
+Sb-
+Ma
+Mg
+[Sf
+sg]
+Sa
+Mg
+Mf
+[Se
+sA]
+[sB
+sG]
+sA
+sr
+[sB
+sc]
+sA
+sr
+sG
+*custosG

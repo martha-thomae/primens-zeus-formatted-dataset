@@ -4,27 +4,27 @@
 *met(O)
 *clefC1
 *met(O)
-s : cc
-M b
-s a
-s g
-M a
-s a
-m g
-m f
-s : e
-M f
-s g
-s cc
-M b
-s a
-M g
-S b
-s r
-s : a
-M b
-[ s cc
-s dd ]
-s : ee
-M cc
-*custos e
+s:cc
+Mb
+sa
+sg
+Ma
+sa
+mg
+mf
+s:e
+Mf
+sg
+scc
+Mb
+sa
+Mg
+Sb
+sr
+s:a
+Mb
+[scc
+sdd]
+s:ee
+Mcc
+*custose

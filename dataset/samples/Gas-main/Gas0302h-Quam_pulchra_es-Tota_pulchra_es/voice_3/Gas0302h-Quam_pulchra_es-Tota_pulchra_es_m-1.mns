@@ -4,48 +4,48 @@
 =
 *met(O)
 *lg
-s d
-s e
+sd
+se
 *Xlg
 =
-s f
-M d
-[ s e
-s d ]
-M c #
-s d
-M : d
-m e
-m f
+sf
+Md
+[se
+sd]
+Mc#
+sd
+M:d
+me
+mf
 =
-m g
-M a
-M g
+mg
+Ma
+Mg
 =
-M e
-M f
-s : d
+Me
+Mf
+s:d
 =
-s d
+sd
 =
-M r
-M d
-M d
-M d
-s f
-s : d
-M e
-s : f
-M d
-M c
-M d
-S f
-M r
-M f
-M d
-M d
-M d
-M d
-M : g
-m f
-*custos c
+Mr
+Md
+Md
+Md
+sf
+s:d
+Me
+s:f
+Md
+Mc
+Md
+Sf
+Mr
+Mf
+Md
+Md
+Md
+Md
+M:g
+mf
+*custosc

@@ -3,23 +3,23 @@
 *k[b-]
 =
 *met(C|)
-s C
-M D
-s GG
-M F
-M G
-s F
-M G
-M D
-M D
-s GG
-M B -
-M B -
-M A
-M A
-M G
-M G
-s D
-M r
-M G
-*custos GG
+sC
+MD
+sGG
+MF
+MG
+sF
+MG
+MD
+MD
+sGG
+MB-
+MB-
+MA
+MA
+MG
+MG
+sD
+Mr
+MG
+*custosGG

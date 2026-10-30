@@ -5,10 +5,10 @@
 *met(C)
 *MM420
 =
-L G
-S G
-L c
-S c
-S B -
-L A
-*custos G
+LG
+SG
+Lc
+Sc
+SB-
+LA
+*custosG

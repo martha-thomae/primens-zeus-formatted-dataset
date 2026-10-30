@@ -2,48 +2,48 @@
 =
 *clefF4
 *met(C|)
-M D
-s G
-M F #
-M G
-M C
-M D
-M BB
-s AA
-s GG
-M r
-M F
-M G
-M F
-M G
-M E
-s D
-M r
-M G
-s F
-M G
-M F
-M G
-M E
-s D
-M r
-M G
-M F
-M G
-s D
-S GG
+MD
+sG
+MF#
+MG
+MC
+MD
+MBB
+sAA
+sGG
+Mr
+MF
+MG
+MF
+MG
+ME
+sD
+Mr
+MG
+sF
+MG
+MF
+MG
+ME
+sD
+Mr
+MG
+MF
+MG
+sD
+SGG
 *met(C|3)
 *col
-L GG
-S D
+LGG
+SD
 *Xcol
-s : E
-M F
-s G
+s:E
+MF
+sG
 =
-< s E
-S D >
+<sE
+SD>
 *lg
-s E
-S C
-*custos GG
+sE
+SC
+*custosGG

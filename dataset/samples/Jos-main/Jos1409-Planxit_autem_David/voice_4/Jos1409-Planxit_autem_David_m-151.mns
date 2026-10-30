@@ -3,40 +3,40 @@
 *k[b-]
 =
 *met(O/3)
-s r
-s : c
-M B -
-M A
-M G
-s : B -
-M A
-s : A
-m G
-m A
-s G
+sr
+s:c
+MB-
+MA
+MG
+s:B-
+MA
+s:A
+mG
+mA
+sG
 *met(C|)
-s A
-M r
-s d
-M d
-s d
-S c
-M r
-M e
+sA
+Mr
+sd
+Md
+sd
+Sc
+Mr
+Me
 =
-M e
-M e
-s : g
-m f
-m e
-M : d
-m e
-m f
-m g
-M : a
-m g
-s g
+Me
+Me
+s:g
+mf
+me
+M:d
+me
+mf
+mg
+M:a
+mg
+sg
 =
-M f #
-S g
-*custos G
+Mf#
+Sg
+*custosG

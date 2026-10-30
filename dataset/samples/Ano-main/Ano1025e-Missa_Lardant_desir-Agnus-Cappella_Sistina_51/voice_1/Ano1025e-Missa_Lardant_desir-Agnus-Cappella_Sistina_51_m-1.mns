@@ -2,61 +2,61 @@
 *clefF4
 *met(O)
 *MM300
-S : D
-[ s AA
-s D ]
-M C
-M : AA
-m BB
-M C
-M D
-M E
-M F
-M G
-M : A
-m G
-M E
+S:D
+[sAA
+sD]
+MC
+M:AA
+mBB
+MC
+MD
+ME
+MF
+MG
+M:A
+mG
+ME
 =
-M F
-s G
-s r
-L G
-S D
-[ s D
-s AA ]
-s D
-s F
-S E
-S AA
-s r
-s : D
-M C
-M D
-M E
-s : F
-M BB -
-s BB -
-M r
+MF
+sG
+sr
+LG
+SD
+[sD
+sAA]
+sD
+sF
+SE
+SAA
+sr
+s:D
+MC
+MD
+ME
+s:F
+MBB-
+sBB-
+Mr
 =
-s : BB -
-M D
-M E
-s F
-M C
-M F
-m G
-m F
-m E
-m D
-s C
-M r
-M F
-M D
-M BB -
-M F
-M G
+s:BB-
+MD
+ME
+sF
+MC
+MF
+mG
+mF
+mE
+mD
+sC
+Mr
+MF
+MD
+MBB-
+MF
+MG
 =
-[ s A
-S D ]
-L C
-*custos AA
+[sA
+SD]
+LC
+*custosAA

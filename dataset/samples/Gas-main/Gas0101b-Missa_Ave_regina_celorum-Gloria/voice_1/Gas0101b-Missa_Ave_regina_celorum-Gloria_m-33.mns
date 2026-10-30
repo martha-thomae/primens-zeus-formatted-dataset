@@ -3,89 +3,89 @@
 *k[b-]
 *met(O)
 *lg
-s FF
-s EE -
+sFF
+sEE-
 *Xlg
-M : FF
-m GG
-m AA
-m BB -
-M : C
-m D
-M E
-M : F
-m G
-M A
-M G
-M F
-[ s B -
-s A ]
-M G
+M:FF
+mGG
+mAA
+mBB-
+M:C
+mD
+ME
+M:F
+mG
+MA
+MG
+MF
+[sB-
+sA]
+MG
 =
-M : A
-m G
-[ s E
-s F ]
-M : FF
-m GG
-M AA
-M BB -
-M AA
-M : BB -
-m C
-M : D
-m E
-M : F
-m E
-m D
-m C
-M BB -
-M : D
-m C
-m BB -
-m AA
-[ s BB -
-s C ]
-s GG
-M r
-M G
-M G
-M A
-M G
-s E
-s : C
+M:A
+mG
+[sE
+sF]
+M:FF
+mGG
+MAA
+MBB-
+MAA
+M:BB-
+mC
+M:D
+mE
+M:F
+mE
+mD
+mC
+MBB-
+M:D
+mC
+mBB-
+mAA
+[sBB-
+sC]
+sGG
+Mr
+MG
+MG
+MA
+MG
+sE
+s:C
 =
-M : AA
-m GG
-M EE
-M FF
-M EE
-M : FF
-m GG
-M AA
+M:AA
+mGG
+MEE
+MFF
+MEE
+M:FF
+mGG
+MAA
 =
-M GG
-s BB -
-M GG
-s C
-M BB -
-s D
-M C
-s E
-M D
-s F
-M D
-s C
-M r
-s D
-M BB -
-s AA
-M : GG
-m AA
-M BB -
-M C
-s GG
-s C
-s r
-s C
-*custos EE -
+MGG
+sBB-
+MGG
+sC
+MBB-
+sD
+MC
+sE
+MD
+sF
+MD
+sC
+Mr
+sD
+MBB-
+sAA
+M:GG
+mAA
+MBB-
+MC
+sGG
+sC
+sr
+sC
+*custosEE-

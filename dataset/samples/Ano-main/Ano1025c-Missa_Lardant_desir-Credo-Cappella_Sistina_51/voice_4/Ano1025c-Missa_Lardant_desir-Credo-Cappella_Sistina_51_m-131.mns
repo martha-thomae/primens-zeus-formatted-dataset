@@ -3,18 +3,18 @@
 *clefC1
 *met(C|)
 *MM400
-m c #
-m d
-M : c #
-m B
-L d
+mc#
+md
+M:c#
+mB
+Ld
 *clefC1
 *met(O2)
 *MM400
 =
-S f
-s f
-s f
-S f
+Sf
+sf
+sf
+Sf
 =
-*custos B
+*custosB

@@ -4,14 +4,14 @@
 *met(C|)
 *Xlg
 *lg
-L A
-L B -
+LA
+LB-
 *Xlg
-S A
+SA
 *lg
-[ S G
-S A ]
+[SG
+SA]
 *Xlg
 *lg
-S c
-*custos G
+Sc
+*custosG

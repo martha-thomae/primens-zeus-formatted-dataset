@@ -5,34 +5,34 @@
 *met(O)
 *MM384
 =
-s : e
-s : f
-S : g
-S : r
-S : c
+s:e
+s:f
+S:g
+S:r
+S:c
 =
-< s : d
-s : e >
-[ s : f
-s : e ]
-s : c
+<s:d
+s:e>
+[s:f
+s:e]
+s:c
 =
-[ s : G
-s : A ]
+[s:G
+s:A]
 =
-s : B
-s : c
-S : e
+s:B
+s:c
+S:e
 =
-[ s : c
-s : g ]
+[s:c
+s:g]
 =
-[ s : e
-s : c ]
-s : r
-[ s : g
-s : e ]
-s : g
+[s:e
+s:c]
+s:r
+[s:g
+s:e]
+s:g
 =
-s : f
-*custos G
+s:f
+*custosG

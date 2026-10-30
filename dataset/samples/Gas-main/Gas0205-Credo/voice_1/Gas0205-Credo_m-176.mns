@@ -5,17 +5,17 @@
 *met(C|)
 *met(C|3)
 *col
-S GG
-S GG
-S AA
+SGG
+SGG
+SAA
 *Xcol
-s GG
+sGG
 =
-s GG
+sGG
 =
-s GG
-s GG
-S D
+sGG
+sGG
+SD
 (XGG
-s r
-*custos GG
+sr
+*custosGG

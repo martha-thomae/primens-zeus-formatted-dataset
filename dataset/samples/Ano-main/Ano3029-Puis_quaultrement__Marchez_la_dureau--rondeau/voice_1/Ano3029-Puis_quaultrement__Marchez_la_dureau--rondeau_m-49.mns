@@ -4,13 +4,13 @@
 =
 *met(C|)
 =
-s : BB -
-m AA
-m GG
-s FF
-s BB -
-S AA
-s r
-s D
-S D
-*custos FF
+s:BB-
+mAA
+mGG
+sFF
+sBB-
+SAA
+sr
+sD
+SD
+*custosFF

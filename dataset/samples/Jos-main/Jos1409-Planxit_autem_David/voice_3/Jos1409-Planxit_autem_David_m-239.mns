@@ -3,22 +3,22 @@
 *clefC2
 *k[b-]
 *met(O/3)
-S c
-s r
+Sc
+sr
 =
-s : c
-M d
-[ s e
-s f ]
-[ s e
-s d ]
-s c
-[ s d
-s c ]
+s:c
+Md
+[se
+sf]
+[se
+sd]
+sc
+[sd
+sc]
 *met(C|)
-s A
-s r
-S F
-[ S G
-S A ]
-*custos F
+sA
+sr
+SF
+[SG
+SA]
+*custosF

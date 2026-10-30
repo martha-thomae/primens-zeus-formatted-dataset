@@ -3,20 +3,20 @@
 *k[b-]
 *met(C|)
 =
-S F
-S B -
-S A
+SF
+SB-
+SA
 *clefC2
 *k[b-]
 *ZZY
-S r
-S r
-S G
-s F
-s : G
-M A
+Sr
+Sr
+SG
+sF
+s:G
+MA
 =
-[ s B -
-s A ]
-s G
-*custos F
+[sB-
+sA]
+sG
+*custosF

@@ -4,25 +4,25 @@
 =
 *met(C|)
 *MM300
-M d
-S d
-s c
-S d
-S r
-S G
-s B -
-s A
-s G
+Md
+Sd
+sc
+Sd
+Sr
+SG
+sB-
+sA
+sG
 =
-s B -
-S d
-s d
-s c
-s : B -
-m A
-m G
-S F
+sB-
+Sd
+sd
+sc
+s:B-
+mA
+mG
+SF
 =
-s r
-s A
-*custos F
+sr
+sA
+*custosF

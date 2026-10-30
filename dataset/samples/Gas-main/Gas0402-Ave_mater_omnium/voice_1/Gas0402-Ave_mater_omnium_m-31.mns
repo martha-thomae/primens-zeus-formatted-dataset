@@ -2,71 +2,71 @@
 *clefF4
 *k[b-]
 *met(C3)
-s D
-M C
-M BB -
-m E -
-m D
-M C
-M BB -
-M r
-M AA
-M GG
-m C
-m BB -
-M AA
-m GG
-M C
-m BB -
-M AA
-M GG
-M D
-M C
-M : BB -
-m GG
-M AA
-M GG
-M G
-M F
-M : E
-m C
-M D
-M C
-M F
-M E
-M : D
-m BB -
-M C
-M BB -
-M E -
-M D
-M : C
-m AA
-M BB -
-M AA
-M D
-M C
-M : BB -
-m GG
-M AA
-s GG
-M r
-M : G
-m E
-M F
-m G
-m A
-M F
-M r
-M D
-M F
-M G
-m A
-m G
-m D
-m G
-M F
-M G
-[ s D
-s : GG ]
-*custos GG
+sD
+MC
+MBB-
+mE-
+mD
+MC
+MBB-
+Mr
+MAA
+MGG
+mC
+mBB-
+MAA
+mGG
+MC
+mBB-
+MAA
+MGG
+MD
+MC
+M:BB-
+mGG
+MAA
+MGG
+MG
+MF
+M:E
+mC
+MD
+MC
+MF
+ME
+M:D
+mBB-
+MC
+MBB-
+ME-
+MD
+M:C
+mAA
+MBB-
+MAA
+MD
+MC
+M:BB-
+mGG
+MAA
+sGG
+Mr
+M:G
+mE
+MF
+mG
+mA
+MF
+Mr
+MD
+MF
+MG
+mA
+mG
+mD
+mG
+MF
+MG
+[sD
+s:GG]
+*custosGG

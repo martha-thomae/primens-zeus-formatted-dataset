@@ -3,31 +3,31 @@
 *k[b-]
 *met(C|)
 *met(C|3)
-s r
-s r
-s B -
-S B -
-s c
+sr
+sr
+sB-
+SB-
+sc
 *lg
 =
-s d
-s B -
+sd
+sB-
 *Xlg
-s c
+sc
 *col
-S d
+Sd
 =
 *lg
-[ s e -
-s d ]
+[se-
+sd]
 *Xlg
-S c
+Sc
 *Xcol
-S : B -
-S : r
-S : r
-S d
-s c
-s B -
-S A
-*custos A
+S:B-
+S:r
+S:r
+Sd
+sc
+sB-
+SA
+*custosA

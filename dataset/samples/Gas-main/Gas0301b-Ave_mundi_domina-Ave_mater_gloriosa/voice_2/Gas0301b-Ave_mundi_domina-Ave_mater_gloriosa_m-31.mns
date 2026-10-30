@@ -3,18 +3,18 @@
 *k[b-]
 =
 *met(C|)
-S r
-S r
-s : A
-M A
-[ s c
-s d ]
-s c
-M B -
-s c
-M G
+Sr
+Sr
+s:A
+MA
+[sc
+sd]
+sc
+MB-
+sc
+MG
 =
-s A
+sA
 *col
 s%M:G
 3%M%2B-
@@ -36,4 +36,4 @@ s%M:G
 3G
 3%M%2d
 3B-
-*custos G
+*custosG

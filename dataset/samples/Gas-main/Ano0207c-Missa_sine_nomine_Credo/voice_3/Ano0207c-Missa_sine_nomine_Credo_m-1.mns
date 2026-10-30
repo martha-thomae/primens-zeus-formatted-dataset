@@ -4,42 +4,42 @@
 *k[b-]
 *met(C|)
 *lg
-s G
-s A
+sG
+sA
 *Xlg
-m G
-m A
-m B -
-m c
-s d
-m B -
-m c
-m d
-m e
-M f
-M f
-M e
-M : c
-m B -
-s A
-M G
-s A
-M r
-M f
-M f
-M f
-s g
-M f
-M f
-s f
-M : d
-m e
-M : f
-m e
-s c
-M : f
-m f
-M f
-M c
+mG
+mA
+mB-
+mc
+sd
+mB-
+mc
+md
+me
+Mf
+Mf
+Me
+M:c
+mB-
+sA
+MG
+sA
+Mr
+Mf
+Mf
+Mf
+sg
+Mf
+Mf
+sf
+M:d
+me
+M:f
+me
+sc
+M:f
+mf
+Mf
+Mc
 =
-*custos G
+*custosG

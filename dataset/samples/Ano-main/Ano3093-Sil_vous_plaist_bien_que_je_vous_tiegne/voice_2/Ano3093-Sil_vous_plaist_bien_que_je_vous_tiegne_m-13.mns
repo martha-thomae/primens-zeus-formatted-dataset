@@ -4,41 +4,41 @@
 =
 *met(C)
 =
-M r
-s d
-M c
-M : B -
-m A
-M G
-M : F
-m G
-M B -
-s A
-s G
+Mr
+sd
+Mc
+M:B-
+mA
+MG
+M:F
+mG
+MB-
+sA
+sG
 =
-s r
-s B -
-M A
-M c
-M B -
-m A
-m G
-s F
-s G
-s A
-M B -
+sr
+sB-
+MA
+Mc
+MB-
+mA
+mG
+sF
+sG
+sA
+MB-
 =
-s c
-M A
-M G
-s d
-M c
-s A
-s B -
-s A
-s r
-s r
-s c
-[ s B -
-s A ]
-*custos F
+sc
+MA
+MG
+sd
+Mc
+sA
+sB-
+sA
+sr
+sr
+sc
+[sB-
+sA]
+*custosF

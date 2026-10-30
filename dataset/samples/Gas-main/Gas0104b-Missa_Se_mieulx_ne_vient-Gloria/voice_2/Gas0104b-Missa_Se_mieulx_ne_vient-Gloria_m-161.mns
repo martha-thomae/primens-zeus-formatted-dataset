@@ -4,27 +4,27 @@
 *met(C|)
 *met(3)
 *col
-S e
-S e
+Se
+Se
 =
-S e
+Se
 *Xcol
-S d
-s c
+Sd
+sc
 *col
-[ S B
-S G ]
-S A
+[SB
+SG]
+SA
 *Xcol
-s : G
-M A
-< s B
-s : c >
-M B
-s G
-s : A
-M G
-[ s E
-S G ]
-s F #
-*custos E
+s:G
+MA
+<sB
+s:c>
+MB
+sG
+s:A
+MG
+[sE
+SG]
+sF#
+*custosE

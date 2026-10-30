@@ -2,33 +2,33 @@
 *clefC4
 *k[b-]
 *met(C|)
-S D
-L C
+SD
+LC
 =
-[ s F
-s A ]
-s G
-[ s D
-s F ]
-[ s G
-S D ]
+[sF
+sA]
+sG
+[sD
+sF]
+[sG
+SD]
 *met(3)
-[ S : GG
-L : D ]
-s GG
+[S:GG
+L:D]
+sGG
 =
-< s D
-s F >
-[ s G
-S D ]
-s : E -
-M F
+<sD
+sF>
+[sG
+SD]
+s:E-
+MF
 =
-[ s G
-S : D ]
-S : E
+[sG
+S:D]
+S:E
 =
-[ S D
-s F ]
+[SD
+sF]
 =
-*custos GG
+*custosGG

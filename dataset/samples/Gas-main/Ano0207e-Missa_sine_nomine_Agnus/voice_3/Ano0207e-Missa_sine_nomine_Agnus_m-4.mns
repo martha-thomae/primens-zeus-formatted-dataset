@@ -3,21 +3,21 @@
 *k[b-]
 *met(C|)
 *lg
-s E -
-s D
+sE-
+sD
 *Xlg
 =
-s d
-m B -
-m c
-m d
-m e
-s f
-M : d
-m B -
-M B -
+sd
+mB-
+mc
+md
+me
+sf
+M:d
+mB-
+MB-
 =
-M : f
-m e -
-M f
-*custos D
+M:f
+me-
+Mf
+*custosD

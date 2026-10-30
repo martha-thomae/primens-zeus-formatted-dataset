@@ -4,24 +4,24 @@
 *met(O/3)
 *met(C|)
 =
-S r
-S A
-s A
-s A
-S c
-s c
-S c
-[ s c
-L : G ]
-S r
-S r
-S r
+Sr
+SA
+sA
+sA
+Sc
+sc
+Sc
+[sc
+L:G]
+Sr
+Sr
+Sr
 =
-S A
-s A
-s A
-S c
-s c
-S c
-s c
-*custos G
+SA
+sA
+sA
+Sc
+sc
+Sc
+sc
+*custosG

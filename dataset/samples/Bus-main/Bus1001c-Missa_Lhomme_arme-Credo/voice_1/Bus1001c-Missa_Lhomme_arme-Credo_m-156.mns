@@ -3,15 +3,15 @@
 *k[b-]
 *met(C|r)
 *MM448
-M c
-M A
-s B -
-s A
-s r
-[ s A
-s F
-s G ]
-s D
+Mc
+MA
+sB-
+sA
+sr
+[sA
+sF
+sG]
+sD
 s%M:G
 3A
 3%M%2B-
@@ -19,21 +19,21 @@ s%M:A
 3G
 =
 3%M%2E
-S D
-s r
-s r
-s D
-s A
-M B -
-m A
-m G
-M F
-M G
-M A
-m G
-m F
-s E
+SD
+sr
+sr
+sD
+sA
+MB-
+mA
+mG
+MF
+MG
+MA
+mG
+mF
+sE
 3%M%2D
 3%M%2F
 3%M%2G
-*custos D
+*custosD

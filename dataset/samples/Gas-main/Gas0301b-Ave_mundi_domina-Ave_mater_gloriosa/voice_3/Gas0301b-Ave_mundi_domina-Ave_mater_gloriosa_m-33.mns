@@ -3,17 +3,17 @@
 *k[b-]
 =
 *met(C|)
-s : d
-M d
-s e
-s f
-s f
-M e
+s:d
+Md
+se
+sf
+sf
+Me
 =
-M : f
-m e
-M c
-s d
+M:f
+me
+Mc
+sd
 *col
 s%M:d
 3%M%2g
@@ -24,10 +24,10 @@ s%M:d
 3e
 3%M%2f#
 3g
-s r
-S r
-s r
+sr
+Sr
+sr
 3g
 3d
 3e
-*custos c
+*custosc

@@ -2,96 +2,96 @@
 *clefF4
 *k[b-]
 *met(C|)
-M GG
-M GG
+MGG
+MGG
 =
-M GG
-M GG
-M D
-M D
-M C
-M C
-M BB -
-M BB -
-M BB -
-M BB -
-s F
-s E
-M D
-M D
-M D
-M D
-s GG
+MGG
+MGG
+MD
+MD
+MC
+MC
+MBB-
+MBB-
+MBB-
+MBB-
+sF
+sE
+MD
+MD
+MD
+MD
+sGG
 =
-s r
-M GG
-M GG
-M BB -
-M C
-s D
-S BB -
+sr
+MGG
+MGG
+MBB-
+MC
+sD
+SBB-
 =
-s F
-*custos GG
+sF
+*custosGG
 **mens
-M GG
-M GG
-M D
-M D
-M C
-M C
-M BB -
-M BB -
-M BB -
-M BB -
-s F
-s E
-M D
-M D
-M D
-M D
-s GG
-s r
-M GG
-M GG
-M BB -
-M C
-s D
-S BB -
-s F
-M BB -
-M GG
-M : BB -
-m C
-S D
+MGG
+MGG
+MD
+MD
+MC
+MC
+MBB-
+MBB-
+MBB-
+MBB-
+sF
+sE
+MD
+MD
+MD
+MD
+sGG
+sr
+MGG
+MGG
+MBB-
+MC
+sD
+SBB-
+sF
+MBB-
+MGG
+M:BB-
+mC
+SD
 *clefF4
 *k[b-]
-M GG
-M GG
-M GG
-M GG
-M D
-M D
-M C
-M C
-M BB -
-M BB -
-M BB -
-M BB -
-s F
-s E
-M D
-M D
-M D
+MGG
+MGG
+MGG
+MGG
+MD
+MD
+MC
+MC
+MBB-
+MBB-
+MBB-
+MBB-
+sF
+sE
+MD
+MD
+MD
 =
-M D
-s GG
-s r
-M GG
-M GG
-M BB -
-M C
-s D
-S BB -
-s F
-*custos GG
+MD
+sGG
+sr
+MGG
+MGG
+MBB-
+MC
+sD
+SBB-
+sF
+*custosGG

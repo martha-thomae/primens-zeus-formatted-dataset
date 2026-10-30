@@ -5,28 +5,28 @@
 3%M%2C
 3%m%4D
 *met(C|)
-S GG
-S r
-S r
-s D
-s E
+SGG
+Sr
+Sr
+sD
+sE
 =
-s D
-s E
-M : D
+sD
+sE
+M:D
 =
-U C
-U BB -
-s AA
-M GG
-s G
-M F
-M G
-M E
-s D
-S GG
+UC
+UBB-
+sAA
+MGG
+sG
+MF
+MG
+ME
+sD
+SGG
 *clefF4
 *k[b-]
 *met(C|)
-S D
-*custos GG
+SD
+*custosGG

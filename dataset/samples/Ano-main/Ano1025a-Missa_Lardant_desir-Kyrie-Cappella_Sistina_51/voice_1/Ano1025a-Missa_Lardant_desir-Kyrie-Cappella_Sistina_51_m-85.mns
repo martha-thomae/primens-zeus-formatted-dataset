@@ -4,19 +4,19 @@
 *met(O2)
 *MM400
 =
-s F
-S E
-S D
+sF
+SE
+SD
 *clefF4
 *met(O)
-[ S : D
-s : A ]
-s c
-M B
-s G
-S A
-S : D
-s r
-s D
-s C
-*custos C
+[S:D
+s:A]
+sc
+MB
+sG
+SA
+S:D
+sr
+sD
+sC
+*custosC

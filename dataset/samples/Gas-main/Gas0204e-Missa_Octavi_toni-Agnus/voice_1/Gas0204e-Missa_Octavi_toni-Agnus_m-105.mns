@@ -3,20 +3,20 @@
 =
 =
 *met(C|3)
-S : r
-S : r
-S : r
-S : r
-S D
-s D
-[ s E
-S F ]
-[ s G
-s D ]
-s BB
-s C
+S:r
+S:r
+S:r
+S:r
+SD
+sD
+[sE
+SF]
+[sG
+sD]
+sBB
+sC
 *col
-S AA
+SAA
 *Xcol
-S : GG
-*custos GG
+S:GG
+*custosGG

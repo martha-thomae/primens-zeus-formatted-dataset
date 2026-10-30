@@ -3,25 +3,25 @@
 *met(C|)
 *clefF4
 *met(C|)
-S r
-S r
-s r
-s G
-M G
-M G
-M D
-s F
-m E
-m D
-s E
-M : C
-m D
-m E
-m F
-s G
-m F
-m E
-s D
-S C
-S r
-*custos C
+Sr
+Sr
+sr
+sG
+MG
+MG
+MD
+sF
+mE
+mD
+sE
+M:C
+mD
+mE
+mF
+sG
+mF
+mE
+sD
+SC
+Sr
+*custosC

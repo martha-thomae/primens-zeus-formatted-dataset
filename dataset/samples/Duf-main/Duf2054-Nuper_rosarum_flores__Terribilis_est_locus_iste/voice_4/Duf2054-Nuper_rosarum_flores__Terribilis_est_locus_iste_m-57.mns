@@ -4,13 +4,13 @@
 =
 *met(C|)
 =
-S b
-s cc
-S dd
+Sb
+scc
+Sdd
 =
-[ s cc
-s : a ]
+[scc
+s:a]
 =
-M g
-S b
-*custos g
+Mg
+Sb
+*custosg

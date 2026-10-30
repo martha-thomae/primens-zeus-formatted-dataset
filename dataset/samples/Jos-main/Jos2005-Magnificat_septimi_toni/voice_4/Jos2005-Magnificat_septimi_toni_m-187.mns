@@ -3,31 +3,31 @@
 *k[b-]
 *met(C|3)
 S:%3r
-S g
-s g
-S a
+Sg
+sg
+Sa
 =
-s g
-S g
-[ s f #
-S g ]
-s r
-S g
-s g
-[ S a
-s g ]
-S g
-s f #
+sg
+Sg
+[sf#
+Sg]
+sr
+Sg
+sg
+[Sa
+sg]
+Sg
+sf#
 *met(C|)
-S g
-S g
-L a
-s g
-s g
+Sg
+Sg
+La
+sg
+sg
 =
-S f
-[ S e
-S d ]
-S r
-S g
-*custos d
+Sf
+[Se
+Sd]
+Sr
+Sg
+*custosd

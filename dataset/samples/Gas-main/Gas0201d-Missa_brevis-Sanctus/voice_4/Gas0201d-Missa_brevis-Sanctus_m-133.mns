@@ -3,37 +3,37 @@
 *k[b-]
 *met(C|)
 *met(O)
-S g
-s b -
-s : cc
-M dd
-s ee
-[ S a
-s cc ]
-s : b -
-M g
-s a
-M g
+Sg
+sb-
+s:cc
+Mdd
+see
+[Sa
+scc]
+s:b-
+Mg
+sa
+Mg
 =
-M a
-M b -
-M cc
-[ s dd
-S cc ]
-s b n
-S cc
-s r
-s : cc
-M dd
-s ee
-[ S ff
-s ee
-s dd ]
-[ S ff
-s gg ]
-s : ee
-M dd
-S dd
-s cc #
-S : dd
-*custos g
+Ma
+Mb-
+Mcc
+[sdd
+Scc]
+sbn
+Scc
+sr
+s:cc
+Mdd
+see
+[Sff
+see
+sdd]
+[Sff
+sgg]
+s:ee
+Mdd
+Sdd
+scc#
+S:dd
+*custosg

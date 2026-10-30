@@ -1,33 +1,33 @@
 **mens
 *clefC1
 *met(C|3)
-[ s f
-S e ]
+[sf
+Se]
 *Xcol
-S : d
-S : r
-S : g
+S:d
+S:r
+S:g
 *lg
-s f
-s : e
+sf
+s:e
 *Xlg
-M d
-S d
-[ s c #
-S : d ]
+Md
+Sd
+[sc#
+S:d]
 *col
-s e
-S f
+se
+Sf
 *Xcol
-S g
-s e
+Sg
+se
 *lg
-s f
-S g
+sf
+Sg
 *Xlg
-S a
-s cc
-< s b
-s a >
-s dd
-*custos c #
+Sa
+scc
+<sb
+sa>
+sdd
+*custosc#

@@ -3,33 +3,33 @@
 =
 *met(C|)
 *MM180
-M C
-s D
-m C
-m BB
-s AA
-M : GG
-m AA
-m BB
-m C
-s D
-M C
-M D
-M AA
-[ s BB
-S AA ]
-s E
-s F
-M C
-M E
-M D
-M F
-s C
-s D
+MC
+sD
+mC
+mBB
+sAA
+M:GG
+mAA
+mBB
+mC
+sD
+MC
+MD
+MAA
+[sBB
+SAA]
+sE
+sF
+MC
+ME
+MD
+MF
+sC
+sD
 =
-S AA
+SAA
 =
-[ S A
-s F ]
-s D
-*custos GG
+[SA
+sF]
+sD
+*custosGG

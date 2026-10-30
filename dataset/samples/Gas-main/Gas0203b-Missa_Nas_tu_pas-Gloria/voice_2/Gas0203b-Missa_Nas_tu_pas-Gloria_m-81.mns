@@ -3,17 +3,17 @@
 *k[b-]
 =
 *met(C|)
-s : B -
-M c
-s d
-M c
-M c
-M : c
-m B -
-s A
-s c
-M d
-M A
-[ s B -
-s A ]
-*custos A
+s:B-
+Mc
+sd
+Mc
+Mc
+M:c
+mB-
+sA
+sc
+Md
+MA
+[sB-
+sA]
+*custosA

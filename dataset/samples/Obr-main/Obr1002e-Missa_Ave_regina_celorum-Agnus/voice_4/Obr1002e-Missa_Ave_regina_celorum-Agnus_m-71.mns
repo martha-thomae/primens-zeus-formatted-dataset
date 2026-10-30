@@ -6,35 +6,35 @@
 *k[b-]
 *met(C)
 =
-s r
-s g
-M e
-M : g
-m f
-m e
-m d
-M c
-M : f
-m e
-m c
-m d
-M : e
-m f
-m g
-m a
-s g
-m f
-m e
-s d
-M c
-M : e
+sr
+sg
+Me
+M:g
+mf
+me
+md
+Mc
+M:f
+me
+mc
+md
+M:e
+mf
+mg
+ma
+sg
+mf
+me
+sd
+Mc
+M:e
 =
-m d
-M c
-M B n
-s c
-M B n
-s c
-M r
-M e
-*custos B
+md
+Mc
+MBn
+sc
+MBn
+sc
+Mr
+Me
+*custosB

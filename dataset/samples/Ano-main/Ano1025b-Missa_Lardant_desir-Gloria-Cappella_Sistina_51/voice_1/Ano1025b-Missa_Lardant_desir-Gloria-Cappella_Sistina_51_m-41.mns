@@ -4,25 +4,25 @@
 =
 *met(O)
 *MM312
-s : D
-M : AA
-m BB
-M : C
-m D
-M : E
-m D
-m C
+s:D
+M:AA
+mBB
+M:C
+mD
+M:E
+mD
+mC
 =
-m BB
-s AA
-S F
-M F
-M G
-s A
-s B -
-s A
-s A
-s D
-M C
-M E
-*custos AA
+mBB
+sAA
+SF
+MF
+MG
+sA
+sB-
+sA
+sA
+sD
+MC
+ME
+*custosAA

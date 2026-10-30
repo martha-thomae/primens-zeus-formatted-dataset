@@ -3,24 +3,24 @@
 =
 *met(O)
 =
-s G
-M F
-s E
-S D
-M r
-M A
-s : d
-M d
-M c
-M B
-s A
-M r
-M : d
-m c
-M B
-S : A
-S : G
+sG
+MF
+sE
+SD
+Mr
+MA
+s:d
+Md
+Mc
+MB
+sA
+Mr
+M:d
+mc
+MB
+S:A
+S:G
 *met(C|)
-S r
-S r
-*custos D
+Sr
+Sr
+*custosD

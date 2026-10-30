@@ -3,16 +3,16 @@
 *met(C|)
 =
 *lg
-L d
-S c
+Ld
+Sc
 *Xlg
-[ S c
-L d ]
-S c #
-L c #
-S d
-s d
-s d
-s : e
-M d
-*custos c
+[Sc
+Ld]
+Sc#
+Lc#
+Sd
+sd
+sd
+s:e
+Md
+*custosc

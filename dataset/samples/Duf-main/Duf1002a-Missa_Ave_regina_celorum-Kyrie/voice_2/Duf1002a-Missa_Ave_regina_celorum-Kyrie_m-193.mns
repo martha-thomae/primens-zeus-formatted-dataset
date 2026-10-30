@@ -5,32 +5,32 @@
 =
 *met(O)
 =
-[ s d
-s : e ]
-M d
-s f
-M e
-M c
+[sd
+s:e]
+Md
+sf
+Me
+Mc
 =
-[ s d
-S c
-s d ]
-[ s c
-S B n ]
-s A
-s G
-s c
-s r
-s c
-[ s d
-s e
-S f ]
-[ s e
-s : d ]
-s g
-M f
-M g
-M e
-< s d
-S : c >
-*custos G
+[sd
+Sc
+sd]
+[sc
+SBn]
+sA
+sG
+sc
+sr
+sc
+[sd
+se
+Sf]
+[se
+s:d]
+sg
+Mf
+Mg
+Me
+<sd
+S:c>
+*custosG

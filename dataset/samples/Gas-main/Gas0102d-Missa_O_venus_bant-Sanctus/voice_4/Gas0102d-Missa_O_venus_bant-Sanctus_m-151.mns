@@ -6,54 +6,54 @@
 *met(C|3)
 *col
 =
-L g
-S f
+Lg
+Sf
 *Xcol
 *lg
-s g
-s : b
+sg
+s:b
 *Xlg
-M a
-S g
-s f #
+Ma
+Sg
+sf#
 *lg
-S : g
-S a
+S:g
+Sa
 *Xlg
-s g
-s e
-s : a
-M b
-s : cc
-M b
-s a
+sg
+se
+s:a
+Mb
+s:cc
+Mb
+sa
 *lg
 =
 *col
-S g
-S dd
+Sg
+Sdd
 *Xlg
-s : b
-M a
+s:b
+Ma
 *Xcol
 *lg
-s g
-s d
+sg
+sd
 *Xlg
-s e
-S g
-s f #
-S g
-s r
-S g
-s e
+se
+Sg
+sf#
+Sg
+sr
+Sg
+se
 *lg
-[ s c
-s : f ]
+[sc
+s:f]
 *Xlg
-M e
-M d
-M c
-s B
-s A
-*custos A
+Me
+Md
+Mc
+sB
+sA
+*custosA

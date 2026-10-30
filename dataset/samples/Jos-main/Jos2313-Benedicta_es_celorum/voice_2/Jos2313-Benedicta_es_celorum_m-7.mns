@@ -2,30 +2,30 @@
 *clefF3
 =
 *met(C|)
-S r
-S r
-s GG
-M : GG
-m AA
-M BB
-M C
-M GG
-s G
-m F
+Sr
+Sr
+sGG
+M:GG
+mAA
+MBB
+MC
+MGG
+sG
+mF
 =
-m E
-m F
-m G
-m A
-m F
-M G
-m C
-m D
-m E
-m F
-M : G
-m F #
-m F #
-m E
-s G
-*custos GG
+mE
+mF
+mG
+mA
+mF
+MG
+mC
+mD
+mE
+mF
+M:G
+mF#
+mF#
+mE
+sG
+*custosGG

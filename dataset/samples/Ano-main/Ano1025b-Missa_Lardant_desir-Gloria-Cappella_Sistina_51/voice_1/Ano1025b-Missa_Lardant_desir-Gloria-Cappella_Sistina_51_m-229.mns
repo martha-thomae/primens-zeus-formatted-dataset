@@ -2,16 +2,16 @@
 *clefF4
 *met(O2)
 *MM400
-m c
-M A
-M G
-M c
-M B
-s A
-M G
-L A
+mc
+MA
+MG
+Mc
+MB
+sA
+MG
+LA
 =
 *met(C)
 *MM300
-S A
-*custos G
+SA
+*custosG

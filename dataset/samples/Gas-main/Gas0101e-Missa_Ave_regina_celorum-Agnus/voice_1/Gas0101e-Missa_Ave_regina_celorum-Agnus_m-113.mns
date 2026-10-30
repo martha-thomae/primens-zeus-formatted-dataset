@@ -4,24 +4,24 @@
 *met(C|)
 =
 *lg
-[ s FF
-s AA ]
+[sFF
+sAA]
 *Xlg
-M : GG
-m AA
-[ s BB -
-S C ]
+M:GG
+mAA
+[sBB-
+SC]
 *lg
-s F
-s D
+sF
+sD
 =
-S C
+SC
 *Xlg
-S r
-S r
-S r
+Sr
+Sr
+Sr
 =
 *col
 3%m%4FF
 (3%M%2FF
-*custos FF
+*custosFF

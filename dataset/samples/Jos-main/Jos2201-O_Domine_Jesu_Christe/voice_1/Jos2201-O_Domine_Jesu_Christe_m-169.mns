@@ -3,18 +3,18 @@
 *k[b-]
 *met(C|)
 *MM360
-[ S F
-S D ]
-M E
-M D
-M C
-M BB n
-[ s AA
-S D ]
-s C
-< S D
-S AA >
+[SF
+SD]
+ME
+MD
+MC
+MBBn
+[sAA
+SD]
+sC
+<SD
+SAA>
 *met(C|)
 *MM360
-S AA
-*custos AA
+SAA
+*custosAA

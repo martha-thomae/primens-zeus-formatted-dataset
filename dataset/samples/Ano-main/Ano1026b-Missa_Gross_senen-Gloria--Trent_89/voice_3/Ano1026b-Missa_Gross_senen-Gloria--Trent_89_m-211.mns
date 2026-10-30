@@ -5,83 +5,83 @@
 =
 *met(O)
 *MM300
-M : d
-m c
-M B -
-M A
-M : G
+M:d
+mc
+MB-
+MA
+M:G
 =
-U F
-U E
-M D
-M : G
-m F
-M D
-s E
-s D
-M r
-M F
+UF
+UE
+MD
+M:G
+mF
+MD
+sE
+sD
+Mr
+MF
 =
-M G
-M A
-M : B -
-m A
-M G
-M : B -
-m A
-M G
-M F
-M E
-M D
-s d
-M c
-M B -
-M : d
-m c
-s A
-M D
-M : F
-m G
-M A
-M B -
-s c
-M : d
+MG
+MA
+M:B-
+mA
+MG
+M:B-
+mA
+MG
+MF
+ME
+MD
+sd
+Mc
+MB-
+M:d
+mc
+sA
+MD
+M:F
+mG
+MA
+MB-
+sc
+M:d
 =
-m c
-s A
-M : G
-m F
-m D
-m E
-s F
-M D
-M C
-M F
-M G
-M E
-s D
-s C
-M r
-M G
-s B -
-s A
-s D
-M r
-M d
-M B -
-M G
-M F
-M c
-M r
-M c
-M A
-s d
-M B -
-M G
-M : B -
-m c
-M d
-M B -
-M G
-S A
-*custos C
+mc
+sA
+M:G
+mF
+mD
+mE
+sF
+MD
+MC
+MF
+MG
+ME
+sD
+sC
+Mr
+MG
+sB-
+sA
+sD
+Mr
+Md
+MB-
+MG
+MF
+Mc
+Mr
+Mc
+MA
+sd
+MB-
+MG
+M:B-
+mc
+Md
+MB-
+MG
+SA
+*custosC

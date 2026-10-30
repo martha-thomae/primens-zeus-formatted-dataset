@@ -3,19 +3,19 @@
 *k[b-]
 *met(O2)
 *MM400
-s G
-s B -
-S d
-[ s B -
-s c
-s e - ]
-s d
+sG
+sB-
+Sd
+[sB-
+sc
+se-]
+sd
 =
-s c
-s r
-S e -
-s d
-s c
-s e -
-s d
-*custos G
+sc
+sr
+Se-
+sd
+sc
+se-
+sd
+*custosG

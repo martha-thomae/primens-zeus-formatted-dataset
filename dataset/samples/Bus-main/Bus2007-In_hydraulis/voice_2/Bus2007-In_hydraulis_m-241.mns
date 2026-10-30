@@ -2,15 +2,15 @@
 *clefC4
 *met(O/3)
 =
-L A
-s r
-s r
-L d
-S c
-L d
+LA
+sr
+sr
+Ld
+Sc
+Ld
 =
-s r
+sr
 =
-s r
-S : d
-*custos A
+sr
+S:d
+*custosA

@@ -3,25 +3,25 @@
 *k[b-]
 *met(C)
 *MM480
-s r
-s F
-s G
-s : B -
+sr
+sF
+sG
+s:B-
 =
-M c
-[ s d
-s G ]
-[ s B -
-S A
-L G ]
-S r
-S r
-S : D
-S : G
-S D
-s r
-S A
-s G
-S d
-S c
-*custos D
+Mc
+[sd
+sG]
+[sB-
+SA
+LG]
+Sr
+Sr
+S:D
+S:G
+SD
+sr
+SA
+sG
+Sd
+Sc
+*custosD

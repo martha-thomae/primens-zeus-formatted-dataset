@@ -2,32 +2,32 @@
 =
 *clefG2
 *met(C|)
-M a
-M g
-s cc
-M b
-s a
-M : dd
-m cc
-m b
-m a
-m g
+Ma
+Mg
+scc
+Mb
+sa
+M:dd
+mcc
+mb
+ma
+mg
 =
-m f
-m e
-m d
-M e
-s d
-M : g
-m f
-M : a
-m e
-M f #
-S g
+mf
+me
+md
+Me
+sd
+M:g
+mf
+M:a
+me
+Mf#
+Sg
 *met(C|)
-X g
+Xg
 *lg
-s g
-s a
+sg
+sa
 *Xlg
-*custos d
+*custosd

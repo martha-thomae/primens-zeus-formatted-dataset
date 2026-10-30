@@ -3,25 +3,25 @@
 *k[b-]
 *met(C|)
 *lg
-s BB -
+sBB-
 =
-s GG
+sGG
 *Xlg
-s D
-M GG
-M AA
-M BB -
-M E -
-s D
+sD
+MGG
+MAA
+MBB-
+ME-
+sD
 =
-s E -
-M D
+sE-
+MD
 =
-M E -
-s C
-M BB -
-M C
+ME-
+sC
+MBB-
+MC
 =
-s AA
-s GG
-*custos GG
+sAA
+sGG
+*custosGG

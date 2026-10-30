@@ -4,17 +4,17 @@
 =
 *met(C)
 *MM300
-S C
-s D
-M r
+SC
+sD
+Mr
 =
-M D
-M GG
-s C
-M D
-s F
-s r
-[ S G
-s D ]
-s E -
-*custos GG
+MD
+MGG
+sC
+MD
+sF
+sr
+[SG
+sD]
+sE-
+*custosGG

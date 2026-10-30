@@ -2,35 +2,35 @@
 *clefC4
 *met(C)
 *MM448
-S B
+SB
 =
-s c
-s r
-s : cc
-M b
+sc
+sr
+s:cc
+Mb
 =
-M a
-M g
-S g
-s cc
-s b
-s b
-s a
-[ s b
-s : cc ]
-M b
-S g
-s r
-[ s dd
-s cc ]
+Ma
+Mg
+Sg
+scc
+sb
+sb
+sa
+[sb
+s:cc]
+Mb
+Sg
+sr
+[sdd
+scc]
 =
-[ s dd
-s : ee ]
-M dd
-s cc
-M b
-M dd
-M cc
-s a
-M g
-*custos B
+[sdd
+s:ee]
+Mdd
+scc
+Mb
+Mdd
+Mcc
+sa
+Mg
+*custosB

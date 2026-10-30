@@ -4,10 +4,10 @@
 *k[b-]
 =
 *met(C|)
-s AA
-< s BB -
-S FF >
-S r
-S FF
-S BB -
-*custos FF
+sAA
+<sBB-
+SFF>
+Sr
+SFF
+SBB-
+*custosFF

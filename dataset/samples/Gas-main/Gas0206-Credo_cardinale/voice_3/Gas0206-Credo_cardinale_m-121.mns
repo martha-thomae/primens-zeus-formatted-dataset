@@ -3,39 +3,39 @@
 *met(C|)
 *MM180
 =
-M : c
-m B
-m A
-m G
-M F
-M E
-M F
-[ s G
-S A ]
-S A
+M:c
+mB
+mA
+mG
+MF
+ME
+MF
+[sG
+SA]
+SA
 *met(C|)
-[ S d
-s c ]
-s d
-s B
-s B
-[ s A
-s d ]
-M e
-M c
-s d
-S c
-s c
-s c
-s d
-[ s f
-S e
-S d ]
-[ s e
-s g ]
+[Sd
+sc]
+sd
+sB
+sB
+[sA
+sd]
+Me
+Mc
+sd
+Sc
+sc
+sc
+sd
+[sf
+Se
+Sd]
+[se
+sg]
 =
 *lg
-[ s f
-s d ]
+[sf
+sd]
 *Xlg
-*custos E
+*custosE

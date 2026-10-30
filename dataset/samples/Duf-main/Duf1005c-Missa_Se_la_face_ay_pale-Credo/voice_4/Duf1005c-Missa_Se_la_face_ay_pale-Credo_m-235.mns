@@ -2,16 +2,16 @@
 *clefC1
 *met(C)
 *MM420
-s cc
-M a
-S a
+scc
+Ma
+Sa
 *clefC1
 *met(O)
 *MM384
-s : f
-M g
-[ s a
-s f ]
-s : cc
-M b
-*custos f
+s:f
+Mg
+[sa
+sf]
+s:cc
+Mb
+*custosf

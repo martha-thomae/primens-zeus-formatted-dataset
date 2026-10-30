@@ -4,27 +4,27 @@
 *k[b-]
 *met(C|)
 =
-S c
-s c
-s A
-M G
-s B -
-m A
-m G
+Sc
+sc
+sA
+MG
+sB-
+mA
+mG
 *met(C)
 *rscale:1/2
-S F
-S F
+SF
+SF
 *met(C|)
 *rscale:1
-s G
-[ s B -
-s A ]
-s A
-s : G
-m A
-m B -
+sG
+[sB-
+sA]
+sA
+s:G
+mA
+mB-
 *met(C)
 *rscale:1/2
-S c
-*custos F
+Sc
+*custosF

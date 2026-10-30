@@ -3,24 +3,24 @@
 =
 *met(C)
 *MM420
-M g
-M g
-s a
-s a
-S d
-S r
-s : b
-M cc
-[ s dd
-s : ee ]
+Mg
+Mg
+sa
+sa
+Sd
+Sr
+s:b
+Mcc
+[sdd
+s:ee]
 =
-M dd
-S dd
-s cc #
-S dd
-[ S g
-S b -
-s : a ]
-M b -
+Mdd
+Sdd
+scc#
+Sdd
+[Sg
+Sb-
+s:a]
+Mb-
 =
-*custos d
+*custosd

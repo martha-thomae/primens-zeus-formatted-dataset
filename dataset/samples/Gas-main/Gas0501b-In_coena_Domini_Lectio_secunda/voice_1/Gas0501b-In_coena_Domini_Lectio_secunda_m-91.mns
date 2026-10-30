@@ -3,27 +3,27 @@
 *k[b-]
 =
 *met(C|)
-[ s C
-s GG
-s : C ]
-M C
-[ S AA
-s D ]
-[ s AA
-S BB - ]
+[sC
+sGG
+s:C]
+MC
+[SAA
+sD]
+[sAA
+SBB-]
 =
-S AA
-s r
-s C
-s D
-S C
-[ s D
-S AA ]
-S D
-L GG
+SAA
+sr
+sC
+sD
+SC
+[sD
+SAA]
+SD
+LGG
 =
-s C
-s C
-S C
-S AA
-*custos GG
+sC
+sC
+SC
+SAA
+*custosGG

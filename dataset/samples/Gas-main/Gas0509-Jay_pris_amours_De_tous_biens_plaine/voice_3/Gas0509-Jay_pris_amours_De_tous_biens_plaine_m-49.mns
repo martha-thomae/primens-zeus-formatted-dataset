@@ -4,25 +4,25 @@
 =
 *k[b-e-]
 *met(C|)
-m A
-m F
-m G
-s A
+mA
+mF
+mG
+sA
 *lg
-s F
-s G
+sF
+sG
 *Xlg
-M A
+MA
 =
-M B -
-M A
-s d
-m c
-m B -
-s A
+MB-
+MA
+sd
+mc
+mB-
+sA
 *lg
 =
-s G
-s B -
+sG
+sB-
 *Xlg
-*custos F
+*custosF

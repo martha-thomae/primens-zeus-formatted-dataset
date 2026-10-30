@@ -5,41 +5,41 @@
 =
 *met(C|)
 =
-M r
-M E -
-M D
-M BB -
-M C
-M AA
-M C
-M C
-M BB -
-M GG
-s D
-[ s GG
-s G ]
-M E
-M F
-M G
-M E
-s F
-M D
-M E
-M F
-M D
-s E -
-M C
-M D
-M E -
-M C
-s D
-M BB -
-M C
-M : D
-m BB -
-M C
-M D
-s BB -
-s C
-S GG
-*custos GG
+Mr
+ME-
+MD
+MBB-
+MC
+MAA
+MC
+MC
+MBB-
+MGG
+sD
+[sGG
+sG]
+ME
+MF
+MG
+ME
+sF
+MD
+ME
+MF
+MD
+sE-
+MC
+MD
+ME-
+MC
+sD
+MBB-
+MC
+M:D
+mBB-
+MC
+MD
+sBB-
+sC
+SGG
+*custosGG

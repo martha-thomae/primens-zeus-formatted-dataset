@@ -3,39 +3,39 @@
 *clefC4
 =
 *met(C|)
-s : c
-M B
-[ s G
-s B ]
-[ S A
-S : G ]
-s r
-s r
-s E
-s F
+s:c
+MB
+[sG
+sB]
+[SA
+S:G]
+sr
+sr
+sE
+sF
 =
-s G
-s A
-s E
-s r
-s G
-[ s A
-s G ]
-s : c
+sG
+sA
+sE
+sr
+sG
+[sA
+sG]
+s:c
 =
-M B
-s A
-s G
+MB
+sA
+sG
 =
-[ s c
-s d
-S A ]
+[sc
+sd
+SA]
 =
-S B
-S A
+SB
+SA
 *art2
 *staff2
 *clefC4
 *met(C|)
-S A
-*custos E
+SA
+*custosE

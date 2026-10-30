@@ -4,10 +4,10 @@
 *met(C|3)
 *lg
 =
-s D
-s G
+sD
+sG
 *Xlg
-[ s C
-S : D ]
-S GG
-*custos GG
+[sC
+S:D]
+SGG
+*custosGG

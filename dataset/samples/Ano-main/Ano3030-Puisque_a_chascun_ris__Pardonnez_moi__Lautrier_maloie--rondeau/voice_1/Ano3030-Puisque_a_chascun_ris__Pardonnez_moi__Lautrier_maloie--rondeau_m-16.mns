@@ -12,36 +12,36 @@ s%M:E-
 s%M:D
 3C
 3%M%2AA
-M : GG
-m AA
-M BB -
-s C
-s D
-M BB -
-M : C
-m BB -
-s GG
-S r
-S r
-s GG
-M : BB -
-m C
-s D
-M E -
-s C
-[ s D
-s E - ]
-M : F
+M:GG
+mAA
+MBB-
+sC
+sD
+MBB-
+M:C
+mBB-
+sGG
+Sr
+Sr
+sGG
+M:BB-
+mC
+sD
+ME-
+sC
+[sD
+sE-]
+M:F
 =
-m G
-M A
-M G
-s E
-M D
-s : F
-s C
-M D
-s E
-s D
-s GG
-*custos GG
+mG
+MA
+MG
+sE
+MD
+s:F
+sC
+MD
+sE
+sD
+sGG
+*custosGG

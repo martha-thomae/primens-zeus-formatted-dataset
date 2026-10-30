@@ -2,9 +2,9 @@
 *clefC4
 *met(C)
 *MM420
-s e
-S f
-s e
+se
+Sf
+se
 *^
 SA	Sf
 *v	*v
@@ -15,7 +15,7 @@ SG	Sg
 *clefC4
 *met(O)
 *MM384
-s : c
-M d
-s e
-*custos G
+s:c
+Md
+se
+*custosG

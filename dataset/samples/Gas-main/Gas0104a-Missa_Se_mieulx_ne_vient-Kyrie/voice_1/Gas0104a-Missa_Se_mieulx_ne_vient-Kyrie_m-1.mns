@@ -3,67 +3,67 @@
 =
 =
 *met(O)
-s D
-M BB
-M GG
-M BB
-M : C
-m BB
-M AA
-M GG
+sD
+MBB
+MGG
+MBB
+M:C
+mBB
+MAA
+MGG
 *lg
 =
-[ s G
-s E ]
+[sG
+sE]
 *Xlg
-M C
-s F
-s G
-s : G
-M : A
-m G
-M F
-M E
-M D
+MC
+sF
+sG
+s:G
+M:A
+mG
+MF
+ME
+MD
 *lg
-s G
-s A
+sG
+sA
 *Xlg
-M G
-s E
-M C
-[ s D
-s : GG ]
-M BB
-M : AA
-m BB
-M : C
-m BB
+MG
+sE
+MC
+[sD
+s:GG]
+MBB
+M:AA
+mBB
+M:C
+mBB
 =
-S GG
-s G
-M : E
-m F
-M : G
-m F
-M D
-s G
+SGG
+sG
+M:E
+mF
+M:G
+mF
+MD
+sG
 =
-M E
-[ s F
-S G ]
-M D
-M G
-M F
-s D
+ME
+[sF
+SG]
+MD
+MG
+MF
+sD
 =
-M BB
-s AA
+MBB
+sAA
 *col
-L GG
+LGG
 *Xcol
-M r
-M D
-M BB
-M GG
-*custos GG
+Mr
+MD
+MBB
+MGG
+*custosGG

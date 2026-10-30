@@ -3,35 +3,35 @@
 *clefC1
 *k[b-]
 *met(C|)
-M ff
-m ee
-m ff
-M gg
-M ff
-M ee
-M dd
-S dd
+Mff
+mee
+mff
+Mgg
+Mff
+Mee
+Mdd
+Sdd
 =
-[ s cc #
-S dd ]
-s r
-s a
-s b -
-[ s cc
-s dd
-s g ]
-s r
-s b -
-s a
-s g
-< s f
-s b - >
+[scc#
+Sdd]
+sr
+sa
+sb-
+[scc
+sdd
+sg]
+sr
+sb-
+sa
+sg
+<sf
+sb->
 =
-M a
-s cc
-M b -
-M a
-M g
-M : g
-m e
-*custos e
+Ma
+scc
+Mb-
+Ma
+Mg
+M:g
+me
+*custose

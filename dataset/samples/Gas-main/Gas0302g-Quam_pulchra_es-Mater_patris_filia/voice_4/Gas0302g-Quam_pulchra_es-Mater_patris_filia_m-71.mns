@@ -3,31 +3,31 @@
 *k[b-]
 =
 *met(C)
-s : dd
-M cc
-s b -
-s a
-s g
-M f
+s:dd
+Mcc
+sb-
+sa
+sg
+Mf
 *lg
-s g
-s f
+sg
+sf
 *Xlg
-M e
-s f
-s ff
-s : ff
-M ee
+Me
+sf
+sff
+s:ff
+Mee
 *lg
-s dd
-s cc
+sdd
+scc
 *Xlg
-s b -
-M a
+sb-
+Ma
 *lg
-s b -
-s g
+sb-
+sg
 *Xlg
-M f #
-S g
-*custos e
+Mf#
+Sg
+*custose

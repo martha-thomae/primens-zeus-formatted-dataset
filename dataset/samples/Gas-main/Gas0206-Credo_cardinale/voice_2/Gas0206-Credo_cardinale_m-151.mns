@@ -3,25 +3,25 @@
 =
 *met(C|)
 *MM180
-[ s B
-s A
-s G
-s A ]
-M d
-M c
-[ s B
-S A ]
-S r
-[ S A
-s D ]
-[ s E
-s F ]
-s G
+[sB
+sA
+sG
+sA]
+Md
+Mc
+[sB
+SA]
+Sr
+[SA
+sD]
+[sE
+sF]
+sG
 *lg
-s E
-s D
+sE
+sD
 *Xlg
-[ S C
-s D
-s C ]
-*custos C
+[SC
+sD
+sC]
+*custosC

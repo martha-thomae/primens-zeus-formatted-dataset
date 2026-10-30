@@ -3,36 +3,36 @@
 =
 *clefG2
 *met(O)
-M b
-s a
+Mb
+sa
 =
-s g
-M f #
-S g
+sg
+Mf#
+Sg
 =
 *met(C|)
-S g
-s : b
-M g
+Sg
+s:b
+Mg
 *lg
-s a
-s b
+sa
+sb
 *Xlg
-S g
+Sg
 *lg
-s a
-s b
+sa
+sb
 *Xlg
-s cc
-s : dd
-M cc
-M b
-M a
-S g
+scc
+s:dd
+Mcc
+Mb
+Ma
+Sg
 *lg
-s e
-s f
+se
+sf
 *Xlg
-S d
-S r
-*custos d
+Sd
+Sr
+*custosd

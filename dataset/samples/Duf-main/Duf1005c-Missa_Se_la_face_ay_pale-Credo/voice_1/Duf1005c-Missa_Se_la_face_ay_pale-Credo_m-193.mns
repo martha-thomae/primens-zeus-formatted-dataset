@@ -2,25 +2,25 @@
 *clefF4
 *met(C)
 *MM420
-s c
-M c
-s A
-M F
-s G
-S F
-s r
-s E
-s F
-M : A
-m B
-s c
-M C
-s F
+sc
+Mc
+sA
+MF
+sG
+SF
+sr
+sE
+sF
+M:A
+mB
+sc
+MC
+sF
 =
-M A
-s G
-S F
-s C
-M E
-M F
-*custos C
+MA
+sG
+SF
+sC
+ME
+MF
+*custosC

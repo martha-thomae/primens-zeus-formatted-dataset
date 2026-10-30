@@ -4,29 +4,29 @@
 *met(C|)
 *lg
 =
-[ S d
-S c ]
+[Sd
+Sc]
 *Xlg
-s r
-s A
+sr
+sA
 =
-s : B -
-M G
-M A
-M : c
-m B -
-m A
+s:B-
+MG
+MA
+M:c
+mB-
+mA
 =
-m G
-M F
-M f
-M e
-M c
-s d
-s e
-M c
-s d
-m c
-m B -
-S A
-*custos F
+mG
+MF
+Mf
+Me
+Mc
+sd
+se
+Mc
+sd
+mc
+mB-
+SA
+*custosF

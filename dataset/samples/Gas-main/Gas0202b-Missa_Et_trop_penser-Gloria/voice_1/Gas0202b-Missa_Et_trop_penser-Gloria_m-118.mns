@@ -3,36 +3,36 @@
 *k[b-]
 *met(3)
 =
-S BB -
-s r
+SBB-
+sr
 *lg
 =
-[ s BB -
-S F ]
+[sBB-
+SF]
 *Xlg
-[ S G
-s F #
-S G ]
-[ s GG
-S : D ]
-S AA
-s AA
-[ S BB -
-s C ]
+[SG
+sF#
+SG]
+[sGG
+S:D]
+SAA
+sAA
+[SBB-
+sC]
 =
-S D
-s C
+SD
+sC
 *lg
-s BB -
-S AA
+sBB-
+SAA
 *Xlg
 *met(C|)
-[ S GG
-s : G ]
-M F
-M E -
-M D
-S E -
-s E -
-S E -
-*custos GG
+[SGG
+s:G]
+MF
+ME-
+MD
+SE-
+sE-
+SE-
+*custosGG

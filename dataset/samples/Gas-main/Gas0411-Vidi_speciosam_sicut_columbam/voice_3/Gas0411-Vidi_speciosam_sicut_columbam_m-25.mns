@@ -1,23 +1,23 @@
 **mens
 *clefC2
 *met(C|3)
-S d
-s d
-s : B
+Sd
+sd
+s:B
 =
-M c
-[ s d
-S e ]
-[ s d
-S c ]
-s r
+Mc
+[sd
+Se]
+[sd
+Sc]
+sr
 *col
-s e
-s e
-s c
-s c
-S A
+se
+se
+sc
+sc
+SA
 *Xcol
-S A
-s r
-*custos A
+SA
+sr
+*custosA

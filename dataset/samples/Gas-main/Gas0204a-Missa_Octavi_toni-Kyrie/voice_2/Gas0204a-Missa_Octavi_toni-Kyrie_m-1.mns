@@ -4,26 +4,26 @@
 =
 *met(O)
 *lg
-S : G
-S c
+S:G
+Sc
 *Xlg
-s B
-s : A
-M B
-s c
-S d
-M : B
+sB
+s:A
+MB
+sc
+Sd
+M:B
 =
-m G
-S G
+mG
+SG
 =
-[ s c
-s e ]
-S d
-s c
+[sc
+se]
+Sd
+sc
 =
-s d
-s B
-S G
-s A
-*custos G
+sd
+sB
+SG
+sA
+*custosG

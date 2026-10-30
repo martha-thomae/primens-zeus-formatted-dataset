@@ -5,32 +5,32 @@
 *met(C|)
 =
 =
-s G
+sG
 *col
-M : c
-m B -
+M:c
+mB-
 *Xcol
-m A
-m G
-s F
-M : B -
-m A
-m G
-m F
-M E -
-s D
+mA
+mG
+sF
+M:B-
+mA
+mG
+mF
+ME-
+sD
 =
-s G
-M F #
-S G
-S d
+sG
+MF#
+SG
+Sd
 =
-s d
-M c
-M B -
-s c
-[ s B -
-s F ]
-M F
-M D
-*custos D
+sd
+Mc
+MB-
+sc
+[sB-
+sF]
+MF
+MD
+*custosD

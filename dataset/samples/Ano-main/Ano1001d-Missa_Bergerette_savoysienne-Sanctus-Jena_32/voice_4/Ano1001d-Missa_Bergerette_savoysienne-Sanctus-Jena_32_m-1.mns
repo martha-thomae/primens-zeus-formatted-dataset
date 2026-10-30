@@ -3,53 +3,53 @@
 =
 *met(C)
 =
-S r
+Sr
 =
-s r
-S cc
-[ s dd
-s ee ]
-s ee
-M ee
-M : ee
-m dd
-s cc
-m b
-m a
-s b
-s r
-s ff
-M ff
-M ee
-m cc
-M dd
+sr
+Scc
+[sdd
+see]
+see
+Mee
+M:ee
+mdd
+scc
+mb
+ma
+sb
+sr
+sff
+Mff
+Mee
+mcc
+Mdd
 =
-U cc
-U b
-m a
-m g
-s cc
-M b
-S cc
-s r
-M : g
+Ucc
+Ub
+ma
+mg
+scc
+Mb
+Scc
+sr
+M:g
 =
-m a
-M b
-M cc
-M a
+ma
+Mb
+Mcc
+Ma
 =
-s b
-M g
-s a
-s : g
-s cc
-m b
-m a
-M b
-M cc
-M dd
-M : ee
-m dd
-M cc
-*custos g
+sb
+Mg
+sa
+s:g
+scc
+mb
+ma
+Mb
+Mcc
+Mdd
+M:ee
+mdd
+Mcc
+*custosg

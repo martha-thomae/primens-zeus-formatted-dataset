@@ -2,32 +2,32 @@
 *clefC4
 *k[b-]
 *met(C|)
-S B -
-s A
-S B -
-s f
-s e
-s f
-s d
-*custos A
+SB-
+sA
+SB-
+sf
+se
+sf
+sd
+*custosA
 **mens
-s A
-S B -
-s f
-s e
-s f
-S d
-s e
-s f
-s B -
+sA
+SB-
+sf
+se
+sf
+Sd
+se
+sf
+sB-
 *clefC4
 *k[b-]
 *met(C|)
-S B -
-[ s A
-S B -
-s f ]
-s e
-s f
-s d
-*custos A
+SB-
+[sA
+SB-
+sf]
+se
+sf
+sd
+*custosA

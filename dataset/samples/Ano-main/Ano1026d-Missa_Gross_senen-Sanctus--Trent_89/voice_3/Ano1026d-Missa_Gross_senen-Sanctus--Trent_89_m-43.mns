@@ -4,22 +4,22 @@
 =
 *met(O2)
 *MM400
-s : G
-M F
-[ s G
-s : A ]
-m G
-m F
-s E
-s : D
-M E
-s F
+s:G
+MF
+[sG
+s:A]
+mG
+mF
+sE
+s:D
+ME
+sF
 =
-s G
-s r
-s D
-s E
-s F
-s : G
-M F
-*custos D
+sG
+sr
+sD
+sE
+sF
+s:G
+MF
+*custosD

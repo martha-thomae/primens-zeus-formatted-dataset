@@ -3,17 +3,17 @@
 *clefC4
 *k[b-]
 *met(C|)
-s AA
-s A
-s : D
-m C
-m BB -
+sAA
+sA
+s:D
+mC
+mBB-
 =
-s AA
-S GG
-M D
-M F
-M C
-M GG
-s D
-*custos GG
+sAA
+SGG
+MD
+MF
+MC
+MGG
+sD
+*custosGG

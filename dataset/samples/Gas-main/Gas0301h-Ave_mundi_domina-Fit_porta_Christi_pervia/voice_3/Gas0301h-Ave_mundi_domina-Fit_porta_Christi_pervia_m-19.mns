@@ -4,8 +4,8 @@
 =
 *met(C|)
 *MM340
-S r
-s d
+Sr
+sd
 *col
 3%M%2c
 3B-
@@ -19,9 +19,9 @@ s d
 3c
 3%M%2A
 *Xcol
-s G
-s r
-S r
+sG
+sr
+Sr
 =
-S r
-*custos G
+Sr
+*custosG

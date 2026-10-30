@@ -3,19 +3,19 @@
 *k[b-]
 *met(C|)
 *lg
-s b -
-s a
+sb-
+sa
 *Xlg
-M r
-s dd
-m cc
-m b -
-s cc
-M b -
+Mr
+sdd
+mcc
+mb-
+scc
+Mb-
 =
-m a
-m g
-M : f
-m g
-s a
-*custos f
+ma
+mg
+M:f
+mg
+sa
+*custosf

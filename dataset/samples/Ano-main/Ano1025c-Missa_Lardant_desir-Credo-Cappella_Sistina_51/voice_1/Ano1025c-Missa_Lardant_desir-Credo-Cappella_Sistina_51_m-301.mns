@@ -3,23 +3,23 @@
 =
 *met(C)
 *MM312
-M D
-s A
-M c
-M B -
-s d
-M B -
-M c
-s A
-M G
-s A
-s r
+MD
+sA
+Mc
+MB-
+sd
+MB-
+Mc
+sA
+MG
+sA
+sr
 =
-s D
-M AA
-M : D
-m E
-M F
-M G
-M A
-*custos AA
+sD
+MAA
+M:D
+mE
+MF
+MG
+MA
+*custosAA

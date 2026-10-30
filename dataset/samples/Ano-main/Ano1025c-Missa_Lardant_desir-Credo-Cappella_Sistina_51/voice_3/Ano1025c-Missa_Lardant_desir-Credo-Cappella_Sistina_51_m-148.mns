@@ -2,21 +2,21 @@
 *clefC2
 *met(O2)
 *MM400
-[ s B
-s c ]
-[ S d
-s e ]
-s : e
-M d
-s B
-s c
-s e
-M f
-s d
-M c
-s A
-s : f
+[sB
+sc]
+[Sd
+se]
+s:e
+Md
+sB
+sc
+se
+Mf
+sd
+Mc
+sA
+s:f
 =
-M e
-s e
-*custos A
+Me
+se
+*custosA

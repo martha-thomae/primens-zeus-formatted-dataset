@@ -4,18 +4,18 @@
 =
 *met(O2)
 *MM400
-S a
+Sa
 =
-S a
-L g
-S g
-s f
-s : a
-M g
-s f
-s : e
-m d
-m c
-L B
-S A
-*custos A
+Sa
+Lg
+Sg
+sf
+s:a
+Mg
+sf
+s:e
+md
+mc
+LB
+SA
+*custosA

@@ -5,37 +5,37 @@
 =
 =
 *met(C)
-s r
-s dd
-M ee
-s ff
-m ee
-m dd
-M : cc
-m b
-M a
-m g
-m f
-s e
-M d
-M f
-M g
-s a
-M f
-S e
-M : e
-m f
-M g
-M a
-M b
+sr
+sdd
+Mee
+sff
+mee
+mdd
+M:cc
+mb
+Ma
+mg
+mf
+se
+Md
+Mf
+Mg
+sa
+Mf
+Se
+M:e
+mf
+Mg
+Ma
+Mb
 =
-M cc
-M dd
-M ee
-M ff
-m ee
-m dd
-M : cc #
-m b
-S dd
-*custos d
+Mcc
+Mdd
+Mee
+Mff
+mee
+mdd
+M:cc#
+mb
+Sdd
+*custosd

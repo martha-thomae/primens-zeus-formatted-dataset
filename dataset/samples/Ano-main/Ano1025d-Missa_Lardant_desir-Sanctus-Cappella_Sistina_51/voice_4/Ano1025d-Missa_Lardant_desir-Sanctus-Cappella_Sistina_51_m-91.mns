@@ -3,23 +3,23 @@
 =
 *met(O)
 *MM300
-m g
-m f
+mg
+mf
 =
-m e
-m d
-M e
-M : d
-m c #
-m c #
-m B
-S : d
+me
+md
+Me
+M:d
+mc#
+mc#
+mB
+S:d
 *clefC1
 *met(O2)
 *MM400
-L A
-[ S A
-S B
-L c ]
-L d
-*custos A
+LA
+[SA
+SB
+Lc]
+Ld
+*custosA

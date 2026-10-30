@@ -4,17 +4,17 @@
 *met(C3)
 *lg
 s%5G
-s D
+sD
 *Xlg
 *Xcol
-[ s GG
-S D ]
+[sGG
+SD]
 *lg
-[ s BB
-S AA ]
+[sBB
+SAA]
 *Xlg
-S GG
-[ s D
-s E ]
-S D
-*custos GG
+SGG
+[sD
+sE]
+SD
+*custosGG

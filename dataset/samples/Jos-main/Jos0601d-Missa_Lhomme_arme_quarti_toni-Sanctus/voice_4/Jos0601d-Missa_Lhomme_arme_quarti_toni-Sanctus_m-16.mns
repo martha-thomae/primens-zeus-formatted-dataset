@@ -1,98 +1,98 @@
 **mens
 *clefG2
 *met(O)
-M c #
-s d
-M c n
-M : g
-m a
-m b
-m cc
-M b
-s a
-m g
-m f
-s g
-M c
-M : g
-m f
-M g
-M d
-M g
+Mc#
+sd
+Mcn
+M:g
+ma
+mb
+mcc
+Mb
+sa
+mg
+mf
+sg
+Mc
+M:g
+mf
+Mg
+Md
+Mg
 =
-M r
-s g
-M a
-M : b -
-m a
-M f
+Mr
+sg
+Ma
+M:b-
+ma
+Mf
 =
-M g
-M a
-s cc
-m b
-m a
-M b
-M : g
-m f
+Mg
+Ma
+scc
+mb
+ma
+Mb
+M:g
+mf
 =
-M d
-M : e
-m f
+Md
+M:e
+mf
 =
-s g
-M f
-s a
-M b
+sg
+Mf
+sa
+Mb
 =
-M cc
-M : a
-U g
-U f
-M : e
-m f
-M : g
-m a
-s b
-M : g
+Mcc
+M:a
+Ug
+Uf
+M:e
+mf
+M:g
+ma
+sb
+M:g
 =
-m a
-m b
-m cc
-M b
-s a
-M g #
-s a
-M r
-M : cc
-m b
-M : a
-m g
-m f
-m e
-M f
-s g
-M f #
-M g
-M G
-[ s A
-s B ]
-s c
-M r
+ma
+mb
+mcc
+Mb
+sa
+Mg#
+sa
+Mr
+M:cc
+mb
+M:a
+mg
+mf
+me
+Mf
+sg
+Mf#
+Mg
+MG
+[sA
+sB]
+sc
+Mr
 =
-M : c
-m d
-M e
-M f
-m e
-m d
-M c
-s d
-M c #
-s d
-M r
-M : a
-m g
-m f
-m e
-*custos G
+M:c
+md
+Me
+Mf
+me
+md
+Mc
+sd
+Mc#
+sd
+Mr
+M:a
+mg
+mf
+me
+*custosG

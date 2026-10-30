@@ -3,25 +3,25 @@
 *k[b-e-]
 *met(O2)
 *MM480
-s r
-s GG
-M GG
-M GG
-s GG
-s : D
-m C
-m BB -
-s AA
-s AA
-s D
-M C
-M C
-s : F
-m E n
-m D
-s C
-s C
-S C
-s BB -
-s E -
-*custos GG
+sr
+sGG
+MGG
+MGG
+sGG
+s:D
+mC
+mBB-
+sAA
+sAA
+sD
+MC
+MC
+s:F
+mEn
+mD
+sC
+sC
+SC
+sBB-
+sE-
+*custosGG

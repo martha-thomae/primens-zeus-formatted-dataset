@@ -3,61 +3,61 @@
 *k[b-]
 *met(C|)
 *MM340
-M : c
-m d
+M:c
+md
 =
-M e -
-M : f
+Me-
+M:f
 =
-m e -
-M c
-M d
-M d
-M d
-M d
-M A
-M : B -
-m c
-M : d
-m c
-M B -
-M : A
-m G
-M A
-M B -
-M A
-M G
-s A
-M : F
-m G
-M A
-M B -
-M A
-s d
-m c
-m B -
-s A
-s r
-S r
-S r
-s r
+me-
+Mc
+Md
+Md
+Md
+Md
+MA
+M:B-
+mc
+M:d
+mc
+MB-
+M:A
+mG
+MA
+MB-
+MA
+MG
+sA
+M:F
+mG
+MA
+MB-
+MA
+sd
+mc
+mB-
+sA
+sr
+Sr
+Sr
+sr
 M%5d
-m c
-m B -
-s A
-M G
-M : d
-m e
-[ s f
-s e ]
-s d
-M c #
-M d
-M : f
-m e
-M g
+mc
+mB-
+sA
+MG
+M:d
+me
+[sf
+se]
+sd
+Mc#
+Md
+M:f
+me
+Mg
 =
-M f
-M d
-s c
-*custos F
+Mf
+Md
+sc
+*custosF

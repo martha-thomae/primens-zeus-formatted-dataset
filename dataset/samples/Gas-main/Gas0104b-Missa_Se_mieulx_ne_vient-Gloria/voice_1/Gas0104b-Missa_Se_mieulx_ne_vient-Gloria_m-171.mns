@@ -2,22 +2,22 @@
 *clefF4
 *met(3)
 =
-S C
+SC
 *Xcol
-[ s D
-s : F ]
-M E
-[ s D
-s AA ]
-s BB
+[sD
+s:F]
+ME
+[sD
+sAA]
+sBB
 =
-[ S C
-s D ]
-[ S E
-s BB ]
+[SC
+sD]
+[SE
+sBB]
 *lg
-s C
-s BB
+sC
+sBB
 *Xlg
-s C
-*custos AA
+sC
+*custosAA

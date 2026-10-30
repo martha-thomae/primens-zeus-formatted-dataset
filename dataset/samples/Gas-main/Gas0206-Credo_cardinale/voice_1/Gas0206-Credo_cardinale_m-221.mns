@@ -3,26 +3,26 @@
 =
 *met(C|)
 *MM180
-M : AA
-m BB
+M:AA
+mBB
 =
-M C
-M D
-M C
-M : D
-U C
-U BB
-M D
-S AA
+MC
+MD
+MC
+M:D
+UC
+UBB
+MD
+SAA
 *met(C|)
-S A
-S D
-S BB -
-S AA
-S GG
-s r
-s D
-s E
-S C
-s F
-*custos GG
+SA
+SD
+SBB-
+SAA
+SGG
+sr
+sD
+sE
+SC
+sF
+*custosGG

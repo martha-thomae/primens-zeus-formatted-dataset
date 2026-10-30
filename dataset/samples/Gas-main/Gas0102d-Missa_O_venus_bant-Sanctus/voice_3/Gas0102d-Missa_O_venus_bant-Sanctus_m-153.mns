@@ -2,33 +2,33 @@
 *clefC2
 *met(C|3)
 *lg
-s B
-s G
+sB
+sG
 *Xlg
-s B
-s c
-S d
-s B
-S c
-s : A
-M B
-M c
-M d
+sB
+sc
+Sd
+sB
+Sc
+s:A
+MB
+Mc
+Md
 =
-s e
-s : f
-M e
+se
+s:f
+Me
 =
-[ S c
-s d ]
-[ S e
-s d ]
+[Sc
+sd]
+[Se
+sd]
 *lg
-s B
-s G
+sB
+sG
 *Xlg
-s r
-s : G
-M A
-s B
-*custos G
+sr
+s:G
+MA
+sB
+*custosG

@@ -3,23 +3,23 @@
 *k[b-]
 *met(C|)
 *MM340
-s GG
-s r
-S r
+sGG
+sr
+Sr
 =
-S r
-M : D
-m C
-M BB -
-M AA
-M D
-M C
-M BB -
-M AA
+Sr
+M:D
+mC
+MBB-
+MAA
+MD
+MC
+MBB-
+MAA
 *lg
-[ s BB -
-s C ]
+[sBB-
+sC]
 *Xlg
-s BB -
-s r
-*custos GG
+sBB-
+sr
+*custosGG

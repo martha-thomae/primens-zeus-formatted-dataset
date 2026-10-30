@@ -2,20 +2,20 @@
 *clefC2
 *met(C3)
 *MM450
-s : A
-M B
-M c
-M d
-s e
+s:A
+MB
+Mc
+Md
+se
 =
-[ s A
-S e ]
-s c
-< s B
-S e >
-s d
+[sA
+Se]
+sc
+<sB
+Se>
+sd
 =
-s e
-s B
-s r
-*custos A
+se
+sB
+sr
+*custosA

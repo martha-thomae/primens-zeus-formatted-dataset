@@ -3,44 +3,44 @@
 =
 *met(O)
 =
-M A
-M c
-M B
-M G
-[ s A
-S : G ]
-S : G
-S : r
-S : r
-S : G
-s E
-M D
-s G
-M F
-S G
-s F
-M G
-M A
-M D
-M F
-s E
-S D
-s D
-[ s E
-S F ]
-s G
-M F
-M G
-s A
-s A
-M G
-s G
-M F #
-L : G
-S : G
+MA
+Mc
+MB
+MG
+[sA
+S:G]
+S:G
+S:r
+S:r
+S:G
+sE
+MD
+sG
+MF
+SG
+sF
+MG
+MA
+MD
+MF
+sE
+SD
+sD
+[sE
+SF]
+sG
+MF
+MG
+sA
+sA
+MG
+sG
+MF#
+L:G
+S:G
 =
 *clefC4
 *met(C|)
-S r
-S r
-*custos D
+Sr
+Sr
+*custosD

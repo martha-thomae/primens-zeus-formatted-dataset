@@ -5,40 +5,40 @@
 =
 *met(O2)
 *MM400
-s f
+sf
 =
-[ s e
-s A ]
+[se
+sA]
 =
-M : d
-m e
-M f
+M:d
+me
+Mf
 =
-M g
-M a
-M : b -
-m a
-s a
-M g
-M a
-s f
-m e
-m d
-s c
-M r
-s g
-M f
+Mg
+Ma
+M:b-
+ma
+sa
+Mg
+Ma
+sf
+me
+md
+sc
+Mr
+sg
+Mf
 =
-s d
-M : f
-m g
-M a
-s a
-M f
-M e
-s g
-M a
-M g
-M e
-S f
-*custos A
+sd
+M:f
+mg
+Ma
+sa
+Mf
+Me
+sg
+Ma
+Mg
+Me
+Sf
+*custosA

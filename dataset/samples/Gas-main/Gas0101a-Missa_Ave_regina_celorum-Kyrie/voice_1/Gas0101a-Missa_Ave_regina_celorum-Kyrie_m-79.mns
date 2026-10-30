@@ -3,71 +3,71 @@
 *k[b-]
 =
 *met(O)
-M FF
-s F
-M E
-M : E
-m D
-s F
-M : FF
-m GG
-M AA
-M : BB -
-m AA
-M BB -
+MFF
+sF
+ME
+M:E
+mD
+sF
+M:FF
+mGG
+MAA
+M:BB-
+mAA
+MBB-
 *lg
-s C
-s GG
+sC
+sGG
 *Xlg
-M r
-M C
-M AA
-M FF
-s : BB -
-M GG
-s : C
-M AA
-M : D
-m E
-M F
-M BB -
-s C
-M : D
-m C
+Mr
+MC
+MAA
+MFF
+s:BB-
+MGG
+s:C
+MAA
+M:D
+mE
+MF
+MBB-
+sC
+M:D
+mC
 =
-M AA
-s BB -
-M C
-s AA
-s GG
-M FF
-s F
-M E
+MAA
+sBB-
+MC
+sAA
+sGG
+MFF
+sF
+ME
 =
-s F
-s r
-S r
-M : FF
-m GG
-M AA
-M BB -
+sF
+sr
+Sr
+M:FF
+mGG
+MAA
+MBB-
 =
-s C
-M FF
-s F
-M : D
+sC
+MFF
+sF
+M:D
 =
-m C
+mC
 =
-M AA
-s BB -
-s FF
-M C -
-M D
-M C -
-s F
-M G
-M E
-M F
-s C
-*custos FF
+MAA
+sBB-
+sFF
+MC-
+MD
+MC-
+sF
+MG
+ME
+MF
+sC
+*custosFF

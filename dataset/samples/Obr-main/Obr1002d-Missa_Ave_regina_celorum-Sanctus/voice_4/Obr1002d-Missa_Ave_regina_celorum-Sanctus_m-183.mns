@@ -2,18 +2,18 @@
 *clefC1
 *k[b-]
 *met(O)
-M f
-M e
-M d
-S c
-s r
-[ s f
-s g ]
-s b -
-S a
-[ s g
-S f ]
-s e
-L : f
+Mf
+Me
+Md
+Sc
+sr
+[sf
+sg]
+sb-
+Sa
+[sg
+Sf]
+se
+L:f
 *rscale:1
-*custos c
+*custosc

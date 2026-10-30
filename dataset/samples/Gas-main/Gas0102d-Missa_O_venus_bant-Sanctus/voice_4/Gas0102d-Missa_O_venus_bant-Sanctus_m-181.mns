@@ -3,17 +3,17 @@
 =
 *met(C|3)
 *col
-s cc
-s cc
-s a
-s a
-s : dd
-M cc
+scc
+scc
+sa
+sa
+s:dd
+Mcc
 *Xcol
-[ s b
-s : a ]
-M g
-S g
-s f #
-S : g
-*custos f #
+[sb
+s:a]
+Mg
+Sg
+sf#
+S:g
+*custosf#

@@ -5,32 +5,32 @@
 *met(O)
 *MM320
 =
-M A
-M c
-M d
+MA
+Mc
+Md
 =
-M B -
-s A
+MB-
+sA
 =
-S : G
-S : r
-s : F
-M G
+S:G
+S:r
+s:F
+MG
 =
-s A
-s G
-S D
-s r
-s r
-s G
-s G
-s D
-s E
+sA
+sG
+SD
+sr
+sr
+sG
+sG
+sD
+sE
 =
-S D
-s D
-s G
-s A
-s F
+SD
+sD
+sG
+sA
+sF
 =
-*custos D
+*custosD

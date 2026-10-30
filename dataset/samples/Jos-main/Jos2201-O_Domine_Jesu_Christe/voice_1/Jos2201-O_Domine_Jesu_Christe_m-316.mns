@@ -3,19 +3,19 @@
 *clefF4
 *met(C|)
 *MM360
-s E
-s G
-s F
+sE
+sG
+sF
 =
-s D
-[ S E
-S AA ]
-s r
-s D
-s E
-s F
-s : G
-M F
-s D
-s E
-*custos AA
+sD
+[SE
+SAA]
+sr
+sD
+sE
+sF
+s:G
+MF
+sD
+sE
+*custosAA

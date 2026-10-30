@@ -3,41 +3,41 @@
 *k[b-]
 =
 *met(C)
-s c
+sc
 *Xlg
-M B -
-s A
+MB-
+sA
 *met(3)
-s : G
-s : G
+s:G
+s:G
 =
-s A
-M B -
-s c
-M A
-[ s : G
-s : d ]
-s d
-M e
-s f
-M c
+sA
+MB-
+sc
+MA
+[s:G
+s:d]
+sd
+Me
+sf
+Mc
 *col
-s f
-M e
-M d
-s e
+sf
+Me
+Md
+se
 *Xcol
-s d
-M f
-s e
-M e
-M d
+sd
+Mf
+se
+Me
+Md
 =
-M d
-M f
-s e
-M e
-[ s : d
-s e ]
-M e
-*custos G
+Md
+Mf
+se
+Me
+[s:d
+se]
+Me
+*custosG

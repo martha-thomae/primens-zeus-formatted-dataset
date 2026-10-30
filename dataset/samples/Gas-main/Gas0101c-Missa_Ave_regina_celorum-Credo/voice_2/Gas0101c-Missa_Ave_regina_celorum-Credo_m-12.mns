@@ -3,32 +3,32 @@
 *k[b-]
 *met(O)
 *lg
-S : G
+S:G
 s%5A
 *Xlg
-s G
+sG
 *lg
-S : A
-S B -
+S:A
+SB-
 *Xlg
-s A
-M G
-M : B -
-m A
-M F
-s G
-S : F
+sA
+MG
+M:B-
+mA
+MF
+sG
+S:F
 *lg
-S : F
-S E
+S:F
+SE
 *Xlg
-s D
-S E
-s D
-s C
-M D
-s F
-M E
-S F
-s r
-*custos C
+sD
+SE
+sD
+sC
+MD
+sF
+ME
+SF
+sr
+*custosC

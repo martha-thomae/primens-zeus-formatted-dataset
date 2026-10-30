@@ -3,41 +3,41 @@
 *k[b-]
 =
 *met(O)
-M F
-s D
-m C
-m BB -
-M C
-M D
-S : GG
-S : D
-S : BB -
-M r
-M : GG
-m AA
-m BB -
-m C
-M : D
-m E
-m F
-m E
-M : G
-m F
-m E
-m D
-M C
-M : D
-m C
-M : E -
-m D
-m C
-m BB -
-M AA
-M : BB -
-m AA
-M : C
-m BB -
-m AA
-m GG
-s FF
-*custos FF
+MF
+sD
+mC
+mBB-
+MC
+MD
+S:GG
+S:D
+S:BB-
+Mr
+M:GG
+mAA
+mBB-
+mC
+M:D
+mE
+mF
+mE
+M:G
+mF
+mE
+mD
+MC
+M:D
+mC
+M:E-
+mD
+mC
+mBB-
+MAA
+M:BB-
+mAA
+M:C
+mBB-
+mAA
+mGG
+sFF
+*custosFF

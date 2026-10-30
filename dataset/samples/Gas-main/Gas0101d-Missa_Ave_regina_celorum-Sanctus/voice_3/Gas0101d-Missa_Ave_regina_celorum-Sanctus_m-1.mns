@@ -5,22 +5,22 @@
 *k[b-]
 *met(O)
 *col
-L F
+LF
 *Xcol
-M : E
-m C
-M D
+M:E
+mC
+MD
 *lg
 *col
-s E
+sE
 =
-s C
+sC
 *Xcol
 *Xlg
-s D
-M E
-s F
-M r
-s F
-M G
-*custos C
+sD
+ME
+sF
+Mr
+sF
+MG
+*custosC

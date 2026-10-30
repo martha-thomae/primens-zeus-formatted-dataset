@@ -3,30 +3,30 @@
 *k[b-]
 *met(C|)
 =
-s r
-s f
-s e
-s g
+sr
+sf
+se
+sg
 =
-s : f
-m e
-m d
+s:f
+me
+md
 =
-s : c #
-M B n
+s:c#
+MBn
 *met(O/3)
-S : d
-S : r
-S f
-s a
-s : a
-M g
+S:d
+S:r
+Sf
+sa
+s:a
+Mg
 =
-[ s e
-S f ]
-s e
-s c
-S d
-S c
-s A
-*custos A
+[se
+Sf]
+se
+sc
+Sd
+Sc
+sA
+*custosA

@@ -2,32 +2,32 @@
 *clefC4
 *met(C.)
 *col
-L G
-S A
+LG
+SA
 *Xcol
-S : G
-S : r
-L : c
+S:G
+S:r
+L:c
 =
-s : B
-s A
-M G
+s:B
+sA
+MG
 *lg
 =
-[ S : A
-S : c ]
+[S:A
+S:c]
 *Xlg
-S : c
-S : r
-S : r
+S:c
+S:r
+S:r
 *col
-S G
+SG
 *lg
 =
-S d
-S B
+Sd
+SB
 =
 *Xcol
 =
 *Xlg
-*custos G
+*custosG

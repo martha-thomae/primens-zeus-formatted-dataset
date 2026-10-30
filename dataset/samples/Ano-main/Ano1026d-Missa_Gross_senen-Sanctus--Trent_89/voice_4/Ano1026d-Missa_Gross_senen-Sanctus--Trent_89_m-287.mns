@@ -3,29 +3,29 @@
 *k[b-]
 *met(C|)
 *MM400
-M g
-s g
-s f
+Mg
+sg
+sf
 =
-S b -
-s a
-[ s g
-s cc ]
-M b -
-s a
-M f
-M e
-s d
-s g
-M f #
-M f #
-M e
-L : g
+Sb-
+sa
+[sg
+scc]
+Mb-
+sa
+Mf
+Me
+sd
+sg
+Mf#
+Mf#
+Me
+L:g
 *clefC1
 *k[b-]
 *met(O2)
-S r
-S r
-S r
-S r
-*custos d
+Sr
+Sr
+Sr
+Sr
+*custosd

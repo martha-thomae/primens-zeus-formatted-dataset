@@ -2,16 +2,16 @@
 *clefC1
 *met(O2)
 *MM400
-s d
-s : f
-m e
-m d
-[ s e
-s : d ]
-m c
-m B
-S A
-s r
-S f
-s e
-*custos A
+sd
+s:f
+me
+md
+[se
+s:d]
+mc
+mB
+SA
+sr
+Sf
+se
+*custosA

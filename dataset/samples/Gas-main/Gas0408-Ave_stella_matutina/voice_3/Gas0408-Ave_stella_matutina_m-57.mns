@@ -2,19 +2,19 @@
 *clefC2
 =
 *met(3)
-S A
-s r
-S : r
-S : r
-S : r
-[ S E
-s G ]
-S A
-s G
+SA
+sr
+S:r
+S:r
+S:r
+[SE
+sG]
+SA
+sG
 *col
-s c
-[ s B
-S A ]
-S G
+sc
+[sB
+SA]
+SG
 *Xcol
-*custos E
+*custosE

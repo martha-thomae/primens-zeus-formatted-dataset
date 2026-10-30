@@ -5,13 +5,13 @@
 *met(C|)
 *MM400
 =
-s C
-s D
-s GG
-s r
-s BB -
-S E -
-s : F
-M E -
-s F
-*custos GG
+sC
+sD
+sGG
+sr
+sBB-
+SE-
+s:F
+ME-
+sF
+*custosGG

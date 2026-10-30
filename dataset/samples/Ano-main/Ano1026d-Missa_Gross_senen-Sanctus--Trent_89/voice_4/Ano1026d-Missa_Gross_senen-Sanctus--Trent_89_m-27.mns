@@ -3,59 +3,59 @@
 *k[b-]
 *met(O)
 *MM300
-S d
-s r
-s a
-M : b -
-m a
-s g
-s f
-M d
-s f
-M g
-s a
-M d
-M e
-s f
-M g
-M : b -
-m a
-M : g
-m f
-M d
-s e -
-M r
-s d
-M g
-M f
-s b -
-M a
-M f
-M g
-M a
-M b -
-M : cc
-m b -
-s g
-s a
-s : f
-M d
-s d
-s r
-s g
-s f
-M e
-M : a
-m b -
-M : cc
-m b -
-m a
-m g
-M f
-M : g
-m f #
+Sd
+sr
+sa
+M:b-
+ma
+sg
+sf
+Md
+sf
+Mg
+sa
+Md
+Me
+sf
+Mg
+M:b-
+ma
+M:g
+mf
+Md
+se-
+Mr
+sd
+Mg
+Mf
+sb-
+Ma
+Mf
+Mg
+Ma
+Mb-
+M:cc
+mb-
+sg
+sa
+s:f
+Md
+sd
+sr
+sg
+sf
+Me
+M:a
+mb-
+M:cc
+mb-
+ma
+mg
+Mf
+M:g
+mf#
 =
-m f #
-m e
-L : g
-*custos d
+mf#
+me
+L:g
+*custosd

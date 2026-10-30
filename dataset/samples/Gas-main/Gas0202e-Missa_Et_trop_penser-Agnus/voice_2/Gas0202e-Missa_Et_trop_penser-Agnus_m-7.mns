@@ -3,14 +3,14 @@
 *k[b-]
 *met(O)
 =
-S : r
-S : r
-s r
-s r
+S:r
+S:r
+sr
+sr
 *lg
 *col
-S G
-S B -
+SG
+SB-
 *Xcol
 *Xlg
-*custos G
+*custosG

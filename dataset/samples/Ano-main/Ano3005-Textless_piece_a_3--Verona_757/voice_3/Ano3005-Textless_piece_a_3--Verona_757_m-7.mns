@@ -2,20 +2,20 @@
 *clefG2
 *k[b-]
 *met(C|)
-m a
-m g
-M f
-M : g
-m f
-s b -
-M a
-s g
-M f
-M : e
+ma
+mg
+Mf
+M:g
+mf
+sb-
+Ma
+sg
+Mf
+M:e
 =
-m d
-s g
-M f #
+md
+sg
+Mf#
 s%M:g
 3f
 3%M%2e
@@ -24,4 +24,4 @@ s%M:f
 3%M%2f
 3%m%4g
 3%M%2g
-*custos d
+*custosd

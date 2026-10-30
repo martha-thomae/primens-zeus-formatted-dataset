@@ -3,15 +3,15 @@
 =
 *met(C|3)
 *col
-s : e
-M d
+s:e
+Md
 *lg
-S B
+SB
 =
-S A
+SA
 *Xcol
 *Xlg
-S : r
+S:r
 *met(C|)
-S r
-*custos A
+Sr
+*custosA

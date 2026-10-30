@@ -9,12 +9,12 @@
 3%M%2G
 3F#
 *Xcol
-s G
-s r
-S r
-S r
-S r
-s D
+sG
+sr
+Sr
+Sr
+Sr
+sD
 *col
 3%M%2G
 3G
@@ -27,4 +27,4 @@ s D
 3d
 3%M%2d
 3c
-*custos D
+*custosD

@@ -2,32 +2,32 @@
 *clefF4
 *met(C|)
 *MM400
-L D
-S E
+LD
+SE
 =
-S F
-s : G
-M F
-S D
-s r
-s A
-s G
-s A
-S B -
-S A
-s : A
-M G
-M F
-M G
-s A
-s D
-M C
-s D
-M E
-s F
-s G
-M D
-s G
-M F
-s D
-*custos C
+SF
+s:G
+MF
+SD
+sr
+sA
+sG
+sA
+SB-
+SA
+s:A
+MG
+MF
+MG
+sA
+sD
+MC
+sD
+ME
+sF
+sG
+MD
+sG
+MF
+sD
+*custosC

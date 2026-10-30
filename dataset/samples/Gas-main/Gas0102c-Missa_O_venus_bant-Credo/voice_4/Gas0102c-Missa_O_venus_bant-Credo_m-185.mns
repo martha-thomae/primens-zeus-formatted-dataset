@@ -3,18 +3,18 @@
 =
 =
 *met(C|)
-s e
-M f
-s g
+se
+Mf
+sg
 *col
-M : a
-m e
+M:a
+me
 *Xcol
-M f #
-s : g
-M a
-s b
-s cc
-s a
-s g
-*custos e
+Mf#
+s:g
+Ma
+sb
+scc
+sa
+sg
+*custose

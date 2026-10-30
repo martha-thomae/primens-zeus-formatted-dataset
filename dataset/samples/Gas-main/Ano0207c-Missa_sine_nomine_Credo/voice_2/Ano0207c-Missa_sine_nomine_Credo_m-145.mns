@@ -3,40 +3,40 @@
 *k[b-]
 *met(C|)
 *met(O)
-s r
-s r
-s d
-S d
-s d
+sr
+sr
+sd
+Sd
+sd
 =
-S c
-s c
-S : c
+Sc
+sc
+S:c
 *col
-s A
-S G
+sA
+SG
 *Xcol
-S F
-s r
-S D
-s F
-S G
-s A
-S B -
-s A
-S G
-s F
-M G
-M A
-M B -
+SF
+sr
+SD
+sF
+SG
+sA
+SB-
+sA
+SG
+sF
+MG
+MA
+MB-
 =
-M c
-s A
-S G
-s c
+Mc
+sA
+SG
+sc
 *lg
-s B -
-s G
+sB-
+sG
 *Xlg
-s A
-*custos D
+sA
+*custosD

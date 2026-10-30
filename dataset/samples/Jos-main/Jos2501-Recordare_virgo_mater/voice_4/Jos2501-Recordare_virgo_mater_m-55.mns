@@ -3,31 +3,31 @@
 =
 *met(C|)
 =
-M cc
-s dd
-M : ee
-m dd
-m cc
-m b
-M : a
-m b
-m cc
-m a
-s dd
-M cc
-M dd
-M : a
-m b
-s cc
-M b
-S cc
+Mcc
+sdd
+M:ee
+mdd
+mcc
+mb
+M:a
+mb
+mcc
+ma
+sdd
+Mcc
+Mdd
+M:a
+mb
+scc
+Mb
+Scc
 =
-s cc
-s dd
-s dd
+scc
+sdd
+sdd
 =
-s ee
-s ee
-[ s a
-S : ee ]
-*custos a
+see
+see
+[sa
+S:ee]
+*custosa

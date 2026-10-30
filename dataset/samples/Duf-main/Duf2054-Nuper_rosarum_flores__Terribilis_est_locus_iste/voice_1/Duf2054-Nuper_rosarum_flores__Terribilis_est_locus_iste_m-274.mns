@@ -3,22 +3,22 @@
 *k[b-]
 *met(O|)
 =
-S : r
-[ S : B -
-S : c
-S : B -
-S : A ]
-[ S : G
-S B - ]
-s A
-s B -
+S:r
+[S:B-
+S:c
+S:B-
+S:A]
+[S:G
+SB-]
+sA
+sB-
 =
-s : c
-M B -
+s:c
+MB-
 =
 =
-s G
-S A
-S : G
+sG
+SA
+S:G
 *rscale:1
-*custos G
+*custosG

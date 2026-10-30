@@ -2,13 +2,13 @@
 *clefF4
 *met(C|)
 *MM360
-s : C
-M BB
-s C
-s D
-S GG
-L : C
-[ S AA
-s C ]
-s D
-*custos GG
+s:C
+MBB
+sC
+sD
+SGG
+L:C
+[SAA
+sC]
+sD
+*custosGG

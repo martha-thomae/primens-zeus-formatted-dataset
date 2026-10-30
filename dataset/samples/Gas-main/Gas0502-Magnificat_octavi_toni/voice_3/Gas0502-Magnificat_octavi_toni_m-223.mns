@@ -3,30 +3,30 @@
 =
 *clefC2
 *met(c)
-M d
-M e
-M f
-s g
-M e
-s d
+Md
+Me
+Mf
+sg
+Me
+sd
 =
-S c
-s r
+Sc
+sr
 =
-s f
-M d
+sf
+Md
 *col
-M : g
-m f
+M:g
+mf
 *Xcol
-M g
-M e
-s c
+Mg
+Me
+sc
 *col
-M : d
-m c
+M:d
+mc
 *Xcol
-M d
-M B
-M G
-*custos G
+Md
+MB
+MG
+*custosG

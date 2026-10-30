@@ -3,12 +3,12 @@
 *met(C)
 *MM420
 =
-s r
-s c
-[ s d
-s e ]
+sr
+sc
+[sd
+se]
 =
-S f
-S d
-S c
-*custos c
+Sf
+Sd
+Sc
+*custosc

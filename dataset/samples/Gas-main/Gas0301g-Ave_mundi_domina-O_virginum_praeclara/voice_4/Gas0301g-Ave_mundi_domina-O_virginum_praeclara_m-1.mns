@@ -4,36 +4,36 @@
 *met(C|)
 =
 *MM320
-L g
+Lg
 *lg
-[ s d
-s f ]
+[sd
+sf]
 *Xlg
-s g
-s e -
+sg
+se-
 *lg
-[ s f
-s : b - ]
+[sf
+s:b-]
 *Xlg
-M a
-[ s f
-s : g ]
-M e -
+Ma
+[sf
+s:g]
+Me-
 =
-[ s f
-s e - ]
+[sf
+se-]
 =
-s d
-S g
+sd
+Sg
 =
-s f
-M g
-M b -
-M a
-M : cc
-m b -
-m a
-m g
-M : f #
-m e
-*custos d
+sf
+Mg
+Mb-
+Ma
+M:cc
+mb-
+ma
+mg
+M:f#
+me
+*custosd

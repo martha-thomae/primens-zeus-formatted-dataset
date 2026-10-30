@@ -4,25 +4,25 @@
 =
 *met(C|)
 =
-s a
-M g
+sa
+Mg
 =
-M a
+Ma
 =
-s cc
-s b -
-m a
-m g
-M f
-M : b -
-m a
+scc
+sb-
+ma
+mg
+Mf
+M:b-
+ma
 =
-M : a
-m g
-m f
-m e
-M d
-s g
-M f #
-S g
-*custos d
+M:a
+mg
+mf
+me
+Md
+sg
+Mf#
+Sg
+*custosd

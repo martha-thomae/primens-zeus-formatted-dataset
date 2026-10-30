@@ -2,20 +2,20 @@
 *clefF4
 *met(O)
 *MM384
-S F
-M D
+SF
+MD
 =
-M C
-M F
-M G
-M A
-M B -
-s G
-S : F
+MC
+MF
+MG
+MA
+MB-
+sG
+S:F
 *clefF4
 *met(C)
 *MM420
-S r
+Sr
 =
-S r
-*custos C
+Sr
+*custosC

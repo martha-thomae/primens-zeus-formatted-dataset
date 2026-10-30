@@ -3,22 +3,22 @@
 *k[b-]
 *met(C|)
 *MM288
-s c
+sc
 =
-s : B -
-M A
-s B -
-s : c
-m d
-m e
-s f
-S e -
-[ s d
-S c
-S B - ]
+s:B-
+MA
+sB-
+s:c
+md
+me
+sf
+Se-
+[sd
+Sc
+SB-]
 *clefC4
 *k[b-]
 *met(O2)
 *MM384
-S r
-*custos A
+Sr
+*custosA

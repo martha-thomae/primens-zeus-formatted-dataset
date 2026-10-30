@@ -5,16 +5,16 @@
 *MM400
 *met(C)
 *MM300
-[ S A
-s D ]
-s E
+[SA
+sD]
+sE
 =
-s D
-M AA
-s D
-M C
-M AA
-M C
-s BB -
-s AA
-*custos AA
+sD
+MAA
+sD
+MC
+MAA
+MC
+sBB-
+sAA
+*custosAA

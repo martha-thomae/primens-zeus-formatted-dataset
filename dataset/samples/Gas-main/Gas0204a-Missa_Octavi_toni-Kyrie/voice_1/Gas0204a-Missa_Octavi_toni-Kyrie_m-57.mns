@@ -2,26 +2,26 @@
 *clefF4
 *met(C|)
 =
-S r
+Sr
 =
-S r
-s : D
-M E
+Sr
+s:D
+ME
 *lg
-s F
-s G
+sF
+sG
 *Xlg
-s F
-M G
-s F
-s G
-M E
+sF
+MG
+sF
+sG
+ME
 *col
 =
-M : D
-m C
+M:D
+mC
 *Xcol
-s D
-[ s GG
-s C ]
-*custos GG
+sD
+[sGG
+sC]
+*custosGG

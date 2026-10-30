@@ -4,26 +4,26 @@
 *k[b-]
 *met(C|)
 *MM340
-s r
-s D
-s C
-M BB -
-s BB -
-M AA
-M : BB -
-m C
+sr
+sD
+sC
+MBB-
+sBB-
+MAA
+M:BB-
+mC
 =
-m D
-m E
-M : F
-m G
-M A
-M F
-s G
-s D
-M BB -
-s AA
+mD
+mE
+M:F
+mG
+MA
+MF
+sG
+sD
+MBB-
+sAA
 =
-s GG
-s r
-*custos GG
+sGG
+sr
+*custosGG

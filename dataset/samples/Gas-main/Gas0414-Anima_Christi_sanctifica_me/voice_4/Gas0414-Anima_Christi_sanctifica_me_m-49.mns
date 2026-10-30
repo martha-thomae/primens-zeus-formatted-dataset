@@ -2,16 +2,16 @@
 *clefG2
 *met(O/3)
 *col
-[ s b
-s a ]
-S dd
+[sb
+sa]
+Sdd
 *Xcol
-s : ee
-M dd
-[ S cc
-s b ]
-S : cc
-s r
-s r
-s cc
-*custos a
+s:ee
+Mdd
+[Scc
+sb]
+S:cc
+sr
+sr
+scc
+*custosa

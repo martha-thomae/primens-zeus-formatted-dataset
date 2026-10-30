@@ -3,23 +3,23 @@
 *k[b-]
 *met(C|)
 *MM340
-s D
-s r
-s r
+sD
+sr
+sr
 *lg
-s BB -
-s C
+sBB-
+sC
 *Xlg
-s BB -
-M F
-M D
-s BB -
-s F
-s r
-s F
-M G
-M : F
-m G
-M E -
-s D
-*custos BB -
+sBB-
+MF
+MD
+sBB-
+sF
+sr
+sF
+MG
+M:F
+mG
+ME-
+sD
+*custosBB-

@@ -3,42 +3,42 @@
 *k[b-]
 =
 *met(O/3)
-S AA
-S AA
-S FF
-s BB -
-[ S GG
-s AA ]
-s D
-s D
-S C
-s r
-S F
-s F
-[ S BB -
-s C ]
-s D
-s BB -
-s C
-S FF
-s r
-s F
-s F
-s F
-S C
-s C
-s F
-[ S D
-s C
-s D
-s BB -
-S C ]
-s r
-s : C
-m BB -
-m AA
-s GG
-[ s FF
-s C ]
-s GG
-*custos FF
+SAA
+SAA
+SFF
+sBB-
+[SGG
+sAA]
+sD
+sD
+SC
+sr
+SF
+sF
+[SBB-
+sC]
+sD
+sBB-
+sC
+SFF
+sr
+sF
+sF
+sF
+SC
+sC
+sF
+[SD
+sC
+sD
+sBB-
+SC]
+sr
+s:C
+mBB-
+mAA
+sGG
+[sFF
+sC]
+sGG
+*custosFF

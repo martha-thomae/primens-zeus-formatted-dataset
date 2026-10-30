@@ -3,33 +3,33 @@
 *k[b-]
 *met(C|)
 *MM300
-s : B -
-m A
-m G
-S F
-s r
-s G
-s : F #
-m E
-m F #
-s G
-s : B -
-M c
-s d
-M G
-s B -
-M c
-M d
-M e
-s f
-s : B -
-M c
-s d
-s : G
-M A
+s:B-
+mA
+mG
+SF
+sr
+sG
+s:F#
+mE
+mF#
+sG
+s:B-
+Mc
+sd
+MG
+sB-
+Mc
+Md
+Me
+sf
+s:B-
+Mc
+sd
+s:G
+MA
 =
-M B -
-M c
-s d
-s D
-*custos D
+MB-
+Mc
+sd
+sD
+*custosD

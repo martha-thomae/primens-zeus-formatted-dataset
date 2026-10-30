@@ -1,12 +1,12 @@
 **mens
 *clefF4
 *met(O)
-s A
-s r
-s r
+sA
+sr
+sr
 *met(3)
 =
-M c
+Mc
 6d
 6e
 6f
@@ -16,27 +16,27 @@ M c
 3%M%2f
 3%M%2e
 *met(C|)
-s c
-M d
-M A
-s f
-s e
-M d
-M c
-M d
-M A
-[ s f
-s e ]
-M r
-M : A
+sc
+Md
+MA
+sf
+se
+Md
+Mc
+Md
+MA
+[sf
+se]
+Mr
+M:A
 =
-m B
-M c
-M d
-M B
-M c
-M d
-s e
-[ s f
-L e ]
-*custos A
+mB
+Mc
+Md
+MB
+Mc
+Md
+se
+[sf
+Le]
+*custosA

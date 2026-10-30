@@ -4,39 +4,39 @@
 =
 *met(C3)
 *col
-s dd
-s dd
+sdd
+sdd
 =
-s cc
+scc
 *Xcol
-M f
-m b -
-m a
-m b -
-m a
-s b -
-M a
-M b -
-s f
-M d
+Mf
+mb-
+ma
+mb-
+ma
+sb-
+Ma
+Mb-
+sf
+Md
 =
-s e
-M d
-m g
-m f
-m g
-m f
-s g
-M f
-M g
-s d
-M B -
-s c
-M B -
-m e -
-m d
-m e -
-m d
-s d
-M c #
-*custos B -
+se
+Md
+mg
+mf
+mg
+mf
+sg
+Mf
+Mg
+sd
+MB-
+sc
+MB-
+me-
+md
+me-
+md
+sd
+Mc#
+*custosB-

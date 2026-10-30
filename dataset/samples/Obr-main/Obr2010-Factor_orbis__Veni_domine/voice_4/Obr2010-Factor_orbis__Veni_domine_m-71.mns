@@ -1,101 +1,101 @@
 **mens
 *clefC2
 *met(O)
-s A
-s A
-s F
-M : F
-m E
-M D
-M C
-s D
-M r
-M A
-M F
-M G
+sA
+sA
+sF
+M:F
+mE
+MD
+MC
+sD
+Mr
+MA
+MF
+MG
 =
-s A
+sA
 *met(C|)
-s A
-M r
-M A
-M c
-M c
-M A
+sA
+Mr
+MA
+Mc
+Mc
+MA
 =
-M B -
-M A
-M G
-M A
-M A
-M A
-m A
-m A
-M c
-M A
-M B
-M A
-M G
-m r
-m A
-m E
-M A
-m G
-M A
-m r
-m A
-M c
-M A
+MB-
+MA
+MG
+MA
+MA
+MA
+mA
+mA
+Mc
+MA
+MB
+MA
+MG
+mr
+mA
+mE
+MA
+mG
+MA
+mr
+mA
+Mc
+MA
 =
-m : c
-U d
-m e
-M f
-M e
-m d
-M e
-M e
-M d
-M c
-M c
-M B
-M A
-M c
-M c
-M A
-M G
-M G
-M c
-M c
-M c
-M B
-M A
-M B
-M c
-M A
-M A
-M G
-M A
-M c
-M c
-M A
-M G
-M G
+m:c
+Ud
+me
+Mf
+Me
+md
+Me
+Me
+Md
+Mc
+Mc
+MB
+MA
+Mc
+Mc
+MA
+MG
+MG
+Mc
+Mc
+Mc
+MB
+MA
+MB
+Mc
+MA
+MA
+MG
+MA
+Mc
+Mc
+MA
+MG
+MG
 =
-M c
-M c
-M c
-M B
-M A
-m G
-M A
-U G
-U F
-M E
-M D
-M G
-M A
-M c
-M B
-M G
-*custos C
+Mc
+Mc
+Mc
+MB
+MA
+mG
+MA
+UG
+UF
+ME
+MD
+MG
+MA
+Mc
+MB
+MG
+*custosC

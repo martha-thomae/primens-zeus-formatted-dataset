@@ -3,28 +3,28 @@
 *met(C|)
 =
 *MM180
-m B
-M c
-s d
-S c
-s : c
-m B
-m A
-s B
+mB
+Mc
+sd
+Sc
+s:c
+mB
+mA
+sB
 =
 =
-[ s G
-s : A ]
-M B
-s : c
+[sG
+s:A]
+MB
+s:c
 =
-M B
-s G
-s B
-s : c
-M A
-s B
-s B
-S A
-S d
-*custos G
+MB
+sG
+sB
+s:c
+MA
+sB
+sB
+SA
+Sd
+*custosG

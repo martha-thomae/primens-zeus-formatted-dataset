@@ -4,27 +4,27 @@
 *met(C|)
 =
 *MM180
-s E
+sE
 *lg
-s C
+sC
 *Xlg
 *lg
-s D
-s GG
+sD
+sGG
 *Xlg
-L AA
-s D
-s E
-s F
-s G
-M : F
-m E
-s C
-[ s E
-s C ]
-< s AA
-s : D >
-M C
-s BB -
-S AA
-*custos GG
+LAA
+sD
+sE
+sF
+sG
+M:F
+mE
+sC
+[sE
+sC]
+<sAA
+s:D>
+MC
+sBB-
+SAA
+*custosGG

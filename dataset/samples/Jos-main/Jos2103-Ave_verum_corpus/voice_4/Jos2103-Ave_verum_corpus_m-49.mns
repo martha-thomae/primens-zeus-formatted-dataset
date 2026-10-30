@@ -3,12 +3,12 @@
 *k[b-]
 =
 *met(O2)
-s A
-S A
-s A
-s : B -
-M A
-S A
+sA
+SA
+sA
+s:B-
+MA
+SA
 *met(C|)
-S r
-*custos A
+Sr
+*custosA

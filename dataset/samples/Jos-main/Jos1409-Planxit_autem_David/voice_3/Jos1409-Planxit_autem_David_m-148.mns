@@ -3,23 +3,23 @@
 *k[b-]
 *met(C|)
 *met(O/3)
-S A
-s A
-S G
-s A
-s A
-s B -
-s A
-s r
-s : A
-M B -
-s c
-s : d
-m c
-m d
-s c
-S B -
+SA
+sA
+SG
+sA
+sA
+sB-
+sA
+sr
+s:A
+MB-
+sc
+s:d
+mc
+md
+sc
+SB-
 *met(C|)
-S A
-S B -
-*custos G
+SA
+SB-
+*custosG

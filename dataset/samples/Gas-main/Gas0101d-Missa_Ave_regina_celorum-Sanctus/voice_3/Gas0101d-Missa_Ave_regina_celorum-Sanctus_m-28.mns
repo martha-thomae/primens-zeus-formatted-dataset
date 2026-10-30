@@ -2,25 +2,25 @@
 *clefC2
 *k[b-]
 *met(O)
-s r
-s d
-M : d
-m c
+sr
+sd
+M:d
+mc
 =
-M A
-M F
-M G
-M A
-M G
-M F
-M A
-M B -
-M G
-s : c
-M A
-M F
-M B -
-M G
-M : F
-m G
-*custos F
+MA
+MF
+MG
+MA
+MG
+MF
+MA
+MB-
+MG
+s:c
+MA
+MF
+MB-
+MG
+M:F
+mG
+*custosF

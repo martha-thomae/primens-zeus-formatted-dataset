@@ -4,20 +4,20 @@
 *k[b-]
 *met(O)
 *MM300
-m c
-M d
-s G
-s A
-S : G
-S : r
+mc
+Md
+sG
+sA
+S:G
+S:r
 =
-s G
-s : B -
-M B -
-s G
-M d
-M d
+sG
+s:B-
+MB-
+sG
+Md
+Md
 =
-M d
-M d
-*custos G
+Md
+Md
+*custosG

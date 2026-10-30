@@ -2,27 +2,27 @@
 *clefC2
 *met(C3)
 *MM450
-S : A
+S:A
 *clefC2
 =
 *met(O)
 *MM300
-[ S e
-s f
-s e
-s : A ]
+[Se
+sf
+se
+s:A]
 =
-s f
-s e
-M : A
-m G
-M F
+sf
+se
+M:A
+mG
+MF
 =
-M E
-M C
-M r
-M G
+ME
+MC
+Mr
+MG
 =
-M E
-M F
-*custos C
+ME
+MF
+*custosC

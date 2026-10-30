@@ -5,12 +5,12 @@
 *k[b-e-]
 *met(C|)
 *MM400
-s r
-s GG
+sr
+sGG
 =
-s C
-s BB -
-S GG
-S r
-S r
-*custos GG
+sC
+sBB-
+SGG
+Sr
+Sr
+*custosGG

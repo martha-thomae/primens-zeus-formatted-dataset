@@ -3,36 +3,36 @@
 =
 *met(O)
 =
-s A
-M r
-M : D
-m E
-m F
-m G
-M A
-M B
+sA
+Mr
+M:D
+mE
+mF
+mG
+MA
+MB
 *lg
-s c
-s d
+sc
+sd
 *Xlg
-M B
-M G
-M c
-M B
-s A
-M G
-M F
+MB
+MG
+Mc
+MB
+sA
+MG
+MF
 *lg
-s G
-s A
-S G
+sG
+sA
+SG
 *Xlg
 *met(C|)
 *lg
-L G
+LG
 *col
-s : A
+s:A
 *Xlg
-M B
+MB
 *Xcol
-*custos D
+*custosD

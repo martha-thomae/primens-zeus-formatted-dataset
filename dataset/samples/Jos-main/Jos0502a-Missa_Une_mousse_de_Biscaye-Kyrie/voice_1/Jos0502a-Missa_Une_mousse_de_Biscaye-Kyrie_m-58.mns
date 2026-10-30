@@ -5,20 +5,20 @@
 =
 =
 *met(C|)
-s D
-M C
-M BB -
-s C
+sD
+MC
+MBB-
+sC
 =
-M BB -
-M : GG
-m AA
-m BB -
-m C
-M D
-M E
-M D
-M : E
-m D
-M E
-*custos GG
+MBB-
+M:GG
+mAA
+mBB-
+mC
+MD
+ME
+MD
+M:E
+mD
+ME
+*custosGG

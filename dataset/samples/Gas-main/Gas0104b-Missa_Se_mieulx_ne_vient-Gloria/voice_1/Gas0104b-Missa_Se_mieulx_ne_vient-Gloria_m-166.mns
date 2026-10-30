@@ -2,23 +2,23 @@
 *clefF4
 =
 *met(3)
-s : E
-M F
-s G
-s : C
-M D
-s E
-s : AA
-M BB
+s:E
+MF
+sG
+s:C
+MD
+sE
+s:AA
+MBB
 =
-s C
+sC
 *lg
-s GG
-S AA
+sGG
+SAA
 *Xlg
 *col
-S GG
-S GG
-S C
+SGG
+SGG
+SC
 *Xcol
-*custos GG
+*custosGG

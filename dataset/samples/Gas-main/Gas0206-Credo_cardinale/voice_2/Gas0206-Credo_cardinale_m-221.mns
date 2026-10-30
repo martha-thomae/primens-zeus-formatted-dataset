@@ -3,21 +3,21 @@
 =
 *met(C|)
 *MM180
-L : A
+L:A
 *met(C|)
-S r
-S A
+Sr
+SA
 =
-[ S D
-s E ]
-s F
-S G
-s G
-s A
-s : G
-M F
+[SD
+sE]
+sF
+SG
+sG
+sA
+s:G
+MF
 *lg
-[ s E
-s D ]
+[sE
+sD]
 *Xlg
-*custos D
+*custosD

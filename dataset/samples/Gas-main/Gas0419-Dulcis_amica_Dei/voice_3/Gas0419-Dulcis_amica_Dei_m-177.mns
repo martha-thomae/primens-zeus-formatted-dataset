@@ -4,18 +4,18 @@
 *met(C|)
 *col
 *lg
-L A
-S B -
+LA
+SB-
 *Xlg
-L : c
-s B -
-S A
-L : G
-L : G
+L:c
+sB-
+SA
+L:G
+L:G
 *Xcol
-S : r
-S : r
+S:r
+S:r
 =
-S : r
+S:r
 =
-*custos G
+*custosG

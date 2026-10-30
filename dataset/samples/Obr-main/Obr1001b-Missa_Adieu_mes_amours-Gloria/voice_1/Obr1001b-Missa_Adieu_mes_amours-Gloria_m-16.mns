@@ -3,24 +3,24 @@
 *k[b-]
 *met(O)
 =
-s : GG
-M : G
-m F
-m G
-m F
-s : D
-M : F
-m E
-m F
-m E
-s : C
-M : E -
-m D
-m E -
-m D
-s : BB -
-M : D
-m C
-m D
-m C
-*custos GG
+s:GG
+M:G
+mF
+mG
+mF
+s:D
+M:F
+mE
+mF
+mE
+s:C
+M:E-
+mD
+mE-
+mD
+s:BB-
+M:D
+mC
+mD
+mC
+*custosGG

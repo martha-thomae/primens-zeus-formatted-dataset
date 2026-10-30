@@ -3,47 +3,47 @@
 *k[b-]
 *met(C|)
 *lg
-s dd
-s cc
+sdd
+scc
 *Xlg
-M : f
-m g
-s a
-s d
-S g
-s f #
+M:f
+mg
+sa
+sd
+Sg
+sf#
 =
-S g
-M r
+Sg
+Mr
 =
-s g
-m f
-m e -
-M d
-M e -
-M d
-s g
+sg
+mf
+me-
+Md
+Me-
+Md
+sg
 =
-m f
-m e -
-M e -
-m d
-m c
-M B -
+mf
+me-
+Me-
+md
+mc
+MB-
 =
-M e -
-M d
+Me-
+Md
 =
-M : g
-m f
-M e -
-M d
-s c
+M:g
+mf
+Me-
+Md
+sc
 =
-M B n
-s c
-M : d
-m e
-M f
-M e
-*custos B -
+MBn
+sc
+M:d
+me
+Mf
+Me
+*custosB-

@@ -3,36 +3,36 @@
 *clefC1
 =
 *met(C|)
-s gg
-s aa
-s gg
-M dd
-M : ee
-m ff
-M gg
-M : ff
-U ee
-U dd
-M dd
-M cc
-s ee
-s ee
-M : ff
-U ee
-U dd
-s cc
-M ff
+sgg
+saa
+sgg
+Mdd
+M:ee
+mff
+Mgg
+M:ff
+Uee
+Udd
+Mdd
+Mcc
+see
+see
+M:ff
+Uee
+Udd
+scc
+Mff
 =
-s ee
-s dd
-M cc #
-S dd
-s r
-s ee
-M cc
-s cc
-M b
-s a
-s g
-S r
-*custos g
+see
+sdd
+Mcc#
+Sdd
+sr
+see
+Mcc
+scc
+Mb
+sa
+sg
+Sr
+*custosg

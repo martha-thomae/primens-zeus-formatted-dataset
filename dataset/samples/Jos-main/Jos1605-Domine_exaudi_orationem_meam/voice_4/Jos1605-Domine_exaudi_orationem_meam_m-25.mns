@@ -3,16 +3,16 @@
 =
 *met(C|)
 =
-S f
+Sf
 =
-s : a
-M a
-s : g
-M e
-s : e
-M d
-M : c
-m d
+s:a
+Ma
+s:g
+Me
+s:e
+Md
+M:c
+md
 =
-s B
-*custos B
+sB
+*custosB

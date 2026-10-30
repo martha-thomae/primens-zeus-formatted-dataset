@@ -2,25 +2,25 @@
 *clefG2
 *met(O)
 (s:cc)
-M cc
-s cc
-[ S b
-s cc ]
-s a
-M b
-M cc
-M : dd
-m cc
-m b
-m a
-s g
-s a
-M b
-M g
-[ s a
-s g ]
-M f #
-S g
+Mcc
+scc
+[Sb
+scc]
+sa
+Mb
+Mcc
+M:dd
+mcc
+mb
+ma
+sg
+sa
+Mb
+Mg
+[sa
+sg]
+Mf#
+Sg
 *met(C|)
-S r
-*custos f #
+Sr
+*custosf#

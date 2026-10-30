@@ -4,22 +4,22 @@
 *k[b-]
 *met(C|)
 =
-[ s D
-s GG
-s BB -
-s C ]
-[ S AA
-s GG
-s G ]
+[sD
+sGG
+sBB-
+sC]
+[SAA
+sGG
+sG]
 =
-[ s E
-s F ]
+[sE
+sF]
 =
-s G
-s D
-S E -
-S D
-s r
-s GG
-S GG
-*custos GG
+sG
+sD
+SE-
+SD
+sr
+sGG
+SGG
+*custosGG

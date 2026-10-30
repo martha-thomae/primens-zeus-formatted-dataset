@@ -1,34 +1,34 @@
 **mens
 *clefC2
 *met(O)
-S C
-s C
-M : GG
-m AA
-M BB -
-M C
-s GG
-s C
-M AA
-M : C
-m BB
+SC
+sC
+M:GG
+mAA
+MBB-
+MC
+sGG
+sC
+MAA
+M:C
+mBB
 =
-m AA
+mAA
 =
-m GG
-S FF
-s FF
-S C
-s D
-[ s C
-S BB - ]
-S AA
-s AA
-s FF
-M FF
-M : FF
-m GG
+mGG
+SFF
+sFF
+SC
+sD
+[sC
+SBB-]
+SAA
+sAA
+sFF
+MFF
+M:FF
+mGG
 =
-m AA
-m BB
-*custos FF
+mAA
+mBB
+*custosFF

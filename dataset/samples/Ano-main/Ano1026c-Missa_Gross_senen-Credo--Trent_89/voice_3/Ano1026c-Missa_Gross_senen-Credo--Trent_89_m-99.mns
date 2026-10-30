@@ -3,40 +3,40 @@
 *k[b-]
 *met(O|)
 *MM400
-M F
-[ s G
-s C ]
-s G
-M F
-S G
-M F
-M E
-M C
-s D
-S : C
+MF
+[sG
+sC]
+sG
+MF
+SG
+MF
+ME
+MC
+sD
+S:C
 *clefC2
 *k[b-]
 *met(O2)
 *MM480
-S c
+Sc
 =
-S B -
-S A
-S G
-s : d
+SB-
+SA
+SG
+s:d
 =
-M d
-S c
-s B -
-s : d
-M c
-s B -
-s : A
-m G
-m F
-s E
-s F
-s D
+Md
+Sc
+sB-
+s:d
+Mc
+sB-
+s:A
+mG
+mF
+sE
+sF
+sD
 =
-s G
-*custos C
+sG
+*custosC

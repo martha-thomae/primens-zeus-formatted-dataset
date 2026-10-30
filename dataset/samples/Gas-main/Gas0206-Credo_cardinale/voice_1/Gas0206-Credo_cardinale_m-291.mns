@@ -3,21 +3,21 @@
 *met(C|)
 =
 *MM180
-S BB -
-s AA
-s AA
-S AA
-S GG
-[ s D
-s BB ]
+SBB-
+sAA
+sAA
+SAA
+SGG
+[sD
+sBB]
 =
-s C
-[ s GG
-S AA ]
-S r
-[ s D
-s AA ]
-s D
-s C
-S E
-*custos GG
+sC
+[sGG
+SAA]
+Sr
+[sD
+sAA]
+sD
+sC
+SE
+*custosGG

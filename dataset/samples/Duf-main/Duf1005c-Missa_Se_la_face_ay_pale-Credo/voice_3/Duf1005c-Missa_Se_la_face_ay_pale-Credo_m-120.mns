@@ -3,39 +3,39 @@
 =
 *met(C)
 *MM420
-s F
-s F
-S F
-s A
-[ s B
-s : c ]
-M B
+sF
+sF
+SF
+sA
+[sB
+s:c]
+MB
 =
-s c
-s e
-s : d
-M c
-s f
-s e
-s d
-s : g
-s f
-M e
-s g
-M e
-M c
-S d
-S c
-s c
-M B
-s c
-M d
-s B
-s G
-s B
-S A
-s G
-s r
-s : e
-M f
-*custos F
+sc
+se
+s:d
+Mc
+sf
+se
+sd
+s:g
+sf
+Me
+sg
+Me
+Mc
+Sd
+Sc
+sc
+MB
+sc
+Md
+sB
+sG
+sB
+SA
+sG
+sr
+s:e
+Mf
+*custosF

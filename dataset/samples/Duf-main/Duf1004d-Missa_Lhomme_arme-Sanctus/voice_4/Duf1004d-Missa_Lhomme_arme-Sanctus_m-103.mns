@@ -3,30 +3,30 @@
 *met(C)
 =
 *MM480
-[ S g
-s : b ]
-M cc
-s dd
-s : dd
-M cc
-s b
+[Sg
+s:b]
+Mcc
+sdd
+s:dd
+Mcc
+sb
 =
-S : a
-[ s b
-S : cc ]
-s b
-S a
-L g
+S:a
+[sb
+S:cc]
+sb
+Sa
+Lg
 =
-s r
-[ s g
-s b -
-s a ]
-S g
-s : f #
-M g
-[ s a
-s dd ]
-[ s cc
-s a ]
-*custos f #
+sr
+[sg
+sb-
+sa]
+Sg
+s:f#
+Mg
+[sa
+sdd]
+[scc
+sa]
+*custosf#

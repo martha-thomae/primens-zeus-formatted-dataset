@@ -12,19 +12,19 @@
 3%M%2e-
 3%m%4d
 *met(C|)
-M : B -
-m c
-M d
-M : G
-m A
-m B -
-m c
-M d
-M G
-M A
-M : a
-m g
-M e
-s : f
-M B -
-*custos G
+M:B-
+mc
+Md
+M:G
+mA
+mB-
+mc
+Md
+MG
+MA
+M:a
+mg
+Me
+s:f
+MB-
+*custosG

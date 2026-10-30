@@ -1,21 +1,21 @@
 **mens
 *clefC1
 *met(3)
-s cc
-[ s a
-s b ]
-S cc
-s b
-[ s g
-s : a ]
-M g
-S g
-s f #
-S : g
+scc
+[sa
+sb]
+Scc
+sb
+[sg
+s:a]
+Mg
+Sg
+sf#
+S:g
 *clefC1
 *met(C)
-s : c
-M d
-s e
-s f
-*custos c
+s:c
+Md
+se
+sf
+*custosc

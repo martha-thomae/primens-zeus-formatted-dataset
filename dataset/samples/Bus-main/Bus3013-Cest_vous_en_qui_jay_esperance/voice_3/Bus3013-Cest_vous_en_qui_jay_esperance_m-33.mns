@@ -3,42 +3,42 @@
 *met(O)
 *clefG2
 *met(C|)
-S r
-S r
-s : a
-m g
-m a
-M b -
-s a
-m g
-m f
-s e
-s r
-[ S a
-s b n
-s cc ]
-s dd
-s dd
-s b -
-s b -
-s : cc
-m b -
-m a
-M : b -
-m cc
-M b -
-m a
-m g
-S f
-s r
-s f
-s f
-s f
-s f
-s f
-s : g
-m f
-m e
-s d
-s d
-*custos d
+Sr
+Sr
+s:a
+mg
+ma
+Mb-
+sa
+mg
+mf
+se
+sr
+[Sa
+sbn
+scc]
+sdd
+sdd
+sb-
+sb-
+s:cc
+mb-
+ma
+M:b-
+mcc
+Mb-
+ma
+mg
+Sf
+sr
+sf
+sf
+sf
+sf
+sf
+s:g
+mf
+me
+sd
+sd
+*custosd

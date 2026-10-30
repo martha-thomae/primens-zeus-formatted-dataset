@@ -2,26 +2,26 @@
 *clefF3
 *k[b-]
 *met(C|)
-L GG
+LGG
 =
-L C
-L BB -
-S AA
-S r
-S r
-S D
-s F
-s F
+LC
+LBB-
+SAA
+Sr
+Sr
+SD
+sF
+sF
 =
-s : BB -
-M C
-s D
-s : E
-M D
-M C
-M BB -
-S AA
-s GG
-s r
-S r
-*custos GG
+s:BB-
+MC
+sD
+s:E
+MD
+MC
+MBB-
+SAA
+sGG
+sr
+Sr
+*custosGG

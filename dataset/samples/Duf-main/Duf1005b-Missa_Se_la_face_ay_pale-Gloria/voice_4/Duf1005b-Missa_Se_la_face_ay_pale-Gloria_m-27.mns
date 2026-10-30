@@ -3,44 +3,44 @@
 *clefC1
 *met(O)
 *MM384
-S : r
-s g
-s g
-s a
-S b
-s : a
-M : dd
-m cc
-M cc
-M : b
-m a
-L : cc
-S : r
-S e
-s e
-s : e
-M f
-s g
-s a
-M g
-s g
-M f #
-s g
-M b
-M cc
-s dd
-s cc
-M ee
-M : ee
+S:r
+sg
+sg
+sa
+Sb
+s:a
+M:dd
+mcc
+Mcc
+M:b
+ma
+L:cc
+S:r
+Se
+se
+s:e
+Mf
+sg
+sa
+Mg
+sg
+Mf#
+sg
+Mb
+Mcc
+sdd
+scc
+Mee
+M:ee
 =
-m dd
-M cc
-s b
-s r
-s b
-s : cc
-M b
-M a
+mdd
+Mcc
+sb
+sr
+sb
+s:cc
+Mb
+Ma
 =
-M g
-*custos e
+Mg
+*custose

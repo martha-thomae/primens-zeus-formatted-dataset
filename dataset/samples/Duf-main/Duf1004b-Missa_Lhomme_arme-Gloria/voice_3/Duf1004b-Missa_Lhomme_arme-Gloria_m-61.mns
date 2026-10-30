@@ -4,39 +4,39 @@
 =
 *met(O)
 *MM320
-S : r
-s d
-s c
-M d
-m e
-M g
-m f
-M d
-m e -
-m : d
-U c
-m B -
-M : c
-m B -
-s d
-s r
-M A
-M B -
-M A
-M d
+S:r
+sd
+sc
+Md
+me
+Mg
+mf
+Md
+me-
+m:d
+Uc
+mB-
+M:c
+mB-
+sd
+sr
+MA
+MB-
+MA
+Md
 =
-m c
-M d
-m f
-M e
-M d
-m B -
-M c
-m G
-M A
-m G
-m B -
-m A
-M d
-m c
-*custos G
+mc
+Md
+mf
+Me
+Md
+mB-
+Mc
+mG
+MA
+mG
+mB-
+mA
+Md
+mc
+*custosG

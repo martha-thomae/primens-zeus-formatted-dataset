@@ -3,71 +3,71 @@
 *k[b-]
 *met(C)
 *MM300
-M g
-s b -
-M a
-M g
-M : cc
-m b -
-m a
-m g
-M : b -
-U a
-U g
-m f
-m g
-m a
-m b -
-M cc
-m b -
-m a
-m b -
+Mg
+sb-
+Ma
+Mg
+M:cc
+mb-
+ma
+mg
+M:b-
+Ua
+Ug
+mf
+mg
+ma
+mb-
+Mcc
+mb-
+ma
+mb-
 =
-m g
-s g
+mg
+sg
 =
-M f #
-s g
-M r
+Mf#
+sg
+Mr
 =
-M d
-M e
-M e
-M f
-M f
-M g
-M b -
-M a
-m g
-m f
-M e
-M g
+Md
+Me
+Me
+Mf
+Mf
+Mg
+Mb-
+Ma
+mg
+mf
+Me
+Mg
 =
-M f
-M d
-M r
-M e
-M c
-M f
-M e
-M : d
-m c
-m A
-m B -
-m c
-m d
-m e
-U d
-U e
-M f
-M d
-m c
-M f
-m e
-m g
-m f
+Mf
+Md
+Mr
+Me
+Mc
+Mf
+Me
+M:d
+mc
+mA
+mB-
+mc
+md
+me
+Ud
+Ue
+Mf
+Md
+mc
+Mf
+me
+mg
+mf
 =
-M d
-M c
-M e
-*custos A
+Md
+Mc
+Me
+*custosA

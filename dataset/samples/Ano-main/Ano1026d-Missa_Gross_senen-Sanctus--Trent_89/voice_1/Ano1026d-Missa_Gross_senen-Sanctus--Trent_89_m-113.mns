@@ -3,20 +3,20 @@
 *k[b-e-]
 *met(O2)
 *MM400
-S D
-s r
-s D
-[ s F
-s C
-s : D ]
-M C
-M BB -
-M AA
-s GG
-s r
-S G
+SD
+sr
+sD
+[sF
+sC
+s:D]
+MC
+MBB-
+MAA
+sGG
+sr
+SG
 =
-s : F
-M G
-s A
-*custos GG
+s:F
+MG
+sA
+*custosGG

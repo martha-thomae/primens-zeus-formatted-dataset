@@ -5,20 +5,20 @@
 =
 =
 *met(C|)
-m G
-m A
-m B -
-M : c
+mG
+mA
+mB-
+M:c
 =
-m B -
-m A
-m G
-s G
-M F
-s G
-s A
-s G
-S F
-s F
-S G
-*custos F
+mB-
+mA
+mG
+sG
+MF
+sG
+sA
+sG
+SF
+sF
+SG
+*custosF

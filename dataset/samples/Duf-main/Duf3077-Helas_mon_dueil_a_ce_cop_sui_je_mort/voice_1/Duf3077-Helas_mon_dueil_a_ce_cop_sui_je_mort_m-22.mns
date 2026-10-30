@@ -4,22 +4,22 @@
 *met(C)
 =
 *MM336
-s e
-M d
-s d
-M A
-s d
-S : c #
-M r
-M c #
-s d
+se
+Md
+sd
+MA
+sd
+S:c#
+Mr
+Mc#
+sd
 =
-s d
-s : e
-M e
-M f
-M f
-s f
-s f
-s e
-*custos A
+sd
+s:e
+Me
+Mf
+Mf
+sf
+sf
+se
+*custosA

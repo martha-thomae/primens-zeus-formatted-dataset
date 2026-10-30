@@ -2,12 +2,12 @@
 *clefC1
 =
 *met(C|)
-S : a
+S:a
 =
-s g
-[ s b
-s cc ]
-S : dd
+sg
+[sb
+scc]
+S:dd
 =
-s cc
-*custos g
+scc
+*custosg

@@ -4,25 +4,25 @@
 *k[b-]
 *met(C|3)
 *met(C|)
-S D
-s r
-M r
-M G
-s B -
-M G
-M G
-M G
-M G
-M : E -
-m D
+SD
+sr
+Mr
+MG
+sB-
+MG
+MG
+MG
+MG
+M:E-
+mD
 *lg
 =
-[ s BB -
-s C ]
+[sBB-
+sC]
 *Xlg
-s BB -
-s r
-M r
-M BB -
-s F
-*custos BB -
+sBB-
+sr
+Mr
+MBB-
+sF
+*custosBB-

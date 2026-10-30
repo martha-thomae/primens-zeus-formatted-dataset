@@ -4,18 +4,18 @@
 *met(O2)
 =
 *MM480
-M C
-M D
-M E n
-s F
-s : BB -
-M C
-M D
-M E n
-L F
+MC
+MD
+MEn
+sF
+s:BB-
+MC
+MD
+MEn
+LF
 =
-S r
-S r
-S r
-S r
-*custos BB -
+Sr
+Sr
+Sr
+Sr
+*custosBB-

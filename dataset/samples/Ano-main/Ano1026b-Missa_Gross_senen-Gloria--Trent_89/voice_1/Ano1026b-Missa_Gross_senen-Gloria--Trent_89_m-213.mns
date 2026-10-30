@@ -4,25 +4,25 @@
 *met(O)
 *MM300
 =
-M : BB -
-m C
-M E -
-M D
-s C
-s BB -
-M r
-M E -
-s E -
-M D
-M C
-M : D
-m E -
-s F
-s G
-S D
-M r
-M D
-M F
-M G
-s A
-*custos BB -
+M:BB-
+mC
+ME-
+MD
+sC
+sBB-
+Mr
+ME-
+sE-
+MD
+MC
+M:D
+mE-
+sF
+sG
+SD
+Mr
+MD
+MF
+MG
+sA
+*custosBB-

@@ -3,16 +3,16 @@
 *k[b-e-]
 =
 *met(C|)
-s F
-M G
-s G
-M F #
+sF
+MG
+sG
+MF#
 =
-s G
-M A
-M B -
-M c
-s G
-M E -
-s D
-*custos D
+sG
+MA
+MB-
+Mc
+sG
+ME-
+sD
+*custosD

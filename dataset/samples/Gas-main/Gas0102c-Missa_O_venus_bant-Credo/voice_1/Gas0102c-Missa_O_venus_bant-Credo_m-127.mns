@@ -2,26 +2,26 @@
 *clefF4
 *met(C|)
 *col
-M : BB
-m GG
+M:BB
+mGG
 *Xcol
-s BB
+sBB
 =
-M C
-[ s D
-s GG ]
+MC
+[sD
+sGG]
 *col
-M : D
-m E
+M:D
+mE
 *Xcol
-M F
-s G
-M F
-M G
-M : GG
-m AA
-M BB
-[ s C
-s D ]
-S GG
-*custos GG
+MF
+sG
+MF
+MG
+M:GG
+mAA
+MBB
+[sC
+sD]
+SGG
+*custosGG

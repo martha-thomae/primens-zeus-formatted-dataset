@@ -2,18 +2,18 @@
 *clefC4
 *met(C|)
 *MM180
-[ S F
-S G
-S A ]
+[SF
+SG
+SA]
 *lg
-S D
-S F
+SD
+SF
 *Xlg
-[ S G
-S A ]
+[SG
+SA]
 =
-S : G
-s F
-[ S E
-S D ]
-*custos D
+S:G
+sF
+[SE
+SD]
+*custosD

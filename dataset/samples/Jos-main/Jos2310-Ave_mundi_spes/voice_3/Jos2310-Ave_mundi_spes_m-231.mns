@@ -2,22 +2,22 @@
 *clefC2
 *met(3)
 *met(C|)
-s r
-s : g
-M e
-s e
-s : f
-M d
-s d
-s : e
-M c
-s c
-s : d
-M B
-s : B
-m c
-m d
-L e
-S r
-S r
-*custos B
+sr
+s:g
+Me
+se
+s:f
+Md
+sd
+s:e
+Mc
+sc
+s:d
+MB
+s:B
+mc
+md
+Le
+Sr
+Sr
+*custosB

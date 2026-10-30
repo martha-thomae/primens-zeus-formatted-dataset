@@ -6,32 +6,32 @@
 *clefC1
 *met(C3)
 *MM450
-S d
-s d
-s : f
-M e
-s d
-s c
+Sd
+sd
+s:f
+Me
+sd
+sc
 =
-s : f
-M e
-s e
-[ s c
-s d
-S e ]
-[ s f
-S g ]
-M f
-M e
-s d
-s r
-s r
-s : d
-M f
-[ s e
-s d ]
-s f
-s g
-S a
-s b
-*custos c
+s:f
+Me
+se
+[sc
+sd
+Se]
+[sf
+Sg]
+Mf
+Me
+sd
+sr
+sr
+s:d
+Mf
+[se
+sd]
+sf
+sg
+Sa
+sb
+*custosc

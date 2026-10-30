@@ -3,29 +3,29 @@
 *k[b-]
 *met(O2)
 *MM480
-S f
-s B -
-s B -
-s : f
-M g
-s a
-s a
-s : b -
-m a
-m g
-s f
-s b -
-s a
-S g
-s : a
-M b -
-s : cc
-M b -
-M a
-M g
-s : a
-m g
-m f
-S e
-S d
-*custos B -
+Sf
+sB-
+sB-
+s:f
+Mg
+sa
+sa
+s:b-
+ma
+mg
+sf
+sb-
+sa
+Sg
+s:a
+Mb-
+s:cc
+Mb-
+Ma
+Mg
+s:a
+mg
+mf
+Se
+Sd
+*custosB-

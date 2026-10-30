@@ -3,13 +3,13 @@
 =
 *met(C|)
 *lg
-s D
-s C
+sD
+sC
 *Xlg
-M G
-s F
-M G
-[ s E
-s D ]
-S G
-*custos C
+MG
+sF
+MG
+[sE
+sD]
+SG
+*custosC

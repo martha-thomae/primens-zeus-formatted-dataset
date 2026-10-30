@@ -4,17 +4,17 @@
 =
 *met(C|)
 *MM360
-s F
-s F
-s F
-S C
-s D
-S : C
-s F
-S F
-s : C
+sF
+sF
+sF
+SC
+sD
+S:C
+sF
+SF
+s:C
 =
-M C
-s C
-s C
-*custos C
+MC
+sC
+sC
+*custosC

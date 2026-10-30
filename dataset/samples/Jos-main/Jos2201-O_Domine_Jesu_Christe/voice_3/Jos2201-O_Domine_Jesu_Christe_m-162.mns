@@ -3,12 +3,12 @@
 =
 *met(C|)
 *MM360
-S G
-L A
-[ s D
-s : F ]
-M G
-s A
-S E
-L F
-*custos D
+SG
+LA
+[sD
+s:F]
+MG
+sA
+SE
+LF
+*custosD

@@ -1,24 +1,24 @@
 **mens
 *clefG2
 *met(C|)
-S cc
-s : cc
-m b
-m a
-s g
-s cc
+Scc
+s:cc
+mb
+ma
+sg
+scc
 *lg
-s b
-s cc
+sb
+scc
 *col
-s : dd
+s:dd
 *Xlg
-m cc
-m b
+mcc
+mb
 *Xcol
-s a
-s : dd
-M cc
-M b
-M a
-*custos g
+sa
+s:dd
+Mcc
+Mb
+Ma
+*custosg

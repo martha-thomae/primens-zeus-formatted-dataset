@@ -3,20 +3,20 @@
 *met(C|)
 *Xlg
 =
-m G
-m F
-< s G
-S A >
-S A
-L c
+mG
+mF
+<sG
+SA>
+SA
+Lc
 *lg
-s c
-s e
+sc
+se
 *Xlg
 *lg
-[ s d
-s c ]
+[sd
+sc]
 *Xlg
-L d
-S c
-*custos F
+Ld
+Sc
+*custosF

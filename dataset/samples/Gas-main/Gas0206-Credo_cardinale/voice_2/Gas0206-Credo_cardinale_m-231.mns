@@ -4,23 +4,23 @@
 *met(C|)
 *MM180
 *lg
-s E
-s D
+sE
+sD
 *Xlg
-[ s E
-s F
-S G ]
-S r
-[ S D
-S E
-s F
-s G ]
+[sE
+sF
+SG]
+Sr
+[SD
+SE
+sF
+sG]
 *lg
-s E
-s D
+sE
+sD
 *Xlg
-S C
-s r
-S G
-s F
-*custos C
+SC
+sr
+SG
+sF
+*custosC

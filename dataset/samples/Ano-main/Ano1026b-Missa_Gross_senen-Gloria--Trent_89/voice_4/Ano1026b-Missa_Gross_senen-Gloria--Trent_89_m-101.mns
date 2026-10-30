@@ -5,12 +5,12 @@
 =
 *met(C|)
 *MM400
-s f
-s e
-s : d
-M c
-S A
-s : c
-M B -
-s G
-*custos G
+sf
+se
+s:d
+Mc
+SA
+s:c
+MB-
+sG
+*custosG

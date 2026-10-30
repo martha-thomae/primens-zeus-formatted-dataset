@@ -2,16 +2,16 @@
 *clefC4
 *met(C|)
 *lg
-S G
-S F
+SG
+SF
 *Xlg
 =
-[ S G
-S c
-s : d ]
-m c
-m B -
-[ s A
-s G ]
-S c
-*custos F
+[SG
+Sc
+s:d]
+mc
+mB-
+[sA
+sG]
+Sc
+*custosF

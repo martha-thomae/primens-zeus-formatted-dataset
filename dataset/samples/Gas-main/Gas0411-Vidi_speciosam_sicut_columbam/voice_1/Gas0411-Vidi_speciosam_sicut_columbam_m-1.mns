@@ -1,37 +1,37 @@
 **mens
 *clefF4
 *met(C|3)
-S AA
-s AA
-S D
-s D
+SAA
+sAA
+SD
+sD
 *col
-S C
-s D
-s AA
+SC
+sD
+sAA
 =
-S BB
+SBB
 *Xcol
 *lg
 =
-< S : AA
-S D >
+<S:AA
+SD>
 *Xlg
-s D
+sD
 *lg
-s C
-s AA
+sC
+sAA
 *Xlg
-s D
+sD
 =
 *col
-S E
-s E
-s F
-S G
+SE
+sE
+sF
+SG
 *Xcol
-S : C
+S:C
 *col
-S C
-s C
-*custos AA
+SC
+sC
+*custosAA

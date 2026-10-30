@@ -4,14 +4,14 @@
 =
 *met(O2)
 =
-M C
-M AA
-s C
-M BB -
+MC
+MAA
+sC
+MBB-
 =
-M GG
-s BB -
-M C
-s AA
-L : GG
-*custos GG
+MGG
+sBB-
+MC
+sAA
+L:GG
+*custosGG

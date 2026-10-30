@@ -2,21 +2,21 @@
 *clefC2
 *met(C|3)
 *lg
-s e
-S d
+se
+Sd
 *Xlg
 *lg
 *col
-S B
-S G
-S F
+SB
+SG
+SF
 *Xcol
 *Xlg
 *lg
-s G
-s : c
+sG
+s:c
 *Xlg
-M B
-S A
-s A
-*custos F
+MB
+SA
+sA
+*custosF

@@ -3,17 +3,17 @@
 =
 *met(C|)
 *MM360
-[ s A
-s B ]
-S c
-s d
-M A
-M B
-s : c
-M B
-[ s A
-s G ]
-S A
-S F
-S B -
-*custos F
+[sA
+sB]
+Sc
+sd
+MA
+MB
+s:c
+MB
+[sA
+sG]
+SA
+SF
+SB-
+*custosF

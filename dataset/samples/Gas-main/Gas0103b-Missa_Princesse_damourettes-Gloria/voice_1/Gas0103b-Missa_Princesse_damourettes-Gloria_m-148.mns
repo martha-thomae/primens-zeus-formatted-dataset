@@ -2,14 +2,14 @@
 *clefF4
 *met(C|)
 *met(3)
-S C
-s C
+SC
+sC
 *col
 *lg
-[ S E
-S D ]
-S AA
+[SE
+SD]
+SAA
 *Xcol
 *Xlg
-S : r
-*custos AA
+S:r
+*custosAA

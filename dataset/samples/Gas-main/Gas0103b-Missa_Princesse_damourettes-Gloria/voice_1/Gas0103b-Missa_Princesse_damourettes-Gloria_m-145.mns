@@ -4,11 +4,11 @@
 =
 =
 *met(C|)
-s C
-s r
-S r
-S r
+sC
+sr
+Sr
+Sr
 *met(3)
-S C
-s C
-*custos C
+SC
+sC
+*custosC

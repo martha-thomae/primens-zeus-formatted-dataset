@@ -3,14 +3,14 @@
 *k[b-]
 *met(C|)
 *lg
-s C
-s AA
+sC
+sAA
 *Xlg
-s : BB -
-M C
-s : D
-M E
+s:BB-
+MC
+s:D
+ME
 *lg
-S F
-S G
-*custos AA
+SF
+SG
+*custosAA

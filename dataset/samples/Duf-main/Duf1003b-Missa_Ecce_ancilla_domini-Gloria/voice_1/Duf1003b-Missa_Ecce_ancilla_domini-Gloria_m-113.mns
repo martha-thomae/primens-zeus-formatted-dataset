@@ -3,28 +3,28 @@
 =
 *k[b-]
 *met(C|)
-S AA
-[ s GG
-s BB - ]
-[ s AA
-S D ]
-s C
-S BB -
-S AA
-S F
-s E
-S D
-[ s C
-s D ]
-s AA
-s BB -
-[ s C
-s GG ]
-< s BB -
-S AA >
-[ S GG
-S G ]
-s C
-s E
-S D
-*custos GG
+SAA
+[sGG
+sBB-]
+[sAA
+SD]
+sC
+SBB-
+SAA
+SF
+sE
+SD
+[sC
+sD]
+sAA
+sBB-
+[sC
+sGG]
+<sBB-
+SAA>
+[SGG
+SG]
+sC
+sE
+SD
+*custosGG

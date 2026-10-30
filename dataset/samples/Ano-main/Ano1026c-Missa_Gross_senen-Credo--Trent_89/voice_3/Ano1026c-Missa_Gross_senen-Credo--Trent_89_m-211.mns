@@ -3,37 +3,37 @@
 *k[b-]
 *met(O2)
 *MM480
-S F
-s r
-s c
+SF
+sr
+sc
 =
-[ s A
-S c ]
-s c
-S c
-s r
-[ s c
-s d ]
-[ s B -
-s G ]
-M r
-s d
+[sA
+Sc]
+sc
+Sc
+sr
+[sc
+sd]
+[sB-
+sG]
+Mr
+sd
 =
-M G
-M B -
-M c
-s d
-s : G
-M F
+MG
+MB-
+Mc
+sd
+s:G
+MF
 =
-M D
-M E
-[ s F
-s BB - ]
-s r
-s : F
-M G
-[ s A
-s D
-s d ]
-*custos BB -
+MD
+ME
+[sF
+sBB-]
+sr
+s:F
+MG
+[sA
+sD
+sd]
+*custosBB-

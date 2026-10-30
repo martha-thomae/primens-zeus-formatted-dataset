@@ -2,93 +2,93 @@
 *clefC1
 *met(O)
 *MM320
-m g
-M g
-m f
-M g
-M d
-M : g
+mg
+Mg
+mf
+Mg
+Md
+M:g
 =
-m a
-m b -
-m cc
-M dd
-M g
-M a
-M : f #
-m e
-S : g
+ma
+mb-
+mcc
+Mdd
+Mg
+Ma
+M:f#
+me
+S:g
 *clefC1
 =
 *met(O)
 *MM320
-S g
-M b
-M cc
-s dd
-s : ee
-M dd
-s : dd
-s cc #
-M b
-s : dd
-M cc
-s a
-M r
-M g
-M f
-M : a
-m g
-M f
-M e
-M g
-M f
-s d
-M d
-m e
-M f
-m e
-M : g
+Sg
+Mb
+Mcc
+sdd
+s:ee
+Mdd
+s:dd
+scc#
+Mb
+s:dd
+Mcc
+sa
+Mr
+Mg
+Mf
+M:a
+mg
+Mf
+Me
+Mg
+Mf
+sd
+Md
+me
+Mf
+me
+M:g
 =
-m f
-M e
-M d
-M r
-s g
-s f
+mf
+Me
+Md
+Mr
+sg
+sf
 =
-M b -
-s a
-M dd
+Mb-
+sa
+Mdd
 =
-M cc
-M : dd
-m cc
-M b -
+Mcc
+M:dd
+mcc
+Mb-
 =
-M a
-M g
-M b -
-M a
-M : f
-m d
-M e
-s d
-s f
-M : b -
-m g
-M a
-M g
-M e
-M f #
-S : g
-M r
-s dd
-M b
-s cc
-M b
-M g
-s a
-M g
-M e
-*custos d
+Ma
+Mg
+Mb-
+Ma
+M:f
+md
+Me
+sd
+sf
+M:b-
+mg
+Ma
+Mg
+Me
+Mf#
+S:g
+Mr
+sdd
+Mb
+scc
+Mb
+Mg
+sa
+Mg
+Me
+*custosd

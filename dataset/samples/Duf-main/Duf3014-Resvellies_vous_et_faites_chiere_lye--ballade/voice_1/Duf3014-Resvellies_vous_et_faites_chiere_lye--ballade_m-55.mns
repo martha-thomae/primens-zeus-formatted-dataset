@@ -4,34 +4,34 @@
 *k[b-]
 *met(O)
 *MM340
-s : G
-s : d
-M r
+s:G
+s:d
+Mr
 =
-[ s G
-s g ]
-M e
-M c
+[sG
+sg]
+Me
+Mc
 =
-s g
+sg
 M%5f
-M e
-M d
-M r
-M d
-M c
+Me
+Md
+Mr
+Md
+Mc
 =
-M d
-M B -
-M A
+Md
+MB-
+MA
 =
-s d
-M e
-M r
-M d
-M e
-s f
-M g
-s d
-s : G
-*custos G
+sd
+Me
+Mr
+Md
+Me
+sf
+Mg
+sd
+s:G
+*custosG

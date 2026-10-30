@@ -3,29 +3,29 @@
 *k[b-]
 *met(O|/3)
 =
-S c
+Sc
 =
-[ s B -
-S A
-s G ]
-< s F
-s E >
-S F
-S G
-S : F
+[sB-
+SA
+sG]
+<sF
+sE>
+SF
+SG
+S:F
 S:rr
-S c
-s B -
-[ S A
-s G
-S F ]
-[ s G
-S A ]
-s r
-S c
-S F
+Sc
+sB-
+[SA
+sG
+SF]
+[sG
+SA]
+sr
+Sc
+SF
 =
-S G
+SG
 *met(C|)
-S F
-*custos E
+SF
+*custosE

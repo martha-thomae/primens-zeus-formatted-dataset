@@ -3,34 +3,34 @@
 =
 *met(C|)
 =
-[ s A
-s F ]
-S r
+[sA
+sF]
+Sr
 =
-M C
-M E
-M F
-s G
+MC
+ME
+MF
+sG
 =
-M F
-M G
-M : E
-m C
-M : F
-m D
-M : G
-m E
-M : A
-m F
-M : B -
-m A
-M B -
-m c
-m B -
-m A
-m G
-M : F
-m E
-[ s G
-S C ]
-*custos C
+MF
+MG
+M:E
+mC
+M:F
+mD
+M:G
+mE
+M:A
+mF
+M:B-
+mA
+MB-
+mc
+mB-
+mA
+mG
+M:F
+mE
+[sG
+SC]
+*custosC

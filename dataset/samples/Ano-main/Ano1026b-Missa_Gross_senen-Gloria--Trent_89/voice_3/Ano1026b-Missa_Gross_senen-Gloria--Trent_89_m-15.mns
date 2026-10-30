@@ -3,84 +3,84 @@
 *k[b-]
 *met(O)
 *MM300
-M e -
-M : d
-m c
-m B -
-m A
-s G
-M r
-s D
-M : G
-m A
-M : B -
-m G
-M : B -
+Me-
+M:d
+mc
+mB-
+mA
+sG
+Mr
+sD
+M:G
+mA
+M:B-
+mG
+M:B-
 =
-m c
-s d
-M G
-s d
-M c
-m B -
-m A
-s G
-M A
-M : B -
-m A
-M F
-M G
-m F
+mc
+sd
+MG
+sd
+Mc
+mB-
+mA
+sG
+MA
+M:B-
+mA
+MF
+MG
+mF
 =
-m E
-s D
-M B -
-M B -
+mE
+sD
+MB-
+MB-
 =
-s B -
-s A
-M F
-M G
+sB-
+sA
+MF
+MG
 =
-M A
-M B -
-s c
-s r
-M d
-M d
-s d
-s c
-s A
-M D
-M : A
-m F
-M A
-M B -
-M c
-M : B -
-U A
-U G
-s A
-M D
-s d
-M c
-M A
-s d
-M c #
-M : d
-U c
-U B -
-s A
-M r
-M d
-M c
-M f
-m e
-m d
-s d
-M c #
-s d
-s r
-M d
-M e
-*custos D
+MA
+MB-
+sc
+sr
+Md
+Md
+sd
+sc
+sA
+MD
+M:A
+mF
+MA
+MB-
+Mc
+M:B-
+UA
+UG
+sA
+MD
+sd
+Mc
+MA
+sd
+Mc#
+M:d
+Uc
+UB-
+sA
+Mr
+Md
+Mc
+Mf
+me
+md
+sd
+Mc#
+sd
+sr
+Md
+Me
+*custosD

@@ -3,27 +3,27 @@
 =
 =
 *met(C|)
-[ S F
-S C ]
+[SF
+SC]
 *lg
-s F
-s E
+sF
+sE
 *Xlg
 *lg
-[ s F
-s G ]
+[sF
+sG]
 *Xlg
-S C
-s r
-s C
-S C
-S C
-s E
-s E
-S D
+SC
+sr
+sC
+SC
+SC
+sE
+sE
+SD
 *lg
-s C
-s D
+sC
+sD
 *Xlg
-S C
-*custos C
+SC
+*custosC

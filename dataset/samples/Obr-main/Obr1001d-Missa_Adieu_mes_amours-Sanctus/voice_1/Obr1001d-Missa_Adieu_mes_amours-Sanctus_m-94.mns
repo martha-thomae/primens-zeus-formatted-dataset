@@ -6,29 +6,29 @@
 *k[b-]
 =
 *met(O)
-M : GG
-m AA
-M BB -
-s C
-m BB -
-m AA
-M : GG
-m AA
-M BB -
-M : C
-m D
-M E
+M:GG
+mAA
+MBB-
+sC
+mBB-
+mAA
+M:GG
+mAA
+MBB-
+M:C
+mD
+ME
 =
-M F
-M : G
-m F
-m E
-m D
-s E
-s D
-M : F
-U E
-U D
-M E
-M D
-*custos GG
+MF
+M:G
+mF
+mE
+mD
+sE
+sD
+M:F
+UE
+UD
+ME
+MD
+*custosGG

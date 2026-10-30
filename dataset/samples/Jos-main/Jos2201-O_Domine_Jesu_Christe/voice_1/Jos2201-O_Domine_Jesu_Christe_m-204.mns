@@ -3,21 +3,21 @@
 *k[b-]
 *met(C|)
 *MM360
-s C
-s C
-M : D
-m C
+sC
+sC
+M:D
+mC
 =
-M D
-M E
-S C
-s r
-s GG
-s AA
-M AA
-M BB -
-S C
-S F
-s D
-s C
-*custos GG
+MD
+ME
+SC
+sr
+sGG
+sAA
+MAA
+MBB-
+SC
+SF
+sD
+sC
+*custosGG

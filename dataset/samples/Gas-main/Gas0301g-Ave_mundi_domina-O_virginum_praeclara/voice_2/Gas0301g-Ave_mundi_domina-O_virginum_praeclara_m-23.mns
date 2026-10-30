@@ -3,29 +3,29 @@
 *k[b-]
 *met(C|)
 *MM320
-s G
-s r
-s c
-M B -
-s d
-m c
-m B -
-M A
-M : B -
-m A
-M G
-s F
-M G
-s B -
-M A
-S B -
-S d
-s d
-s d
-s c
-s B -
-s : d
-M c
-S A
-S G
-*custos F
+sG
+sr
+sc
+MB-
+sd
+mc
+mB-
+MA
+M:B-
+mA
+MG
+sF
+MG
+sB-
+MA
+SB-
+Sd
+sd
+sd
+sc
+sB-
+s:d
+Mc
+SA
+SG
+*custosF

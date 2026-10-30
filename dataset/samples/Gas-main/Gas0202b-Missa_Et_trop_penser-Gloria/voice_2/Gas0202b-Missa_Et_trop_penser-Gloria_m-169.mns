@@ -2,24 +2,24 @@
 *clefC4
 *k[b-]
 *met(3)
-S : r
-S : r
-S G
-s G
-S B -
-s B -
-S G
-s A
+S:r
+S:r
+SG
+sG
+SB-
+sB-
+SG
+sA
 *lg
-s B -
-S d
+sB-
+Sd
 *Xlg
-S c
-s B -
+Sc
+sB-
 *lg
-s A
-S G
+sA
+SG
 *Xlg
 =
-S : F
-*custos F
+S:F
+*custosF

@@ -2,86 +2,86 @@
 *clefC4
 *k[b-]
 *met(C3)
-s G
-M G
-s A
-M B -
-s c
-M B -
-M A
-s d
-M : c
+sG
+MG
+sA
+MB-
+sc
+MB-
+MA
+sd
+M:c
 =
-m B -
-M G
-s F
-M G
-M : A
-m B -
-M c
-s d
-M c
-M B -
-s A
-s : G
-S : r
+mB-
+MG
+sF
+MG
+M:A
+mB-
+Mc
+sd
+Mc
+MB-
+sA
+s:G
+S:r
 *col
-s d
-s d
-s c
+sd
+sd
+sc
 *Xcol
-M : B -
-m A
-M F
-s B -
-M A
+M:B-
+mA
+MF
+sB-
+MA
 *col
-s B -
-s B -
-s A
+sB-
+sB-
+sA
 *Xcol
-M : G
-m F
-M D
-s G
-M F
+M:G
+mF
+MD
+sG
+MF
 *col
-s G
-s G
-s E
+sG
+sG
+sE
 *Xcol
-M D
-M G
-M F
-m G
-m F
-m G
-m D
+MD
+MG
+MF
+mG
+mF
+mG
+mD
 =
-M G
-s : F
-s : F
-s r
+MG
+s:F
+s:F
+sr
 =
-M F
-m G
-m A
-m B -
-m c
-M A
-s G
-M F
-s G
-M A
-M G
-M B -
-M c
-M d
-M B -
-s c
-M B -
-M c
-M A
-s G
+MF
+mG
+mA
+mB-
+mc
+MA
+sG
+MF
+sG
+MA
+MG
+MB-
+Mc
+Md
+MB-
+sc
+MB-
+Mc
+MA
+sG
 =
-*custos D
+*custosD

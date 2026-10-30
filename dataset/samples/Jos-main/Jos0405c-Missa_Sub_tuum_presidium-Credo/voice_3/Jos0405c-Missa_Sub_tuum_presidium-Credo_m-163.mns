@@ -3,18 +3,18 @@
 *clefC2
 *met(3)
 s%5G
-s r
-S : r
-S : r
+sr
+S:r
+S:r
 *met(C|)
-s d
-M : d
-m c
-M : B
-m A
-M : G
-m A
-M B
-M E
-s G
-*custos E
+sd
+M:d
+mc
+M:B
+mA
+M:G
+mA
+MB
+ME
+sG
+*custosE

@@ -3,13 +3,13 @@
 *k[b-]
 *met(C|)
 *MM288
-s r
-s F
-s : B -
-M c
-s d
-s A
-s r
+sr
+sF
+s:B-
+Mc
+sd
+sA
+sr
 =
-s A
-*custos F
+sA
+*custosF

@@ -3,29 +3,29 @@
 *k[b-]
 *met(C3)
 *lg
-[ s EE
-s FF ]
+[sEE
+sFF]
 *Xlg
-s AA
+sAA
 *lg
 =
 =
-s BB -
-s C
+sBB-
+sC
 *Xlg
-s AA
-M GG
-s E -
-M F
-s C
+sAA
+MGG
+sE-
+MF
+sC
 *Xcol
-S : FF
+S:FF
 *met(C|)
-S r
-S FF
-s FF
-< s GG
-s FF >
-M F
-M E
-*custos EE
+Sr
+SFF
+sFF
+<sGG
+sFF>
+MF
+ME
+*custosEE

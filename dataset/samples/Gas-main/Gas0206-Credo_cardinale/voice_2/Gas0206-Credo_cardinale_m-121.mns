@@ -3,29 +3,29 @@
 *clefC4
 *met(C|)
 *MM180
-M F
-M D
-M G
+MF
+MD
+MG
 =
-M F
-s D
+MF
+sD
 *lg
-S E
-S D
+SE
+SD
 *Xlg
 *met(C|)
-S D
-s E
-s F
-s G
-s G
+SD
+sE
+sF
+sG
+sG
 *lg
-s E
-s D
+sE
+sD
 *Xlg
-s : G
-M F
-S E
-s E
-s E
-*custos D
+s:G
+MF
+SE
+sE
+sE
+*custosD

@@ -2,22 +2,22 @@
 *clefC1
 *met(O)
 *MM384
-s b
-s : a
+sb
+s:a
 =
-M g
+Mg
 =
-s g
-M f
-s a
-M g
-s e
-M g
-M f
-s d
-M e
-M c
-M e
-M f
-s d
-*custos c
+sg
+Mf
+sa
+Mg
+se
+Mg
+Mf
+sd
+Me
+Mc
+Me
+Mf
+sd
+*custosc

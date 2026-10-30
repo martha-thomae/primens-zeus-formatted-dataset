@@ -3,24 +3,24 @@
 *k[b-]
 =
 *met(C|)
-[ s B -
-s c ]
-s : d
+[sB-
+sc]
+s:d
 =
-m c
-m B -
-[ s A
-s c ]
-S B -
-S A
-s r
-s d
-S d
-s c
-[ s B -
-S A ]
-[ s G
-s : c ]
-M B -
-s c
-*custos G
+mc
+mB-
+[sA
+sc]
+SB-
+SA
+sr
+sd
+Sd
+sc
+[sB-
+SA]
+[sG
+s:c]
+MB-
+sc
+*custosG

@@ -4,11 +4,11 @@
 *k[b-]
 *met(C)
 *MM300
-M f
-M : b -
-m a
-m g
-m f
+Mf
+M:b-
+ma
+mg
+mf
 *met(3)
 3%M%2e
 3r
@@ -21,12 +21,12 @@ m f
 3g
 3a
 3b-
-M cc
+Mcc
 6b-
 6a
 6g
 3g
-M f #
+Mf#
 6e
-S g
-*custos e
+Sg
+*custose

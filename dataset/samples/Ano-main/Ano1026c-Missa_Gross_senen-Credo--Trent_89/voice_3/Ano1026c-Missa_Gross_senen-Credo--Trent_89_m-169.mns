@@ -4,34 +4,34 @@
 =
 *met(O2)
 *MM480
-S D
-S r
-[ S A
-s D
-s F ]
-s G
-s B -
-s A
-M G
-s G
-M F
-s : E
-M D
-M F
-M G
-s : A
-M G
-M A
-M B -
-S c
-s A
-S G
-s r
-s d
-s : d
-m c
-m B -
-s A
+SD
+Sr
+[SA
+sD
+sF]
+sG
+sB-
+sA
+MG
+sG
+MF
+s:E
+MD
+MF
+MG
+s:A
+MG
+MA
+MB-
+Sc
+sA
+SG
+sr
+sd
+s:d
+mc
+mB-
+sA
 =
-s d
-*custos D
+sd
+*custosD

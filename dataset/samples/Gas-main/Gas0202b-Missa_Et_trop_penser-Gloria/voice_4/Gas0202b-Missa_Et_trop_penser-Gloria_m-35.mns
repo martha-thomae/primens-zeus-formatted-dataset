@@ -2,87 +2,87 @@
 *clefG2
 *k[b-]
 *met(O)
-s g
-s r
-s d
-M d
-s e -
-M d
-s d
-M d
-M : f
-m e -
-m d
-m c
-M d
-M : e -
-m d
-m c
-m B -
-M A
-s b -
-M a
-S b -
-s r
-s b -
-M a
-M g
-M f
-s b -
-s a
-M g
-M f
-M b -
-M a
-s g
-M f
-M b -
+sg
+sr
+sd
+Md
+se-
+Md
+sd
+Md
+M:f
+me-
+md
+mc
+Md
+M:e-
+md
+mc
+mB-
+MA
+sb-
+Ma
+Sb-
+sr
+sb-
+Ma
+Mg
+Mf
+sb-
+sa
+Mg
+Mf
+Mb-
+Ma
+sg
+Mf
+Mb-
 =
-m a
-m g
-s f
-M r
-s f
-M f
-M f
-M f
-M : f
-m g
-s a
-M d
-M : g
-m f
-m e
-m d
-s e
-s d
-M r
-M : dd
-m cc
-M a
-M : b -
-m a
-M f
-M : b -
-m a
-M b -
-M cc
-M : a
-m g
-m f
-m e
-s d
-s dd
-M ee -
-M : cc
-m b -
-m a
-m g
-M f
-M : a
-U g
-U f
-M e
-s f #
-L : g
-*custos A
+ma
+mg
+sf
+Mr
+sf
+Mf
+Mf
+Mf
+M:f
+mg
+sa
+Md
+M:g
+mf
+me
+md
+se
+sd
+Mr
+M:dd
+mcc
+Ma
+M:b-
+ma
+Mf
+M:b-
+ma
+Mb-
+Mcc
+M:a
+mg
+mf
+me
+sd
+sdd
+Mee-
+M:cc
+mb-
+ma
+mg
+Mf
+M:a
+Ug
+Uf
+Me
+sf#
+L:g
+*custosA

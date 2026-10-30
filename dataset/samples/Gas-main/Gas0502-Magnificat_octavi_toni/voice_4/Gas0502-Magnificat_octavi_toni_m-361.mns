@@ -2,27 +2,27 @@
 *clefG2
 *met(O)
 *lg
-s a
-s : dd
+sa
+s:dd
 *Xlg
-M cc
+Mcc
 *lg
-s b
+sb
 =
-S a
+Sa
 *Xlg
 =
 *col
-S g
-s r
-s r
-S g
+Sg
+sr
+sr
+Sg
 *Xcol
-S b
-s cc
-s : dd
-M cc
-s dd
-S ee
-s dd
-*custos g
+Sb
+scc
+s:dd
+Mcc
+sdd
+See
+sdd
+*custosg

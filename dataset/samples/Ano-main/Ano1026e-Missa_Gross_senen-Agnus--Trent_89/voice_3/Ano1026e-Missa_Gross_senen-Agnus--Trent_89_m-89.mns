@@ -4,24 +4,24 @@
 =
 *met(C|)
 *MM300
-L D
-s r
-s d
-s : d
-M c
-S d
-s e -
-M d
-s d
-M B -
-[ s c
-s B - ]
-[ s e -
-s d
-s c
-s B -
-s A ]
-s G
-S c
-s B -
-*custos D
+LD
+sr
+sd
+s:d
+Mc
+Sd
+se-
+Md
+sd
+MB-
+[sc
+sB-]
+[se-
+sd
+sc
+sB-
+sA]
+sG
+Sc
+sB-
+*custosD

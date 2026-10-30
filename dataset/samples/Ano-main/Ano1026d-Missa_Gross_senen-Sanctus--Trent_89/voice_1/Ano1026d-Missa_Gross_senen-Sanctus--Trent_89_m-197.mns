@@ -3,20 +3,20 @@
 *k[b-e-]
 *met(C|)
 *MM400
-S : GG
-s : BB -
-M C
-M D
-M E -
-s F
-s : G
-M F
-M D
-M E -
-s F
-s BB -
-s r
-s : B -
-M A
-s G
-*custos GG
+S:GG
+s:BB-
+MC
+MD
+ME-
+sF
+s:G
+MF
+MD
+ME-
+sF
+sBB-
+sr
+s:B-
+MA
+sG
+*custosGG

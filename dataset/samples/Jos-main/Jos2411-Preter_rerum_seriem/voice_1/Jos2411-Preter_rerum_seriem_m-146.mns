@@ -4,17 +4,17 @@
 =
 =
 *met(3)
-S D
-s r
-S : r
-S : r
+SD
+sr
+S:r
+S:r
 =
-S AA
-s AA
-[ s GG
-s G
-s F ]
-s G
-[ s C
-s D ]
-*custos GG
+SAA
+sAA
+[sGG
+sG
+sF]
+sG
+[sC
+sD]
+*custosGG

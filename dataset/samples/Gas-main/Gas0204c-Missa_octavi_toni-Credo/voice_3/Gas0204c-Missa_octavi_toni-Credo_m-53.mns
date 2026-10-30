@@ -3,35 +3,35 @@
 =
 =
 *met(O)
-M r
-M G
-s : A
-M B
-[ s c
-s d ]
-M : B
-m c
-M d
-s e
-M d
-S : d
+Mr
+MG
+s:A
+MB
+[sc
+sd]
+M:B
+mc
+Md
+se
+Md
+S:d
 *met(C|)
-S d
-s c
-s c
-s d
-s d
-S G
-s r
-s A
-s A
-[ s F
-s G ]
+Sd
+sc
+sc
+sd
+sd
+SG
+sr
+sA
+sA
+[sF
+sG]
 =
-S A
-s G
+SA
+sG
 =
-S A
-s A
-s A
-*custos F
+SA
+sA
+sA
+*custosF

@@ -2,12 +2,12 @@
 *clefC4
 *k[b-]
 *met(O)
-S : c
+S:c
 *clefC4
 *k[b-]
 *met(C)
 *rscale:1/2
-L c
-S A
-S F
-*custos F
+Lc
+SA
+SF
+*custosF

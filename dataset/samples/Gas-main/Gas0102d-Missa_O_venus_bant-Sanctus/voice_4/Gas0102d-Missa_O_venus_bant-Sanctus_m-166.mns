@@ -1,60 +1,60 @@
 **mens
 *clefG2
 *met(C|3)
-M d
-M c
-s B
+Md
+Mc
+sB
 =
-[ s A
-s G
-S A ]
-s r
+[sA
+sG
+SA]
+sr
 *lg
 *col
-s G
-s g
+sG
+sg
 *Xlg
-s e
-S f
+se
+Sf
 *Xcol
-S e
-s r
-[ S g
-s e
-s f
-s a
-s g ]
+Se
+sr
+[Sg
+se
+sf
+sa
+sg]
 =
-[ S cc
-s b
-s cc ]
-M b
-s a
-m g
+[Scc
+sb
+scc]
+Mb
+sa
+mg
 =
-m f
-< s e
-s : a >
+mf
+<se
+s:a>
 =
-M b
-s : cc
-M b
-M a
-M b
-s cc
-s : dd
-M cc
-M b
-M a
-s : b
-M a
-S a
-[ s g
-S a ]
+Mb
+s:cc
+Mb
+Ma
+Mb
+scc
+s:dd
+Mcc
+Mb
+Ma
+s:b
+Ma
+Sa
+[sg
+Sa]
 =
-s a
+sa
 *col
-s cc
-s cc
-s a
-*custos G
+scc
+scc
+sa
+*custosG

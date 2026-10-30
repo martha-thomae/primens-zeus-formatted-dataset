@@ -1,102 +1,102 @@
 **mens
 *clefG2
 *met(C|)
-S g
+Sg
 =
 *met(O)
 *lg
-s g
-s b
+sg
+sb
 *Xlg
-s cc
+scc
 =
-M b
-s dd
-m cc
-m b
-s a
-M g
-M : b
-m a
-M g
-M r
-M f
-M e
-s d
-M dd
-s dd
-M cc #
-s dd
-M a
-M g
-M e
-M : f
+Mb
+sdd
+mcc
+mb
+sa
+Mg
+M:b
+ma
+Mg
+Mr
+Mf
+Me
+sd
+Mdd
+sdd
+Mcc#
+sdd
+Ma
+Mg
+Me
+M:f
 =
-m g
-M a
-M b -
-M a
+mg
+Ma
+Mb-
+Ma
 =
-M b -
-M a
-s dd
-M b
-m cc
-m b
-m a
-m g
-M : f
-m g
-M a
+Mb-
+Ma
+sdd
+Mb
+mcc
+mb
+ma
+mg
+M:f
+mg
+Ma
 =
-s d
-M dd
-M cc
-s b
-s a
-M g
-s a
-M r
-M : dd
-m b
-M cc
-M b
-m a
-m g
-M : f
-m e
-M : g
-m e
-M f
-s a
-m g
-m f
-s e
-M d
-M : f
-m g
-m a
-m b
-M : cc
-m b
+sd
+Mdd
+Mcc
+sb
+sa
+Mg
+sa
+Mr
+M:dd
+mb
+Mcc
+Mb
+ma
+mg
+M:f
+me
+M:g
+me
+Mf
+sa
+mg
+mf
+se
+Md
+M:f
+mg
+ma
+mb
+M:cc
+mb
 =
-S g
-s r
-M : g
-m a
+Sg
+sr
+M:g
+ma
 =
-M b
+Mb
 =
-s cc
+scc
 =
-M b
-M a
-s b
-M a
-M g
-s a
-M g
-M f
-s g
-M f #
-*custos d
+Mb
+Ma
+sb
+Ma
+Mg
+sa
+Mg
+Mf
+sg
+Mf#
+*custosd

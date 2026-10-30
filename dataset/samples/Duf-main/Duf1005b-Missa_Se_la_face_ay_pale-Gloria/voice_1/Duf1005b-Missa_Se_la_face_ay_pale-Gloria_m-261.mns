@@ -3,38 +3,38 @@
 =
 *met(O)
 *MM384
-s A
-[ S B
-S c ]
+sA
+[SB
+Sc]
 =
-[ s F
-s A
-S G ]
-S F
-[ s G
-s A ]
+[sF
+sA
+SG]
+SF
+[sG
+sA]
 =
-[ S F
-s E ]
+[SF
+sE]
 =
-s : F
-M E
+s:F
+ME
 s%5C
-s G
-M F
+sG
+MF
 =
-M G
-s E
-[ s D
-S C ]
-s C
+MG
+sE
+[sD
+SC]
+sC
 =
-S : C
-s r
-s r
-S F
-s D
-S C
-[ s C
-s D ]
-*custos C
+S:C
+sr
+sr
+SF
+sD
+SC
+[sC
+sD]
+*custosC

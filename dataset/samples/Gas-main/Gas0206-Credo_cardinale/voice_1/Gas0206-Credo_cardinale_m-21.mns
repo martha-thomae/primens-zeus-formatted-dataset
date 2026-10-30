@@ -2,33 +2,33 @@
 *clefF4
 *met(C|)
 *MM180
-< s GG
-s AA >
-M : GG
-m AA
-m BB
-m C
-M D
-M E
+<sGG
+sAA>
+M:GG
+mAA
+mBB
+mC
+MD
+ME
 =
-M G
-[ s F
-s : E ]
-s G
-m F
-m E
+MG
+[sF
+s:E]
+sG
+mF
+mE
 =
-s D
-S C
-s GG
-M r
+sD
+SC
+sGG
+Mr
 =
-M AA
-M GG
-M AA
-s E
-S AA
+MAA
+MGG
+MAA
+sE
+SAA
 =
-[ S A
-S D ]
-*custos GG
+[SA
+SD]
+*custosGG

@@ -3,21 +3,21 @@
 =
 *met(C|)
 *lg
-s D
-s E
+sD
+sE
 *Xlg
-M D
-M : BB
-m C
-M D
-s GG
-M r
-M G
-s : A
-M F
-s G
-s A
-M r
-s G
-M F
-*custos GG
+MD
+M:BB
+mC
+MD
+sGG
+Mr
+MG
+s:A
+MF
+sG
+sA
+Mr
+sG
+MF
+*custosGG

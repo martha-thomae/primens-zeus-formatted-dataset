@@ -5,30 +5,30 @@
 =
 *met(C|)
 *lg
-s A
-s c
-S : G
+sA
+sc
+S:G
 *Xlg
-s D
+sD
 *lg
-s E
-s F
+sE
+sF
 *Xlg
 *lg
-[ s G
-s D ]
+[sG
+sD]
 *Xlg
 *lg
 =
-s G
-s d
+sG
+sd
 *Xlg
 =
-M r
-M G
-s d
+Mr
+MG
+sd
 *lg
-s G
-s F
+sG
+sF
 *Xlg
-*custos D
+*custosD

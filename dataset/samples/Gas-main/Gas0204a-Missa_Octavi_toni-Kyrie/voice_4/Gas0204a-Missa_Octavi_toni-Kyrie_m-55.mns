@@ -2,37 +2,37 @@
 *clefG2
 *met(C|)
 *lg
-[ s f
-s : a ]
+[sf
+s:a]
 =
 *Xlg
-M g
-s e
+Mg
+se
 *lg
-s a
-s g
+sa
+sg
 *Xlg
-M f
-M d
+Mf
+Md
 =
-s e
-M d
-M e
-M f
-M g
+se
+Md
+Me
+Mf
+Mg
 *lg
-s a
-s b
+sa
+sb
 *Xlg
-s cc
-M b
-s a
-s d
-s g
+scc
+Mb
+sa
+sd
+sg
 =
-M f #
-M : f #
-m e
+Mf#
+M:f#
+me
 =
-S g
-*custos d
+Sg
+*custosd

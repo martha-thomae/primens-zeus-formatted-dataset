@@ -3,30 +3,30 @@
 *staff4
 *clefG2
 *met(C)
-S r
-S r
-s B
-M B
-M B
-M c
+Sr
+Sr
+sB
+MB
+MB
+Mc
 =
-M : A
-m B
-M c
-s B
-s B
-M : A
-m B
-M c
-M A
-M d
-M : B
-m c
-M d
+M:A
+mB
+Mc
+sB
+sB
+M:A
+mB
+Mc
+MA
+Md
+M:B
+mc
+Md
 =
-S e
-S r
+Se
+Sr
 *met(3)
 3%m%4e
 3%M%2e
-*custos A
+*custosA

@@ -3,41 +3,41 @@
 =
 =
 *met(O)
-s : c
-s : A
-M F
+s:c
+s:A
+MF
 *lg
-s A
-s G
+sA
+sG
 *Xlg
-M F #
-[ s G
-s B ]
-M B
+MF#
+[sG
+sB]
+MB
 =
-M : B
-m G
-M A
-M B
-m A
-M d
-m B
-M c
-s d
-M r
-M d
-M : c
-m B
-s : A
-M : d
-m c
-M B
-s A
-S d
-M : f
-m e
-M d
-M D
-M F
-M G
-*custos D
+M:B
+mG
+MA
+MB
+mA
+Md
+mB
+Mc
+sd
+Mr
+Md
+M:c
+mB
+s:A
+M:d
+mc
+MB
+sA
+Sd
+M:f
+me
+Md
+MD
+MF
+MG
+*custosD

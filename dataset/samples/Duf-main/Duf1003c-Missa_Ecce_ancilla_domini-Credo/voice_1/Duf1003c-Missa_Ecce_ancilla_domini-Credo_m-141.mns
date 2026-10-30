@@ -3,23 +3,23 @@
 =
 *k[b-]
 *met(C|)
-S C
-[ s BB -
-S C ]
+SC
+[sBB-
+SC]
 =
-s AA
-[ s GG
-s C
-s BB - ]
-[ s C
-S D
-s C
-s BB - ]
+sAA
+[sGG
+sC
+sBB-]
+[sC
+SD
+sC
+sBB-]
 =
-S AA
-S GG
-L D
-[ S D
-L F ]
-S F
-*custos GG
+SAA
+SGG
+LD
+[SD
+LF]
+SF
+*custosGG

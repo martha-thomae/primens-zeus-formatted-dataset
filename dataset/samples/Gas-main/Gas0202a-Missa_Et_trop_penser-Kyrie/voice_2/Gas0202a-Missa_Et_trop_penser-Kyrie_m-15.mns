@@ -4,28 +4,28 @@
 *met(O)
 *col
 =
-S d
+Sd
 =
-S c
-S B -
+Sc
+SB-
 *Xcol
 *Xlg
-[ s A
-S G ]
-s F
-s r
-s r
-M G
-[ s B -
-s G ]
-M F #
-S G
-< s A
-s B - >
-S d
-M : d
-m B -
-M c
-s d
-M B -
-*custos F
+[sA
+SG]
+sF
+sr
+sr
+MG
+[sB-
+sG]
+MF#
+SG
+<sA
+sB->
+Sd
+M:d
+mB-
+Mc
+sd
+MB-
+*custosF

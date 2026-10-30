@@ -2,19 +2,19 @@
 *clefF3
 *k[b-]
 *met(C|)
-M C
-s D
-s C
-M BB -
+MC
+sD
+sC
+MBB-
 =
-L : C
-M FF
-M AA
+L:C
+MFF
+MAA
 =
-s GG
-M FF
-M C
-M D
-M E
-s C
-*custos FF
+sGG
+MFF
+MC
+MD
+ME
+sC
+*custosFF

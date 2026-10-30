@@ -6,28 +6,28 @@
 *met(O)
 =
 *met(C|)
-s c
+sc
 =
-M : c
-m B -
-M c
-M : d
-m c
-M : A
-m G
-m F
-m E
-M : D
+M:c
+mB-
+Mc
+M:d
+mc
+M:A
+mG
+mF
+mE
+M:D
 =
-m E
-s F
-s F
-s G
-S c
+mE
+sF
+sF
+sG
+Sc
 =
-[ s A
-s B -
-S : d ]
-[ s B -
-s c ]
-*custos D
+[sA
+sB-
+S:d]
+[sB-
+sc]
+*custosD

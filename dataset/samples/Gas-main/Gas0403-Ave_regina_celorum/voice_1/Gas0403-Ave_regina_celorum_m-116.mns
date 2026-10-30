@@ -3,15 +3,15 @@
 *clefF4
 *k[b-]
 *met(C|)
-S FF
+SFF
 *lg
-S FF
+SFF
 =
-S GG
+SGG
 *Xlg
-s AA
-S BB -
-s : C
-M BB -
-s AA
-*custos FF
+sAA
+SBB-
+s:C
+MBB-
+sAA
+*custosFF

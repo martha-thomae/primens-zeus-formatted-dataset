@@ -4,31 +4,31 @@
 *met(C|)
 *MM300
 =
-[ s B -
-s G ]
-[ s A
-s B - ]
-[ s c
-S d ]
-s r
+[sB-
+sG]
+[sA
+sB-]
+[sc
+Sd]
+sr
 =
-s : d
-M c
-M B -
-m A
-m G
-S A
+s:d
+Mc
+MB-
+mA
+mG
+SA
 =
-s : G
-M F
-S D
-s r
+s:G
+MF
+SD
+sr
 =
-[ s F
-s : G ]
+[sF
+s:G]
 =
-M A
-s : B -
-m A
-m G
-*custos D
+MA
+s:B-
+mA
+mG
+*custosD

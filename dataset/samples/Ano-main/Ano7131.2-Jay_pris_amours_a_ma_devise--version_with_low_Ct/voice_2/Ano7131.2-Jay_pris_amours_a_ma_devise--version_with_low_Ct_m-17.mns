@@ -4,30 +4,30 @@
 =
 =
 *met(C|)
-S E
-s r
-s e
+SE
+sr
+se
 =
-s f
-< s e
-S c >
-S d
-S : c
-s B
-< S A
-s G >
-S c
-s d
-[ S e
-S A
-s c ]
-s B
-s c
-< s d
-s : e >
-m d
-m c
-s B
-s r
-S E
-*custos E
+sf
+<se
+Sc>
+Sd
+S:c
+sB
+<SA
+sG>
+Sc
+sd
+[Se
+SA
+sc]
+sB
+sc
+<sd
+s:e>
+md
+mc
+sB
+sr
+SE
+*custosE

@@ -4,8 +4,8 @@
 =
 *met(O2)
 *MM400
-S D
-L C
-L C
+SD
+LC
+LC
 =
-*custos C
+*custosC

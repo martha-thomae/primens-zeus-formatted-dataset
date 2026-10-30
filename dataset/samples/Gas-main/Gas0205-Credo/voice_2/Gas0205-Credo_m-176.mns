@@ -5,17 +5,17 @@
 *met(C|3)
 =
 *col
-S G
-s : D
-M E
-S F
+SG
+s:D
+ME
+SF
 *Xcol
-s G
-s G
-s G
+sG
+sG
+sG
 =
-s G
-[ S A
-S G ]
-s r
-*custos D
+sG
+[SA
+SG]
+sr
+*custosD

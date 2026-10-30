@@ -3,37 +3,37 @@
 =
 =
 *met(C|)
-s BB
-S C
-s E
-S D
-S C
-S r
-s G
-M A
-s c
-M B
-s A
-s G
-M A
-M F
-M G
-M E
-M F
-M D
-s E
-M D
-M F
-M E
-M C
-[ s D
-s C ]
+sBB
+SC
+sE
+SD
+SC
+Sr
+sG
+MA
+sc
+MB
+sA
+sG
+MA
+MF
+MG
+ME
+MF
+MD
+sE
+MD
+MF
+ME
+MC
+[sD
+sC]
 =
-[ s BB
-S C ]
-s r
-s G
-M F
-s G
-M B
-*custos BB
+[sBB
+SC]
+sr
+sG
+MF
+sG
+MB
+*custosBB

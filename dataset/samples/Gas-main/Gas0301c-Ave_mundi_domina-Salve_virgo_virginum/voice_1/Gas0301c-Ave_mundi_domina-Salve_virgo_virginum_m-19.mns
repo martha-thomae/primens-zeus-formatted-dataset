@@ -4,24 +4,24 @@
 *met(C|)
 *MM340
 =
-m G
-M E -
-s D
-M r
+mG
+ME-
+sD
+Mr
 =
-M GG
-M D
-M GG
-s : GG
-M G
-M : F
-m E
-M D
-M BB -
-M C
-M BB -
-s AA
-s r
-s D
-S D
-*custos GG
+MGG
+MD
+MGG
+s:GG
+MG
+M:F
+mE
+MD
+MBB-
+MC
+MBB-
+sAA
+sr
+sD
+SD
+*custosGG

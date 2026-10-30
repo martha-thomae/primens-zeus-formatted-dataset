@@ -3,24 +3,24 @@
 *met(C|)
 =
 *met(O/3)
-S g
-[ s e
-S f ]
-s g
-S e
-s d
+Sg
+[se
+Sf]
+sg
+Se
+sd
 =
 *lg
-s e
-s c
+se
+sc
 =
 *Xlg
-< s e
-s : f >
-M e
-s d
+<se
+s:f>
+Me
+sd
 *col
-s c
-s f
-s d
-*custos c
+sc
+sf
+sd
+*custosc

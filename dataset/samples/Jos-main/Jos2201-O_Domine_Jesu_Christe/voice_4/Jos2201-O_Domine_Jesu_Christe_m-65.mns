@@ -2,20 +2,20 @@
 *clefG2
 *met(C|)
 *MM360
-S c
-S c
-s : d
-M e
+Sc
+Sc
+s:d
+Me
 =
-S f
-S f
+Sf
+Sf
 =
-S f
-s e
+Sf
+se
 =
-[ s d
-S e ]
-s d
-M c
-M B
-*custos B
+[sd
+Se]
+sd
+Mc
+MB
+*custosB

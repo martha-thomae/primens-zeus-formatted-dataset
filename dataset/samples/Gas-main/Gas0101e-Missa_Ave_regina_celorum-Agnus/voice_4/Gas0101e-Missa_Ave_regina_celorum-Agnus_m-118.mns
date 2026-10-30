@@ -15,11 +15,11 @@
 3%M%2F
 3%m%4G
 *Xcol
-S F
-S r
+SF
+Sr
 =
-S r
-S r
+Sr
+Sr
 *col
 s%M:A
 3B-
@@ -33,16 +33,16 @@ s%M:A
 3%m%4f
 3%M%2e
 *Xcol
-M : f
-m e
+M:f
+me
 =
-M d
-M : c
-m B -
-s A
-m G
-m F
-s E
-M r
-M e
-*custos E
+Md
+M:c
+mB-
+sA
+mG
+mF
+sE
+Mr
+Me
+*custosE

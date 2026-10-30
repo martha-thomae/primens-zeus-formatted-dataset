@@ -3,35 +3,35 @@
 *clefC4
 *met(C|)
 =
-S r
-S r
-S r
+Sr
+Sr
+Sr
 *met(O/3)
-s d
-s d
-s d
-S d
-s d
-s d
-[ s c
-s B ]
-S A
-s r
+sd
+sd
+sd
+Sd
+sd
+sd
+[sc
+sB]
+SA
+sr
 *met(C|)
-s G
-s G
-s G
-S A
-s G
-M F
-M D
-s E
-S D
-s A
-s : c
-M B
-[ s A
-s G
-s A ]
-L E
-*custos D
+sG
+sG
+sG
+SA
+sG
+MF
+MD
+sE
+SD
+sA
+s:c
+MB
+[sA
+sG
+sA]
+LE
+*custosD

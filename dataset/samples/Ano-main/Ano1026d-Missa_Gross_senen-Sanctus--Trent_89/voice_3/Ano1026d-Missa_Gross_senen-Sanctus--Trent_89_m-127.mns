@@ -7,33 +7,33 @@
 *k[b-]
 *met(O)
 *MM300
-L d
-s A
-s B -
-s c
-s : e -
-M d
-S d
-M r
-s d
-M B -
-M : d
-m e
-M f
-M : d
-m c
-M d
-s A
-M r
-M D
+Ld
+sA
+sB-
+sc
+s:e-
+Md
+Sd
+Mr
+sd
+MB-
+M:d
+me
+Mf
+M:d
+mc
+Md
+sA
+Mr
+MD
 =
-M E
-M F
-s G
-s G
+ME
+MF
+sG
+sG
 =
-s A
-s r
+sA
+sr
 =
-s G
-*custos D
+sG
+*custosD

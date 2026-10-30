@@ -2,34 +2,34 @@
 *clefC1
 =
 *met(C|)
-s g
-S cc
-S b
-S a
-s g #
-s a
-s cc
-M b
+sg
+Scc
+Sb
+Sa
+sg#
+sa
+scc
+Mb
 =
-M a
-M g
-M f
-S e
-S r
-S ee
-s ee
-s ee
-s : ff
-m ee
-m dd
-s cc
-S ff
-[ s ee
-s dd ]
-S ee
-S dd
-[ s cc #
-s dd ]
+Ma
+Mg
+Mf
+Se
+Sr
+See
+see
+see
+s:ff
+mee
+mdd
+scc
+Sff
+[see
+sdd]
+See
+Sdd
+[scc#
+sdd]
 =
-s a
-*custos e
+sa
+*custose

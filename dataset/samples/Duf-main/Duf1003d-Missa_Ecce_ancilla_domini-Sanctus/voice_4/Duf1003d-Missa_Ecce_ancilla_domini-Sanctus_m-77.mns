@@ -1,24 +1,24 @@
 **mens
 *clefC1
 *met(O)
-m f
-M d
-m e
-M f
-m g
-M e
-M a
-M g
-M : e
-m c
-M c
-M d
-M B
-S : c
+mf
+Md
+me
+Mf
+mg
+Me
+Ma
+Mg
+M:e
+mc
+Mc
+Md
+MB
+S:c
 *clefC1
 *met(C|)
-[ S c
-s : e ]
-M f
+[Sc
+s:e]
+Mf
 =
-*custos B
+*custosB

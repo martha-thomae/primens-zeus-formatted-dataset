@@ -6,10 +6,10 @@
 *met()
 *MM720
 *rscale:2/3
-S : g
-S : f
+S:g
+S:f
 *met(3)
 *rscale:1
-[ S g
-s e ]
-*custos e
+[Sg
+se]
+*custose

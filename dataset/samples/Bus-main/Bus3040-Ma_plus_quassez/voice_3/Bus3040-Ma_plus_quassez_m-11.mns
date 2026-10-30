@@ -2,43 +2,43 @@
 *clefGv2
 *k[b-]
 *met(O)
-s : f
-s a
-m g
-m f
-M e
-s d
-s g
-M f #
-s g
-s r
-s e
-S e
-s d
-[ s e
-s : f ]
-m e
-m d
-s e
-s f
-s g
-s a
-M g
-M e
-s d
-M : c
-m d
-M e
-s f
-M e
-S : f
-s r
-s r
-s f
+s:f
+sa
+mg
+mf
+Me
+sd
+sg
+Mf#
+sg
+sr
+se
+Se
+sd
+[se
+s:f]
+me
+md
+se
+sf
+sg
+sa
+Mg
+Me
+sd
+M:c
+md
+Me
+sf
+Me
+S:f
+sr
+sr
+sf
 =
-s g
-M f
-M : a
-m g
-M f
-*custos c
+sg
+Mf
+M:a
+mg
+Mf
+*custosc

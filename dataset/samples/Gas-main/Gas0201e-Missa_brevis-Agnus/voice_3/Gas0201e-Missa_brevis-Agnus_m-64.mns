@@ -3,39 +3,39 @@
 *k[b-]
 *met(C|3)
 *lg
-s G
-s A
+sG
+sA
 *Xlg
-< s G
-s g >
-S a
+<sG
+sg>
+Sa
 *lg
-[ s f
-s d ]
+[sf
+sd]
 *Xlg
-[ s e
-s : f ]
-M e
-s c
-M B -
-s d
-M c
-[ s A
-s G ]
+[se
+s:f]
+Me
+sc
+MB-
+sd
+Mc
+[sA
+sG]
 *col
 =
-M : d
-m e
+M:d
+me
 =
 *Xcol
-s f
-s g
-s : b -
-M a
-S g
-s f #
-s g
-S d
-[ s B -
-S c ]
-*custos G
+sf
+sg
+s:b-
+Ma
+Sg
+sf#
+sg
+Sd
+[sB-
+Sc]
+*custosG

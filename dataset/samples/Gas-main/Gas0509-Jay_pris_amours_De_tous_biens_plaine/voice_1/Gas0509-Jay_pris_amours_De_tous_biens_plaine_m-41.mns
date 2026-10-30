@@ -3,25 +3,25 @@
 *k[b-e-]
 =
 *met(C|)
-S GG
-S r
-s r
-s GG
-S D
+SGG
+Sr
+sr
+sGG
+SD
 *lg
-S GG
-S D
+SGG
+SD
 *Xlg
-S GG
-S r
+SGG
+Sr
 *lg
-s BB -
-s AA
+sBB-
+sAA
 *Xlg
 *lg
-[ s BB -
-s GG ]
+[sBB-
+sGG]
 *Xlg
-s D
-s r
-*custos GG
+sD
+sr
+*custosGG

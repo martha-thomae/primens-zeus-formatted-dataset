@@ -3,25 +3,25 @@
 =
 *k[b-]
 *met(C|)
-[ s BB -
-s C ]
-[ s BB -
-s AA ]
-M r
-M : G
-m F
+[sBB-
+sC]
+[sBB-
+sAA]
+Mr
+M:G
+mF
 =
-m F
-m E
+mF
+mE
 =
-[ s G
-s F
-s G
-s D ]
-M r
-M : D
-m E
-s F
-s BB -
-M C
-*custos AA
+[sG
+sF
+sG
+sD]
+Mr
+M:D
+mE
+sF
+sBB-
+MC
+*custosAA

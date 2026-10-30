@@ -3,36 +3,36 @@
 =
 =
 *met(C|)
-M GG
-M GG
-s C
-s BB
-M AA
-s E
-M D
-M C
-M : D
-m C
-m BB
+MGG
+MGG
+sC
+sBB
+MAA
+sE
+MD
+MC
+M:D
+mC
+mBB
 =
-m AA
-s BB
-S AA
-S r
-s r
-s A
-[ s G
-s A ]
+mAA
+sBB
+SAA
+Sr
+sr
+sA
+[sG
+sA]
 =
-M E
+ME
 =
-M A
-[ s E
-S AA ]
-s AA
-s AA
-S D
-s D
-s F
-S E
-*custos GG
+MA
+[sE
+SAA]
+sAA
+sAA
+SD
+sD
+sF
+SE
+*custosGG

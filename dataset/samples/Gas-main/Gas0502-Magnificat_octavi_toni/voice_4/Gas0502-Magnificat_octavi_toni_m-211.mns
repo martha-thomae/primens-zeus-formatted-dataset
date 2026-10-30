@@ -2,31 +2,31 @@
 *clefG2
 =
 *met(O)
-M g
+Mg
 *col
-M : cc
-m b
+M:cc
+mb
 *Xcol
-m a
-m g
-M : f
-m g
-M b -
-s a
-s g
-M f #
-S g
+ma
+mg
+M:f
+mg
+Mb-
+sa
+sg
+Mf#
+Sg
 *met(c)
-S r
-s g
-M : g
-m a
-M b
-M cc
-M g
-M cc
-M b
-s ee
-m dd
-m cc
-*custos f
+Sr
+sg
+M:g
+ma
+Mb
+Mcc
+Mg
+Mcc
+Mb
+see
+mdd
+mcc
+*custosf

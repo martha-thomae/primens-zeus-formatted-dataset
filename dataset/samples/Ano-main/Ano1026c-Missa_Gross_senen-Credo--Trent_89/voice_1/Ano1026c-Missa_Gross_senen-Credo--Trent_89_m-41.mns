@@ -4,30 +4,30 @@
 *met(O)
 *MM300
 =
-[ s C
-S BB - ]
-S : AA
-M r
-M D
-M C
-s AA
-M D
-M C
-s F
-M G
-s D
-M GG
-M : C
-m AA
-M BB -
-s C
-S GG
-s r
-s C
-M E -
-M F
-s G
-< s : D
-s G >
-M F
-*custos GG
+[sC
+SBB-]
+S:AA
+Mr
+MD
+MC
+sAA
+MD
+MC
+sF
+MG
+sD
+MGG
+M:C
+mAA
+MBB-
+sC
+SGG
+sr
+sC
+ME-
+MF
+sG
+<s:D
+sG>
+MF
+*custosGG

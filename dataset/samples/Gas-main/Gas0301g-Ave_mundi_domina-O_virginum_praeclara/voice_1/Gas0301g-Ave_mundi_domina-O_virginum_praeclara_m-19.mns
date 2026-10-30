@@ -3,17 +3,17 @@
 *k[b-]
 *met(C|)
 *MM320
-s AA
-M r
-M AA
-s BB -
-M AA
-M GG
-s AA
+sAA
+Mr
+MAA
+sBB-
+MAA
+MGG
+sAA
 =
-M GG
-M G
-M D
-M E
-s D
-*custos GG
+MGG
+MG
+MD
+ME
+sD
+*custosGG

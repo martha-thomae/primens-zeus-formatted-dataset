@@ -3,30 +3,30 @@
 *met(O)
 *lg
 =
-[ s AA
-s D ]
+[sAA
+sD]
 *Xlg
-M r
-s D
+Mr
+sD
 =
-M BB
-s AA
-s GG
-s G
-M F
-M G
-s F
-M G
-M D
-s E
-s D
-S GG
+MBB
+sAA
+sGG
+sG
+MF
+MG
+sF
+MG
+MD
+sE
+sD
+SGG
 *met(C|)
 =
-[ S G
-s E ]
+[SG
+sE]
 =
-s C
-s : F
-M E
-*custos GG
+sC
+s:F
+ME
+*custosGG

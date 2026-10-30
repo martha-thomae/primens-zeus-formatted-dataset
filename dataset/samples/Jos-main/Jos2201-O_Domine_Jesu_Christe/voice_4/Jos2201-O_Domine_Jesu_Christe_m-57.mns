@@ -2,14 +2,14 @@
 *clefG2
 *met(C|)
 *MM360
-S d
+Sd
 *met(C|)
 *MM360
-L c
-L d
-S : A
+Lc
+Ld
+S:A
 =
-s A
-S A
-S c
-*custos A
+sA
+SA
+Sc
+*custosA

@@ -2,28 +2,28 @@
 *clefF4
 *met(C)
 *MM448
-s F
-s E
-s D
-M C
-M F
+sF
+sE
+sD
+MC
+MF
 =
-M E
-M C
-s D
-s C
-M BB -
-M C
-M E -
-s D
-M C
-s G
-M F
-M E -
-M C
-M E -
-[ s D
-S C ]
-S r
-X C
-*custos BB -
+ME
+MC
+sD
+sC
+MBB-
+MC
+ME-
+sD
+MC
+sG
+MF
+ME-
+MC
+ME-
+[sD
+SC]
+Sr
+XC
+*custosBB-

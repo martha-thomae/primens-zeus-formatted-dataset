@@ -2,28 +2,28 @@
 *clefC2
 *met(O)
 =
-s D
-M D
-M BB -
-s AA
-S GG
-s GG
+sD
+MD
+MBB-
+sAA
+SGG
+sGG
 =
-S BB -
-s BB -
-S C
-s C
+SBB-
+sBB-
+SC
+sC
 =
-M : D
-m C
-M D
-M AA
-s BB -
-S AA
-s AA
-[ S FF
-s C ]
-s D
-s AA
-s AA
-*custos FF
+M:D
+mC
+MD
+MAA
+sBB-
+SAA
+sAA
+[SFF
+sC]
+sD
+sAA
+sAA
+*custosFF

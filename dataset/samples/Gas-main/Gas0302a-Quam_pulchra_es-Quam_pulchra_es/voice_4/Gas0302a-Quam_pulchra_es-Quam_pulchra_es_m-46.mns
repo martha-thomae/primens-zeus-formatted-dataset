@@ -3,32 +3,32 @@
 =
 *k[b-]
 *met(3)
-s r
-M f
-s f
-M f
-s g
-M f
-s b -
-M a
-s b -
-M dd
-M : dd
-m cc
+sr
+Mf
+sf
+Mf
+sg
+Mf
+sb-
+Ma
+sb-
+Mdd
+M:dd
+mcc
 =
-M b -
-s a
-M d
+Mb-
+sa
+Md
 =
-s g
-M f #
-s g
-M f
-s b -
+sg
+Mf#
+sg
+Mf
+sb-
 =
-M cc
-s dd
-M cc
-s ff
-M ee
-*custos d
+Mcc
+sdd
+Mcc
+sff
+Mee
+*custosd

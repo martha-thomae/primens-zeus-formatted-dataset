@@ -2,54 +2,54 @@
 *clefC4
 *k[b-]
 *met(O)
-s r
-s r
-s d
+sr
+sr
+sd
 *col
 =
-[ s e -
-s d ]
+[se-
+sd]
 *Xcol
-s B -
-S c
-[ s A
-S B - ]
-s c
-M d
+sB-
+Sc
+[sA
+SB-]
+sc
+Md
 *col
-M : f
-m e
+M:f
+me
 *Xcol
-m d
-m c
-s d
-M : B -
-m c
-s d
-s r
-s A
-M F
-s f
-M f
-M : d
-m c
-m B -
-m A
-s G
-M d
-M B -
-M : e -
-m d
-s d
+md
+mc
+sd
+M:B-
+mc
+sd
+sr
+sA
+MF
+sf
+Mf
+M:d
+mc
+mB-
+mA
+sG
+Md
+MB-
+M:e-
+md
+sd
 =
-M c
-S d
-M r
+Mc
+Sd
+Mr
 =
-M D
-M : E
-m F
-s G
-s d
+MD
+M:E
+mF
+sG
+sd
 =
-*custos D
+*custosD

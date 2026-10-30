@@ -2,29 +2,29 @@
 *clefC2
 *met(C3)
 *MM450
-s r
-s e
-M d
-M B
-M : c
-m d
-M B
+sr
+se
+Md
+MB
+M:c
+md
+MB
 =
-M c
-[ s d
-s G ]
-s r
-s r
-s B
-M A
-M B
-M : c
-m d
-M B
-M d
-M c
-m B
+Mc
+[sd
+sG]
+sr
+sr
+sB
+MA
+MB
+M:c
+md
+MB
+Md
+Mc
+mB
 =
-m A
-s G
-*custos G
+mA
+sG
+*custosG

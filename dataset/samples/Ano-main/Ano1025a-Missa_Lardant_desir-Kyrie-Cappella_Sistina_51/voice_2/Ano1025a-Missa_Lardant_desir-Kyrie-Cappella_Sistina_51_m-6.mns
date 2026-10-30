@@ -2,22 +2,22 @@
 *clefC4
 *met(O)
 *MM300
-S : r
-s A
-s c
-s d
-s c
-M d
-M f
-M e
-M d
-s A
+S:r
+sA
+sc
+sd
+sc
+Md
+Mf
+Me
+Md
+sA
 =
-s c
+sc
 =
-s d
-s e
-[ s d
-s c ]
-S : B -
-*custos A
+sd
+se
+[sd
+sc]
+S:B-
+*custosA

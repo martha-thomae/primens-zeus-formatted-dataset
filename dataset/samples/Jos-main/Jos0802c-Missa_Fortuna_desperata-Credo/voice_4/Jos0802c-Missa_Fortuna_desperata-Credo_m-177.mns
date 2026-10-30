@@ -3,29 +3,29 @@
 =
 *met(C|)
 *met(3)
-S : r
-S : r
-S : f
-s f
-[ S e
-S : c ]
-s r
-S g
-S : a
-s a
-S a
-S : a
-[ S : g
-S : f ]
+S:r
+S:r
+S:f
+sf
+[Se
+S:c]
+sr
+Sg
+S:a
+sa
+Sa
+S:a
+[S:g
+S:f]
 =
-s d
-S d
-s e
-[ s d
-s c ]
-[ S f
-s e ]
+sd
+Sd
+se
+[sd
+sc]
+[Sf
+se]
 =
-S : f
-S : r
-*custos c
+S:f
+S:r
+*custosc

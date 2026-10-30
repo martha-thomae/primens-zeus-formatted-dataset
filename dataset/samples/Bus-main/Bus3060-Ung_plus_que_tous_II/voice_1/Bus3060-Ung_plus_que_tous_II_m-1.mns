@@ -2,35 +2,35 @@
 *clefC4
 *k[b-]
 *met(C)
-[ s GG
-s C
-S BB - ]
-S FF
-M GG
+[sGG
+sC
+SBB-]
+SFF
+MGG
 =
-s BB -
-M C
-[ s D
-s BB - ]
-M C
-M : D
+sBB-
+MC
+[sD
+sBB-]
+MC
+M:D
 =
-m C
-m BB -
-m AA
-s GG
-s : FF
-M GG
-M AA
-M : C
-m BB -
-M GG
-s D
-M GG
+mC
+mBB-
+mAA
+sGG
+s:FF
+MGG
+MAA
+M:C
+mBB-
+MGG
+sD
+MGG
 =
-s BB -
-m AA
-m GG
-[ s FF
-s GG ]
-*custos FF
+sBB-
+mAA
+mGG
+[sFF
+sGG]
+*custosFF

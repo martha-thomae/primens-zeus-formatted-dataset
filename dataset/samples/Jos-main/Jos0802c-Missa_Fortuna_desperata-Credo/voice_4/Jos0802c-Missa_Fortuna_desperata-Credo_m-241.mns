@@ -3,57 +3,57 @@
 *clefC1
 *met(Cr)
 =
-M a
-m g
-m f
-s g
-M : a
+Ma
+mg
+mf
+sg
+M:a
 =
-m b -
-M cc
-M cc
-M dd
-m cc
-M b -
-m a
+mb-
+Mcc
+Mcc
+Mdd
+mcc
+Mb-
+ma
 =
-s a
-M g
-s a
-s r
-M : a
-U g
-U f
-s e
-s c
+sa
+Mg
+sa
+sr
+M:a
+Ug
+Uf
+se
+sc
 =
-M r
-M c
-M d
-M f
-s e
-M f
-M : g
-m f
-m e
-m d
-s e
-M d
-M : f
-m e
-M d
-s c
-s d
-s e
-M r
-M f
-M g
-M a
-M : b -
-m a
-m g
-m f
-s f
-M e
-L f
-*custos c
+Mr
+Mc
+Md
+Mf
+se
+Mf
+M:g
+mf
+me
+md
+se
+Md
+M:f
+me
+Md
+sc
+sd
+se
+Mr
+Mf
+Mg
+Ma
+M:b-
+ma
+mg
+mf
+sf
+Me
+Lf
+*custosc

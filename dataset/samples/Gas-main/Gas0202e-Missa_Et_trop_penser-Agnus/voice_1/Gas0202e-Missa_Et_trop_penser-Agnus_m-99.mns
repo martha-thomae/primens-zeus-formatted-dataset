@@ -4,47 +4,47 @@
 *k[b-]
 *met(O|)
 *lg
-S : GG
-S F
+S:GG
+SF
 *Xlg
-s F
-s G
-M D
-s E -
-m D
-m C
-S BB -
-s BB -
-s F
-S E -
-s F
-S C
-[ S D
-s BB - ]
+sF
+sG
+MD
+sE-
+mD
+mC
+SBB-
+sBB-
+sF
+SE-
+sF
+SC
+[SD
+sBB-]
 *lg
-L : E -
+L:E-
 =
-S : D
+S:D
 *Xlg
-s : G
-M F
-[ s E -
-S D ]
-s BB -
+s:G
+MF
+[sE-
+SD]
+sBB-
 *col
-S F
+SF
 *lg
-s G
-s E -
+sG
+sE-
 *Xlg
 *lg
-s F
-s D
+sF
+sD
 *Xcol
 *Xlg
-M : E -
-m D
-M C
-M BB -
-s C
-*custos GG
+M:E-
+mD
+MC
+MBB-
+sC
+*custosGG

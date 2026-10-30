@@ -4,19 +4,19 @@
 =
 *met(O2)
 *MM336
-s g
-s a
-M : b -
-m cc
-s a
-M r
-M dd
-M cc
+sg
+sa
+M:b-
+mcc
+sa
+Mr
+Mdd
+Mcc
 =
-m b -
-m a
-M : b -
-m cc
-M a
-M a
-*custos g
+mb-
+ma
+M:b-
+mcc
+Ma
+Ma
+*custosg

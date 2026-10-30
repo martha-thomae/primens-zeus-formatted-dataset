@@ -3,35 +3,35 @@
 *k[b-]
 *met(C|)
 *lg
-S A
-S B -
+SA
+SB-
 =
 *Xlg
-S A
-s : F
-M G
-[ s A
-S G ]
-s F
-S G
+SA
+s:F
+MG
+[sA
+SG]
+sF
+SG
 *met(C|)
-s A
-M A
-s A
-M A
+sA
+MA
+sA
+MA
 =
-M : B -
-m B -
-M B -
-M B -
-M : A
-m F
-m G
-m F
-s B -
+M:B-
+mB-
+MB-
+MB-
+M:A
+mF
+mG
+mF
+sB-
 =
-M A
-s B -
-s r
-S r
-*custos F
+MA
+sB-
+sr
+Sr
+*custosF

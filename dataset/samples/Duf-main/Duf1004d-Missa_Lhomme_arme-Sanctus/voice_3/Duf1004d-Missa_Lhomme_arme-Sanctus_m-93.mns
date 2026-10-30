@@ -4,29 +4,29 @@
 *k[b-]
 *met(O)
 *MM320
-s d
-s r
-s d
-M c
-M B -
-[ s A
-s f ]
-M e
-s d
-M B -
-[ s c
-s A ]
-s G
-M A
-M B -
-M A
-m G
-M B -
-m d
-m c
+sd
+sr
+sd
+Mc
+MB-
+[sA
+sf]
+Me
+sd
+MB-
+[sc
+sA]
+sG
+MA
+MB-
+MA
+mG
+MB-
+md
+mc
 =
-m B -
-M d
-m c
-m e
-*custos G
+mB-
+Md
+mc
+me
+*custosG

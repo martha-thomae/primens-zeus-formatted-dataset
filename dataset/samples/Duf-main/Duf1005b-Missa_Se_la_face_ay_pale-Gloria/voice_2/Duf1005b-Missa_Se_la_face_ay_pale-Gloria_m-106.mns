@@ -3,14 +3,14 @@
 *met(O)
 =
 *MM384
-S : d
-S : c
-s : r
-s : d
-[ s : c
-S : A ]
+S:d
+S:c
+s:r
+s:d
+[s:c
+S:A]
 =
-[ s : B
-s : c ]
-s : A
-*custos A
+[s:B
+s:c]
+s:A
+*custosA

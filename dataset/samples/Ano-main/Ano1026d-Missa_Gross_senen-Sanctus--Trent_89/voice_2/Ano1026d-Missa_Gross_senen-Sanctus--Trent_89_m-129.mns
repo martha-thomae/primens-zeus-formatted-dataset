@@ -4,46 +4,46 @@
 *met(C.)
 =
 *MM300
-s c
-S c
-s A
-S A
-[ s : G
-s : F ]
-[ S : D
-S : C ]
-s F
-[ S G
-S : A ]
-[ S : B -
-s A ]
-S G
-[ s F
-S D ]
-S : E -
+sc
+Sc
+sA
+SA
+[s:G
+s:F]
+[S:D
+S:C]
+sF
+[SG
+S:A]
+[S:B-
+sA]
+SG
+[sF
+SD]
+S:E-
 *met(O)
 *rscale:1
-S D
-M r
-M D
-M A
-M A
-M c
-M c
-[ s G
-s F ]
-s A
-s d
-M c
-M A
-s B -
-s A
-M r
-M A
-M c
-M c
-s G
-s d
-[ s e -
-s d ]
-*custos C
+SD
+Mr
+MD
+MA
+MA
+Mc
+Mc
+[sG
+sF]
+sA
+sd
+Mc
+MA
+sB-
+sA
+Mr
+MA
+Mc
+Mc
+sG
+sd
+[se-
+sd]
+*custosC

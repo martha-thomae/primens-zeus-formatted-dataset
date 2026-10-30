@@ -2,16 +2,16 @@
 *clefC4
 *k[b-]
 *met(C|)
-s F
+sF
 =
-[ s G
-s A ]
-s F
-[ s G
-s A
-s F ]
-< s G
-S A >
-L G
-L F
-*custos F
+[sG
+sA]
+sF
+[sG
+sA
+sF]
+<sG
+SA>
+LG
+LF
+*custosF

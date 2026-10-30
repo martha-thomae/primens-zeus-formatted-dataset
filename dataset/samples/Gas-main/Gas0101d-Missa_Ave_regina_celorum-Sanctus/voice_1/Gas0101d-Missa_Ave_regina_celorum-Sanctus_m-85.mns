@@ -3,30 +3,30 @@
 *k[b-]
 =
 *met(C3)
-s : FF
-M GG
-s AA
-s BB -
-M C
+s:FF
+MGG
+sAA
+sBB-
+MC
 =
-M E
-s D
-s : C
-M FF
-s C
-s : D
-M E
-s F
+ME
+sD
+s:C
+MFF
+sC
+s:D
+ME
+sF
 *lg
-s D
-s BB -
+sD
+sBB-
 *Xlg
-s C
-[ s AA
-S GG
-S AA ]
-s : AA
-M GG
-s FF
-s EE
-*custos EE
+sC
+[sAA
+SGG
+SAA]
+s:AA
+MGG
+sFF
+sEE
+*custosEE

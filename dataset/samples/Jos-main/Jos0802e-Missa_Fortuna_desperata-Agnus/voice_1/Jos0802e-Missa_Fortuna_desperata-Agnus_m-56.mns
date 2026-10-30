@@ -1,16 +1,16 @@
 **mens
 *clefF4
 *met(C|)
-X C
+XC
 *rscale:1
 *met(C|)
-S FF
-s FF
-s GG
-[ S AA
-S GG ]
-S FF
-s r
-< s C
-S D >
-*custos FF
+SFF
+sFF
+sGG
+[SAA
+SGG]
+SFF
+sr
+<sC
+SD>
+*custosFF

@@ -3,41 +3,41 @@
 *clefF4
 *k[b-]
 *met(O2)
-s : GG
-M AA
-s BB -
-s C
-s BB -
-s GG
-s : BB -
-M C
-s D
+s:GG
+MAA
+sBB-
+sC
+sBB-
+sGG
+s:BB-
+MC
+sD
 =
-< s E -
-S D >
-s : GG
-M AA
-M BB -
-M GG
-s G
-M : F
-m G
-M A
-M : D
-m E
-M F
-M : BB -
-m C
-m D
-m E
-M : F
-m E
-m D
-m C
-M D
-M BB -
+<sE-
+SD>
+s:GG
+MAA
+MBB-
+MGG
+sG
+M:F
+mG
+MA
+M:D
+mE
+MF
+M:BB-
+mC
+mD
+mE
+M:F
+mE
+mD
+mC
+MD
+MBB-
 =
-s AA
-s GG
-s G
-*custos GG
+sAA
+sGG
+sG
+*custosGG

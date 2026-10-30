@@ -3,41 +3,41 @@
 *k[b-]
 *met(O)
 =
-s GG
+sGG
 *col
-M : GG
-m AA
+M:GG
+mAA
 *Xcol
 =
-M BB -
-M C
-M BB -
-M GG
+MBB-
+MC
+MBB-
+MGG
 *lg
-s C
-s BB -
+sC
+sBB-
 *Xlg
-s AA
+sAA
 *col
-M : AA
-m BB -
+M:AA
+mBB-
 =
 *Xcol
-M C
+MC
 =
-M D
-M C
-M AA
-M D
-M C
-[ s BB -
-s AA ]
-s r
-s GG
-M AA
-M FF
-M GG
-M AA
-M BB -
-M C
-*custos FF
+MD
+MC
+MAA
+MD
+MC
+[sBB-
+sAA]
+sr
+sGG
+MAA
+MFF
+MGG
+MAA
+MBB-
+MC
+*custosFF

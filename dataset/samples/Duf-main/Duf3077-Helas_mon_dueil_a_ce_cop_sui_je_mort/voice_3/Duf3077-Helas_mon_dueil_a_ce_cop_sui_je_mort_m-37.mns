@@ -2,27 +2,27 @@
 *clefC1
 *met(C)
 *MM336
-s b -
-M : cc
-m b -
-M g
-M f
-M b -
-m a
-M a
-m g
-M : g
-m f #
-m f #
-m e
-S g
+sb-
+M:cc
+mb-
+Mg
+Mf
+Mb-
+ma
+Ma
+mg
+M:g
+mf#
+mf#
+me
+Sg
 *clefC1
 *met(C)
-s d
-M d
+sd
+Md
 =
-M e
-s : f #
-M e
-S g
-*custos d
+Me
+s:f#
+Me
+Sg
+*custosd

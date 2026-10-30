@@ -3,30 +3,30 @@
 *k[b-]
 =
 *met(C)
-M E
-M F
-M D
-s G
-M F #
+ME
+MF
+MD
+sG
+MF#
 *col
-M : G
-m F #
+M:G
+mF#
 *Xcol
-M G
-M A
-M F
-M G
-s E -
-S D
-s : G
-M G
-s : C
-M C
-s C
+MG
+MA
+MF
+MG
+sE-
+SD
+s:G
+MG
+s:C
+MC
+sC
 =
-s C
-s : G
-M : B -
-m G
-M B -
-*custos C
+sC
+s:G
+M:B-
+mG
+MB-
+*custosC

@@ -4,21 +4,21 @@
 *k[b-]
 *met(C|)
 *lg
-s F
-s E
+sF
+sE
 =
 *Xlg
-s D
-s r
-S r
-S r
-s D
-M GG
-M BB -
-M AA
-M BB -
-s GG
-S r
-s D
-s E -
-*custos GG
+sD
+sr
+Sr
+Sr
+sD
+MGG
+MBB-
+MAA
+MBB-
+sGG
+Sr
+sD
+sE-
+*custosGG

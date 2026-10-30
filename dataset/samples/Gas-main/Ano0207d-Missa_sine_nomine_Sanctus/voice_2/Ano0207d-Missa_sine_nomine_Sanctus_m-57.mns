@@ -6,29 +6,29 @@
 =
 =
 *met(C|)
-s r
-s c
-M : B -
-m G
-M A
-s G
-M F #
-[ s G
-S A ]
+sr
+sc
+M:B-
+mG
+MA
+sG
+MF#
+[sG
+SA]
 =
-L d
+Ld
 =
-[ s d
-L c ]
-s c
-L B -
+[sd
+Lc]
+sc
+LB-
 =
-[ s B -
-S : A ]
-M F
-M G
-s A
-M : G
-m A
-s B -
-*custos F
+[sB-
+S:A]
+MF
+MG
+sA
+M:G
+mA
+sB-
+*custosF

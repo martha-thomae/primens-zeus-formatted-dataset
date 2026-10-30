@@ -3,20 +3,20 @@
 =
 *met(O/3)
 *lg
-s D
-S AA
+sD
+SAA
 *Xlg
-S A
+SA
 =
-s D
-s G
-[ s E
-s F ]
-[ S G
-s E ]
+sD
+sG
+[sE
+sF]
+[SG
+sE]
 *lg
-[ s F
-s : G ]
+[sF
+s:G]
 *Xlg
-M F
-*custos AA
+MF
+*custosAA

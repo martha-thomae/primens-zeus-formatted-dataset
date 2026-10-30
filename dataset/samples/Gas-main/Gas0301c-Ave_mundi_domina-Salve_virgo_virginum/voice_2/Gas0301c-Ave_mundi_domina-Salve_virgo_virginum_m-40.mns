@@ -3,19 +3,19 @@
 *k[b-]
 *met(C|)
 *MM340
-m G
-m A
-m B -
-M : c
-m B -
-m A
-m G
-s B -
-s A
-s G
-M F #
-M G
-M r
+mG
+mA
+mB-
+M:c
+mB-
+mA
+mG
+sB-
+sA
+sG
+MF#
+MG
+Mr
 =
-s r
-*custos F #
+sr
+*custosF#

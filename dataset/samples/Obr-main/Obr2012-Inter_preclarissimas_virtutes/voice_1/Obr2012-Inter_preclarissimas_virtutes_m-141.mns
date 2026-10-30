@@ -2,26 +2,26 @@
 *clefF4
 *k[b-]
 *met(C|)
-S C
-S GG
+SC
+SGG
 *clefF4
 *k[b-]
 *met(O)
-S D
-S D
-S D
-[ S GG
-s D ]
-M D
-M D
-M G
-M G
-s F
-s D
-s G
-M G
-M G
-s F
-[ s E
-s A ]
-*custos GG
+SD
+SD
+SD
+[SGG
+sD]
+MD
+MD
+MG
+MG
+sF
+sD
+sG
+MG
+MG
+sF
+[sE
+sA]
+*custosGG

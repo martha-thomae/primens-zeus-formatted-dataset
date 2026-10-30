@@ -2,16 +2,16 @@
 *clefC4
 *met(O)
 *lg
-S : c
+S:c
 *col
-S d
-S c
+Sd
+Sc
 *Xlg
-M B
-M A
-s B
+MB
+MA
+sB
 *Xcol
-L : A
-S A
-s A
-*custos A
+L:A
+SA
+sA
+*custosA

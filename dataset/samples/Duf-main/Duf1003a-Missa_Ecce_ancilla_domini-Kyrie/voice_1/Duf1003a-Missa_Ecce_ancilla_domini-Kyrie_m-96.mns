@@ -4,14 +4,14 @@
 =
 *met(C|)
 =
-s BB n
-s AA
-s GG
-s C
-s GG
-s r
+sBBn
+sAA
+sGG
+sC
+sGG
+sr
 =
-s D
-s : E
-M A
-*custos GG
+sD
+s:E
+MA
+*custosGG

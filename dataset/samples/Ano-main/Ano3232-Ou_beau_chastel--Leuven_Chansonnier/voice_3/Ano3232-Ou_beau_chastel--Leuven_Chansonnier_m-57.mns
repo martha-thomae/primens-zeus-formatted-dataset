@@ -2,36 +2,36 @@
 *clefC1
 *k[b-e-]
 *met(C|)
-M f
-M e -
-M d
-M c
-s B -
-s : e -
-M c
-[ s d
-s e - ]
-S b -
-s a -
-M g
-M e -
-s f
-S e -
-s r
-s b -
-s b -
-s b -
-[ s g
-s : b - ]
-M a -
-[ s f
-s : e - ]
-m d
-m c
-s e -
-s : d
+Mf
+Me-
+Md
+Mc
+sB-
+s:e-
+Mc
+[sd
+se-]
+Sb-
+sa-
+Mg
+Me-
+sf
+Se-
+sr
+sb-
+sb-
+sb-
+[sg
+s:b-]
+Ma-
+[sf
+s:e-]
+md
+mc
+se-
+s:d
 =
-M c
-S c
-s B n
-*custos B -
+Mc
+Sc
+sBn
+*custosB-

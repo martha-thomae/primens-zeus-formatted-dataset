@@ -3,62 +3,62 @@
 *k[b-]
 *met(C|)
 =
-s : E -
-m D
-m C
+s:E-
+mD
+mC
 3BB-
 3C
 3D
-M : GG
-m AA
-m BB -
-m C
-M D
-M E -
+M:GG
+mAA
+mBB-
+mC
+MD
+ME-
 =
-s G
-m F
-m E -
-s F
-M : B -
-m A
-m G
-m F
-s G
-m F
-m E -
-M D
-s E -
-m D
-m C
-m BB -
-m C
-m D
-m E n
-s F
-M r
-s G
-m F
-m E
-M F
-M G
-M B -
-m A
-m G
-M F
-s G
-m F
-m E
-M : D
-m E
-m F
-m G
-M F
-M D
-M : E -
-m F
+sG
+mF
+mE-
+sF
+M:B-
+mA
+mG
+mF
+sG
+mF
+mE-
+MD
+sE-
+mD
+mC
+mBB-
+mC
+mD
+mEn
+sF
+Mr
+sG
+mF
+mE
+MF
+MG
+MB-
+mA
+mG
+MF
+sG
+mF
+mE
+M:D
+mE
+mF
+mG
+MF
+MD
+M:E-
+mF
 =
-M D
-[ s C
-S BB - ]
-*custos GG
+MD
+[sC
+SBB-]
+*custosGG

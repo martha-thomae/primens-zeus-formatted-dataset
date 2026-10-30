@@ -2,21 +2,21 @@
 *clefF4
 *k[b-]
 *met(C|)
-s : BB -
-M C
-[ s D
-s GG
-S D ]
+s:BB-
+MC
+[sD
+sGG
+SD]
 *lg
-S AA
-S BB -
+SAA
+SBB-
 *Xlg
-s r
-s AA
+sr
+sAA
 *lg
-s BB -
-s GG
+sBB-
+sGG
 *Xlg
-S AA
-S D
-*custos GG
+SAA
+SD
+*custosGG

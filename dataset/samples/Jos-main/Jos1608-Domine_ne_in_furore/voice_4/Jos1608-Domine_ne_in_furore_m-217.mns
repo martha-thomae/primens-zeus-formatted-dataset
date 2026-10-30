@@ -3,33 +3,33 @@
 =
 *met(C|)
 *met(3)
-S g
-s r
-s g
-s g
-s g
-S a
-s a
-S cc
-S b
+Sg
+sr
+sg
+sg
+sg
+Sa
+sa
+Scc
+Sb
 =
-[ S a
-s g ]
-S a
-s g
-< S f
-S e >
-s r
-s e
-s e
-s f
-S g
-s a
-s b
-S cc
+[Sa
+sg]
+Sa
+sg
+<Sf
+Se>
+sr
+se
+se
+sf
+Sg
+sa
+sb
+Scc
 *met(C|)
-S b
-M r
-s e
-M e
-*custos e
+Sb
+Mr
+se
+Me
+*custose

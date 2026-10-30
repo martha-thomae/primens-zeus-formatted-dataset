@@ -4,18 +4,18 @@
 *met(O)
 *MM300
 =
-L : D
+L:D
 *clefF4
 =
 *met(O2)
 *MM400
-L A
+LA
 =
-S D
+SD
 =
-[ S AA
-S D ]
-s r
+[SAA
+SD]
+sr
 =
-s D
-*custos AA
+sD
+*custosAA

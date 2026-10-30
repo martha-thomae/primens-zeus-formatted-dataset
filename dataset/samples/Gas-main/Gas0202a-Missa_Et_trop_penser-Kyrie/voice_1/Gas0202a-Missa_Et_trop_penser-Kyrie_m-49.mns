@@ -3,58 +3,58 @@
 *k[b-]
 =
 *met(C|)
-M C
-M E -
-M D
-m C
-m BB -
+MC
+ME-
+MD
+mC
+mBB-
 =
-[ s AA
-s GG ]
-s G
-M F
-s E -
-M D
-[ s C
-s BB - ]
-s r
-S r
-S r
-s r
-s D
-M BB -
-s C
-m BB -
-m AA
-M GG
-s C
+[sAA
+sGG]
+sG
+MF
+sE-
+MD
+[sC
+sBB-]
+sr
+Sr
+Sr
+sr
+sD
+MBB-
+sC
+mBB-
+mAA
+MGG
+sC
 =
 *col
-M : D
-m AA
+M:D
+mAA
 *Xcol
-M BB n
-M : C
-m D
-M E
-M D
-M F
-M G
-M A
-M B -
+MBBn
+M:C
+mD
+ME
+MD
+MF
+MG
+MA
+MB-
 =
-M c
-M F
-s G
-s C
-M : F
-m G
-M A
-M G
-M E -
-s F
-M D
-M E -
-M C
-s D
-*custos GG
+Mc
+MF
+sG
+sC
+M:F
+mG
+MA
+MG
+ME-
+sF
+MD
+ME-
+MC
+sD
+*custosGG

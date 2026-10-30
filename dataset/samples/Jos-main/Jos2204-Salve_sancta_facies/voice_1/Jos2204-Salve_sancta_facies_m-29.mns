@@ -3,16 +3,16 @@
 *k[b-]
 =
 *met(C|)
-m C
-m BB -
-m AA
-s BB -
-s C
-s r
-S r
-S r
+mC
+mBB-
+mAA
+sBB-
+sC
+sr
+Sr
+Sr
 *met(O|/3)
-S F
-s F
+SF
+sF
 =
-*custos AA
+*custosAA

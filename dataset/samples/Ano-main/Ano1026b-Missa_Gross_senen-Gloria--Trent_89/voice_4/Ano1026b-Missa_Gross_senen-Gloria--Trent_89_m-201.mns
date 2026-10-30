@@ -3,15 +3,15 @@
 *k[b-]
 *met(C|)
 *MM400
-s e
-S d
-S g
-s f #
-S g
+se
+Sd
+Sg
+sf#
+Sg
 *clefC1
 *k[b-]
 *met(O)
 *MM300
-S : f
+S:f
 =
-*custos d
+*custosd

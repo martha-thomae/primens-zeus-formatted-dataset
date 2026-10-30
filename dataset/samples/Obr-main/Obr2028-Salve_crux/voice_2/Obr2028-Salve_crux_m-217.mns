@@ -2,20 +2,20 @@
 *clefC4
 *k[b-]
 *met(C|)
-S F
-S D
-S C
-S F
-S G
-S C
-S E
-S C
+SF
+SD
+SC
+SF
+SG
+SC
+SE
+SC
 *clefC4
 *k[b-]
 *met(O|)
-S C
-s C
-s : D
-M E
-s F
-*custos C
+SC
+sC
+s:D
+ME
+sF
+*custosC

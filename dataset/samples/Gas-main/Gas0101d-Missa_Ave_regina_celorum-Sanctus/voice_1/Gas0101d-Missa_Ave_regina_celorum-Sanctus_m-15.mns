@@ -2,46 +2,46 @@
 *clefF4
 *k[b-]
 *met(O)
-M r
-s EE -
-M EE -
-s FF
+Mr
+sEE-
+MEE-
+sFF
 *lg
-[ s FF
-s C ]
+[sFF
+sC]
 *Xlg
-M : BB -
-m AA
-M : FF
-m GG
+M:BB-
+mAA
+M:FF
+mGG
 =
-m AA
-m BB -
-M : C
-m BB -
-M GG
-M FF
-s BB -
-M FF
-s C
+mAA
+mBB-
+M:C
+mBB-
+MGG
+MFF
+sBB-
+MFF
+sC
 =
 *col
-S FF
-s r
-s r
+SFF
+sr
+sr
 *lg
-s BB -
-s AA
+sBB-
+sAA
 *Xlg
 *Xcol
-s GG
-M AA
-M FF
-s GG
-M FF
+sGG
+MAA
+MFF
+sGG
+MFF
 =
-s BB -
-M AA
-M BB -
-M D
-*custos EE -
+sBB-
+MAA
+MBB-
+MD
+*custosEE-

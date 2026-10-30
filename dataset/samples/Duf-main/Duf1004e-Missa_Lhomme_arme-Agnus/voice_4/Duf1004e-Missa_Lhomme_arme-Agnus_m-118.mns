@@ -2,52 +2,52 @@
 *clefC1
 *met(O)
 *MM320
-s d
-s r
-s g
-M a
-s a
-M g
-M e
-M f
-s g
-s d
-[ s g
-s : f ]
-M g
-s : a
-s dd
-M cc
-M : b
-m a
-s cc
-s r
-s cc
-s b
-M a
-s cc
-M cc
-M b
-M cc
-[ s dd
-s b ]
-M r
-s cc
-M dd
-[ s ee
-S dd ]
-s cc
-M b
-s dd
-M cc
-M b
-M g
-s a
-s g
-M : f
-U e
-U d
-S c
-s r
-S : d
-*custos c
+sd
+sr
+sg
+Ma
+sa
+Mg
+Me
+Mf
+sg
+sd
+[sg
+s:f]
+Mg
+s:a
+sdd
+Mcc
+M:b
+ma
+scc
+sr
+scc
+sb
+Ma
+scc
+Mcc
+Mb
+Mcc
+[sdd
+sb]
+Mr
+scc
+Mdd
+[see
+Sdd]
+scc
+Mb
+sdd
+Mcc
+Mb
+Mg
+sa
+sg
+M:f
+Ue
+Ud
+Sc
+sr
+S:d
+*custosc

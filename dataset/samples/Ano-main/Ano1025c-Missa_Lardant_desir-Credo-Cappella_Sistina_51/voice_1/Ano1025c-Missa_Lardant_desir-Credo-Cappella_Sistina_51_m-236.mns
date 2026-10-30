@@ -3,15 +3,15 @@
 *met(O2)
 =
 *MM400
-M G
-M A
-M B
-M c
-M A
-M B -
-s G
-S F
-[ S C
-L G ]
+MG
+MA
+MB
+Mc
+MA
+MB-
+sG
+SF
+[SC
+LG]
 =
-*custos C
+*custosC

@@ -5,23 +5,23 @@
 *met(C|)
 *lg
 =
-S D
+SD
 *col
 =
-s : C
+s:C
 *Xlg
-m BB -
-m AA
+mBB-
+mAA
 *Xcol
-S GG
-S r
-M : D
-m E
-M : F
+SGG
+Sr
+M:D
+mE
+M:F
 =
-m E
-M C
-M : D
-m C
-M D
-*custos GG
+mE
+MC
+M:D
+mC
+MD
+*custosGG

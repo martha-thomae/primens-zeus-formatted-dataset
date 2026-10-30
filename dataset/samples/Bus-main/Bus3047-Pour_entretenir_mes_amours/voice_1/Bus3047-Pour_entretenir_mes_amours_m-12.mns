@@ -2,33 +2,33 @@
 =
 *clefC4
 *met(C|)
-S r
-S r
-[ s D
-s A ]
-M : B -
-m A
-M F
-M : G
-m F
-m E
-m D
-M : C #
-m BB
-s D
-s r
-S A
-s B -
-< s G
-s A >
-s A
-s G
-M : F
-m E
-M F
-M G
-s D
-s A
-M A
-M A
-*custos BB
+Sr
+Sr
+[sD
+sA]
+M:B-
+mA
+MF
+M:G
+mF
+mE
+mD
+M:C#
+mBB
+sD
+sr
+SA
+sB-
+<sG
+sA>
+sA
+sG
+M:F
+mE
+MF
+MG
+sD
+sA
+MA
+MA
+*custosBB

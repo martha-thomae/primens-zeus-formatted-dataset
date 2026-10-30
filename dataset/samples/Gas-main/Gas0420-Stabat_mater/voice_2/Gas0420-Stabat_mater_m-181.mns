@@ -2,57 +2,57 @@
 *clefF4
 =
 *met(C|)
-s E
-s D
-s r
-s E
-M F
-s A
-M D
+sE
+sD
+sr
+sE
+MF
+sA
+MD
 *col
-M : G
-m A
+M:G
+mA
 *Xcol
-M B
-M c
-M B
-M E
-M r
-M C
-M G
+MB
+Mc
+MB
+ME
+Mr
+MC
+MG
 =
-M C
-M G
-M r
-M : C
-m D
-s E
+MC
+MG
+Mr
+M:C
+mD
+sE
 *col
-s : C
-M C
+s:C
+MC
 =
 *Xcol
-M C
-M C
-M E
-M C
-s AA
-s r
-s G
-M E
-M C
-M G
+MC
+MC
+ME
+MC
+sAA
+sr
+sG
+ME
+MC
+MG
 *col
-M : B
-m A
+M:B
+mA
 *Xcol
-m G
-m F
-s E
-s c
-s : B
-M G
-s A
-s A
-S B
-*custos AA
+mG
+mF
+sE
+sc
+s:B
+MG
+sA
+sA
+SB
+*custosAA

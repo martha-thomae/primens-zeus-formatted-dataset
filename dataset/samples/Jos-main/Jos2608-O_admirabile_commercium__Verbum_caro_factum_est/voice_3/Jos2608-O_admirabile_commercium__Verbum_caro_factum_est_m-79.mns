@@ -2,42 +2,42 @@
 *clefC4
 *met()
 *MM408
-s g
-M f #
+sg
+Mf#
 =
-s g
-M f
-M e
-s d
+sg
+Mf
+Me
+sd
 *met(O)
 *MM272
-s c
-M : e
-m e
-M e
-M e
-M f
-M g
-M a
+sc
+M:e
+me
+Me
+Me
+Mf
+Mg
+Ma
 =
-M f
-s g
-M e
-M g
+Mf
+sg
+Me
+Mg
 =
-M f
-M e
-s d
-S : c
+Mf
+Me
+sd
+S:c
 *met(C2)
 *MM424
-S c
-S g
-S g
-s : g
-M f
-s g
-s : b -
-M a
-s a
-*custos c
+Sc
+Sg
+Sg
+s:g
+Mf
+sg
+s:b-
+Ma
+sa
+*custosc

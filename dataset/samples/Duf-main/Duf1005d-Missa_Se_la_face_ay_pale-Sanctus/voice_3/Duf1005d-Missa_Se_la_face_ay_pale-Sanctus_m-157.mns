@@ -3,26 +3,26 @@
 *met(C)
 *MM420
 =
-s : B -
-M A
-S c
+s:B-
+MA
+Sc
 *clefC4
 *met(C)
 *MM420
-S A
-S G
+SA
+SG
 =
-[ S F
-S G ]
-S r
-[ S G
-s : c ]
-M d
-s e
-s a
-s : g
-M f
-[ s e
-s d ]
-S c
-*custos F
+[SF
+SG]
+Sr
+[SG
+s:c]
+Md
+se
+sa
+s:g
+Mf
+[se
+sd]
+Sc
+*custosF

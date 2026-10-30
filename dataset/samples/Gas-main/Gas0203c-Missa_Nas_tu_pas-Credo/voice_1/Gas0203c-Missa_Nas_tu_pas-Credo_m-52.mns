@@ -4,51 +4,51 @@
 *k[b-]
 =
 *met(C|)
-S FF
-S F
-s F
-s D
-s BB -
-s BB -
-S FF
-s FF
-m FF
-m GG
-m AA
-m BB -
-M C
-M FF
-M F
-M C
+SFF
+SF
+sF
+sD
+sBB-
+sBB-
+SFF
+sFF
+mFF
+mGG
+mAA
+mBB-
+MC
+MFF
+MF
+MC
 *lg
-[ s D
-s C ]
+[sD
+sC]
 *Xlg
-s D
-s F
+sD
+sF
 =
-s G
-M D
-M E
-s C
-s G
-S C
-s G
+sG
+MD
+ME
+sC
+sG
+SC
+sG
 *col
-M : G
-m F
+M:G
+mF
 *Xcol
-M E
-M D
-M C
+ME
+MD
+MC
 =
-M F
-M C
-M D
-s C
-S FF
+MF
+MC
+MD
+sC
+SFF
 =
 *met(C|)
-S r
-S r
-*custos FF
+Sr
+Sr
+*custosFF

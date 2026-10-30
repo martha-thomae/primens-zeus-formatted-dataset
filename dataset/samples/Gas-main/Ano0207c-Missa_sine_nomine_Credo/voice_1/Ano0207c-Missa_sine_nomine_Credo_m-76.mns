@@ -5,20 +5,20 @@
 =
 *met(C|)
 =
-s D
+sD
 *lg
-s AA
-s BB -
+sAA
+sBB-
 *Xlg
-M C
-M E
-s D
-S GG
+MC
+ME
+sD
+SGG
 *met(C|)
-s F
-M F
-s F
-M F
-M : G
-m G
-*custos GG
+sF
+MF
+sF
+MF
+M:G
+mG
+*custosGG

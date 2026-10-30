@@ -3,30 +3,30 @@
 *k[b-]
 *met(C|)
 *lg
-s c
-s d
+sc
+sd
 *Xlg
-[ s e -
-s : d ]
+[se-
+s:d]
 *col
-M : c
-m B -
+M:c
+mB-
 *Xcol
-m A
-m G
-S F
-s r
-s f
-M e -
+mA
+mG
+SF
+sr
+sf
+Me-
 *col
-M : g
-m f
+M:g
+mf
 *Xcol
-s d
-m c
-m B -
-M d
-s c
-s B -
-M A
-*custos F
+sd
+mc
+mB-
+Md
+sc
+sB-
+MA
+*custosF

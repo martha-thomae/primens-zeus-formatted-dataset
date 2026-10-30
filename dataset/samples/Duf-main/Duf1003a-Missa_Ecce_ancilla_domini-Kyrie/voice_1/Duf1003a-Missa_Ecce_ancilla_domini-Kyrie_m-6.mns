@@ -2,19 +2,19 @@
 *clefC4
 *k[b-]
 *met(O)
-S AA
-M AA
-M BB -
-s : C
-M BB -
+SAA
+MAA
+MBB-
+s:C
+MBB-
 =
-[ s AA
-S : GG
-S D
-s E
-s F ]
-< S G
-S D >
-M AA
-M BB -
-*custos GG
+[sAA
+S:GG
+SD
+sE
+sF]
+<SG
+SD>
+MAA
+MBB-
+*custosGG

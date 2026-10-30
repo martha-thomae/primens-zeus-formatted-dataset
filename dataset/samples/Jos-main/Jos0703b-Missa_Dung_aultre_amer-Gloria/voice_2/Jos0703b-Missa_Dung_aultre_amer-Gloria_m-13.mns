@@ -2,43 +2,43 @@
 *clefC4
 *k[b-]
 *met(C|)
-s G
-M F
-s G
-m F
-m E
-M F
-M D
-s C
-S G
-s D
-s F
-*custos C
+sG
+MF
+sG
+mF
+mE
+MF
+MD
+sC
+SG
+sD
+sF
+*custosC
 =
 **mens
-m E
-M F
-M D
-s C
-S G
-s D
-[ s F
-S E ]
-S D
+mE
+MF
+MD
+sC
+SG
+sD
+[sF
+SE]
+SD
 *clefC4
 =
 *k[b-]
 =
 *met(C|)
-s G
-M F
-s G
-m F
-m E
-M F
-M D
-s C
-[ S G
-s D
-s F ]
-*custos C
+sG
+MF
+sG
+mF
+mE
+MF
+MD
+sC
+[SG
+sD
+sF]
+*custosC

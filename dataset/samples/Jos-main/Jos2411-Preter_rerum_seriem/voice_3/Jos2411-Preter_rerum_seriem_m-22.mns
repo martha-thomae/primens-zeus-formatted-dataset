@@ -3,15 +3,15 @@
 *k[b-]
 =
 *met(O2)
-s r
-s A
-M A
-M : F
-m G
-M A
-s D
-s r
-L B -
-S B -
-L B -
-*custos D
+sr
+sA
+MA
+M:F
+mG
+MA
+sD
+sr
+LB-
+SB-
+LB-
+*custosD

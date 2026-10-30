@@ -2,15 +2,15 @@
 *clefC4
 *met(C|)
 *MM360
-S d
+Sd
 *met(C|)
 *MM360
-L A
+LA
 =
-L B -
-S : F
-s F
+LB-
+S:F
+sF
 =
-S F
+SF
 =
-*custos F
+*custosF

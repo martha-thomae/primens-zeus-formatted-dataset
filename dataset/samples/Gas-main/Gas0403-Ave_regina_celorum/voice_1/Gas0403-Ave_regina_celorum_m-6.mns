@@ -3,40 +3,40 @@
 *k[b-]
 =
 *met(O)
-m AA
-m BB -
-m AA
-M FF
-M BB -
-M AA
-M BB -
-M : C
-m BB -
-M GG
-s C
-M BB -
-M : C
-m AA
-m BB -
-m C
-M AA
-s GG
-s FF
-M : FF
-m GG
-M AA
-M BB -
-M AA
-M FF
+mAA
+mBB-
+mAA
+MFF
+MBB-
+MAA
+MBB-
+M:C
+mBB-
+MGG
+sC
+MBB-
+M:C
+mAA
+mBB-
+mC
+MAA
+sGG
+sFF
+M:FF
+mGG
+MAA
+MBB-
+MAA
+MFF
 *lg
-s BB -
-s AA
+sBB-
+sAA
 *Xlg
-s GG
+sGG
 *col
-M : GG
-m AA
+M:GG
+mAA
 *Xcol
-M BB -
-M C
-*custos FF
+MBB-
+MC
+*custosFF

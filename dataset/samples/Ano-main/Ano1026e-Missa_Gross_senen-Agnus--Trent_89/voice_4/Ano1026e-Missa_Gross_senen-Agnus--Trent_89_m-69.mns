@@ -3,11 +3,11 @@
 *k[b-]
 *met(C|)
 *MM300
-L d
-s r
-S d
-s f
+Ld
+sr
+Sd
+sf
 =
-s e
-s d
-*custos d
+se
+sd
+*custosd

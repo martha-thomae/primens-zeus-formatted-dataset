@@ -3,17 +3,17 @@
 *k[b-]
 *met(O2)
 *MM480
-s d
-s : d
-M c
-s B -
-S A
-s r
-s f
-s f
-s : f
-M e
-s d
+sd
+s:d
+Mc
+sB-
+SA
+sr
+sf
+sf
+s:f
+Me
+sd
 3%m%4c
 3%M%2A
 3%M%2c
@@ -32,5 +32,5 @@ s%M:c
 s%M:c#
 3Bn
 =
-S d
-*custos A
+Sd
+*custosA

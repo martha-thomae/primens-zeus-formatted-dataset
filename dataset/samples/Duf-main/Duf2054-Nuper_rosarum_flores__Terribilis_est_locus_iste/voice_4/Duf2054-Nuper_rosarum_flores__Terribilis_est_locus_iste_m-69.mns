@@ -2,14 +2,14 @@
 *clefC1
 =
 *met(C|)
-M cc
+Mcc
 =
-S cc
+Scc
 =
 =
-[ s b
-S cc ]
-S r
-s cc
-s b
-*custos b
+[sb
+Scc]
+Sr
+scc
+sb
+*custosb

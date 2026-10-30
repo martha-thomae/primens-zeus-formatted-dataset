@@ -3,14 +3,14 @@
 *met(C|3)
 *col
 *lg
-s D
-s F
+sD
+sF
 *Xlg
 *lg
-S G
+SG
 =
-S D
+SD
 *Xlg
 *Xcol
-S : GG
-*custos GG
+S:GG
+*custosGG

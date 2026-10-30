@@ -3,17 +3,17 @@
 =
 *met(C|)
 *lg
-s c
+sc
 *col
-M : g
+M:g
 *Xlg
-m a
+ma
 *Xcol
-M b
-s cc
-M b
-S cc
-S r
-s : g
-M g
-*custos c
+Mb
+scc
+Mb
+Scc
+Sr
+s:g
+Mg
+*custosc

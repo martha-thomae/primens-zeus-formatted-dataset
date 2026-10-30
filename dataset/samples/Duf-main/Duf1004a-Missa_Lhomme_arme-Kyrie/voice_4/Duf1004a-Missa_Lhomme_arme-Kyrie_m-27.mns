@@ -3,44 +3,44 @@
 *clefC1
 *met(C)
 *MM480
-[ s a
-s b -
-s a
-s dd ]
-s cc
-s : b
-M a
-s : a
-M g
-M f
-M d
+[sa
+sb-
+sa
+sdd]
+scc
+s:b
+Ma
+s:a
+Mg
+Mf
+Md
 =
-s e
-s d
-s r
-s d
-M f
-M e
-M f
-M d
-M e
-M : a
-m g
-M a
-M b -
-s g
-M f
-S a
-M r
-s a
-M dd
-M cc
+se
+sd
+sr
+sd
+Mf
+Me
+Mf
+Md
+Me
+M:a
+mg
+Ma
+Mb-
+sg
+Mf
+Sa
+Mr
+sa
+Mdd
+Mcc
 =
-M dd
-s ee
-M ff
-M ee
+Mdd
+see
+Mff
+Mee
 =
-M ff
-M dd
-*custos d
+Mff
+Mdd
+*custosd

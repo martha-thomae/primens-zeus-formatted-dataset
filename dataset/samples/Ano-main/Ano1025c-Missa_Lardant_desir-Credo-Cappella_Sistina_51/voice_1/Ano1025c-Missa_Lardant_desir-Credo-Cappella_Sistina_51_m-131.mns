@@ -3,17 +3,17 @@
 *met(C|)
 *MM400
 =
-S AA
-s r
+SAA
+sr
 =
-s D
-S D
+sD
+SD
 *clefF4
 *met(O2)
 *MM400
-S D
+SD
 =
-s D
-s D
-S D
-*custos AA
+sD
+sD
+SD
+*custosAA

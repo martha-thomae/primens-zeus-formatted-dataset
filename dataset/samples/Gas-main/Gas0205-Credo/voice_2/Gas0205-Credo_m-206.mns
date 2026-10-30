@@ -3,29 +3,29 @@
 *k[b-]
 *met(C|3)
 *lg
-s G
-s B -
+sG
+sB-
 *Xlg
-s c
-s : d
-M c
-s A
+sc
+s:d
+Mc
+sA
 *lg
-s B -
-s G
+sB-
+sG
 *Xlg
-s c
+sc
 *lg
-[ s B -
-s : e - ]
+[sB-
+s:e-]
 *Xlg
-M d
-s : c
-M B -
+Md
+s:c
+MB-
 *lg
-s c
-s d
+sc
+sd
 *Xlg
-s B -
-s c
-*custos G
+sB-
+sc
+*custosG

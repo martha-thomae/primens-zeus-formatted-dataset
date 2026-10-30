@@ -4,19 +4,19 @@
 *met(C|3)
 *lg
 *col
-[ s f
-s e ]
+[sf
+se]
 *Xlg
 *lg
-S c
-S d
+Sc
+Sd
 *Xcol
 *Xlg
-[ S B -
-s c ]
-[ s d
-s : e - ]
-m d
-m c
-S d
-*custos B -
+[SB-
+sc]
+[sd
+s:e-]
+md
+mc
+Sd
+*custosB-

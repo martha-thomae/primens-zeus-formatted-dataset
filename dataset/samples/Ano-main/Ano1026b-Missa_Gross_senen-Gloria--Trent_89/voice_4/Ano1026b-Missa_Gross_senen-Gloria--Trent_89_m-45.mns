@@ -5,31 +5,31 @@
 *met(O)
 =
 *MM300
-m f
-M d
-s e -
-M : d
-m e n
-M f
-M : g
-m e
-M f
-m e
+mf
+Md
+se-
+M:d
+men
+Mf
+M:g
+me
+Mf
+me
 =
-m d
-M c
-M : d
-m c
-M d
-M B -
-s A
+md
+Mc
+M:d
+mc
+Md
+MB-
+sA
 =
-S G
-s r
-s d
-M B -
+SG
+sr
+sd
+MB-
 =
-M : e -
-m d
-M d
-*custos G
+M:e-
+md
+Md
+*custosG

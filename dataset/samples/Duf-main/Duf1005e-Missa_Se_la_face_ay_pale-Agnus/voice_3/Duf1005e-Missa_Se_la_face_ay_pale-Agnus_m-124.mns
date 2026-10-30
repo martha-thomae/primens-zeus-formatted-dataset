@@ -2,20 +2,20 @@
 *clefC4
 *met(O)
 *MM384
-s A
-s B
-M : c
+sA
+sB
+M:c
 =
-m d
+md
 =
 =
-s e
-s c
-s r
-s g
-s e
-s : d
-M A
-[ s B -
-s A ]
-*custos A
+se
+sc
+sr
+sg
+se
+s:d
+MA
+[sB-
+sA]
+*custosA

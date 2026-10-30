@@ -3,16 +3,16 @@
 *clefF4
 *met(O2)
 *MM400
-M F
-M G
-s : A
-M G
-M E
-M F
-s : G
-M F
+MF
+MG
+s:A
+MG
+ME
+MF
+s:G
+MF
 =
-S D
-S : GG
-s D
-*custos GG
+SD
+S:GG
+sD
+*custosGG

@@ -4,19 +4,19 @@
 *k[b-]
 *met(C)
 *MM420
-s A
-s B -
+sA
+sB-
 =
-s c
-S d
-L c
+sc
+Sd
+Lc
 =
-s A
-s r
-s : F
-M G
-s A
-s F
-s : A
-M B -
-*custos F
+sA
+sr
+s:F
+MG
+sA
+sF
+s:A
+MB-
+*custosF

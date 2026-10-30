@@ -2,13 +2,13 @@
 *clefF4
 *met(C)
 *MM312
-s BB -
-s C
-S D
-S AA
-s : GG
-s : BB -
-s : AA
+sBB-
+sC
+SD
+SAA
+s:GG
+s:BB-
+s:AA
 =
-s : AA
-*custos GG
+s:AA
+*custosGG

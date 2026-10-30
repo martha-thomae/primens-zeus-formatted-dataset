@@ -5,11 +5,11 @@
 S:rr
 S:rr
 *met(C|)
-S r
-S r
-s F
-m BB -
-m C
-m D
-m E
-*custos BB -
+Sr
+Sr
+sF
+mBB-
+mC
+mD
+mE
+*custosBB-

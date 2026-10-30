@@ -4,15 +4,15 @@
 *met(C|)
 *MM340
 *col
-M E -
+ME-
 6D
 3BB-
 3%M%2C
 3AA
-M GG
+MGG
 6AA
 3BB-
-M C
+MC
 6D
 3E-
 3%M%2D
@@ -20,17 +20,17 @@ M C
 3C
 3%M%2AA
 *Xcol
-s GG
-s r
-S r
-S r
-s GG
+sGG
+sr
+Sr
+Sr
+sGG
 *Xcol
 3%M%2BB-
 3C
 3%M%2D
 3E-
-M D
+MD
 6En
 3F
 3G
@@ -39,4 +39,4 @@ M D
 3A
 3%M%2G
 3F#
-*custos GG
+*custosGG

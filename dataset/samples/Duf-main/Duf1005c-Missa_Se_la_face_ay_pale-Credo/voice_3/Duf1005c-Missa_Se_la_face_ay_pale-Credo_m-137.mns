@@ -2,37 +2,37 @@
 *clefC4
 *met(C)
 *MM420
-s : e
-M f
-s : g
-s a
-M g
-M e
-M f
-s g
-S d
-S d
-s c
-s A
-s B
-s c
-M G
-M c
-M A
-s B
-M A
-S c
-S r
-S f
-s : e
-M f
-s g
-s e
-M c
-M f
-M d
-M e
-S f
-S e
-S c
-*custos G
+s:e
+Mf
+s:g
+sa
+Mg
+Me
+Mf
+sg
+Sd
+Sd
+sc
+sA
+sB
+sc
+MG
+Mc
+MA
+sB
+MA
+Sc
+Sr
+Sf
+s:e
+Mf
+sg
+se
+Mc
+Mf
+Md
+Me
+Sf
+Se
+Sc
+*custosG

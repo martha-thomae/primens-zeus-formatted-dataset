@@ -3,74 +3,74 @@
 *k[b-]
 *met(O)
 *MM300
-M G
-M B -
-s d
-M c
-M B -
-s A
-S G
+MG
+MB-
+sd
+Mc
+MB-
+sA
+SG
 *clefC2
 *k[b-]
 *met(O|)
 *MM400
-s : G
-M A
-[ s B -
-s c
-S d ]
-s c
-M B -
-s d
-m c
-m B -
-s A
-M G
-M E
-s D
-M F
-M G
-M A
-M B -
-s G
-M F
+s:G
+MA
+[sB-
+sc
+Sd]
+sc
+MB-
+sd
+mc
+mB-
+sA
+MG
+ME
+sD
+MF
+MG
+MA
+MB-
+sG
+MF
 =
-s D
-M E
-s C
-M : G
-m D
-M E
-M F
-s G
-M A
-M B -
-s c
+sD
+ME
+sC
+M:G
+mD
+ME
+MF
+sG
+MA
+MB-
+sc
 =
-M B -
-s d
-M c
-M B -
-m A
-m G
-M : F #
-m E
-S G
-s r
-s G
-M F
-M F
-s B -
-s A
-M r
-s d
-M c
-M B -
-m A
-m G
-M F
+MB-
+sd
+Mc
+MB-
+mA
+mG
+M:F#
+mE
+SG
+sr
+sG
+MF
+MF
+sB-
+sA
+Mr
+sd
+Mc
+MB-
+mA
+mG
+MF
 =
 =
-s A
-M G
-*custos C
+sA
+MG
+*custosC

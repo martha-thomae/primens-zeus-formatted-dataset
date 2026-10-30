@@ -3,59 +3,59 @@
 *k[b-]
 =
 *met(O)
-s : A
-m G
-m F
-M B -
-M : A
-m G
-m F
-m E
-s D
-M G
-M F
-s D
-s G
-M F
-s D
-M F
-s E
-S D
-s r
-s r
-s r
-s r
+s:A
+mG
+mF
+MB-
+M:A
+mG
+mF
+mE
+sD
+MG
+MF
+sD
+sG
+MF
+sD
+MF
+sE
+SD
+sr
+sr
+sr
+sr
 *col
-M : AA
-m BB -
+M:AA
+mBB-
 *Xcol
 =
-M C
-s BB -
-M GG
-s D
+MC
+sBB-
+MGG
+sD
 *lg
 *col
-L E -
-S C
+LE-
+SC
 *Xcol
 *Xlg
-s BB -
+sBB-
 *col
-M : BB -
-m C
+M:BB-
+mC
 *Xcol
-M D
+MD
 *col
-M : E -
-m F
+M:E-
+mF
 *Xcol
-M : G
-m F
-m E -
-m D
-s E -
-s : D
-M E
-s F
-*custos GG
+M:G
+mF
+mE-
+mD
+sE-
+s:D
+ME
+sF
+*custosGG

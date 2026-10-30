@@ -2,20 +2,20 @@
 *clefF4
 *k[b-]
 *met(O)
-S BB -
-s BB -
+SBB-
+sBB-
 =
-S F
-s E
+SF
+sE
 *col
-[ s F
-s C
-S F ]
-S C
+[sF
+sC
+SF]
+SC
 *Xcol
-S D
-s C
+SD
+sC
 =
-[ S BB -
-s AA ]
-*custos AA
+[SBB-
+sAA]
+*custosAA

@@ -3,15 +3,15 @@
 *k[b-]
 *met(C|)
 *MM360
-S : E
-s E
-S E
-s : C
-M D
-S E
-[ S F
-s D ]
-s : C
-M D
-s E
-*custos C
+S:E
+sE
+SE
+s:C
+MD
+SE
+[SF
+sD]
+s:C
+MD
+sE
+*custosC

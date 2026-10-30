@@ -2,16 +2,16 @@
 *clefG2
 *met(C|3)
 =
-[ S g
-s a ]
-[ S b
-s cc ]
+[Sg
+sa]
+[Sb
+scc]
 *lg
-s b
-s : a
+sb
+s:a
 *Xlg
-M g
-S g
-s f #
-X g
-*custos f #
+Mg
+Sg
+sf#
+Xg
+*custosf#

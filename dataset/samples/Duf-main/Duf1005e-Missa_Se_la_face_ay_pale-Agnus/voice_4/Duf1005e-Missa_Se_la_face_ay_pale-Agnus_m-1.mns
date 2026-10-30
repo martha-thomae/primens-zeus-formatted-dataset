@@ -3,37 +3,37 @@
 =
 *met(O)
 *MM384
-s : cc
-M b
-s a
-[ s g
-s : cc ]
-M b
-s b
-M a
-M g
-[ s e
-s d ]
-s r
-S g
-s a
-M g
-M cc
-M dd
-M : ee
-m cc
-s cc
+s:cc
+Mb
+sa
+[sg
+s:cc]
+Mb
+sb
+Ma
+Mg
+[se
+sd]
+sr
+Sg
+sa
+Mg
+Mcc
+Mdd
+M:ee
+mcc
+scc
 =
-M b
-s cc
-s r
-s : cc
-M : a
-m g
-M a
-M e
-M f
-L g
-s a
-s f
-*custos d
+Mb
+scc
+sr
+s:cc
+M:a
+mg
+Ma
+Me
+Mf
+Lg
+sa
+sf
+*custosd

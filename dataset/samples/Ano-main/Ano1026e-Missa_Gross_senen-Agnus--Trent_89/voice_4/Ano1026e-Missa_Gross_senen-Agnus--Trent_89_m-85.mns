@@ -4,13 +4,13 @@
 *met(C|)
 *MM300
 =
-M f
-M e
-M d
-[ s f
-s : e ]
-M d
-S d
-[ s c #
-S d ]
-*custos c #
+Mf
+Me
+Md
+[sf
+s:e]
+Md
+Sd
+[sc#
+Sd]
+*custosc#

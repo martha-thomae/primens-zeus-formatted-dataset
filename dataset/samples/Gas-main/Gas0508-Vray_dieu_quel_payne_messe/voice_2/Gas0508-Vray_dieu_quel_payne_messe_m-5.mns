@@ -4,15 +4,15 @@
 =
 *met(C|)
 =
-s d
+sd
 *lg
-S d
+Sd
 *col
-s : c
+s:c
 *Xlg
-m B -
-m A
+mB-
+mA
 *Xcol
-S B -
-S c
-*custos A
+SB-
+Sc
+*custosA

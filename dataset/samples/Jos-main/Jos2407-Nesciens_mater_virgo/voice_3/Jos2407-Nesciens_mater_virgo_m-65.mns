@@ -4,20 +4,20 @@
 *met(C|)
 *k[b-]
 *met(C|)
-S G
-s G
+SG
+sG
 =
-s A
-M G
+sA
+MG
 =
-m C
-m D
-m E
-m F
-M G
-M C
-M : c
-m B n
-m B n
-m A
-*custos C
+mC
+mD
+mE
+mF
+MG
+MC
+M:c
+mBn
+mBn
+mA
+*custosC

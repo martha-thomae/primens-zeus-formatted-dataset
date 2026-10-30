@@ -4,22 +4,22 @@
 =
 *met(C|)
 *MM340
-S GG
-s GG
-s AA
-M : BB -
-m C
-m D
-m E
-M F
-M G
-M E
-s D
-s r
-s GG
-M D
-M BB -
-[ s GG
-s D ]
-s r
-*custos GG
+SGG
+sGG
+sAA
+M:BB-
+mC
+mD
+mE
+MF
+MG
+ME
+sD
+sr
+sGG
+MD
+MBB-
+[sGG
+sD]
+sr
+*custosGG

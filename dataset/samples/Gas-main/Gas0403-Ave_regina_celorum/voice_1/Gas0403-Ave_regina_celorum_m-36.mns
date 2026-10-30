@@ -4,25 +4,25 @@
 *met(O)
 =
 *col
-M : GG
-m AA
+M:GG
+mAA
 *Xcol
-M BB -
-M C
-M : FF
-m GG
-m AA
-m BB -
-M C
-M AA
-M FF
-s C
+MBB-
+MC
+M:FF
+mGG
+mAA
+mBB-
+MC
+MAA
+MFF
+sC
 *lg
-s D
-S BB -
+sD
+SBB-
 *Xlg
-S : FF
-S : r
-S : r
+S:FF
+S:r
+S:r
 =
-*custos FF
+*custosFF

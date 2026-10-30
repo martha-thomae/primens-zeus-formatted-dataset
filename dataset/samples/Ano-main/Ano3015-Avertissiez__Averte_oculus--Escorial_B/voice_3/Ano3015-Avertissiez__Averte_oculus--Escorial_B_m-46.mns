@@ -3,13 +3,13 @@
 =
 *met(C|)
 *MM336
-s a
-s : b -
-M a
-s : a
-M g
-s : g
+sa
+s:b-
+Ma
+s:a
+Mg
+s:g
 =
-M f
-s d
-*custos d
+Mf
+sd
+*custosd

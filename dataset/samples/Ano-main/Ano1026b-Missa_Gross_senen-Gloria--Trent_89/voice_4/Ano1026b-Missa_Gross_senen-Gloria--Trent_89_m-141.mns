@@ -4,16 +4,16 @@
 *k[b-]
 *met(C|)
 *MM400
-S A
-s r
-s B -
+SA
+sr
+sB-
 =
-s A
-s : d
-M e
-s : f
-M g
-M f
-m e
-m d
-*custos A
+sA
+s:d
+Me
+s:f
+Mg
+Mf
+me
+md
+*custosA

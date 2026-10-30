@@ -2,51 +2,51 @@
 *clefC1
 *met(O)
 *MM300
-s B
-s c
-s d
-s e
-s A
-M r
-M f
-M e
-s a
-M g
-M a
-M cc
-M b
+sB
+sc
+sd
+se
+sA
+Mr
+Mf
+Me
+sa
+Mg
+Ma
+Mcc
+Mb
 =
-s a
-M g
-M f
-M : e
+sa
+Mg
+Mf
+M:e
 =
-m f
-M d
-M : c
-m d
-M f
-M e
-s a
-M g
-M e
-M f
-s e
-M d
-M e
-M c
-M f
-M : e
-m d
-M d
-M c
-M g
-M f
-M : e
-m d
-s d
-M c #
-s d
-s r
-s a
-*custos A
+mf
+Md
+M:c
+md
+Mf
+Me
+sa
+Mg
+Me
+Mf
+se
+Md
+Me
+Mc
+Mf
+M:e
+md
+Md
+Mc
+Mg
+Mf
+M:e
+md
+sd
+Mc#
+sd
+sr
+sa
+*custosA

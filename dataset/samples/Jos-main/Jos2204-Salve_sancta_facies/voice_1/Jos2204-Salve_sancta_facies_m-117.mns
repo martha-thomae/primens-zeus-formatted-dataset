@@ -3,17 +3,17 @@
 *k[b-]
 *met(C|)
 *met(O|/3)
-[ s FF
-s AA
-s GG ]
-S FF
-s r
+[sFF
+sAA
+sGG]
+SFF
+sr
 S:rr
-s : F
-M D
-s E
+s:F
+MD
+sE
 =
-s F
-s A
-s G
-*custos FF
+sF
+sA
+sG
+*custosFF

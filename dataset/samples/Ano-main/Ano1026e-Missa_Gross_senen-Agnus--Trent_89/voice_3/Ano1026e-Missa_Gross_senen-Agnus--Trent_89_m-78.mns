@@ -3,31 +3,31 @@
 *k[b-]
 *met(C|)
 *MM300
-s r
-[ s A
-s B - ]
-s c
-s : d
-m c
-m B -
+sr
+[sA
+sB-]
+sc
+s:d
+mc
+mB-
 =
-S A
-s r
-s : D
-M E
-M F
-M G
-M A
-m G
-m A
-s : B -
-M A
+SA
+sr
+s:D
+ME
+MF
+MG
+MA
+mG
+mA
+s:B-
+MA
 =
-s G
-s F
-s : G
-M F
-s D
-S E
-S D
-*custos D
+sG
+sF
+s:G
+MF
+sD
+SE
+SD
+*custosD

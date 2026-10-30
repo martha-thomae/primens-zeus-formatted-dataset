@@ -3,28 +3,28 @@
 =
 *met(C|)
 *col
-M : d
+M:d
 *Xlg
-m e
+me
 *Xcol
-s : f
-s d
-m c
-m B
-M A
-M G
-s A
-M : G
-m A
-m B
-m c
-s d
-m c
+s:f
+sd
+mc
+mB
+MA
+MG
+sA
+M:G
+mA
+mB
+mc
+sd
+mc
 =
-m B
-M B
-m A
-m G
-s c
-s c
-*custos G
+mB
+MB
+mA
+mG
+sc
+sc
+*custosG

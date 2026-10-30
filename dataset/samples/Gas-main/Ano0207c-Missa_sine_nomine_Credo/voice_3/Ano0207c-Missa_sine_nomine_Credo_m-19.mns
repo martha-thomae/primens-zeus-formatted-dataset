@@ -5,30 +5,30 @@
 *met(C|)
 *col
 *col
-M : d
-m c
+M:d
+mc
 *Xcol
-s A
-M r
-s f
-M f
-M d
-M e
-[ s f
-s d ]
-M c
-s d
-m c
-m B -
-M A
-M B -
-s G
-M F
+sA
+Mr
+sf
+Mf
+Md
+Me
+[sf
+sd]
+Mc
+sd
+mc
+mB-
+MA
+MB-
+sG
+MF
 =
-M G
-< s E
-s D >
-S r
-S r
-S r
-*custos D
+MG
+<sE
+sD>
+Sr
+Sr
+Sr
+*custosD

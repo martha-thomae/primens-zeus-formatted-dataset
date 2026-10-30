@@ -3,15 +3,15 @@
 *k[b-]
 *met(C|)
 *lg
-s A
-s B -
+sA
+sB-
 *Xlg
-s G
-M A
-M c
-M B -
+sG
+MA
+Mc
+MB-
 =
-s : d
-S d
+s:d
+Sd
 =
-*custos G
+*custosG

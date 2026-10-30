@@ -3,31 +3,31 @@
 *met(O)
 *clefG2
 *met(C|)
-s : d
-M e
-s f
-s : g
-M f
-s d
-s r
-s : g
-M a
-s b -
-s : cc
-M b -
-[ s g
-s : a ]
-M g
-< s e
-s f >
+s:d
+Me
+sf
+s:g
+Mf
+sd
+sr
+s:g
+Ma
+sb-
+s:cc
+Mb-
+[sg
+s:a]
+Mg
+<se
+sf>
 =
-s d
-s r
-s dd
+sd
+sr
+sdd
 =
-s : dd
+s:dd
 =
-s b
-M g
-s g
-*custos d
+sb
+Mg
+sg
+*custosd

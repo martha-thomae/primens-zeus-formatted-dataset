@@ -3,41 +3,41 @@
 *clefC4
 *met(C|3)
 *lg
-s A
-s d
+sA
+sd
 *Xlg
-s B
-s c
-S A
+sB
+sc
+SA
 *lg
-s G
-s : B
+sG
+s:B
 *Xlg
-M A
-S G
-s F #
-S : G
-S d
-s B
-s : c
-M B
-s A
-S G
-s r
-s r
-s r
-s d
-s : e
-M d
-s c
+MA
+SG
+sF#
+S:G
+Sd
+sB
+s:c
+MB
+sA
+SG
+sr
+sr
+sr
+sd
+s:e
+Md
+sc
 *lg
-s B
-s : d
+sB
+s:d
 *Xlg
-M c
+Mc
 =
-s B
-[ S A
-S G ]
-s r
-*custos F #
+sB
+[SA
+SG]
+sr
+*custosF#

@@ -3,44 +3,44 @@
 *k[b-]
 *met(O)
 =
-s G
-s B -
-s c
-S d
-s d
-M c
-M : f
-m d
-s g
-M f #
-s g
-M f
-s d
-M B -
-M c
-M B -
-s G
-s A
-s G
-s r
-s B -
-s c
-M B -
-s B -
-M G
-s A
-s G
-s r
-s F
+sG
+sB-
+sc
+Sd
+sd
+Mc
+M:f
+md
+sg
+Mf#
+sg
+Mf
+sd
+MB-
+Mc
+MB-
+sG
+sA
+sG
+sr
+sB-
+sc
+MB-
+sB-
+MG
+sA
+sG
+sr
+sF
 =
-M G
-M : B -
-m c
-M : d
-m c
-M A
-M B -
-M G
-M r
-M B -
-*custos F
+MG
+M:B-
+mc
+M:d
+mc
+MA
+MB-
+MG
+Mr
+MB-
+*custosF

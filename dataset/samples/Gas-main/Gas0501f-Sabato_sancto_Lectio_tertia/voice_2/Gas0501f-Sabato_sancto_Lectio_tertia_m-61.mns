@@ -3,31 +3,31 @@
 =
 *k[b-]
 *met(C|)
-S r
-S G
+Sr
+SG
 *lg
-S G
-S A
+SG
+SA
 *Xlg
-S B -
-L c
-S B -
+SB-
+Lc
+SB-
 *lg
-s A
-s F
+sA
+sF
 *Xlg
 *lg
-S G
-S F
+SG
+SF
 *Xlg
-S r
-S : G
-s A
+Sr
+S:G
+sA
 *lg
-[ s B -
-s A ]
+[sB-
+sA]
 *Xlg
 =
 *col
-S G
-*custos F
+SG
+*custosF

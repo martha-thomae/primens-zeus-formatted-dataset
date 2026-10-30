@@ -3,18 +3,18 @@
 *met(C|)
 *MM180
 =
-m g #
-m f #
-[ s g #
-L a ]
-[ s b
-s cc
-s dd ]
-[ s cc
-S b ]
+mg#
+mf#
+[sg#
+La]
+[sb
+scc
+sdd]
+[scc
+Sb]
 =
-s b
-s a
-S g
-S b
-*custos f #
+sb
+sa
+Sg
+Sb
+*custosf#

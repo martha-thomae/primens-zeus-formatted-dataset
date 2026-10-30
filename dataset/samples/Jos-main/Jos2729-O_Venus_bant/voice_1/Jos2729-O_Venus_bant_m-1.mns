@@ -2,83 +2,83 @@
 *clefF4
 *k[b-]
 *met(C|)
-M : GG
-m AA
-M BB -
-s C
-M : D
-m C
-M D
-M : E
-m F
-m G
-m F
-M : G
-m A
-s B -
-m A
-m G
-M : F
-m E
-s D
-M GG
-M : C
-m D
-M E
-M C
-M : E
-m F
-M G
-M C
-M : F
-m G
-M A
-M F
-M : A
-m B n
-m c
-m d
-M c
-M : F
-m G
-m A
-m B -
-M A
-M : D
-m E
-m F
-m G
-M F
-M : FF
-m GG
-m AA
-m BB -
+M:GG
+mAA
+MBB-
+sC
+M:D
+mC
+MD
+M:E
+mF
+mG
+mF
+M:G
+mA
+sB-
+mA
+mG
+M:F
+mE
+sD
+MGG
+M:C
+mD
+ME
+MC
+M:E
+mF
+MG
+MC
+M:F
+mG
+MA
+MF
+M:A
+mBn
+mc
+md
+Mc
+M:F
+mG
+mA
+mB-
+MA
+M:D
+mE
+mF
+mG
+MF
+M:FF
+mGG
+mAA
+mBB-
 =
-M : C
-m BB -
-M : GG
-m AA
-m BB -
-m C
-s D
-M F
-m G
-m A
-m B n
-m c
+M:C
+mBB-
+M:GG
+mAA
+mBB-
+mC
+sD
+MF
+mG
+mA
+mBn
+mc
 =
-M d
-M G
-M : F
-m E
-M D
-M D
-M : GG
-m AA
-M BB -
-M C
-M GG
-M : C
-m D
-M E
-*custos FF
+Md
+MG
+M:F
+mE
+MD
+MD
+M:GG
+mAA
+MBB-
+MC
+MGG
+M:C
+mD
+ME
+*custosFF

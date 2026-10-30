@@ -2,15 +2,15 @@
 *clefG2
 *met(c)
 =
-s cc
-M a
-M dd
-M dd
-M b
-s cc
-M a
-M a
-s b
+scc
+Ma
+Mdd
+Mdd
+Mb
+scc
+Ma
+Ma
+sb
 *col
 3%M%2cc
 3b
@@ -22,11 +22,11 @@ s b
 =
 3%M%2dd
 3cc
-M b
+Mb
 6a
 3g
 3%M%2g
 3f#
 *Xcol
-L g
-*custos f #
+Lg
+*custosf#

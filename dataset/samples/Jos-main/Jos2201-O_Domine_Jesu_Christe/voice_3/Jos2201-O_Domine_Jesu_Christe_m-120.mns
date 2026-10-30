@@ -2,12 +2,12 @@
 *clefC2
 *met(C|)
 *MM360
-S c
+Sc
 *met(C|)
 *MM360
-L A
-L c
-S : F
-s F
-S B -
-*custos F
+LA
+Lc
+S:F
+sF
+SB-
+*custosF

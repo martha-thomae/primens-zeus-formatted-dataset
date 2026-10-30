@@ -3,44 +3,44 @@
 *k[b-e-]
 *B-:
 *met(C|)
-M BB -
-M GG
+MBB-
+MGG
 =
-s D
+sD
 =
-s AA
-M r
-M AA
-M BB -
-M C
-M D
-M AA
-M BB -
-M C
-s D
-M GG
-[ s : G
-s : F ]
-M G
+sAA
+Mr
+MAA
+MBB-
+MC
+MD
+MAA
+MBB-
+MC
+sD
+MGG
+[s:G
+s:F]
+MG
 =
-s D
-s AA
-s C
-[ s BB -
-S AA ]
-S BB -
-S GG
-L D
-S GG
+sD
+sAA
+sC
+[sBB-
+SAA]
+SBB-
+SGG
+LD
+SGG
 *clefF4
 *k[b-]
 *ZZY
-M : GG
-m AA
-M BB -
-M C
-[ s D
-s E - ]
-s D
-s C
-*custos GG
+M:GG
+mAA
+MBB-
+MC
+[sD
+sE-]
+sD
+sC
+*custosGG

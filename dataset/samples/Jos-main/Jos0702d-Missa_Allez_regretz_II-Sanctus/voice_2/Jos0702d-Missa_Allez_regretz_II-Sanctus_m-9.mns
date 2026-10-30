@@ -5,22 +5,22 @@
 =
 *met(C)
 *rscale:1/2
-S c
+Sc
 *met(C|)
 *rscale:1
-M B -
-s B -
-m A
-m G
+MB-
+sB-
+mA
+mG
 *met(O)
 *rscale:1/2
-s F
-[ s E
-s F
-s A ]
-S G
+sF
+[sE
+sF
+sA]
+SG
 *met(C)
 *rscale:1/2
 =
-X F
-*custos E
+XF
+*custosE

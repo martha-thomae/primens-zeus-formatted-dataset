@@ -3,26 +3,26 @@
 *k[b-]
 *met(O)
 *lg
-s A
-s B -
+sA
+sB-
 *Xlg
 =
-M A
-s A
-M G
-M A
-s c
-M B -
-M A
-M F
-s G
+MA
+sA
+MG
+MA
+sc
+MB-
+MA
+MF
+sG
 =
-M F
-M G
+MF
+MG
 *lg
-s A
-s F
+sA
+sF
 *Xlg
 *lg
-s F
-*custos F
+sF
+*custosF

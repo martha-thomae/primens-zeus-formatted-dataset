@@ -5,31 +5,31 @@
 *met(C|3)
 *met(C|)
 =
-s G
-s r
-s d
-s d
+sG
+sr
+sd
+sd
 =
-S r
-s d
-s d
-s r
-s d
-s d
-m D
-m E
-m F
-m G
-M A
-m D
-m E
-m F
-m G
-M A
-s D
-s d
-S d
-S d
+Sr
+sd
+sd
+sr
+sd
+sd
+mD
+mE
+mF
+mG
+MA
+mD
+mE
+mF
+mG
+MA
+sD
+sd
+Sd
+Sd
 =
-S d
-*custos D
+Sd
+*custosD

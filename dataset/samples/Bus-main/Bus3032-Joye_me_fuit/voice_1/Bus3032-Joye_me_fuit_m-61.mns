@@ -3,15 +3,15 @@
 *k[b-e-]
 *met(C|)
 =
-M FF
-M GG
-M : BB -
-m AA
-M FF
-M : GG
-m FF
+MFF
+MGG
+M:BB-
+mAA
+MFF
+M:GG
+mFF
 *k[b-]
-[ S DD
-S GG ]
-S D
-*custos DD
+[SDD
+SGG]
+SD
+*custosDD

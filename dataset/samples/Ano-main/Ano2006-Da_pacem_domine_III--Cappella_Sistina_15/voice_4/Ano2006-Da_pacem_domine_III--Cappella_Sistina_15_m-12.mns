@@ -3,39 +3,39 @@
 *k[b-]
 *met(C|)
 =
-s r
-S r
-s r
-[ s a
-s b - ]
+sr
+Sr
+sr
+[sa
+sb-]
 =
-[ s cc
-s b - ]
-s : a
-s g
-M f
-M g
-M a
-M d
-M : dd
-m cc
-s b -
-m a
-m g
-M f
+[scc
+sb-]
+s:a
+sg
+Mf
+Mg
+Ma
+Md
+M:dd
+mcc
+sb-
+ma
+mg
+Mf
 =
-M : g
-m f #
-m f #
-m e
-s g
-M r
-M : g
-m f
-s d
-m c
-m B -
-M A
-M G
-s A
-*custos G
+M:g
+mf#
+mf#
+me
+sg
+Mr
+M:g
+mf
+sd
+mc
+mB-
+MA
+MG
+sA
+*custosG

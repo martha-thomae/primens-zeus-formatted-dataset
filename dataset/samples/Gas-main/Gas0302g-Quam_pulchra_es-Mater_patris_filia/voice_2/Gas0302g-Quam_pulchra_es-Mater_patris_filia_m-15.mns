@@ -2,39 +2,39 @@
 *clefC4
 *k[b-]
 *met(C)
-S B -
-s B -
-s B -
-S c
-s c
-s c
+SB-
+sB-
+sB-
+Sc
+sc
+sc
 *lg
-s d
-s e
+sd
+se
 *Xlg
-s f
-M : d
-m e
-M : f
-m e
-M c
-M f
-M e
-M d
-s e
-S d
-M : d
-m e
-M f
+sf
+M:d
+me
+M:f
+me
+Mc
+Mf
+Me
+Md
+se
+Sd
+M:d
+me
+Mf
 =
-M d
-M c
-s f
-M g
-M e
-M f
-s d
-S c
-S r
-S r
-*custos B -
+Md
+Mc
+sf
+Mg
+Me
+Mf
+sd
+Sc
+Sr
+Sr
+*custosB-

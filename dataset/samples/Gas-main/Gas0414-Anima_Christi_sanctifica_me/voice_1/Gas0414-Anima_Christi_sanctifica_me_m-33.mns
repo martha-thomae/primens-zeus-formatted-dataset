@@ -5,51 +5,51 @@
 *met(O/3)
 =
 *lg
-s AA
-s C
+sAA
+sC
 *Xlg
 =
 =
-[ s BB
-S AA
-s E
-S AA ]
+[sBB
+SAA
+sE
+SAA]
 =
-s E
-S F
-s E
-S AA
-s E
+sE
+SF
+sE
+SAA
+sE
 *lg
-s C
-s AA
+sC
+sAA
 *Xlg
-s E
-S AA
-s E
+sE
+SAA
+sE
 *col
-[ S F
-s C ]
-s C
-S C
+[SF
+sC]
+sC
+SC
 *Xcol
-[ S G
-s A
-S G ]
-s A
-S : E
-S : r
-s GG
-M AA
-s C
-M D
-s BB
-s AA
-s r
-S : r
+[SG
+sA
+SG]
+sA
+S:E
+S:r
+sGG
+MAA
+sC
+MD
+sBB
+sAA
+sr
+S:r
 *col
-s E
-s F
+sE
+sF
 =
-s G
-*custos GG
+sG
+*custosGG

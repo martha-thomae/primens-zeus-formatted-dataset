@@ -7,25 +7,25 @@
 *k[b-]
 *met(C|)
 =
-L a
-S b -
-s : b -
-m a
-m g
-s a
-s : f
+La
+Sb-
+s:b-
+ma
+mg
+sa
+s:f
 =
-M g
-[ s a
-s : g ]
-m f
-m e
-M d
+Mg
+[sa
+s:g]
+mf
+me
+Md
 =
-s f
-M e
-M d
-M g
-M f
-M d
-*custos d
+sf
+Me
+Md
+Mg
+Mf
+Md
+*custosd

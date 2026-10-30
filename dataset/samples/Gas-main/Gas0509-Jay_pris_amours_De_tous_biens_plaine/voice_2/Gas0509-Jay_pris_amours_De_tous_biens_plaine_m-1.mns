@@ -3,50 +3,50 @@
 *k[b-e-]
 *met(C|)
 =
-S r
-S r
-S r
+Sr
+Sr
+Sr
 *lg
-S G
-[ S B -
-S A ]
+SG
+[SB-
+SA]
 *Xlg
 *lg
-s G
-s : B -
+sG
+s:B-
 =
 =
 *Xlg
-M A
+MA
 *lg
-< s B -
-s c >
+<sB-
+sc>
 *col
-s : d
+s:d
 =
 *Xlg
-M c
+Mc
 *Xcol
-s d
+sd
 *lg
 =
-s e -
-s d
+se-
+sd
 *Xlg
 *lg
-< s B -
-s c >
+<sB-
+sc>
 *Xlg
 *lg
-s B -
-s : d
+sB-
+s:d
 *Xlg
-M c
-s d
+Mc
+sd
 *lg
-s G
-s A
+sG
+sA
 *Xlg
-s G
-s r
-*custos G
+sG
+sr
+*custosG

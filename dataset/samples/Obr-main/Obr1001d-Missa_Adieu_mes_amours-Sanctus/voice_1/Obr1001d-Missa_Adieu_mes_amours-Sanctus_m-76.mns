@@ -5,17 +5,17 @@
 =
 *met(C|)
 =
-m D
-M BB -
-s AA
-s r
-s D
-s : F
-M G
-s A
-m A
+mD
+MBB-
+sAA
+sr
+sD
+s:F
+MG
+sA
+mA
 =
-m G
-m F
-m E
-*custos AA
+mG
+mF
+mE
+*custosAA

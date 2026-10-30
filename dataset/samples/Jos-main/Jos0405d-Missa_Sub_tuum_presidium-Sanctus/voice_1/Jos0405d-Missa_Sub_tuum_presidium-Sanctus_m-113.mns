@@ -3,52 +3,52 @@
 =
 *met(C|)
 =
-M : E
-m D
-M C
-M BB
-M C
-M AA
-M BB
-M GG
-M AA
+M:E
+mD
+MC
+MBB
+MC
+MAA
+MBB
+MGG
+MAA
 =
-M FF
-s EE
-s r
-s AA
-S AA
+MFF
+sEE
+sr
+sAA
+SAA
 *clefF4
 *met(C|)
-s E
-M E
-M E
-M D
-M BB
-M E
-M F
-M G
-M : A
-m G
-M G
-M : A
-m G
-m F
-m E
-s E
-M D
-s E
-M r
-M BB
-s D
-M AA
-s E
-s BB
-M E
-s G
-M D
-s F
-M E
-L E
-S E
-*custos EE
+sE
+ME
+ME
+MD
+MBB
+ME
+MF
+MG
+M:A
+mG
+MG
+M:A
+mG
+mF
+mE
+sE
+MD
+sE
+Mr
+MBB
+sD
+MAA
+sE
+sBB
+ME
+sG
+MD
+sF
+ME
+LE
+SE
+*custosEE

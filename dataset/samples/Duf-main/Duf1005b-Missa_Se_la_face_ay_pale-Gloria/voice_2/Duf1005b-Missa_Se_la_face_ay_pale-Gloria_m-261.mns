@@ -4,16 +4,16 @@
 =
 *met(O)
 *MM384
-S : r
-S : r
+S:r
+S:r
 =
-S : r
-S c
-s B
-S c
-s d
-s e
-s c
-s r
+S:r
+Sc
+sB
+Sc
+sd
+se
+sc
+sr
 =
-*custos B
+*custosB

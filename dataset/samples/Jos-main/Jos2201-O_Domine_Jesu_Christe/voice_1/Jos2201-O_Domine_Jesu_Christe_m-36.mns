@@ -2,14 +2,14 @@
 *clefF4
 *met(C|)
 *MM360
-S : AA
-s FF
-S FF
+S:AA
+sFF
+SFF
 =
-S : C
-s C
+S:C
+sC
 *k[b-]
-s : AA
-M FF
-S FF
-*custos FF
+s:AA
+MFF
+SFF
+*custosFF

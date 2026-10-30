@@ -2,46 +2,46 @@
 *clefC2
 *k[b-]
 *met(C)
-M e
-M f
-s : d
+Me
+Mf
+s:d
 *met(3)
-s d
-M d
-M : e -
-m d
-M c
-s : d
-s G
-M F
+sd
+Md
+M:e-
+md
+Mc
+s:d
+sG
+MF
 =
-s B -
-M G
-s A
-M F
-M : B -
-m A
-M B -
-s c
-M G
+sB-
+MG
+sA
+MF
+M:B-
+mA
+MB-
+sc
+MG
 *col
-s A
-M a
-M g
+sA
+Ma
+Mg
 =
-s a
+sa
 *Xcol
-s f
+sf
 =
-M a
-s a
-M a
-M a
-M a
-M a
-s a
-M a
-s : f
-s g
-M g
-*custos F
+Ma
+sa
+Ma
+Ma
+Ma
+Ma
+sa
+Ma
+s:f
+sg
+Mg
+*custosF

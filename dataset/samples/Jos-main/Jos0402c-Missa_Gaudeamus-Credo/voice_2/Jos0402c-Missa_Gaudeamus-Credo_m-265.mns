@@ -15,29 +15,29 @@
 3%M%2A
 3B
 3c
-M d
+Md
 6c
 3%M%2B
 *met(C|)
-s A
-M B
-s c
-M d
-M B
-M A
-M B
-M A
-M B
-s c
-M d
-[ s B
-s A ]
-s c
-s B
-s A
+sA
+MB
+sc
+Md
+MB
+MA
+MB
+MA
+MB
+sc
+Md
+[sB
+sA]
+sc
+sB
+sA
 =
-s c
-[ s d
-S B ]
-S A
-*custos A
+sc
+[sd
+SB]
+SA
+*custosA

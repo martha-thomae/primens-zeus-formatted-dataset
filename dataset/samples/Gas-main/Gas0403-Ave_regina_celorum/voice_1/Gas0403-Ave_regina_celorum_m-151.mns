@@ -3,18 +3,18 @@
 *k[b-]
 =
 *met(3)
-S : r
-S : r
-S FF
-[ s C
-s AA ]
-S GG
+S:r
+S:r
+SFF
+[sC
+sAA]
+SGG
 *lg
-s AA
-s BB -
+sAA
+sBB-
 *Xlg
-s C
-S D
-s BB -
+sC
+SD
+sBB-
 =
-*custos FF
+*custosFF

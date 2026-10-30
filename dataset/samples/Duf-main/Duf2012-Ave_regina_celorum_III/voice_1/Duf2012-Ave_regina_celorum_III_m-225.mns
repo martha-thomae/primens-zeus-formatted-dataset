@@ -2,24 +2,24 @@
 *clefF4
 *met(C|)
 *met(3)
-S : C
-[ S G
-s A ]
-[ s F
-s G
-s E ]
-[ s F
-S G ]
+S:C
+[SG
+sA]
+[sF
+sG
+sE]
+[sF
+SG]
 =
 =
-[ s C
-S D
-S : C ]
+[sC
+SD
+S:C]
 *rscale:3/2
 3%m%4F
 3%M%2G
 *rscale:1
 *met(C)
-S A
-S G
-*custos C
+SA
+SG
+*custosC

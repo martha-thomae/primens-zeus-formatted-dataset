@@ -2,48 +2,48 @@
 *clefF4
 *met(C|)
 *MM400
-[ S A
-s : D ]
-M E
-s F
-s : G
-M F
-M E
-M D
-s C
-M r
-M C
-M D
-M E
-M F
-s G
-M A
-M B -
-M c
-s d
-M D
-M E
-M F
-M G
-M A
-M B
-s c
+[SA
+s:D]
+ME
+sF
+s:G
+MF
+ME
+MD
+sC
+Mr
+MC
+MD
+ME
+MF
+sG
+MA
+MB-
+Mc
+sd
+MD
+ME
+MF
+MG
+MA
+MB
+sc
 =
-M A
-M B
-M c
-M d
-M e
-M c
-s d
-s : D
-M C
-[ s D
-s : AA ]
-M BB
-s C
-s : C
-M D
-s E
-S F
-*custos AA
+MA
+MB
+Mc
+Md
+Me
+Mc
+sd
+s:D
+MC
+[sD
+s:AA]
+MBB
+sC
+s:C
+MD
+sE
+SF
+*custosAA

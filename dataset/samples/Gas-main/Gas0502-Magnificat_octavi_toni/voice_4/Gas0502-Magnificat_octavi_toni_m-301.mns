@@ -2,24 +2,24 @@
 *clefG2
 *met(C|)
 *lg
-s a
-s cc
+sa
+scc
 *Xlg
-M : b
-m cc
-M dd
-M ee
-M dd
-s ee
-m dd
-m cc
-M : b
-m cc
-M ee
-s dd
-s cc
-M b
-S cc
-s r
-s cc
-*custos a
+M:b
+mcc
+Mdd
+Mee
+Mdd
+see
+mdd
+mcc
+M:b
+mcc
+Mee
+sdd
+scc
+Mb
+Scc
+sr
+scc
+*custosa

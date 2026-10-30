@@ -4,16 +4,16 @@
 *met(C|)
 =
 *met(C|)
-S r
-S r
-S r
-s f
-s g
+Sr
+Sr
+Sr
+sf
+sg
 *lg
-[ s a
-s b - ]
+[sa
+sb-]
 *Xlg
-s a
-M dd
-M cc
-*custos f
+sa
+Mdd
+Mcc
+*custosf

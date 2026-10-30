@@ -3,21 +3,21 @@
 =
 *met(O)
 =
-s b
-s a
-M g #
-s : a
-m g
-m f
-M e
-M : a
-m g
-m f
-m e
-M d
-s g
-M f #
-S g
+sb
+sa
+Mg#
+s:a
+mg
+mf
+Me
+M:a
+mg
+mf
+me
+Md
+sg
+Mf#
+Sg
 =
-s r
-*custos d
+sr
+*custosd

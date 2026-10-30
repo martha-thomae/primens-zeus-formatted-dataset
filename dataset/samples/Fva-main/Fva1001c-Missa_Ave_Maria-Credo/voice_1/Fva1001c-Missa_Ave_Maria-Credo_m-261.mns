@@ -3,22 +3,22 @@
 =
 *met(3)
 =
-M F
-M E
-M D
-S C
-s : c
+MF
+ME
+MD
+SC
+s:c
 =
-M B
-M A
-M G
-s F
-S A
-s G
-s A
-s F
-S G
+MB
+MA
+MG
+sF
+SA
+sG
+sA
+sF
+SG
 *met(C|)
-s C
-s r
-*custos C
+sC
+sr
+*custosC

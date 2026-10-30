@@ -4,42 +4,42 @@
 *met(C|)
 =
 *met(O/3)
-s d
-s d
+sd
+sd
 =
-s d
-S e
-s f
-s : g
-m f
-m e
-s d
+sd
+Se
+sf
+s:g
+mf
+me
+sd
 *lg
-[ s e
-s c ]
+[se
+sc]
 *Xlg
-s A
+sA
 *lg
-s B
-s G
+sB
+sG
 *Xlg
 =
-s g
-s : a
-M g
-[ s f
-S e ]
+sg
+s:a
+Mg
+[sf
+Se]
 srB
 =
 *lg
-s c
-s d
+sc
+sd
 *Xlg
-s B
+sB
 *lg
-s c
-s G
+sc
+sG
 *Xlg
-s g
-S : g
-*custos G
+sg
+S:g
+*custosG

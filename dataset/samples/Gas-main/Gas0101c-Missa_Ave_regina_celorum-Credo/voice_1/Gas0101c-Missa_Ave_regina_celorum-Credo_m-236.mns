@@ -2,18 +2,18 @@
 *clefF4
 *k[b-]
 *met(3)
-S GG
-s BB -
-S C
-s AA
+SGG
+sBB-
+SC
+sAA
 *col
-S GG
+SGG
 *lg
-S FF
-S C
+SFF
+SC
 *Xlg
 *Xcol
-[ S : FF
-s GG ]
-S EE
-*custos EE
+[S:FF
+sGG]
+SEE
+*custosEE

@@ -4,19 +4,19 @@
 =
 *met(C|)
 *lg
-S A
-S c
+SA
+Sc
 *Xlg
 *lg
-< S c
-S B >
-S A
+<Sc
+SB>
+SA
 *Xlg
-s A
-S c
+sA
+Sc
 =
-s B
-X c
+sB
+Xc
 *lg
-S G
-*custos G
+SG
+*custosG

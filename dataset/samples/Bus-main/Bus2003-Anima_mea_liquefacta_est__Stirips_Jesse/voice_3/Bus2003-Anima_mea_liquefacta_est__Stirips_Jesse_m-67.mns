@@ -2,43 +2,43 @@
 *clefGv2
 =
 *met(C)
-m d
-M e
-M f
-m e
-m d
-M c
-M : e
-m f
-m e
-U d
-U c
-M B
-s A
-s d
-M B
-m c
-m B
-m A
-m G
-M : F
-m G
-M A
-M : B -
-m A
-M : d
-m e
-M : f
-m e
-M : g
-m f
-s d
-m c #
-m B
-[ s c #
-S d ]
-S r
-S r
+md
+Me
+Mf
+me
+md
+Mc
+M:e
+mf
+me
+Ud
+Uc
+MB
+sA
+sd
+MB
+mc
+mB
+mA
+mG
+M:F
+mG
+MA
+M:B-
+mA
+M:d
+me
+M:f
+me
+M:g
+mf
+sd
+mc#
+mB
+[sc#
+Sd]
+Sr
+Sr
 =
-S r
-*custos F
+Sr
+*custosF

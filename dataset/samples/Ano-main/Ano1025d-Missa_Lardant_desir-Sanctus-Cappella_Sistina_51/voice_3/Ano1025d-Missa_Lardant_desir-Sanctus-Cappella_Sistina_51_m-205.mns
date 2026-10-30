@@ -3,13 +3,13 @@
 *met(C3)
 *MM450
 s%5c
-M B
-M A
-s : G
-M A
-M B
-M c
+MB
+MA
+s:G
+MA
+MB
+Mc
 s%5d
-M c
-M B
-*custos G
+Mc
+MB
+*custosG

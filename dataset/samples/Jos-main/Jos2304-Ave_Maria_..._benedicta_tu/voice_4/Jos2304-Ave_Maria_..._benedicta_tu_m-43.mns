@@ -2,39 +2,39 @@
 *clefG2
 *k[b-]
 *met(O/3)
-S g
-s b -
-s a
-s b -
-s cc
-S dd
-s r
-S : r
-s dd
-s dd
+Sg
+sb-
+sa
+sb-
+scc
+Sdd
+sr
+S:r
+sdd
+sdd
 =
-s ee -
-< S ff
-s ee - >
-[ S dd
-s cc
-S dd ]
-s r
-S : r
-s ff
-s ff
-s ee -
-s : dd
-M cc
-[ s b -
-S a ]
-s cc
-s : b -
-M a
-[ s g
-s f ]
-s : b -
-M a
-S a
-s g
-*custos f
+see-
+<Sff
+see->
+[Sdd
+scc
+Sdd]
+sr
+S:r
+sff
+sff
+see-
+s:dd
+Mcc
+[sb-
+Sa]
+scc
+s:b-
+Ma
+[sg
+sf]
+s:b-
+Ma
+Sa
+sg
+*custosf

@@ -1,12 +1,12 @@
 **mens
 *clefC1
 *met(C|)
-S : r
+S:r
 =
 *rscale:1
 *met(3)
-S c
-S c
-< S B
-S : c >
-*custos B
+Sc
+Sc
+<SB
+S:c>
+*custosB

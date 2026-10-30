@@ -3,48 +3,48 @@
 *k[b-]
 *met(C2)
 *met(C|3)
-S : r
-S : r
-S : r
-S G
-[ s A
-s : B - ]
-M A
-s G
+S:r
+S:r
+S:r
+SG
+[sA
+s:B-]
+MA
+sG
 *lg
-[ s F
-s A ]
+[sF
+sA]
 *Xlg
-[ s B -
-S c ]
-s A
+[sB-
+Sc]
+sA
 *lg
-s G
-s B -
+sG
+sB-
 *Xlg
-s c
-S d
-s B -
-s A
-S c
-s : d
-M e
-s f
+sc
+Sd
+sB-
+sA
+Sc
+s:d
+Me
+sf
 *lg
-s g
-s f
+sg
+sf
 *Xlg
-s g
-[ s d
-S e ]
-S d
-s r
-S d
-[ s e
-s : f ]
-M e
-s c
-s : d
-M c
-s A
-*custos F
+sg
+[sd
+Se]
+Sd
+sr
+Sd
+[se
+s:f]
+Me
+sc
+s:d
+Mc
+sA
+*custosF

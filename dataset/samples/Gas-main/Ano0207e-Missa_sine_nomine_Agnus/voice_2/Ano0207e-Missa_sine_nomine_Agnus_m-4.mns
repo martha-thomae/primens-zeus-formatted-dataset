@@ -4,14 +4,14 @@
 =
 *met(C|)
 *lg
-[ s c
-s d ]
+[sc
+sd]
 *Xlg
-M r
-s d
-M B -
-< s c
-s B - >
+Mr
+sd
+MB-
+<sc
+sB->
 *lg
-S d
-*custos B -
+Sd
+*custosB-

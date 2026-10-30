@@ -3,47 +3,47 @@
 *k[b-]
 *met(O/3)
 *met(C|)
-S c
-M r
+Sc
+Mr
 =
-M c
-M d
+Mc
+Md
 =
-s c
-m B -
-m A
-M B -
-M c
-M F
-M A
-M G
-M : A
-m F
-M f
-M d
-M f
-M r
-s c
+sc
+mB-
+mA
+MB-
+Mc
+MF
+MA
+MG
+M:A
+mF
+Mf
+Md
+Mf
+Mr
+sc
 =
-m B -
-m A
-M d
-M : G
-m F
-M E
-[ S F
-S G ]
-s r
-[ s G
-s A ]
-[ s B -
-s : c ]
-M B -
-M A
-M G
-s F
-s G
-s G
-S F
-S G
-*custos E
+mB-
+mA
+Md
+M:G
+mF
+ME
+[SF
+SG]
+sr
+[sG
+sA]
+[sB-
+s:c]
+MB-
+MA
+MG
+sF
+sG
+sG
+SF
+SG
+*custosE

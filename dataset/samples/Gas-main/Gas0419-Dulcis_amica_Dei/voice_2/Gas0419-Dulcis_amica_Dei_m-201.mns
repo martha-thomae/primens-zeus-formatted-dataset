@@ -3,21 +3,21 @@
 =
 *k[b-]
 *met(C|)
-S : r
-S : r
-[ s D
-s F ]
-s G
-S A
-[ s c
-S d ]
-[ s G
-s A ]
-s F
-[ s B -
-s c ]
+S:r
+S:r
+[sD
+sF]
+sG
+SA
+[sc
+Sd]
+[sG
+sA]
+sF
+[sB-
+sc]
 =
-S A
+SA
 *Xcol
-S : G
-*custos D
+S:G
+*custosD

@@ -3,23 +3,23 @@
 *met(O|)
 =
 *met(C|)
-M : g
-m f
-M d
-M e
-M d
-M : f
-m e
-s d
-M c
-M : d
-m c
-M A
-M d
-M B
-M : e
-m d
-m c
-m B
-s A
-*custos A
+M:g
+mf
+Md
+Me
+Md
+M:f
+me
+sd
+Mc
+M:d
+mc
+MA
+Md
+MB
+M:e
+md
+mc
+mB
+sA
+*custosA

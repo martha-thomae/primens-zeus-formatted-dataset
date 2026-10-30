@@ -4,20 +4,20 @@
 *k[b-]
 *met(C)
 *MM480
-S D
-L A
-S B -
-L : G
-S : d
-S d
-s c
-S B -
-L A
-S F
+SD
+LA
+SB-
+L:G
+S:d
+Sd
+sc
+SB-
+LA
+SF
 =
-[ S G
-S D ]
+[SG
+SD]
 =
-s r
-s F
-*custos D
+sr
+sF
+*custosD

@@ -5,36 +5,36 @@
 =
 *met(C3)
 *col
-s F
+sF
 =
-[ s A
-s B -
-S c
-s B - ]
-S c
-[ s B -
-s A ]
+[sA
+sB-
+Sc
+sB-]
+Sc
+[sB-
+sA]
 =
-S G
+SG
 *lg
-[ S F
-S G ]
-S A
+[SF
+SG]
+SA
 *Xlg
-S F
-s r
-S : r
-S : r
-S F
-S D
+SF
+sr
+S:r
+S:r
+SF
+SD
 *lg
-[ s F
-s E ]
+[sF
+sE]
 *Xlg
-[ s C
-S D ]
-S C
-s r
-S C
-s C
-*custos C
+[sC
+SD]
+SC
+sr
+SC
+sC
+*custosC

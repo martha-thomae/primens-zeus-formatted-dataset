@@ -3,17 +3,17 @@
 *clefC4
 *met(O)
 *MM384
-S B
-s r
-s : c
-M d
-s e
-M f
-M g
-M c
-M e
-[ s d
-s c ]
-s : e
-M d
-*custos B
+SB
+sr
+s:c
+Md
+se
+Mf
+Mg
+Mc
+Me
+[sd
+sc]
+s:e
+Md
+*custosB

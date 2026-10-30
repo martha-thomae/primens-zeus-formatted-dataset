@@ -11,28 +11,28 @@ s%ME
 3%M%2E
 3%m%4F
 3%M%2E
-s F
-s r
-M : F
-m G
-m A
-m B -
-s c
-M B -
-s c
-s c
+sF
+sr
+M:F
+mG
+mA
+mB-
+sc
+MB-
+sc
+sc
 =
-[ s d
-s : A ]
-M F
-s c
-< s d
-s : c >
-M c
-M : c
-m d
-M e
-s d
-M c
-s d
-*custos E
+[sd
+s:A]
+MF
+sc
+<sd
+s:c>
+Mc
+M:c
+md
+Me
+sd
+Mc
+sd
+*custosE

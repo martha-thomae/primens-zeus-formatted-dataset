@@ -3,42 +3,42 @@
 *k[b-]
 *met(C)
 =
-M : a
-m b -
-M cc
-M dd
-M cc
-s dd
-M cc #
-s : dd
-M ee
+M:a
+mb-
+Mcc
+Mdd
+Mcc
+sdd
+Mcc#
+s:dd
+Mee
 *col
-M : ff
-m ee
+M:ff
+mee
 *Xcol
-M cc
-M ff
-M ee
+Mcc
+Mff
+Mee
 *lg
-s dd
+sdd
 *col
-M : ee
+M:ee
 *Xlg
-m dd
+mdd
 *Xcol
-s cc
-M b n
-s cc
-s r
-s cc
-s cc
-s b -
-s a
-M b -
+scc
+Mbn
+scc
+sr
+scc
+scc
+sb-
+sa
+Mb-
 *lg
-s a
-s g
+sa
+sg
 *Xlg
-M f #
-s g
-*custos f #
+Mf#
+sg
+*custosf#

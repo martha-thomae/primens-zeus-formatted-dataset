@@ -2,21 +2,21 @@
 *clefC2
 *met(C|)
 *lg
-s A
-s B -
+sA
+sB-
 =
 *Xlg
-s : A
+s:A
 =
-s d
-m c
-m B
-s A
-M : d
-m e
-s f
-S : g
-M : e
+sd
+mc
+mB
+sA
+M:d
+me
+sf
+S:g
+M:e
 =
-m f
-*custos A
+mf
+*custosA

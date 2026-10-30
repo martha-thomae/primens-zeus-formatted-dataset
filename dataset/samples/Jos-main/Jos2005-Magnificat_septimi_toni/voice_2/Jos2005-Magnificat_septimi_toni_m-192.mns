@@ -3,30 +3,30 @@
 *clefC4
 *k[b-]
 *met(C|3)
-S B -
-s B -
-s : c
-M d
-s B -
+SB-
+sB-
+s:c
+Md
+sB-
 =
-s c
-S A
+sc
+SA
 =
 *met(C|)
-S G
-s r
-[ s G
-S d
-s c
-s d
-S B - ]
-S A
-s r
-[ s A
-S d ]
-[ s c
-s d
-S B -
-L : A ]
-S D
-*custos D
+SG
+sr
+[sG
+Sd
+sc
+sd
+SB-]
+SA
+sr
+[sA
+Sd]
+[sc
+sd
+SB-
+L:A]
+SD
+*custosD

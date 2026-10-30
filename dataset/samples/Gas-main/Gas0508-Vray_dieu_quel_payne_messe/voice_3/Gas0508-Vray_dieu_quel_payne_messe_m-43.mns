@@ -3,21 +3,21 @@
 *k[b-]
 *met(O)
 =
-S g
-s f #
-S : g
-S : f
-S : f
-S d
+Sg
+sf#
+S:g
+S:f
+S:f
+Sd
 =
-s e
-s : f
-M e
-[ s d
-s c
-s e
-s f ]
-s : g
-s f
-M e
-*custos c
+se
+s:f
+Me
+[sd
+sc
+se
+sf]
+s:g
+sf
+Me
+*custosc

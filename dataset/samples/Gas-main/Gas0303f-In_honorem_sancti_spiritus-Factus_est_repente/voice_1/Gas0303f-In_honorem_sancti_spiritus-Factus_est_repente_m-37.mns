@@ -2,39 +2,39 @@
 *clefF4
 *met(C|)
 *lg
-[ s BB
-s AA ]
+[sBB
+sAA]
 *Xlg
 *lg
-s BB
-s C
+sBB
+sC
 *Xlg
-s BB
+sBB
 *lg
-[ s GG
-s AA ]
+[sGG
+sAA]
 *Xlg
-s GG
-s r
-s : G
-M F
-M G
-M F
-M G
-M E
+sGG
+sr
+s:G
+MF
+MG
+MF
+MG
+ME
 =
-s D
+sD
 *met(O/3)
-S : GG
-S GG
-s AA
-[ S C
-s D
-S E ]
-s D
+S:GG
+SGG
+sAA
+[SC
+sD
+SE]
+sD
 *col
-S C
-S D
-S E
+SC
+SD
+SE
 *Xcol
-*custos GG
+*custosGG

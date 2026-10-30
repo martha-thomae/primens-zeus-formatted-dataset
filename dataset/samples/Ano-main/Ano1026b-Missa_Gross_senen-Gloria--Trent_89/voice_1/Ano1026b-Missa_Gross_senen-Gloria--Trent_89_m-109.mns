@@ -3,12 +3,12 @@
 *k[b-e-]
 *met(C|)
 *MM400
-S BB -
-S C
-s GG
-s : BB -
-M AA
-M GG
-M FF
-S FF
-*custos FF
+SBB-
+SC
+sGG
+s:BB-
+MAA
+MGG
+MFF
+SFF
+*custosFF

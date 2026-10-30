@@ -2,30 +2,30 @@
 *clefC1
 *met(C)
 *MM420
-M a
-M b
-s : cc
+Ma
+Mb
+s:cc
 =
-M dd
-s : ee
-M dd
-s b
-s : cc
-M b
-S b
-S g
-M e
-M f
-M g
-M a
-M : b
-m g
-s g
-S r
-s a
-s g
-M f
-s f
-M e
-S g
-*custos e
+Mdd
+s:ee
+Mdd
+sb
+s:cc
+Mb
+Sb
+Sg
+Me
+Mf
+Mg
+Ma
+M:b
+mg
+sg
+Sr
+sa
+sg
+Mf
+sf
+Me
+Sg
+*custose

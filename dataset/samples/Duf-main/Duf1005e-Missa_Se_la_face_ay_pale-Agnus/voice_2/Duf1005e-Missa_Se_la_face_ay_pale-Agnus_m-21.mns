@@ -3,24 +3,24 @@
 =
 *met(O)
 *MM384
-L c
-S B
-[ s c
-s d ]
-s e
-s f
-[ S d
-L c ]
-s r
-s r
-S a
-s a
-S a
-s a
-L g
-s r
-s c
-[ s d
-s e ]
-s f
-*custos B
+Lc
+SB
+[sc
+sd]
+se
+sf
+[Sd
+Lc]
+sr
+sr
+Sa
+sa
+Sa
+sa
+Lg
+sr
+sc
+[sd
+se]
+sf
+*custosB

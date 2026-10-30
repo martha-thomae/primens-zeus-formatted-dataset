@@ -4,24 +4,24 @@
 *clefF4
 *k[b-]
 *met(O)
-S : r
-S : r
-S : r
-S : r
-s FF
+S:r
+S:r
+S:r
+S:r
+sFF
 *col
-M : FF
-m GG
+M:FF
+mGG
 =
 *Xcol
-M AA
-M : BB -
-m AA
-m BB -
-m AA
+MAA
+M:BB-
+mAA
+mBB-
+mAA
 =
-M FF
-M BB -
-M AA
-M BB -
-*custos FF
+MFF
+MBB-
+MAA
+MBB-
+*custosFF

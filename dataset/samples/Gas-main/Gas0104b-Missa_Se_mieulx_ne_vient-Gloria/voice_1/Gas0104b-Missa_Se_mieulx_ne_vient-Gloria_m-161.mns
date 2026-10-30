@@ -3,22 +3,22 @@
 =
 *met(C|)
 *met(3)
-L : C
+L:C
 *lg
-s GG
-s G
+sGG
+sG
 *Xlg
-s A
+sA
 *lg
-s G
-s : E
+sG
+s:E
 =
 *Xlg
-M F
-s G
-S D
-s : E
-M F
+MF
+sG
+SD
+s:E
+MF
 =
-s G
-*custos GG
+sG
+*custosGG

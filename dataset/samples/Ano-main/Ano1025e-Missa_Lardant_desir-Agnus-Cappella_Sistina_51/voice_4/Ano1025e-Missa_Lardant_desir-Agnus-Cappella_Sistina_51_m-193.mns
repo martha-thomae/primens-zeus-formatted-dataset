@@ -2,26 +2,26 @@
 *clefC1
 *met(C|)
 *MM400
-M A
-s a
-m g
-m f
-m g
-m f
-m e
-m d
-M : c #
-m B
-s d
-s r
-L : a
-S : g
+MA
+sa
+mg
+mf
+mg
+mf
+me
+md
+M:c#
+mB
+sd
+sr
+L:a
+S:g
 =
-[ s d
-S g ]
+[sd
+Sg]
 =
-S f
-S : a
-S cc
-s b
-*custos A
+Sf
+S:a
+Scc
+sb
+*custosA

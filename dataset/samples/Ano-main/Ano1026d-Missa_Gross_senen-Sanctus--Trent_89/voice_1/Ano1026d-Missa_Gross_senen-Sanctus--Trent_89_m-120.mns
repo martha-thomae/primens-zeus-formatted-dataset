@@ -4,24 +4,24 @@
 *k[b-e-]
 *met(O2)
 *MM400
-M G
-s : A
-M G
-M F
-M E -
-s D
-s : F
+MG
+s:A
+MG
+MF
+ME-
+sD
+s:F
 =
-M G
+MG
 =
-[ s A
-s D
-s G
-S D ]
-S GG
+[sA
+sD
+sG
+SD]
+SGG
 *clefF4
 *k[b-e-]
 *met(O)
 *MM300
-S : G
-*custos GG
+S:G
+*custosGG

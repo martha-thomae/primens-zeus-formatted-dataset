@@ -2,47 +2,47 @@
 *clefC4
 *met(C2)
 *MM424
-M c
-M f
-M d
-M e
-s f
-s d
-S d
-s r
-s e
-M : f
-m g
-M a
-M b
-M cc
-M : a
+Mc
+Mf
+Md
+Me
+sf
+sd
+Sd
+sr
+se
+M:f
+mg
+Ma
+Mb
+Mcc
+M:a
 =
-m g
-M a
-M b
-s a
-M g
-s a
-s f
-[ s : d
-s : g ]
-M f
-M b -
-M a
-s g
-M f #
-S g
-S e
-S c
-s r
-s g
-s : g
-M f
-s e
-s r
-S g
-s g
-s d
-L e
-*custos c
+mg
+Ma
+Mb
+sa
+Mg
+sa
+sf
+[s:d
+s:g]
+Mf
+Mb-
+Ma
+sg
+Mf#
+Sg
+Se
+Sc
+sr
+sg
+s:g
+Mf
+se
+sr
+Sg
+sg
+sd
+Le
+*custosc

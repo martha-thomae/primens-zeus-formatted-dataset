@@ -4,20 +4,20 @@
 *met(C)
 *MM420
 =
-S a
-S g
-s f
-S g
+Sa
+Sg
+sf
+Sg
 =
-[ s c
-s d
-s c ]
-S f
-s e
-s : g
-M f
-s e
-M d
-s f
-M g
-*custos c
+[sc
+sd
+sc]
+Sf
+se
+s:g
+Mf
+se
+Md
+sf
+Mg
+*custosc

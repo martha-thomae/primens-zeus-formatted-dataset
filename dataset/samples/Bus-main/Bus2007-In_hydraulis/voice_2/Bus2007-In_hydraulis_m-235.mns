@@ -3,14 +3,14 @@
 =
 *met(C|)
 *met(O/3)
-L D
-S C
-L D
-s r
-s r
-L A
+LD
+SC
+LD
+sr
+sr
+LA
 =
-[ S G
-S : A ]
+[SG
+S:A]
 =
-*custos C
+*custosC

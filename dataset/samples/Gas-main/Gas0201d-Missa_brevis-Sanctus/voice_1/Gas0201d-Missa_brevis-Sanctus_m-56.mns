@@ -4,44 +4,44 @@
 =
 *met(C2)
 =
-S r
-S r
-S r
+Sr
+Sr
+Sr
 *col
-s : G
-m F
-m E
+s:G
+mF
+mE
 *Xcol
-M D
-M : G
-m F
-m E
-m D
-M C
-M F
-M E
-M F
-s : G
-m F
-m E
-s D
-s C
-M r
-M : D
-m E
-m F
-m G
+MD
+M:G
+mF
+mE
+mD
+MC
+MF
+ME
+MF
+s:G
+mF
+mE
+sD
+sC
+Mr
+M:D
+mE
+mF
+mG
 *lg
-[ s A
-s B - ]
+[sA
+sB-]
 *Xlg
-M A
-M : B -
-m A
-m G
-m F
+MA
+M:B-
+mA
+mG
+mF
 *lg
-s E
-s D
+sE
+sD
 *Xlg
-*custos C
+*custosC

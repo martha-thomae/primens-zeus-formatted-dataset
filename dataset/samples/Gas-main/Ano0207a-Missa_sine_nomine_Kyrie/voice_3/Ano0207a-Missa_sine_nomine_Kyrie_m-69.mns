@@ -3,22 +3,22 @@
 =
 *k[b-]
 *met(C|)
-s d
-s : c
-M A
-s G
-M r
-M A
-s B -
-M G
-s : c
-M A
-s : d
-s B -
-M r
-M e -
-M d
-M c
-s d
-S d
-*custos G
+sd
+s:c
+MA
+sG
+Mr
+MA
+sB-
+MG
+s:c
+MA
+s:d
+sB-
+Mr
+Me-
+Md
+Mc
+sd
+Sd
+*custosG

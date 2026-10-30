@@ -4,18 +4,18 @@
 *k[b-]
 *met(C|)
 *lg
-S G
-S : B -
-S : G
+SG
+S:B-
+S:G
 *Xlg
 *lg
-S A
-S : B -
+SA
+S:B-
 *Xlg
-M d
-s e
-s d
-M c #
+Md
+se
+sd
+Mc#
 *lg
-S d
-*custos G
+Sd
+*custosG

@@ -6,21 +6,21 @@
 3%M%2C
 3%M%2F
 *met(C|)
-s E
-M r
-M C
-M D
-M E
+sE
+Mr
+MC
+MD
+ME
 =
-s C
-M G
-M G
-M G
-M E
-M F
-M G
+sC
+MG
+MG
+MG
+ME
+MF
+MG
 =
-M E
+ME
 =
-M E
-*custos C
+ME
+*custosC

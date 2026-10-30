@@ -2,19 +2,19 @@
 *clefC2
 *met(C)
 *MM312
-s f
-s d
-s g
-s e
-s c
-M d
-M f
-M e
-M d
-M c
+sf
+sd
+sg
+se
+sc
+Md
+Mf
+Me
+Md
+Mc
 =
-s B
-s A
-M G
-L : A
-*custos G
+sB
+sA
+MG
+L:A
+*custosG

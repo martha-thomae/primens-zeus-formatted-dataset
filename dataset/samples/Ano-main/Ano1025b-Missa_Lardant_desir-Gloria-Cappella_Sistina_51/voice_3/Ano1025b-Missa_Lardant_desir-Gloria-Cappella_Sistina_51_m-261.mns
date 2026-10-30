@@ -3,25 +3,25 @@
 =
 *met(C)
 *MM300
-M B
-M : c
+MB
+M:c
 =
-m d
-M e
-M : f
-m e
-M d
+md
+Me
+M:f
+me
+Md
 =
-M c
-M d
-M B
-M : A
-m G
-M F
-M E
-M D
-M G
-M F
-M G
-s A
-*custos D
+Mc
+Md
+MB
+M:A
+mG
+MF
+ME
+MD
+MG
+MF
+MG
+sA
+*custosD

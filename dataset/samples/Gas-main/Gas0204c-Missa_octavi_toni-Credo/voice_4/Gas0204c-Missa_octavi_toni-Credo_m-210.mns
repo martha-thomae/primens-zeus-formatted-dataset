@@ -2,32 +2,32 @@
 *clefC1
 *met(C|)
 *met(C|3)
-[ S d
-s c ]
-[ s d
-s f ]
-[ s e
-S d ]
-s r
-[ S dd
-s cc ]
-s : b
-M g
-[ s a
-S b ]
-s b
-S b
-< s cc
-S a >
-[ s g
-s a ]
-S b
-S a
-s g #
+[Sd
+sc]
+[sd
+sf]
+[se
+Sd]
+sr
+[Sdd
+scc]
+s:b
+Mg
+[sa
+Sb]
+sb
+Sb
+<scc
+Sa>
+[sg
+sa]
+Sb
+Sa
+sg#
 *col
-< S a
-s g >
-[ s f
-S e ]
+<Sa
+sg>
+[sf
+Se]
 *Xcol
-*custos c
+*custosc

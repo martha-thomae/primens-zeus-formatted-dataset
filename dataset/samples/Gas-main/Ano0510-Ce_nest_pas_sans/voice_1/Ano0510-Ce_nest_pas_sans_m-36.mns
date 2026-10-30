@@ -3,31 +3,31 @@
 *k[b-]
 *met(C|)
 *lg
-s G
-s F
+sG
+sF
 *Xlg
 *lg
-s E
-s D
+sE
+sD
 *Xlg
 *lg
-[ s G
-s F ]
+[sG
+sF]
 *Xlg
 *lg
-s E
-s D
+sE
+sD
 *Xlg
-M r
-M G
-M F
-M A
-s G
-s D
+Mr
+MG
+MF
+MA
+sG
+sD
 *lg
-s G
-s d
+sG
+sd
 *Xlg
-s G
-s D
-*custos D
+sG
+sD
+*custosD

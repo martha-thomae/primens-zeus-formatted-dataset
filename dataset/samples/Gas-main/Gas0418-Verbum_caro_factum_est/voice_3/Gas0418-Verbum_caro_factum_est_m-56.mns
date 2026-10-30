@@ -2,21 +2,21 @@
 *clefC2
 *met(O/3)
 *col
-s c
+sc
 =
-[ s f
-S d ]
-S d
+[sf
+Sd]
+Sd
 *Xcol
-s : B
-M c
-< s d
-S g >
-s g
+s:B
+Mc
+<sd
+Sg>
+sg
 *col
-S g
-S e
-s : d
-M e
+Sg
+Se
+s:d
+Me
 *Xcol
-*custos B
+*custosB

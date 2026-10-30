@@ -3,10 +3,10 @@
 *k[b-]
 *met(O2)
 =
-L G
-S G
-L G
+LG
+SG
+LG
 =
-S G
-L G
-*custos G
+SG
+LG
+*custosG

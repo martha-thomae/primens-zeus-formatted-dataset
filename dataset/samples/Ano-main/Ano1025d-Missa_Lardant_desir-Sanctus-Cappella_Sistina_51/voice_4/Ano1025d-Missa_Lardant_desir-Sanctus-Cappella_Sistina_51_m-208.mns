@@ -3,24 +3,24 @@
 *clefC1
 *met(C3)
 *MM450
-s : d
-M e
-M f
-M g
+s:d
+Me
+Mf
+Mg
 s%5a
-M g
-M f
-s e
-s r
-[ s A
-s B
-s A ]
-[ s c
-s d ]
-s : e
-M d
-s d
-[ s B
-s c # ]
+Mg
+Mf
+se
+sr
+[sA
+sB
+sA]
+[sc
+sd]
+s:e
+Md
+sd
+[sB
+sc#]
 s%9d
-*custos A
+*custosA

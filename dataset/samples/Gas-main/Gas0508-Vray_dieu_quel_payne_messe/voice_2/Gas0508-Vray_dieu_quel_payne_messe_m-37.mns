@@ -2,13 +2,13 @@
 *clefC4
 *k[b-]
 *met(O)
-S : d
+S:d
 *col
-S d
-s c
-s A
-S B -
+Sd
+sc
+sA
+SB-
 *Xcol
-S : c
-S : f
-*custos A
+S:c
+S:f
+*custosA

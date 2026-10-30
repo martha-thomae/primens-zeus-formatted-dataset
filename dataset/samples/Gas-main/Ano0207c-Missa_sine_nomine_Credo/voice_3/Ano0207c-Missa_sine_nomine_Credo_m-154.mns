@@ -5,38 +5,38 @@
 =
 *met(O)
 =
-M B -
-M c
-M d
-M e -
-[ s f
-s e - ]
-M d
-M e -
-[ s d
-S B - ]
-s r
-[ s d
-s e ]
-s f
-M g
-M d
-s e
+MB-
+Mc
+Md
+Me-
+[sf
+se-]
+Md
+Me-
+[sd
+SB-]
+sr
+[sd
+se]
+sf
+Mg
+Md
+se
 =
-s f
-[ s g
-s f ]
-s g
-s d
-M B -
-M c
-s A
+sf
+[sg
+sf]
+sg
+sd
+MB-
+Mc
+sA
 *col
-S G
-s r
-s r
-S G
+SG
+sr
+sr
+SG
 *Xcol
-S A
-s F
-*custos F
+SA
+sF
+*custosF

@@ -2,10 +2,10 @@
 *clefG2
 *k[b-]
 *met(C|)
-M b n
+Mbn
 =
-M b n
-M a
+Mbn
+Ma
 3%M%2cc
 3%M%2g
 3%M%2a
@@ -16,13 +16,13 @@ M a
 3%M%2e
 3%M%2f#
 *met(O/3)
-S g
-s e
-s : f
-M e
-M : d
-m c
-S c
-s r
-S : r
-*custos c
+Sg
+se
+s:f
+Me
+M:d
+mc
+Sc
+sr
+S:r
+*custosc

@@ -3,16 +3,16 @@
 *k[b-]
 *met(C|)
 *MM400
-s : f
-M e
-M d
-M c
-s c
-s r
+s:f
+Me
+Md
+Mc
+sc
+sr
 =
-[ s g
-s f
-s e ]
-[ s d
-s f ]
-*custos c
+[sg
+sf
+se]
+[sd
+sf]
+*custosc

@@ -4,34 +4,34 @@
 *met(C|)
 *col
 =
-M : D
-m E
+M:D
+mE
 *Xcol
-M F
-s G
-m F
-m E
-s D
+MF
+sG
+mF
+mE
+sD
 =
-S E
-S r
-s D
-M E
-M G
-s F
-s E
-M F
-M A
-s G
-s F
-M G
-M B -
-s A
-M G
-M D
-s E
-M D
-M F
-s E
-s F
-*custos D
+SE
+Sr
+sD
+ME
+MG
+sF
+sE
+MF
+MA
+sG
+sF
+MG
+MB-
+sA
+MG
+MD
+sE
+MD
+MF
+sE
+sF
+*custosD

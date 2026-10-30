@@ -3,14 +3,14 @@
 *k[b-]
 *met(O|/3)
 *met(C|)
-[ s D
-s BB - ]
-s C
-M AA
-s BB -
-M AA
-s GG
-[ S FF
-s F ]
-s C
-*custos FF
+[sD
+sBB-]
+sC
+MAA
+sBB-
+MAA
+sGG
+[SFF
+sF]
+sC
+*custosFF

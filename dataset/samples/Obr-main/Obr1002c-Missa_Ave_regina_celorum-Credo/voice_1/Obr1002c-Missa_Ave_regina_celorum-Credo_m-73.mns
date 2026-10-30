@@ -3,33 +3,33 @@
 *k[b-]
 =
 *met(O)
-s D
-s E -
-s F
-s BB -
-S C
-M FF
-M : F
-m E
-M D
-s C
-M FF
-M F
-M E
-M F
-s G
-S : F
+sD
+sE-
+sF
+sBB-
+SC
+MFF
+M:F
+mE
+MD
+sC
+MFF
+MF
+ME
+MF
+sG
+S:F
 *clefF4
 *k[b-]
 *met(C|)
-S C
-s F
-[ s C
-s D ]
-s AA
-s BB -
-M : BB -
-m AA
-s GG
-s G
-*custos FF
+SC
+sF
+[sC
+sD]
+sAA
+sBB-
+M:BB-
+mAA
+sGG
+sG
+*custosFF

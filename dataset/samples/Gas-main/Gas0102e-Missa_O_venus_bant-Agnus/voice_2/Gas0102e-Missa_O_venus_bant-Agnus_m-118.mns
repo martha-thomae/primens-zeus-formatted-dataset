@@ -2,29 +2,29 @@
 *clefC4
 *met(C)
 =
-s AA
-s AA
-s C
-s C
-s GG
-s GG
+sAA
+sAA
+sC
+sC
+sGG
+sGG
 =
-[ S D
-s BB ]
-[ s GG
-S AA ]
-L GG
-s r
-s GG
-s D
-s D
+[SD
+sBB]
+[sGG
+SAA]
+LGG
+sr
+sGG
+sD
+sD
 *col
-s : E
-M E
+s:E
+ME
 *Xcol
-s D
-s D
-S C
-s r
-s C
-*custos GG
+sD
+sD
+SC
+sr
+sC
+*custosGG

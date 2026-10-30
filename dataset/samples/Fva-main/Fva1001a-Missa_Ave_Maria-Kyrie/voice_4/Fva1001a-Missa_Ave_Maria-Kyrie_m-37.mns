@@ -6,17 +6,17 @@
 *clefG2
 *met(C|)
 =
-s r
-s r
-s : cc
-M b
-s a
-M : g
-U a
-U g
-m a
-m b
-s cc
-M b
-S cc
-*custos g
+sr
+sr
+s:cc
+Mb
+sa
+M:g
+Ua
+Ug
+ma
+mb
+scc
+Mb
+Scc
+*custosg

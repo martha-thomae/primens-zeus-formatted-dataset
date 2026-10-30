@@ -3,21 +3,21 @@
 *met(O)
 =
 *MM312
-S A
-S c
-S d
-[ S c
-s d ]
-s f
-s e
-[ s d
-S A
-S c ]
-[ S d
-S e ]
-S d
-[ S c
-L : B - ]
-L : A
-S : D
-*custos D
+SA
+Sc
+Sd
+[Sc
+sd]
+sf
+se
+[sd
+SA
+Sc]
+[Sd
+Se]
+Sd
+[Sc
+L:B-]
+L:A
+S:D
+*custosD

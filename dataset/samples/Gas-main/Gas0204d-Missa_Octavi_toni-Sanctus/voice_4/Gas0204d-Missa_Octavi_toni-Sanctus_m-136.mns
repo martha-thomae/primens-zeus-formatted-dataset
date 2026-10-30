@@ -3,23 +3,23 @@
 =
 *clefG2
 *met(C|)
-s g
-s : b
-M cc
-M : dd
-m cc
-M : a
-m b
-M : cc
-m b
-s g
-M r
-s b
-M cc
+sg
+s:b
+Mcc
+M:dd
+mcc
+M:a
+mb
+M:cc
+mb
+sg
+Mr
+sb
+Mcc
 =
-M b
-s a
-s g
-M f #
-S g
-*custos f #
+Mb
+sa
+sg
+Mf#
+Sg
+*custosf#

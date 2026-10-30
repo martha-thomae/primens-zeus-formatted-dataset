@@ -2,15 +2,15 @@
 *clefF4
 *met(C|)
 *met(O/3)
-S : r
-S : r
-S : r
-S : r
-S F
+S:r
+S:r
+S:r
+S:r
+SF
 =
-s G
+sG
 *col
-s A
-s D
-s G
-*custos D
+sA
+sD
+sG
+*custosD

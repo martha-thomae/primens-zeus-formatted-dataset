@@ -3,26 +3,26 @@
 *met(O2)
 =
 *MM400
-S AA
+SAA
 =
 =
-[ S BB
-L : AA ]
-s : AA
-M BB
-M C
-M D
-[ s E
-s F ]
-s : G
-M F
-S A
-s G
-S A
-L : D
-L AA
+[SBB
+L:AA]
+s:AA
+MBB
+MC
+MD
+[sE
+sF]
+s:G
+MF
+SA
+sG
+SA
+L:D
+LAA
 *clefF4
 *met(C|)
 *MM400
-S D
-*custos AA
+SD
+*custosAA

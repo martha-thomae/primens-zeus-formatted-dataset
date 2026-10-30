@@ -2,52 +2,52 @@
 =
 *clefF4
 *met(O|)
-S D
-M : AA
-m BB
-M C
-M D
-M C
-M : F
-m E
-m D
-m C
-s D
-s C
-s r
-s r
-s C
-S BB
+SD
+M:AA
+mBB
+MC
+MD
+MC
+M:F
+mE
+mD
+mC
+sD
+sC
+sr
+sr
+sC
+SBB
 =
-s C
-M BB
-M C
-M AA
-M BB
-M GG
-M AA
-s BB
-M C
-M : D
-m E
-M F
-s G
-s C
-s r
-M : C
-m D
-M E
-M : F
-m G
-M A
-S D
-s G
-M A
-M F
-[ s G
-S D ]
-s GG
-s GG
-M AA
-M GG
-*custos GG
+sC
+MBB
+MC
+MAA
+MBB
+MGG
+MAA
+sBB
+MC
+M:D
+mE
+MF
+sG
+sC
+sr
+M:C
+mD
+ME
+M:F
+mG
+MA
+SD
+sG
+MA
+MF
+[sG
+SD]
+sGG
+sGG
+MAA
+MGG
+*custosGG

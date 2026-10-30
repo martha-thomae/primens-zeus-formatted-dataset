@@ -3,20 +3,20 @@
 =
 =
 *met(C|)
-M : G
+M:G
 =
-m F
-M D
-s G
-M F #
-[ s G
-s GG ]
-[ s AA
-s GG
-s G ]
-s F
-s G
-M F
-M G
-s D
-*custos GG
+mF
+MD
+sG
+MF#
+[sG
+sGG]
+[sAA
+sGG
+sG]
+sF
+sG
+MF
+MG
+sD
+*custosGG

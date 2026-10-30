@@ -3,34 +3,34 @@
 =
 *met(C)
 *MM420
-s f
-M e
-s d
-M c
-[ s f
-s g ]
-M e
-M d
-S f
+sf
+Me
+sd
+Mc
+[sf
+sg]
+Me
+Md
+Sf
 *clefC1
 *met(C)
 *MM420
-[ S f
-S e
-s f ]
-s d
-M e
-M f
-s g
-s a
-s f
-s : g
-M f
+[Sf
+Se
+sf]
+sd
+Me
+Mf
+sg
+sa
+sf
+s:g
+Mf
 =
-s a
-s r
-M a
-M b
+sa
+sr
+Ma
+Mb
 =
-s cc
-*custos c
+scc
+*custosc

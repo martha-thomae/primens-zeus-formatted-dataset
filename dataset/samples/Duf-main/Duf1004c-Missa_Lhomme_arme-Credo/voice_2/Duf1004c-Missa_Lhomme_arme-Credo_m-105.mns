@@ -4,26 +4,26 @@
 *k[b-]
 *met(O)
 *MM320
-s B -
+sB-
 =
-M c
-s d
-M A
-[ s B -
-s A ]
-s d
-S d
-< s c
-s B - >
-[ S A
-S : G ]
+Mc
+sd
+MA
+[sB-
+sA]
+sd
+Sd
+<sc
+sB->
+[SA
+S:G]
 *clefC4
 *k[b-]
 *met(C)
 *MM420
 =
-S r
-S r
-S r
-S r
-*custos G
+Sr
+Sr
+Sr
+Sr
+*custosG

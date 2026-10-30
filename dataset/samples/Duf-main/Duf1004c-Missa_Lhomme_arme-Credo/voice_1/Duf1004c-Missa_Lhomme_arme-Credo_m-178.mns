@@ -3,14 +3,14 @@
 *k[b-]
 *met(C)
 *MM420
-s G
-s A
-s B -
-M c
-s A
-M B -
-s c
-M G
-M B -
-s A
-*custos G
+sG
+sA
+sB-
+Mc
+sA
+MB-
+sc
+MG
+MB-
+sA
+*custosG

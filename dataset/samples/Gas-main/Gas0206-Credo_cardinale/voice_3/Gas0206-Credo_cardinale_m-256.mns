@@ -2,51 +2,51 @@
 *clefC2
 *met(C|)
 *MM180
-s c
-M r
-M G
-m A
-m B
-m c
-m d
-[ s e
-s f ]
-M r
-M f
-M d
-M g
-M e
-M f
-s d
+sc
+Mr
+MG
+mA
+mB
+mc
+md
+[se
+sf]
+Mr
+Mf
+Md
+Mg
+Me
+Mf
+sd
 =
-M r
-M d
-s B
-[ s c
-s A ]
+Mr
+Md
+sB
+[sc
+sA]
 =
-[ s B -
-L A ]
-[ s A
-s G
-s A ]
-s c
-M : A
-m B
-m c
-m d
-s e
-M B
-M : c
-m d
-m e
-m d
-m c
-m B
-s A
+[sB-
+LA]
+[sA
+sG
+sA]
+sc
+M:A
+mB
+mc
+md
+se
+MB
+M:c
+md
+me
+md
+mc
+mB
+sA
 *lg
-s F
-s G
+sF
+sG
 *Xlg
-S A
-*custos F
+SA
+*custosF

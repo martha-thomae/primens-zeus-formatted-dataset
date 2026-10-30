@@ -3,46 +3,46 @@
 =
 *met(O)
 *MM320
-M f
-M g
-[ s a
-s b - ]
-M a
-M : dd
-m cc
-M b -
-s a
-S : g
-s r
-s r
-s a
-[ s b -
-S cc ]
+Mf
+Mg
+[sa
+sb-]
+Ma
+M:dd
+mcc
+Mb-
+sa
+S:g
+sr
+sr
+sa
+[sb-
+Scc]
 =
-s dd
-M cc
-M b -
-[ s a
-s g ]
-s e
-s f
-M g
-M b -
-M a
-M : f
-m g
-M a
-s d
+sdd
+Mcc
+Mb-
+[sa
+sg]
+se
+sf
+Mg
+Mb-
+Ma
+M:f
+mg
+Ma
+sd
 3g
 3a
 3f#
 3g
-M f #
+Mf#
 6e
-S : g
+S:g
 *clefC1
 *met(C)
 *MM420
 =
-L g
-*custos d
+Lg
+*custosd

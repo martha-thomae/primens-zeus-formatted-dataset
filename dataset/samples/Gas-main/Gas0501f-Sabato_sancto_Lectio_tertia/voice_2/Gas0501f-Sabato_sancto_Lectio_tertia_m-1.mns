@@ -3,23 +3,23 @@
 *k[b-]
 *met(C|)
 *lg
-S D
-S F
+SD
+SF
 *Xlg
-S G
-S A
-S : G
-s G
-L G
-S r
-S G
+SG
+SA
+S:G
+sG
+LG
+Sr
+SG
 *lg
-S F
-S : G
+SF
+S:G
 *Xlg
-s A
-S B -
-S A
-S G
+sA
+SB-
+SA
+SG
 =
-*custos D
+*custosD

@@ -4,31 +4,31 @@
 *k[b-]
 *met(O/3)
 *met(C|)
-L F
-S r
-S r
-s F
-M G
-s F
-m E
-m D
-M E
-M F
-s BB -
-s C
-S D
-S C
-s r
-< s C
-s AA >
-s GG
-s : C
-m D
-m E
-s F
+LF
+Sr
+Sr
+sF
+MG
+sF
+mE
+mD
+ME
+MF
+sBB-
+sC
+SD
+SC
+sr
+<sC
+sAA>
+sGG
+s:C
+mD
+mE
+sF
 =
-s D
-S C
-S D
-S C
-*custos GG
+sD
+SC
+SD
+SC
+*custosGG

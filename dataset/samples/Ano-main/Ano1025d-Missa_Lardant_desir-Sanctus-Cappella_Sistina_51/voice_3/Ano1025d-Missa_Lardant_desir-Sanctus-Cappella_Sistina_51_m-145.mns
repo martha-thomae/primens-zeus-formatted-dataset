@@ -5,15 +5,15 @@
 *clefC2
 *met(C3)
 *MM450
-S : r
-S : r
-S A
+S:r
+S:r
+SA
 =
-s A
-s : c
-M B
-s A
-s G
-s : c
-M B
-*custos G
+sA
+s:c
+MB
+sA
+sG
+s:c
+MB
+*custosG

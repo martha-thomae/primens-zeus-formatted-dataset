@@ -4,11 +4,11 @@
 *met(C|)
 =
 *MM360
-L D
-L A
-S : c
-s c
-S c
-s : A
-M B
-*custos D
+LD
+LA
+S:c
+sc
+Sc
+s:A
+MB
+*custosD

@@ -3,62 +3,62 @@
 *k[b-]
 *met(O|)
 =
-s : F
-M G
-s E -
-s : D
-m C
-m BB -
-s AA
-M GG
-M G
-M A
-M F #
-M : F #
-U E
-U F #
-S G
-s r
-S : r
-S D
-s F
-s G
-S D
-M r
+s:F
+MG
+sE-
+s:D
+mC
+mBB-
+sAA
+MGG
+MG
+MA
+MF#
+M:F#
+UE
+UF#
+SG
+sr
+S:r
+SD
+sF
+sG
+SD
+Mr
 =
-M : G
-m F
-m E -
-m D
-s E -
+M:G
+mF
+mE-
+mD
+sE-
 =
-M D
-M : G
-m F
-M G
-M A
-M F
-[ S G
-s D ]
-M G
-s B -
-s G
-M F #
-M G
-s D
-M BB -
-[ s AA
-s GG ]
-s r
+MD
+M:G
+mF
+MG
+MA
+MF
+[SG
+sD]
+MG
+sB-
+sG
+MF#
+MG
+sD
+MBB-
+[sAA
+sGG]
+sr
 =
-M : GG
-m AA
-M BB -
-M : C
-m BB -
-m AA
-m GG
-s AA
+M:GG
+mAA
+MBB-
+M:C
+mBB-
+mAA
+mGG
+sAA
 *lg
-S : GG
-*custos GG
+S:GG
+*custosGG

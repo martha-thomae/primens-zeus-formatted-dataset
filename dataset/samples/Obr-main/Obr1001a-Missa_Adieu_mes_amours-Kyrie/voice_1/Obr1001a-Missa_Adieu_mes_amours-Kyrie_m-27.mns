@@ -3,37 +3,37 @@
 *k[b-]
 =
 *met(C|)
-s AA
-[ s GG
-S D ]
-L : GG
+sAA
+[sGG
+SD]
+L:GG
 *clefF4
 *k[b-]
 *met(C|)
-s : GG
-M AA
-s BB -
-s C
-M BB -
-M : C
-m BB -
-m AA
-m GG
-< s FF
-s D >
-M C
-M : D
+s:GG
+MAA
+sBB-
+sC
+MBB-
+M:C
+mBB-
+mAA
+mGG
+<sFF
+sD>
+MC
+M:D
 =
-m C
-m BB -
-m AA
-[ s GG
-s : G ]
-m F
-m E
+mC
+mBB-
+mAA
+[sGG
+s:G]
+mF
+mE
 =
-S D
-s F
-s E
-s D
-*custos FF
+SD
+sF
+sE
+sD
+*custosFF

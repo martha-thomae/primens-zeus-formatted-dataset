@@ -2,11 +2,11 @@
 *clefC4
 *met(C|)
 *MM360
-S F
-L G
-S : E
-[ s F
-S G ]
-S G
-S E
-*custos E
+SF
+LG
+S:E
+[sF
+SG]
+SG
+SE
+*custosE

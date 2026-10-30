@@ -3,24 +3,24 @@
 =
 *met(C|)
 =
-m cc
+mcc
 *Xcol
-m b
-m a
-s b
-S r
-S r
-s r
-s cc
+mb
+ma
+sb
+Sr
+Sr
+sr
+scc
 =
-M dd
-s ee
-M ff
-M ee
-m dd
-m cc
-s b
-M cc
-s dd
-M ee
-*custos a
+Mdd
+see
+Mff
+Mee
+mdd
+mcc
+sb
+Mcc
+sdd
+Mee
+*custosa

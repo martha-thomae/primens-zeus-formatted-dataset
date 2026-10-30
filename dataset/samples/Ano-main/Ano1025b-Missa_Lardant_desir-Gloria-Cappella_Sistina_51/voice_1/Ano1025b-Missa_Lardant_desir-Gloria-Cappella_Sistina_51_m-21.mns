@@ -3,19 +3,19 @@
 *met(O)
 *MM312
 =
-S G
-s r
-S : G
-s D
-M C
-M D
-M : AA
-m BB
+SG
+sr
+S:G
+sD
+MC
+MD
+M:AA
+mBB
 =
-M C
-[ s : D
-s AA ]
-s r
-s : A
-M F
-*custos AA
+MC
+[s:D
+sAA]
+sr
+s:A
+MF
+*custosAA

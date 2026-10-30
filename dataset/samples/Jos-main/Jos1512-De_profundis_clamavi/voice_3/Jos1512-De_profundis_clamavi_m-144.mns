@@ -3,36 +3,36 @@
 =
 *met(C|)
 =
-M f
-M e
-s : d
-M e
-s f
-S e
-M r
-M c
-M d
+Mf
+Me
+s:d
+Me
+sf
+Se
+Mr
+Mc
+Md
 =
-M e
-s f
-s e
-M d
-s g
-M f
-M : g
-m f
-M e
-M d
-M e
-m c
-m d
-m e
-m f
-s g
-M f #
-S : g
-S e
-S r
-S r
-S r
-*custos c
+Me
+sf
+se
+Md
+sg
+Mf
+M:g
+mf
+Me
+Md
+Me
+mc
+md
+me
+mf
+sg
+Mf#
+S:g
+Se
+Sr
+Sr
+Sr
+*custosc

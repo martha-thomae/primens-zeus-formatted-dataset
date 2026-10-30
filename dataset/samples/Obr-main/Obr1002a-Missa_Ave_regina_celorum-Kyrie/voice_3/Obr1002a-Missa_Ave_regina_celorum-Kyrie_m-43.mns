@@ -3,32 +3,32 @@
 *k[b-]
 =
 *met(O2)
-s c
-s d
-M r
-M : e -
-m d
-m c
-m B -
-M c
-M B -
-M G
-m A
-m B -
-M c
-M : A
-m B -
-M c
-M d
-M : e -
-m d
-M B -
-M c
-M : A
-m B -
-M : c
-m B -
-M G
-M A
-M d
-*custos G
+sc
+sd
+Mr
+M:e-
+md
+mc
+mB-
+Mc
+MB-
+MG
+mA
+mB-
+Mc
+M:A
+mB-
+Mc
+Md
+M:e-
+md
+MB-
+Mc
+M:A
+mB-
+M:c
+mB-
+MG
+MA
+Md
+*custosG

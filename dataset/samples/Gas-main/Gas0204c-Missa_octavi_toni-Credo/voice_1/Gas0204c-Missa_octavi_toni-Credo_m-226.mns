@@ -1,31 +1,31 @@
 **mens
 *clefF4
 *met()
-s D
-[ S AA
-S A ]
-s F
+sD
+[SAA
+SA]
+sF
 *col
-[ s E
-S D ]
+[sE
+SD]
 *Xcol
-[ S E
-s C ]
+[SE
+sC]
 *lg
-[ s F
-S E ]
+[sF
+SE]
 *Xlg
-S F
+SF
 *col
-s A
-[ s G
-s F ]
-S G
-s F
-s G
+sA
+[sG
+sF]
+SG
+sF
+sG
 *Xcol
 =
-s E
-S D
-S GG
-*custos GG
+sE
+SD
+SGG
+*custosGG

@@ -3,43 +3,43 @@
 *k[b-]
 *met(O)
 =
-s GG
-M C
-M AA
-[ s GG
-s AA ]
-M GG
-M FF
-s C
-M : FF
-m GG
-M AA
-M BB -
-M C
-M AA
+sGG
+MC
+MAA
+[sGG
+sAA]
+MGG
+MFF
+sC
+M:FF
+mGG
+MAA
+MBB-
+MC
+MAA
 =
-M BB -
+MBB-
 *lg
-s D
-s C
+sD
+sC
 *Xlg
-M BB -
-M C
-M E
-s D
-s C
-s r
-S FF
-s GG
-s : AA
-M GG
-M AA
-s BB -
-M AA
-s GG
-M FF
+MBB-
+MC
+ME
+sD
+sC
+sr
+SFF
+sGG
+s:AA
+MGG
+MAA
+sBB-
+MAA
+sGG
+MFF
 =
-[ s F
-s C ]
-M BB -
-*custos FF
+[sF
+sC]
+MBB-
+*custosFF

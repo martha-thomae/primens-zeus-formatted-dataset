@@ -3,18 +3,18 @@
 *clefC2
 *met(O2)
 *MM400
-s : D
-s F
-M G
+s:D
+sF
+MG
 =
-M A
-s B -
-M A
-M F
-M G
+MA
+sB-
+MA
+MF
+MG
 =
-s A
-S A
-M G
-M F
-*custos D
+sA
+SA
+MG
+MF
+*custosD

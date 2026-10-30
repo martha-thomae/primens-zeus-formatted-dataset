@@ -2,22 +2,22 @@
 =
 *clefF4
 *met(C|)
-S C
-s C
-s C
-s : GG
-M GG
-s GG
-s GG
+SC
+sC
+sC
+s:GG
+MGG
+sGG
+sGG
 *col
-M : D
-m E
+M:D
+mE
 *Xcol
-[ s F
-s G
-s D ]
-s G
-M F
-M D
+[sF
+sG
+sD]
+sG
+MF
+MD
 =
-*custos GG
+*custosGG

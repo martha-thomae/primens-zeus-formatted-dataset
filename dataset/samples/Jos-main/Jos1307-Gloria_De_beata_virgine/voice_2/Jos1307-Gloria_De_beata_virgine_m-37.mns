@@ -2,21 +2,21 @@
 =
 *clefC4
 *met(O)
-s d
-s r
-s G
-s A
-M B
-s : c
-M B
-s A
-M G
-s c
-s : d
-s : e
-M d
+sd
+sr
+sG
+sA
+MB
+s:c
+MB
+sA
+MG
+sc
+s:d
+s:e
+Md
 =
-s c
-M B
-s A
-*custos G
+sc
+MB
+sA
+*custosG
