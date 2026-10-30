@@ -9,13 +9,13 @@
 *M3/1
 *met(O)
 *MM320
-!LO:TX:X=-40:Z=-2:t=[2 T statements&colon; retrograde, then forwards at double speed]
-!LO:TX:X=-40:Z=16:t=Cancer eat plenus sed redeat medius (the crab goes out full but comes back half)
-Lp:G
+!LO:TX:X=-40:Z=-2:t=[2 T statements&colon; retrograde, then forwards at double seed]
+!LO:TX:X=-40:Z=16:t=Cancer eat lenus sed redeat medus (the crab goes out full but comes back half)
+L:G
 .
-[SiA
-siB-]
-Sic
-sid
+[SA
+sB-]
+Sc
+sd
 *custos:G
 *-
