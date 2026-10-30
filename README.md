@@ -17,35 +17,19 @@ All other information (like the agnostic encoding) is irrelevant for this partic
 
 To generate the JPEG images of each staff region, we used a combination of _Verovio_ and _ImageMagick_.
 
-In this dataset, the staff regions are encoded in Humdrum \*\*mens. We used Verovio, rendering library with capacity to render Humdrum, to generate SVGs of each staff region; these SVGs were then converted into JPEGs through ImageMagick. 
+In this dataset, the staff regions are encoded in Humdrum \*\*mens. We used _Verovio_, rendering library with capacity to render Humdrum, to generate SVGs of each staff region; these SVGs were then converted into JPEGs through _ImageMagick_. 
 
-For information about Verovio's [installation](https://book.verovio.org/installing-or-building-from-sources/command-line.html), input formats (including [Humdrum](https://book.verovio.org/toolkit-reference/input-formats.html#humdrum)), and [layout options](https://book.verovio.org/advanced-topics/layout-options.html?q=line%20break), consult its [**Reference Book**](https://book.verovio.org). The Humdrum \*\*mens files in the dataset were converted into SVGs using the bash commands:
+For information about Verovio's [installation](https://book.verovio.org/installing-or-building-from-sources/command-line.html), input formats (including [Humdrum](https://book.verovio.org/toolkit-reference/input-formats.html#humdrum)), and [layout options](https://book.verovio.org/advanced-topics/layout-options.html?q=line%20break), consult its [**Reference Book**](https://book.verovio.org). 
 
-```bash
-for f in ./*/*/*/*.mns; do
-    out="SVG/${f#./}"
-    out="${out%.mns}.svg"
-
-    mkdir -p "$(dirname "$out")"
-
-    verovio "$f" --breaks none -o "$out"
-done
-```
-
-The SVG files were converted to JPEG using _ImageMagick_ through the following bash commands, which include a bit of cropping at top and bottom of the image:
+The conversion from Humdrum \*\*mens to SVG to JPEG is given by the following bash commands. The generated JPEGs---which include a bit of cropping at the top and bottom to provide a nice staff region---are stored in the same folder as the original \*\*mens encodings (`.mns` files):
 
 ```bash
-for f in ./SVG/*/*/*/*.svg; do
-    out="./${f#./SVG/}"
-    out="${out%.svg}.jpg"
-
-    mkdir -p "$(dirname "$out")"
-
-    magick -background white -density 300 "$f" \
-        -alpha remove -alpha off \
-        -gravity north -chop 0x100 \
-        -gravity south -chop 0x350 \
-        "$out"
+for f in ./*/*/*/*.mns; do 
+    output_jpg="${f%.mns}.jpg"
+    
+    echo "Converting: $f -> $output_jpg"
+    
+    verovio "$f" --breaks none -o - | magick -density 300 - -background white -alpha remove -alpha off -gravity north -chop 0x100 -gravity south -chop 0x350 "$output_jpg"
 done
 ```
 
