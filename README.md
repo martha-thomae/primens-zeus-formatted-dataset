@@ -5,7 +5,7 @@ Processing of PriMENS dataset (from University of Alicante) to make it compliant
 
 The **PriMens** dataset is a synthetic dataset. The original dataset, as provided by David Rizo (University of Alicante), consists of agnostic and semantic (explicitly, \*\*mens) encodings of staff regions. From these encodings, especifically from the \*\*mens encoding, an image can be obtained through renderization.
 
-# PriMens for Zeus
+## PriMens for Zeus
 
 To make the dataset suitable for [Zeus](https://github.com/omniomr/zeus), we need:
 1. To obtain digital images for each staff region
