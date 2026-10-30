@@ -3,23 +3,23 @@
 *met(C|)
 *met(3)
 =
-SC
-sC
-[SE
-sD]
-[sG
-SF]
-sG
-SD
+S C
+s C
+[ S E
+s D ]
+[ s G
+S F ]
+s G
+S D
 *met(C|)
 =
-M:GG
-mAA
+M : GG
+m AA
 =
-MBB
+M BB
 =
-sC
-mBB
-mAA
-sC
-*custosGG
+s C
+m BB
+m AA
+s C
+*custos GG

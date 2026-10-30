@@ -3,29 +3,29 @@
 *clefG2
 *k[b-]
 *met(C|)
-M:a
-mb-
-s:cc
-mb-
-ma
-sg
-sf
-Mr
-Ma
-Mb-
-M:dd
-mcc
+M : a
+m b -
+s : cc
+m b -
+m a
+s g
+s f
+M r
+M a
+M b -
+M : dd
+m cc
 =
-mb-
-ma
-Mb-
-ma
-mg
-Mf
-sb-
-Ma
-M:g
-mf
+m b -
+m a
+M b -
+m a
+m g
+M f
+s b -
+M a
+M : g
+m f
 =
 *^
 Sf	Sa
@@ -33,8 +33,8 @@ Sf	Sa
 *clefG2
 *met(C)
 *k[b-]
-sg
-s:g
-Mf
-sg
-*custosf
+s g
+s : g
+M f
+s g
+*custos f

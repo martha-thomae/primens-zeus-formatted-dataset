@@ -3,21 +3,21 @@
 *k[b-]
 *met(C|)
 *met(3)
-S:GG
-S:r
-S:r
-sr
-sr
-sGG
-[sAA
-sFF]
-sBB-
-sC
+S : GG
+S : r
+S : r
+s r
+s r
+s GG
+[ s AA
+s FF ]
+s BB -
+s C
 =
-[sAA
-sGG
-SD]
-[sBB-
-SC]
-sD
-*custosFF
+[ s AA
+s GG
+S D ]
+[ s BB -
+S C ]
+s D
+*custos FF

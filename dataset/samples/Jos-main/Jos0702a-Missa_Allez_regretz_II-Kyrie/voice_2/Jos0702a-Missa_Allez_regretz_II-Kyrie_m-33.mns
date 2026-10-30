@@ -4,19 +4,19 @@
 *met(C|)
 *met(C)
 *rscale:1/2
-SC
-Sc
+S C
+S c
 =
 *met(C|)
 *rscale:1
-M:B-
-mA
+M : B -
+m A
 =
 *met(O|)
 *rscale:1/2
-[sG
-Sd]
-s:c
-mB-
-mA
-*custosC
+[ s G
+S d ]
+s : c
+m B -
+m A
+*custos C

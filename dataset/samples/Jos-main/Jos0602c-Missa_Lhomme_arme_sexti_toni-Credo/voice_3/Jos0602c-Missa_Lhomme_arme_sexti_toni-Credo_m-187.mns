@@ -3,11 +3,11 @@
 *k[b-]
 *met(C|)
 *met(C|3)
-S:r
-S:r
-SC
-sC
-SF
-sF
+S : r
+S : r
+S C
+s C
+S F
+s F
 *rscale:1
-*custosC
+*custos C

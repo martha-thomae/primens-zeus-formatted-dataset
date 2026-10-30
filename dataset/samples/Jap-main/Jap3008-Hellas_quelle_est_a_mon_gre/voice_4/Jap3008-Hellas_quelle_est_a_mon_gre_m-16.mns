@@ -3,15 +3,15 @@
 *met(C|)
 *met()
 *rscale:2/3
-S:cc
+S : cc
 *rscale:1
 *met(3)
-S:r
-S:r
-Sdd
-sdd
-See
-see
-Sff
-sff
-*custoscc
+S : r
+S : r
+S dd
+s dd
+S ee
+s ee
+S ff
+s ff
+*custos cc

@@ -2,38 +2,38 @@
 *clefF4
 =
 *met(O)
-MBB
-MC
-sD
-sAA
-Mr
-M:A
-mG
-MF
-ME
-MD
-M:G
-mF
-ME
-MD
-MC
-M:F
-mE
-MD
-MC
-MBB
-sAA
-Mr
-MA
-MB
-MA
-M:d
-mc
-sA
-Mr
-MA
-MB
-MA
+M BB
+M C
+s D
+s AA
+M r
+M : A
+m G
+M F
+M E
+M D
+M : G
+m F
+M E
+M D
+M C
+M : F
+m E
+M D
+M C
+M BB
+s AA
+M r
+M A
+M B
+M A
+M : d
+m c
+s A
+M r
+M A
+M B
+M A
 *met(3)
 3%M%2d
 3d
@@ -43,40 +43,40 @@ MA
 =
 3%M%2A
 *met(O)
-sG
-MC
-MBB
-MC
-M:GG
-mAA
-mBB
-mC
-mD
+s G
+M C
+M BB
+M C
+M : GG
+m AA
+m BB
+m C
+m D
 =
-mE
-M:F
-mE
-MD
+m E
+M : F
+m E
+M D
 *met(3)
-MC
+M C
 6D
 3E
 3AA
-MC
+M C
 6BB
 3GG
 3%M%2AA
 =
 *met(O)
-Mr
-M:A
-mG
-M:F
-mE
-MD
-MC
-sD
-MC
-MD
-ME
-*custosGG
+M r
+M : A
+m G
+M : F
+m E
+M D
+M C
+s D
+M C
+M D
+M E
+*custos GG

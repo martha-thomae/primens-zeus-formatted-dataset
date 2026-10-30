@@ -3,33 +3,33 @@
 *k[b-]
 =
 *met(O|)
-S:g
-sr
+S : g
+s r
 =
-sr
-sf
-Me
-sf
-Mf
-Md
-Mf
-M:d
-me
+s r
+s f
+M e
+s f
+M f
+M d
+M f
+M : d
+m e
 s%5f
-Mr
-Mg
+M r
+M g
 =
-M:f
-mg
-Ma
-sf
-me
-md
-Sd
-Mr
-Md
-Me
-Md
-M:f
-me
-*custosd
+M : f
+m g
+M a
+s f
+m e
+m d
+S d
+M r
+M d
+M e
+M d
+M : f
+m e
+*custos d
