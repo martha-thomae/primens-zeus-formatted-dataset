@@ -2,55 +2,55 @@
 *clefC1
 *met(O)
 *MM300
-[s:a
-sb-]
-M:a
-mg
-M:g
-mf
-sf
-Me
-sf
-Mr
-M:f
-mg
+[ s : a
+s b - ]
+M : a
+m g
+M : g
+m f
+s f
+M e
+s f
+M r
+M : f
+m g
 =
-Ma
+M a
 =
-Mb
-scc
-Ma
+M b
+s cc
+M a
 =
-mb-
-ma
-mg
-mf
-Me
-sg
-Mf
-Me
-Md
-sd
-Me
-sc#
-MB
-L:d
+m b -
+m a
+m g
+m f
+M e
+s g
+M f
+M e
+M d
+s d
+M e
+s c #
+M B
+L : d
 *clefC1
 *met(O2)
 *MM400
-Le
+L e
 =
-sf
-Mg
+s f
+M g
 =
-sa
-Mg
-se
-s:d
-Mc
-sA
-s:f
-Me
-Se
-sa
-*custosA
+s a
+M g
+s e
+s : d
+M c
+s A
+s : f
+M e
+S e
+s a
+*custos A

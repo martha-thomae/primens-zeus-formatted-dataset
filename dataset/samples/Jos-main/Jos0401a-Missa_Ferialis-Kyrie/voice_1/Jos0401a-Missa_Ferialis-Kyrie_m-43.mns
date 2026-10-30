@@ -6,15 +6,15 @@
 =
 *met(C|)
 =
-S:AA
-sBB
-[SC
-SD]
-[SAA
-SE]
+S : AA
+s BB
+[ S C
+S D ]
+[ S AA
+S E ]
 =
-[sD
-sAA]
-[sD
-sBB]
-*custosAA
+[ s D
+s AA ]
+[ s D
+s BB ]
+*custos AA

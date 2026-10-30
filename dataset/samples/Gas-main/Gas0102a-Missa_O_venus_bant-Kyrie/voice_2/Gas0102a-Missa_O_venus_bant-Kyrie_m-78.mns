@@ -2,30 +2,30 @@
 *clefC4
 *met(C|)
 *met(C.)
-L:G
+L : G
 *lg
-[S:G
-S:d]
+[ S : G
+S : d ]
 *Xlg
 *col
-[S:e
-sc]
-Sd
+[ S : e
+s c ]
+S d
 *Xcol
-S:c
+S : c
 *lg
 *col
-Sc
-SA
+S c
+S A
 *Xlg
-Sc
+S c
 *Xcol
-sG
-Sd
-Mc
-Md
-Mc
-MA
-sB-
-S:A
-*custosG
+s G
+S d
+M c
+M d
+M c
+M A
+s B -
+S : A
+*custos G

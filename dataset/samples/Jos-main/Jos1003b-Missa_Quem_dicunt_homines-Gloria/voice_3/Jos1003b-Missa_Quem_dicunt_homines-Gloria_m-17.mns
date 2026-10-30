@@ -3,30 +3,30 @@
 =
 =
 *met(C|)
-sr
-s:g
+s r
+s : g
 =
-Mg
-Mf
-Me
-Mg
-mf
-me
-Md
-Mc
+M g
+M f
+M e
+M g
+m f
+m e
+M d
+M c
 =
-sf
-Md
-sg
-mf
-me
-Mf
-Md
-Ld
-s:e
-Me
+s f
+M d
+s g
+m f
+m e
+M f
+M d
+L d
+s : e
+M e
 =
-se
-sr
+s e
+s r
 =
-*custosc
+*custos c
