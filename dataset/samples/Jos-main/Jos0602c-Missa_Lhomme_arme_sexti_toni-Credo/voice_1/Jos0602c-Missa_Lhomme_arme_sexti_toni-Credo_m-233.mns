@@ -2,33 +2,33 @@
 *clefF4
 *k[b-]
 *met(C|3)
-[SC
-sAA
-sBB-]
-SGG
+[ S C
+s AA
+s BB - ]
+S GG
 *met(Cr)
 *rscale:2
-SFF
-sr
-sFF
-MFF
-sBB-
-MBB-
-MAA
-MGG
-M:BB-
-mAA
-MFF
-MC
-MC
-M:FF
-mGG
-mAA
-mBB-
-MC
-MD
-MBB-
-MC
-sGG
+S FF
+s r
+s FF
+M FF
+s BB -
+M BB -
+M AA
+M GG
+M : BB -
+m AA
+M FF
+M C
+M C
+M : FF
+m GG
+m AA
+m BB -
+M C
+M D
+M BB -
+M C
+s GG
 *rscale:1
-*custosFF
+*custos FF

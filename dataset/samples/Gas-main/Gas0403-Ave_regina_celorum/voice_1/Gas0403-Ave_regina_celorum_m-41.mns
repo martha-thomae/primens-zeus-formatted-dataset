@@ -3,34 +3,34 @@
 *k[b-]
 =
 *met(O)
-S:r
-sr
-sr
+S : r
+s r
+s r
 *col
-LGG
+L GG
 *Xcol
-sAA
-MBB-
-MC
+s AA
+M BB -
+M C
 *col
-M:D
-mBB-
-*Xcol
-=
-MC
-MD
-*col
-M:E
-mC
+M : D
+m BB -
 *Xcol
 =
-MD
-ME
+M C
+M D
 *col
-M:F
-mE
+M : E
+m C
 *Xcol
-MC
-MD
-sE
-*custosGG
+=
+M D
+M E
+*col
+M : F
+m E
+*Xcol
+M C
+M D
+s E
+*custos GG

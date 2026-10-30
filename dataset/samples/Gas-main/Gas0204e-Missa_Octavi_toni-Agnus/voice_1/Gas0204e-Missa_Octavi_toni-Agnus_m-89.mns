@@ -3,23 +3,23 @@
 =
 *met(C|)
 =
-SGG
+S GG
 *met(C|3)
-S:GG
+S : GG
 *lg
-S:AA
-SGG
+S : AA
+S GG
 *Xlg
-sBB
-sC
-SD
+s BB
+s C
+S D
 *lg
 *col
-LE
-SD
+L E
+S D
 *Xcol
 *Xlg
-S:C
-sD
-SF
-*custosGG
+S : C
+s D
+S F
+*custos GG

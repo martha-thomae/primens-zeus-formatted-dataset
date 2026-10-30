@@ -4,24 +4,24 @@
 *k[b-]
 =
 *met()
-s:g
-Ma
-sb-
+s : g
+M a
+s b -
 =
-s:cc
-Mb-
-Ma
-Mg
-s:a
-Mb-
-Mcc
-Mdd
+s : cc
+M b -
+M a
+M g
+s : a
+M b -
+M cc
+M dd
 =
-[sb-
-s:a]
-Mg
-Sg
-sf#
+[ s b -
+s : a ]
+M g
+S g
+s f #
 =
-L:g
-*custosf#
+L : g
+*custos f #

@@ -3,62 +3,62 @@
 *k[b-]
 *met(O)
 *col
-M:G
-mF
+M : G
+m F
 *Xcol
-M:D
-mE
-M:F
-mE
-sC
-sC
-sr
-s:G
+M : D
+m E
+M : F
+m E
+s C
+s C
+s r
+s : G
 =
-ME
+M E
 =
-sD
-sC
-MD
-ME
+s D
+s C
+M D
+M E
 =
 *col
-M:F
-mD
+M : F
+m D
 *Xcol
-ME
-MF
-M:G
-mE
-MF
-MG
+M E
+M F
+M : G
+m E
+M F
+M G
 *col
-M:A
-mB-
+M : A
+m B -
 =
 *Xcol
-Mc
-sA
-MG
-sA
-sA
-MB-
-MA
-MG
-sc
-MBn
+M c
+s A
+M G
+s A
+s A
+M B -
+M A
+M G
+s c
+M B n
 =
-sc
-MA
-MB-
-sG
-sr
-sC
-MD
-sF
-ME
-MF
-MA
-sG
-sc
-*custosC
+s c
+M A
+M B -
+s G
+s r
+s C
+M D
+s F
+M E
+M F
+M A
+s G
+s c
+*custos C
