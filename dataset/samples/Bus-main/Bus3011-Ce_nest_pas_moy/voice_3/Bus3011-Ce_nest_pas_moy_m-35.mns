@@ -1,7 +1,6 @@
 **mens
 *clefG2
 *k[b-]
-*M2/1
 *met(C|)
 *MM288
 s:ff
@@ -9,10 +8,8 @@ mee
 mdd
 see
 s:dd
-.
 Mcc
 s:b-
-.
 ma
 mg
 Ma
@@ -24,14 +21,12 @@ mdd
 M:cc
 mb-
 s:b-
-.
 Ma
 Ma
 Mg
 Sb-
 *clefG2
 *k[b-]
-*M2/1
 *met(O2)
 *MM384
 Sb-
@@ -40,10 +35,8 @@ see-
 Sff
 sff
 s:gg
-.
 Mff
 s:ff
-.
 mee-
 mdd
 mee-
@@ -58,5 +51,4 @@ sb-
 scc
 sdd
 sdd
-*custos:g
-*-
+*custosg

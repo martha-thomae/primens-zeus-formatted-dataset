@@ -1,8 +1,6 @@
 **mens
 *clefG2
 =
-*k[]
-*M2/1
 *met(C|)
 [sf
 sd]
@@ -12,7 +10,6 @@ M:f
 mg
 Ma
 sa
-.
 mg
 mf
 se
@@ -20,7 +17,6 @@ Md
 M:f
 mg
 sa
-.
 Mg
 Mf
 me
@@ -29,14 +25,11 @@ s:e
 Mf
 [sg
 s:a]
-.
 Mf
 s:b-
 =
-.
 Mg
 s:cc
-.
 sa
 =
 mg
@@ -49,5 +42,4 @@ Mdd
 M:a
 mb
 Mcc
-*custos:d
-*-
+*custosd

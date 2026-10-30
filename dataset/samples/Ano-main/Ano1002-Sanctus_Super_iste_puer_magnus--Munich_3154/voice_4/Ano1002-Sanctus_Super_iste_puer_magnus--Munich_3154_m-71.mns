@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 =
 sd
@@ -44,7 +42,6 @@ Mc
 sd
 <SB
 sc>
-*M3/1
 *met(3)
 3B
 3c
@@ -58,7 +55,6 @@ sc>
 3d
 3A
 3B
-*M3/1
 *met(O)
 Sc
 sr
@@ -67,16 +63,13 @@ M:e
 mf
 Mg
 M:a
-.
 mg
 sg
 Mf
 Mg
 se
-.
 Mc
 Md
 MB
 sA
-*custos:A
-*-
+*custosA

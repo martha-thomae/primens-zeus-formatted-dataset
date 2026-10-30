@@ -1,12 +1,8 @@
 =
 **mens
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 =
 [Sc
@@ -22,7 +18,6 @@ sc
 MB
 [sG
 sg]
-.
 mf#
 me
 sf#
@@ -30,8 +25,6 @@ Mg
 MG
 MA
 sc
-.
 MB
 sc
-*custos:G
-*-
+*custosG

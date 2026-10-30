@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 sB
 s:c
@@ -38,7 +36,6 @@ md
 sB
 Mc
 sA
-.
 M:B
 mA
 MA
@@ -47,7 +44,6 @@ mF
 sA
 sr
 SA
-.
 MB
 Mc
 sd
@@ -61,10 +57,8 @@ md
 mc
 mB
 s:d
-.
 Me
 Md
 MB
 sc
-*custos:D
-*-
+*custosD

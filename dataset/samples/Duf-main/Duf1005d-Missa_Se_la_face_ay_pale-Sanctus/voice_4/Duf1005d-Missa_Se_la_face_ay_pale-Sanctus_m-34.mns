@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM384
 sdd
@@ -19,7 +17,6 @@ mf
 Md
 Me
 sc
-.
 Mf
 Mg
 Md
@@ -38,7 +35,6 @@ Mcc
 Mb
 Mcc
 M:dd
-.
 mcc
 Ma
 Mg
@@ -48,7 +44,6 @@ Mb
 scc
 Mdd
 See
-.
 sdd
 =
 Mb
@@ -59,5 +54,4 @@ Mb
 sg
 Mf
 Ma
-*custos:c
-*-
+*custosc

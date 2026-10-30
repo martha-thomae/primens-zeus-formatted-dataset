@@ -2,7 +2,6 @@
 **mens
 *clefF4
 *k[b-]
-*M2/1
 *met(C|)
 MFF
 M:BB-
@@ -17,7 +16,6 @@ M:AA
 mGG
 SGG
 S:BB-
-.
 sC
 SD
 sC
@@ -25,7 +23,6 @@ sAA
 SBB-
 [sAA
 SD]
-.
 sF
 SE
 SD
@@ -36,7 +33,6 @@ M:BB-
 mC
 MD
 sGG
-.
 =
 MD
 ME
@@ -47,5 +43,4 @@ MGG
 M:BB-
 mC
 MD
-*custos:FF
-*-
+*custosFF

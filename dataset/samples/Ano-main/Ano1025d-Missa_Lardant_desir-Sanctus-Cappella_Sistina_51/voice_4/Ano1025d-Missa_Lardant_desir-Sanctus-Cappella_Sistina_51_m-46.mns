@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM300
 MA
@@ -10,7 +8,6 @@ Me
 Md
 mc
 md
-!LO:TX:X=-5:Z=8:t=MS&colon; g'-f'-e'-d'
 M:e
 md
 mc
@@ -18,14 +15,10 @@ mB
 sd
 Mc#
 L:d
-.
 *clefC1
-*k[]
-*M3/1
 *met(O)
 Sd
 Sf
-.
 Se
 Md
 sa
@@ -41,8 +34,6 @@ se
 sd
 sr
 SA
-.
 sB
 sc
-*custos:A
-*-
+*custosA

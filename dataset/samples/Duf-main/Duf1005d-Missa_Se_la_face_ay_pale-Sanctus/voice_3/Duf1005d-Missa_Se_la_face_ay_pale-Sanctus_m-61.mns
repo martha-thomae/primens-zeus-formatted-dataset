@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM384
 sa
@@ -11,7 +9,6 @@ mf
 Me
 sd
 Lc
-.
 sd
 se
 Sc
@@ -42,12 +39,9 @@ M:B
 mA
 S:c
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM384
 Sf
 Mf
 Me
-*custos:E
-*-
+*custosE

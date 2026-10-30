@@ -2,8 +2,6 @@
 *clefC2
 *k[b-]
 =
-*d:
-*M2/1
 *met(O2)
 *MM400
 s:G
@@ -12,7 +10,6 @@ sG
 sA
 sG
 s:c
-.
 MB-
 sc
 s:d
@@ -21,10 +18,8 @@ mB-
 sA
 MG
 sB-
-.
 Mc
 [sd
 se-
 sd]
-*custos:F
-*-
+*custosF

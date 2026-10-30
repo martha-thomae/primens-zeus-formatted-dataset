@@ -1,14 +1,10 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 Me
 Mf
 Sg
 *clefC4
-*k[]
-*M3/1
 *met(O)
 =
 sg
@@ -46,7 +42,6 @@ md
 Me
 Mf
 s:g
-.
 se
 Mc
 se
@@ -59,10 +54,7 @@ mG
 =
 S:G
 *clefC4
-*k[]
-*M2/1
 *met(C)
 Sr
 Sr
-*custos:G
-*-
+*custosG

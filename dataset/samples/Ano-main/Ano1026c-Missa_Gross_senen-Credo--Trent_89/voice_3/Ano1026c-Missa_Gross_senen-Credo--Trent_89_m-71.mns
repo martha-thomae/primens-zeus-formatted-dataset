@@ -1,8 +1,6 @@
 **mens
 *clefC2
 *k[b-]
-*d:
-*M3/1
 *met(O)
 *MM300
 MG
@@ -14,7 +12,6 @@ sA
 SG
 *clefC2
 *k[b-]
-*M3/1
 *met(O|)
 *MM400
 s:G
@@ -52,7 +49,6 @@ sc
 =
 MB-
 sd
-.
 Mc
 MB-
 mA
@@ -77,5 +73,4 @@ MF
 =
 sA
 MG
-*custos:C
-*-
+*custosC

@@ -1,13 +1,9 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 S:c
 *clefC1
-*k[]
 =
-*M2/1
 *met(C|)
 Sc
 s:e
@@ -16,9 +12,7 @@ sg
 [sa
 sf]
 s:g
-.
 Mf
 Me
 Mc
-*custos:c
-*-
+*custosc

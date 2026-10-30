@@ -1,8 +1,6 @@
 **mens
 =
 *clefG2
-*k[]
-*M2/1
 =
 *met(C|)
 sr
@@ -22,13 +20,11 @@ mdd
 M:ee
 mdd
 s:dd
-.
 mcc#
 mdd
 M:cc#
 mb
 Ldd
-.
 sr
 sa
 sb
@@ -37,5 +33,4 @@ scc
 scc
 [sb
 sg]
-*custos:g
-*-
+*custosg

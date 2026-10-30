@@ -2,12 +2,9 @@
 *clefC1
 *k[b-]
 =
-*d:
-*M2/1
 *met(C)
 sd
 sr
-!LO:TX:Z=24:t=MS&colon; 1sb 4m
 3d
 3f
 3g
@@ -22,14 +19,11 @@ Mcc
 3a
 3%M%2b-
 Ma
-.
 6g
 3%M%2e
-!LO:TX:Z=28:t=MS&colon; d'-f'
 3%M%2f
 3%Ma
 =
-.
 3%M%2g
 3b-
 6cc
@@ -43,5 +37,4 @@ Ma
 3f#
 3e
 Sg
-*custos:d
-*-
+*custosd

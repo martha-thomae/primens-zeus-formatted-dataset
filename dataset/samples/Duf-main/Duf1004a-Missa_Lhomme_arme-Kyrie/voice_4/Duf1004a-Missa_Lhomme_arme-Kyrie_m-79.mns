@@ -2,8 +2,6 @@
 **mens
 *clefC1
 =
-*k[]
-*M2/1
 *met(C)
 *MM480
 s:dd
@@ -14,12 +12,9 @@ sa
 Mb
 Mg
 Sg
-.
 sf#
 Sg
 *clefC1
-*k[]
-*M3/1
 =
 *met(O)
 *MM320
@@ -27,7 +22,6 @@ sg
 Mb
 Mcc
 s:dd
-.
 Mcc
 Mb
 Ma
@@ -74,5 +68,4 @@ Ma
 Mr
 Ma
 Mb-
-*custos:d
-*-
+*custosd

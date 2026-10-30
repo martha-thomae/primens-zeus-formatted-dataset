@@ -1,7 +1,6 @@
 **mens
 *clefC1
 *k[b-]
-*M3/1
 *met(O)
 *MM300
 sd
@@ -9,14 +8,12 @@ MB-
 M:e-
 md
 M:d
-.
 mc
 mB-
 mA
 sG
 Mr
 M:G
-.
 mA
 mB-
 mc
@@ -24,7 +21,6 @@ Md
 Me
 Md
 M:g
-.
 mf
 md
 me
@@ -34,7 +30,6 @@ Mg
 Mb-
 M:a
 =
-.
 mg
 Mcc
 M:b-
@@ -42,5 +37,4 @@ Ua
 Ug
 M:f
 mg
-*custos:G
-*-
+*custosG

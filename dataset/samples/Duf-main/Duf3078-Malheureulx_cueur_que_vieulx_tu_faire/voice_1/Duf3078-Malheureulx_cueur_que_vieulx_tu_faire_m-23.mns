@@ -1,8 +1,6 @@
 **mens
 *clefC4
-*k[]
 =
-*M3/1
 *met(O)
 sA
 [sc
@@ -12,7 +10,6 @@ MD
 sE
 Mr
 M:c
-.
 md
 s:e
 Mc
@@ -29,13 +26,8 @@ MA
 mG
 S:B
 *clefC4
-*k[]
-*M2/1
 *met(C|)
-!LO:TX:Y=32:t=Nous n'avons
-!LO:TX:Y=52:t=Ta leault&eacute;
 LE
-.
 [SD
 SC]
 [sD
@@ -44,5 +36,4 @@ sD
 sB-]
 <sA
 sF>
-*custos:C
-*-
+*custosC

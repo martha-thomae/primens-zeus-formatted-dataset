@@ -1,8 +1,6 @@
 **mens
 *clefC4
 *k[b-]
-*d:
-*M3/1
 *met(C.)
 =
 *MM300
@@ -23,9 +21,7 @@ SG
 [sF
 SD]
 S:E-
-*M3/1
 *met(O)
-!LO:TX:Z=12:t=T&colon; No augmentaton
 *rscale:1
 SD
 Mr
@@ -50,5 +46,4 @@ sG
 sd
 [se-
 sd]
-*custos:C
-*-
+*custosC

@@ -1,9 +1,7 @@
 **mens
 *clefG2
 *k[b-]
-*M2/1
 *met(C|)
-!LO:TX:Z=25:t=Vrela
 s:g
 mf
 me
@@ -13,10 +11,8 @@ Sf
 =
 sb-
 s:a
-.
 Mg
 Sg
-.
 sf
 =
 s:b-
@@ -31,7 +27,6 @@ Md
 Me
 Mf
 s:g
-.
 Mf#
 Mf#
 Me
@@ -47,8 +42,6 @@ Mf
 sd
 sB-
 s:f
-.
 Me
 sd
-*custos:B-
-*-
+*custosB-

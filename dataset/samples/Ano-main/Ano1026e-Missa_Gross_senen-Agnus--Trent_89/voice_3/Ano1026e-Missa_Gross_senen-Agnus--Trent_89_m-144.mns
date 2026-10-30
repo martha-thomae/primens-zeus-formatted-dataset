@@ -1,13 +1,11 @@
 **mens
 *clefC2
 *k[b-]
-*M3/3%2
 *met(3)
 *MM300
 *clefC2
 *k[b-]
 =
-*M2/1
 *met(C)
 *MM300
 sG
@@ -17,7 +15,6 @@ M:d
 mc
 MA
 M:B-
-.
 mA
 sG
 MF#
@@ -25,15 +22,12 @@ MG
 MB-
 Mc
 M:d
-.
 mc
 Me
 Mf
 sd
-.
 Mc
 Sd
-.
 Mr
 Md
 MB-
@@ -44,7 +38,6 @@ MG
 sD
 Mr
 M:d
-.
 mc
 mB-
 mA
@@ -56,5 +49,4 @@ Mc
 MB-
 sd
 Mc
-*custos:D
-*-
+*custosD

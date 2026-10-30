@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 scc
 sdd
@@ -17,7 +15,6 @@ scc
 Mb
 Scc
 s:g
-.
 Me
 M:f
 me
@@ -39,19 +36,14 @@ mb
 ma
 S:cc
 *clefC1
-*k[]
-*M2/1
 *met(C)
 Lg
-.
 sb
 [scc
 Sdd]
 See
 scc
 s:dd
-.
 Mcc
 sb
-*custos:e
-*-
+*custose

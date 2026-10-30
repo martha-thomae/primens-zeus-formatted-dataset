@@ -1,8 +1,6 @@
 **mens
 *clefC1
-*k[]
 =
-*M3/1
 *met(O)
 *MM240
 sa
@@ -10,7 +8,6 @@ sr
 sa
 Sb-
 s:a
-.
 mg
 =
 mf
@@ -26,7 +23,6 @@ me
 md
 Me
 M:f
-.
 mg
 M:a
 mg
@@ -36,8 +32,6 @@ me
 md
 S:f
 *clefC1
-*k[]
-*M2/1
 *met(C2)
 *MM320
 Sr
@@ -45,5 +39,4 @@ Sr
 Scc
 sdd
 sff
-*custos:c
-*-
+*custosc

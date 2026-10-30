@@ -1,8 +1,6 @@
 =
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM384
 =
@@ -13,12 +11,8 @@ MA
 MB
 sc
 *clefC4
-*k[]
-*M2/1
 *met(C)
 *MM420
 Lf
-.
 Sf
-*custos:F
-*-
+*custosF

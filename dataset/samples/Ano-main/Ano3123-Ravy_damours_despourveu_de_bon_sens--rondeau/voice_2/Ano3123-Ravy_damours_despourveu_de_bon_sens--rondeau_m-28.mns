@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C)
 sd
 sd
@@ -16,7 +14,6 @@ mG
 MA
 MB
 Sc
-*M2/1
 *met(2)
 *rscale:2
 sd
@@ -30,8 +27,6 @@ MF
 MG
 *met(4)
 *rscale:4
-!LO:TX:X=-40:Z=18:t="4" mensuraton to end
 sA
 sd
-*custos:F
-*-
+*custosF

@@ -1,7 +1,5 @@
 **mens
 *clefF4
-*k[]
-*M3/1
 *met(O)
 Mc
 MF
@@ -26,7 +24,6 @@ mF
 mE
 MD
 M:GG
-.
 mFF
 sGG
 MAA
@@ -39,8 +36,6 @@ mBB
 sAA
 S:D
 *clefF4
-*k[]
-*M3/1
 *met(O)
 sG
 MF
@@ -51,5 +46,4 @@ M:G
 mF
 ME
 sD
-*custos:FF
-*-
+*custosFF

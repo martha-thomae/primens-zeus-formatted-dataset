@@ -2,7 +2,6 @@
 *clefC4
 *k[b-]
 =
-*M3/1
 *met(O)
 *MM320
 M:B-
@@ -19,13 +18,10 @@ mc
 sd
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 *MM320
 s%5g
-.
 sg
 sf
 Se
-*custos:G
-*-
+*custosG

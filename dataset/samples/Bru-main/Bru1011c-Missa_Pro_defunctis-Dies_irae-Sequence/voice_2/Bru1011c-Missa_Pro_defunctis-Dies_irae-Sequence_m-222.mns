@@ -1,9 +1,6 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C|)
-.
 MC#
 sD
 sr
@@ -15,7 +12,6 @@ MG
 MF
 sE
 s:D
-.
 Mr
 sE
 sF
@@ -28,8 +24,6 @@ sE
 sD
 *clefC4
 =
-*k[]
-*M2/1
 *met(C|)
 Sc
 Sc
@@ -39,6 +33,4 @@ SA
 Sc]
 SB
 LA
-.
-*custos:C#
-*-
+*custosC#

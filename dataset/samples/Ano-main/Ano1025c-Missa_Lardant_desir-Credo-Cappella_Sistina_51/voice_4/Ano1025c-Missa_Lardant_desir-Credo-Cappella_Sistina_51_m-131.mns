@@ -1,20 +1,14 @@
 **mens
 =
 *clefC1
-*k[]
-*M2/1
 *met(C|)
 *MM400
-.
 mc#
 md
 M:c#
 mB
 Ld
-.
 *clefC1
-*k[]
-*M2/1
 *met(O2)
 *MM400
 =
@@ -23,5 +17,4 @@ sf
 sf
 Sf
 =
-*custos:B
-*-
+*custosB

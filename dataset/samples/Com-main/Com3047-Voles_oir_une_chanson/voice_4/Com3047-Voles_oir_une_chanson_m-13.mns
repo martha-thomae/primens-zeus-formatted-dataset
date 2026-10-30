@@ -2,11 +2,9 @@
 *clefG2
 *k[b-]
 =
-*M2/1
 *met(C|)
 sd
 s:g
-.
 mf#
 me
 sf#
@@ -17,7 +15,6 @@ Sb-
 =
 sa
 s:f
-.
 Md
 sg
 Me
@@ -28,13 +25,11 @@ Mf
 sb-
 =
 sa
-.
 mg
 mf
 Ma
 =
 sg
-.
 Mf
 sg
 sa
@@ -44,5 +39,4 @@ M:b-
 mcc
 Mdd
 Mg
-*custos:d
-*-
+*custosd

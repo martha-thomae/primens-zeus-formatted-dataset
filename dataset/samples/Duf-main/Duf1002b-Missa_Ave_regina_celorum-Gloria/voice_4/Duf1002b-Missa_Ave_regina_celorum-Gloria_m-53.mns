@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM336
 Mr
@@ -36,8 +34,6 @@ M:b
 ma
 S:cc
 *clefC4
-*k[]
-*M2/1
 *met(C)
 *MM448
 Sr
@@ -45,10 +41,8 @@ Sr
 Sg
 sg
 Scc
-.
 sb
 scc
 see
 Sdd
-*custos:g
-*-
+*custosg

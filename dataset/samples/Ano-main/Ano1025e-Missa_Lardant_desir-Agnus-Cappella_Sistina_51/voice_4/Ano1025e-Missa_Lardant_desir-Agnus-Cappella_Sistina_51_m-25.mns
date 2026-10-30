@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM300
 sc
@@ -9,11 +7,9 @@ Mg
 Ma
 Mb
 scc
-.
 Mb
 sa
 Sb
-.
 Sg
 [Sa
 sg]
@@ -26,7 +22,6 @@ M:f
 mg
 s:a
 sa
-.
 Mg
 =
 Mf
@@ -44,20 +39,16 @@ sA
 Mr
 sa
 M:f
-.
 mg
-!LO:TX:Z=16:t=MS&colon; 2 mnms
 M:a
 mg
 M:e
 mf
 M:g
-.
 mf
 sd
 mc#
 mB
 M:c#
 mB
-*custos:A
-*-
+*custosA

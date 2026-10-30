@@ -1,7 +1,5 @@
 **mens
 *clefG2
-*k[]
-*M3/1
 *met(O)
 Md
 M:d
@@ -10,7 +8,6 @@ mB
 mA
 MA
 M:A
-.
 mG
 mG
 mF
@@ -21,10 +18,8 @@ Me
 s:f
 Md
 Ld
-.
 *clefG2
 *k[b-]
-*M2/1
 *met(C|)
 Sr
 Sr
@@ -33,9 +28,7 @@ Sg
 =
 sb-
 s:a
-.
 Mg
 sf
 Se
-*custos:F
-*-
+*custosF

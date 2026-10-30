@@ -1,12 +1,8 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 Sd
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 [SG
 sc]
@@ -14,7 +10,6 @@ sd
 se
 Mc
 M:g
-.
 mf
 se
 md
@@ -23,7 +18,6 @@ M:d
 mG
 MG
 sd
-.
 mc
 mB
 sA
@@ -36,9 +30,7 @@ M:d
 mc
 Md
 se
-.
 md
 mc
 sd
-*custos:G
-*-
+*custosG

@@ -1,8 +1,6 @@
 **mens
 *clefC1
 *k[b-]
-*d:
-*M3/1
 *met(O)
 *MM300
 sd
@@ -11,8 +9,6 @@ Mg
 Mg
 =
 M:f
-.
-!LO:TX:Z=12:t=MS&colon; e'
 md
 sg
 Mf
@@ -20,7 +16,6 @@ Md
 Mf
 Me
 sa
-!LO:TX:Z=12:t=MS&colon; m g' f'
 mg
 mf
 se
@@ -42,20 +37,17 @@ md
 Mf
 se
 M:a
-.
 mg
 Mf
 Me
 =
 [sd
 sa]
-.
 Mg
 Mf
 me
 md
 =
-!LO:TX:Z=12:t=MS&colon; sb
 Mc
 Mf
 Mg
@@ -76,5 +68,4 @@ sf
 Me
 Md
 Mf
-*custos:G
-*-
+*custosG

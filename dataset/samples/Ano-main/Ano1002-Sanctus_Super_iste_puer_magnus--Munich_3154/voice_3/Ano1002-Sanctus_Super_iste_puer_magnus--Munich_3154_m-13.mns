@@ -1,10 +1,7 @@
 =
 **mens
 *clefC2
-*k[]
-*M3/1
 *met(O)
-.
 mc
 M:A
 mB
@@ -18,7 +15,6 @@ mc
 MB
 MG
 M:B
-.
 mc
 sd
 MB
@@ -29,5 +25,4 @@ mB
 mA
 mG
 sA
-*custos:G
-*-
+*custosG

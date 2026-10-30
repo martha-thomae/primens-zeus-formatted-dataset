@@ -1,12 +1,8 @@
 **mens
 *clefC2
-*k[]
-*M2/1
 *met(O2)
 *MM400
 *clefC2
-*k[]
-*M3/1
 *met(C3)
 *MM450
 S:r
@@ -20,5 +16,4 @@ sA
 sG
 s:c
 MB
-*custos:G
-*-
+*custosG

@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM384
 S:c
@@ -24,7 +22,6 @@ Md
 se
 Mf
 sg
-.
 Ma
 =
 Mf
@@ -34,7 +31,6 @@ se
 sg]
 Mf
 sg
-.
 Mc
 Md
 Me
@@ -44,5 +40,4 @@ sc
 Me
 sd
 S:c
-*custos:G
-*-
+*custosG

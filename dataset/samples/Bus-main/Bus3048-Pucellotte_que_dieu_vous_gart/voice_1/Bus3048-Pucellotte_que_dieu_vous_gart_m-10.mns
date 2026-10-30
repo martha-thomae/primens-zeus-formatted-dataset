@@ -1,8 +1,6 @@
 **mens
 =
 *clefF4
-*k[]
-*M2/1
 *met(C|)
 MG
 MA
@@ -12,8 +10,6 @@ M:A
 mF
 sG
 *clefF4
-*k[]
-*M2/1
 *met(C|)
 sA
 MA
@@ -37,5 +33,4 @@ MA
 sG
 MG
 MA
-*custos:C
-*-
+*custosC

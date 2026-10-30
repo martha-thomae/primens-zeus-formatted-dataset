@@ -2,8 +2,6 @@
 *clefC2
 =
 *k[b-]
-*d:
-*M2/1
 *met(O2)
 *MM480
 sG
@@ -13,7 +11,6 @@ ME-
 =
 MD
 s:G
-.
 MF
 sE-
 SD
@@ -29,7 +26,6 @@ M:F
 mE
 MF
 sG
-.
 MF
 sD
 sr
@@ -40,7 +36,6 @@ M:B-
 mA
 MB-
 sc
-.
 MB-
 sG
 sr
@@ -50,9 +45,6 @@ M:c
 mB-
 Mc
 sd
-.
-!LO:TX:Z=12:t=MS&colon; b
 Mc
 sA
-*custos:D
-*-
+*custosD

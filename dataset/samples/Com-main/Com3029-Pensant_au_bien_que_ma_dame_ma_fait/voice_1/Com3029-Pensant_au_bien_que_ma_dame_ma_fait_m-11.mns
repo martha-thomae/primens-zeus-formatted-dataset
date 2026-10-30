@@ -2,7 +2,6 @@
 =
 *clefF4
 *k[b-]
-*M2/1
 *met(C|)
 Mr
 M:F
@@ -12,7 +11,6 @@ mC
 M:BB-
 mC
 SD
-.
 sD
 <sC
 sG>
@@ -33,7 +31,6 @@ M:GG
 mAA
 MBB-
 M:C
-.
 mD
 mE
 UD
@@ -44,5 +41,4 @@ M:F
 mE
 mD
 mC
-*custos:GG
-*-
+*custosGG

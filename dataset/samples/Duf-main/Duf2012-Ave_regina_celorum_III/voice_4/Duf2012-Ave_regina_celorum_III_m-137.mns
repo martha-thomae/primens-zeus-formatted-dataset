@@ -1,9 +1,6 @@
 **mens
 *clefC1
-*k[]
-*M2/1
 *met(C|)
-.
 Mb
 scc
 Mb
@@ -12,15 +9,11 @@ mg
 Mf
 Se
 *clefC1
-*k[]
-*M2/1
 *met(C|)
 Sc
 [Sd
 S:e]
-.
 s:f
-.
 Me
 se
 =
@@ -35,7 +28,6 @@ sg]
 [scc
 sb]
 s:a
-.
 Mg
 sg
 s:f
@@ -47,5 +39,4 @@ se
 [sd
 se]
 sf
-*custos:c
-*-
+*custosc

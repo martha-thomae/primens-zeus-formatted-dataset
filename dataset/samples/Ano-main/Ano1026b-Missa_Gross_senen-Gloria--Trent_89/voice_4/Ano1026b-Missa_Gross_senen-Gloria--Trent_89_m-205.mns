@@ -2,12 +2,10 @@
 *clefC1
 =
 *k[b-]
-*M2/1
 *met(C|)
 *MM400
 *clefC1
 *k[b-]
-*M3/1
 *met(O)
 *MM300
 [S:f
@@ -26,12 +24,10 @@ Md
 Mc
 M:f
 =
-.
 me
 md
 mc
 Md
 sc
 MBn
-*custos:G
-*-
+*custosG

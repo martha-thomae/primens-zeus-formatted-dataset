@@ -1,7 +1,5 @@
 **mens
 *clefGv2
-*k[]
-*M2/1
 *met(C)
 M:e
 md
@@ -11,7 +9,6 @@ mc
 M:d
 mc
 s:A
-.
 sd
 Mc#
 sd
@@ -26,7 +23,6 @@ MB
 Mc
 Md
 M:f
-.
 me
 sd
 Mc#
@@ -47,5 +43,4 @@ s%M:d
 3%M%2A
 3%M%2B
 3%M%2c
-*custos:A
-*-
+*custosA

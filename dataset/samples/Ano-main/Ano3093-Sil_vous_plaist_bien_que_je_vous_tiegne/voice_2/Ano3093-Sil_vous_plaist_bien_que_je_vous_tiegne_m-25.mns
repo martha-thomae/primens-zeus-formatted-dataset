@@ -2,17 +2,14 @@
 =
 *clefC4
 *k[b-]
-*M2/1
 *met(C)
 sB-
 [sA
 sG]
 s:d
-.
 Mc
 Me
 M:d
-.
 mc
 MB-
 [sA
@@ -35,7 +32,6 @@ MG
 SG]
 *clefC4
 *k[b-]
-*M2/1
 *met(C|)
 SG
 [sd
@@ -43,5 +39,4 @@ se]
 Sf
 [se-
 sd]
-*custos:E
-*-
+*custosE

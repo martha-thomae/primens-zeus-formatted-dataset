@@ -1,7 +1,5 @@
 **mens
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 M:F
 mG
@@ -19,7 +17,6 @@ MF
 MG
 =
 SA
-.
 sA
 MB
 Mc
@@ -28,11 +25,8 @@ MF
 MG
 SA
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 M:d
 me
 sf
-*custos:F
-*-
+*custosF

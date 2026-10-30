@@ -1,7 +1,6 @@
 **mens
 *clefC4
 *k[b-]
-*M2/1
 *met(C|)
 <sBB-
 sAA>
@@ -9,7 +8,6 @@ SBB-
 sAA
 MBB-
 s:C
-.
 sD
 MAA
 MBB-
@@ -17,10 +15,8 @@ MBB-
 SA>
 *clefC4
 *k[b-]
-*M2/1
 *met(C|)
 sAA
 MBB-
 MD
-*custos:AA
-*-
+*custosAA

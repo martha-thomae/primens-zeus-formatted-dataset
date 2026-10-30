@@ -1,8 +1,6 @@
 **mens
 =
 *clefC1
-*k[]
-*M3/1
 *met(O)
 Mcc
 Mr
@@ -10,7 +8,6 @@ Mg
 Ma
 Mg
 se
-.
 M:c
 md
 Me
@@ -19,13 +16,10 @@ Mg
 S:e
 =
 *clefC1
-*k[]
-*M2/1
 *met(C)
 Sa
 sg
 se
 Sf
 Sg
-*custos:c
-*-
+*custosc

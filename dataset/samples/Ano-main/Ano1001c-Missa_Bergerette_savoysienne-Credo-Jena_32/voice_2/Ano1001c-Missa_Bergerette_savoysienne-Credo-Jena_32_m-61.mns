@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 sf
 sd
@@ -21,10 +19,7 @@ sd
 =
 Sc
 *clefC4
-*k[]
-*M2/1
 *met(C|)
-!LO:TX:Z=8:t=Reeat sgn ndcates reetton of T, mm. 66-75
 sc
 Mc
 Mc
@@ -33,7 +28,6 @@ se]
 se
 Me
 M:e
-.
 md
 =
 sc
@@ -48,5 +42,4 @@ Mf
 Mf
 [se
 sd]
-*custos:A
-*-
+*custosA

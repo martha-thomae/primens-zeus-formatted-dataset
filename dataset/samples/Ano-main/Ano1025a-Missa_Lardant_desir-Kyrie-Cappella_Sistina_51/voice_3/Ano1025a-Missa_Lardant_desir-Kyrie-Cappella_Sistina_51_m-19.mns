@@ -1,7 +1,5 @@
 **mens
 *clefC2
-*k[]
-*M3/1
 *met(O)
 *MM300
 M:F
@@ -17,8 +15,6 @@ sc
 S:F]
 S:A
 *clefC2
-*k[]
-*M2/1
 *met(O2)
 *MM400
 SA
@@ -27,5 +23,4 @@ Sd
 Sc
 [sd
 sf]
-*custos:F
-*-
+*custosF

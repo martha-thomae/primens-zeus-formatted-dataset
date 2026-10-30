@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM384
 sg
@@ -24,17 +22,14 @@ sg]
 [se
 sc]
 Sg
-.
 Me
 =
 [sc
 sg]
-.
 Mcc
 sb
 Ma
 M:dd
-.
 mcc
 Mcc
 M:b
@@ -60,7 +55,6 @@ sg
 Mf
 Mg
 s:a
-.
 Mb
 =
 scc
@@ -72,5 +66,4 @@ Mc
 sf
 Me
 S:f
-*custos:c
-*-
+*custosc

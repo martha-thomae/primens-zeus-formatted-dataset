@@ -1,13 +1,8 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O|)
 *clefC4
-*k[]
-*M2/1
 *met(O2)
-!LO:TX:X=-60::Z=8:t=Voces a mese non nullas / usque lcanos aton / sallens recurre sngulas.*
 =
 [SA
 SE
@@ -22,5 +17,4 @@ SE
 SD]
 SAA
 SAA
-*custos:AA
-*-
+*custosAA

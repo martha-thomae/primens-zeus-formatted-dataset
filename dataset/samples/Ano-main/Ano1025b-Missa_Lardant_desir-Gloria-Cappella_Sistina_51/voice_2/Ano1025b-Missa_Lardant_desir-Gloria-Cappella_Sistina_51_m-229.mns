@@ -1,18 +1,11 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(O2)
 *MM400
-.
 S:E
-.
 LD
-.
-*M2/1
 *met(C)
 *MM300
-!LO:TX:Z=8:t=T omts rests. 
 =
 [sA
 sc]
@@ -33,5 +26,4 @@ sd
 SB-]
 [SA
 SD]
-*custos:D
-*-
+*custosD

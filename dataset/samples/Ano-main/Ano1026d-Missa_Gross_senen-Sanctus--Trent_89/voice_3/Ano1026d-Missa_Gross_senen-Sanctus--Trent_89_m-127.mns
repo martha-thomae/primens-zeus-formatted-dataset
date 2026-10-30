@@ -1,17 +1,13 @@
 **mens
 *clefC2
 *k[b-]
-*d:
-*M2/1
 *met(O2)
 *MM400
 *clefC2
 *k[b-]
-*M3/1
 *met(O)
 *MM300
 Ld
-.
 sA
 sB-
 sc
@@ -20,14 +16,11 @@ Md
 Sd
 Mr
 sd
-.
 MB-
-!LO:TX:Z=12:t=MS&colon; 2 m
 M:d
 me
 Mf
 M:d
-.
 mc
 Md
 sA
@@ -43,5 +36,4 @@ sA
 sr
 =
 sG
-*custos:D
-*-
+*custosD

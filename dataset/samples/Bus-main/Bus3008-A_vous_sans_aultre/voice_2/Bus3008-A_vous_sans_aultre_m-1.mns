@@ -1,8 +1,6 @@
 =
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C)
 =
 s:d
@@ -10,7 +8,6 @@ MB
 sc
 Md
 M:f
-.
 mg
 sa
 mg
@@ -18,7 +15,6 @@ mf
 se
 Mr
 M:d
-.
 me
 M:f
 md
@@ -44,7 +40,6 @@ Mg
 sa
 Mb
 M:cc
-.
 ma
 M:a
 mg#
@@ -56,11 +51,9 @@ Mf
 se
 Mr
 sa
-.
 Mg
 Mf
 me
 md
 =
-*custos:A
-*-
+*custosA

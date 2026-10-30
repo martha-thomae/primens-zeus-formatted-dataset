@@ -2,7 +2,6 @@
 *clefC4
 =
 *k[b-]
-*M3/1
 *met(O)
 M:f
 me
@@ -21,7 +20,6 @@ MA
 MB-
 Mc
 M:d
-.
 mc
 MA
 Mr
@@ -44,7 +42,6 @@ MF
 MA
 MG
 M:c
-.
 mB-
 mA
 mG
@@ -53,5 +50,4 @@ MF
 MA
 sG
 S:F
-*custos:F
-*-
+*custosF

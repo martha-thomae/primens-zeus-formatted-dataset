@@ -1,11 +1,9 @@
 **mens
 *clefC1
 *k[b-]
-*M2/1
 *met(C|)
 s:c
 se-
-.
 Md
 M:c
 mB-
@@ -14,7 +12,6 @@ Mr
 Me-
 Md
 sg
-.
 Mf#
 sg
 Mf
@@ -34,19 +31,14 @@ Mf
 Mg
 Ma-
 sg
-.
 mf
 me-
 M:d
 =
 mc
-!LO:TX:Z=10:t=s.c.
 L:c
-.
-*M3/1
 *met(3)
 Sr
-!LO:TX:Z=18:t=scomment&colon; temo relatonsh s 3&colon;2 (new secton faster)
 Sr
 Sg
 scc
@@ -54,5 +46,4 @@ Scc
 sbn
 Scc
 sb-
-*custos:B-
-*-
+*custosB-

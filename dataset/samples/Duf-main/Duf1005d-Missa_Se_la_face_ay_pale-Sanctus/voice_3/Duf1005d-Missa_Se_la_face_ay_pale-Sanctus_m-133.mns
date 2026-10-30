@@ -1,8 +1,6 @@
 **mens
 *clefC4
-*k[]
 =
-*M2/1
 =
 *met(C)
 *MM420
@@ -13,7 +11,6 @@ Mf
 [sg
 sc]
 Sf
-.
 Me
 Md
 s:f
@@ -21,7 +18,6 @@ Me
 Md
 Mc
 s:c
-.
 MB
 sA
 [sG
@@ -29,7 +25,6 @@ sd]
 Me
 Mc
 s:c
-.
 MB
 MB
 MA
@@ -40,5 +35,4 @@ sr
 [sE
 s:F]
 ME
-*custos:E
-*-
+*custosE

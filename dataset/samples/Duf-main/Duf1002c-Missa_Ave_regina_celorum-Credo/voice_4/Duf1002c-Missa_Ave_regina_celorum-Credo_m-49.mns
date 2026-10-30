@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 Mb
 M:dd
@@ -30,8 +28,6 @@ ma
 =
 S:cc
 *clefC1
-*k[]
-*M3/1
 *met(O)
 S:r
 s:g
@@ -45,5 +41,4 @@ scc]
 Mb
 sa
 Mg
-*custos:c
-*-
+*custosc

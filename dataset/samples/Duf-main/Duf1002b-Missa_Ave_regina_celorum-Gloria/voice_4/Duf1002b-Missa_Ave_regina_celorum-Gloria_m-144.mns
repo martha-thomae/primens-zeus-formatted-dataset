@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C)
 *MM448
 Mcc
@@ -14,15 +12,11 @@ see
 M:dd
 mcc
 s:cc
-.
 Mb
 Mb
 Ma
 Lcc
-.
 *clefC4
-*k[]
-*M2/1
 *met(C)
 Scc
 s:cc
@@ -36,5 +30,4 @@ Mcc
 Sdd
 [Scc
 Sb]
-*custos:g
-*-
+*custosg

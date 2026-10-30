@@ -1,7 +1,5 @@
 **mens
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 *MM400
 MA
@@ -19,12 +17,10 @@ MA
 [sB-
 sA]
 sr
-!LO:TX:Z=12:t=MS&colon; b a
 [sd
 sc]
 =
 s:e
-.
 sg
 Mf
 se
@@ -40,5 +36,4 @@ sA
 [sB-
 SA]
 SF
-*custos:F
-*-
+*custosF

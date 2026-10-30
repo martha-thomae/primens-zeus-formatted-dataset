@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM320
 Mg
@@ -54,10 +52,7 @@ Mg
 Ma
 Mf#
 L:g
-.
 *clefC1
-*k[]
-*M2/1
 *met(C)
 *MM480
 [Sd
@@ -66,5 +61,4 @@ Mg
 =
 sa
 sb-
-*custos:c#
-*-
+*custosc#

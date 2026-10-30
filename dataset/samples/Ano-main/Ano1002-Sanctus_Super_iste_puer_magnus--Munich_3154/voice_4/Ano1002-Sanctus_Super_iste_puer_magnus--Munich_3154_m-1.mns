@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 s:g
 mf
@@ -15,7 +13,6 @@ me
 mc
 =
 s:g
-.
 Ma
 Mg
 se
@@ -25,7 +22,6 @@ sa
 M:dd
 mcc
 sa
-.
 M:dd
 mcc
 mb
@@ -68,7 +64,6 @@ Ma
 Mb
 =
 M:cc
-.
 mb
 M:g
 ma
@@ -81,5 +76,4 @@ mcc
 Mdd
 sg
 Mf
-*custos:c
-*-
+*custosc

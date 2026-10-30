@@ -1,9 +1,6 @@
 **mens
 *clefG2
-*k[]
-*M3/1
 *met()
-!LO:TX:X=-20:Z=28:t=[No mensuraton sgn]
 sr
 sr
 M:a
@@ -12,7 +9,6 @@ sg
 sa
 Mb
 M:dd
-.
 =
 mcc
 mb
@@ -37,10 +33,8 @@ sa
 Sb-
 Mb-
 M:a
-.
 mg
 sg
 Mf#
 sg
-*custos:B
-*-
+*custosB

@@ -1,11 +1,8 @@
 **mens
 *clefC1
 *k[b-]
-*d:
-*M3/1
 *met(O)
 *MM300
-.
 Me
 Mf
 sd
@@ -28,7 +25,6 @@ M:B-
 mA
 MG
 M:d
-.
 mc
 M:d
 mc
@@ -67,15 +63,12 @@ Mf
 M:a
 mg
 sg
-.
 Mf#
 Sg
 *clefC1
 *k[b-]
-*M3/1
 *met(O|)
 *MM400
 Sg
 sg
-*custos:G
-*-
+*custosG

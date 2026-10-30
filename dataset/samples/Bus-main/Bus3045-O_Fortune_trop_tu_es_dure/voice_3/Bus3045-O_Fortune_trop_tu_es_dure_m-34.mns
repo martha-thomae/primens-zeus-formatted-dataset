@@ -2,7 +2,6 @@
 *clefC1
 =
 *k[b-]
-*M2/1
 *met(C|)
 Sa
 Sa
@@ -10,7 +9,6 @@ sa
 sa
 sb-
 s:dd
-.
 Mcc
 sa
 s:b-
@@ -21,14 +19,12 @@ sf
 [sb-
 scc]
 s:dd
-.
 Mcc
 Mb-
 Ma
 sa
 Mr
 sdd
-.
 Mcc
 Mdd
 Mee
@@ -37,5 +33,4 @@ mee
 mff
 Mgg
 Mff
-*custos:f
-*-
+*custosf

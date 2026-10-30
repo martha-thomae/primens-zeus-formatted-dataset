@@ -2,7 +2,6 @@
 =
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 *MM320
 sd
@@ -11,11 +10,9 @@ sB-]
 SA
 S:G
 S:r
-!LO:TX:X=-10:Z=8:t=Ad medum referas ausas relquendo rores.
 *rscale:2
 sG
 MG
 sc
 Mc
-*custos:G
-*-
+*custosG

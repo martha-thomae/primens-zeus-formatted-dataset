@@ -1,21 +1,15 @@
 **mens
 *clefC2
 *k[b-]
-*d:
-*M2/1
 *met(O2)
 *MM480
-.
-!LO:TX:Z=12:t=MS&colon; b
 Mc
 s:A
-.
 MG
 MB-
 MA
 s:F
 sG
-.
 mF
 mE
 sD
@@ -26,7 +20,6 @@ MB-
 Mc
 Md
 s:c
-.
 MB-
 Mc
 MA
@@ -35,7 +28,6 @@ MF
 MG
 MA
 s:B-
-.
 MA
 MB-
 MG
@@ -44,11 +36,9 @@ ME
 MF
 MD
 s:C
-.
 MD
 ME
 MF
 s:G
 MA
-*custos:C
-*-
+*custosC

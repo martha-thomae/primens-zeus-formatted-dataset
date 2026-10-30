@@ -1,12 +1,10 @@
 **mens
 *clefG2
 *k[b-]
-*M3/1
 *met(O)
 S:g
 *clefG2
 *k[b-]
-*M3/1
 *met(O)
 sr
 sr
@@ -38,7 +36,6 @@ M:b-
 ma
 Mb-
 M:cc
-.
 mb-
 sa
 Mg
@@ -51,7 +48,6 @@ sb-
 sa
 Mg
 sdd
-.
 Mcc
 Mb-
 ma
@@ -69,5 +65,4 @@ mg
 [sf
 sg]
 sa
-*custos:d
-*-
+*custosd

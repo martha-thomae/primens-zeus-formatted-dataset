@@ -2,9 +2,6 @@
 **mens
 *clefC4
 =
-*k[]
-*a:
-*M2/1
 *met(C|)
 s:c
 MB
@@ -12,7 +9,6 @@ MB
 sB]
 [SA
 S:G]
-.
 sr
 sr
 sE
@@ -40,10 +36,6 @@ SA
 *art2
 *staff2
 *clefC4
-*k[]
-*a:
-*M2/1
 *met(C|)
 SA
-*custos:E
-*-
+*custosE

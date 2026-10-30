@@ -3,15 +3,11 @@
 =
 *clefC2
 *k[b-]
-*d:
-*M2/1
 *met(O2)
 *MM480
 sA
-!LO:TX:Z=12:t=MS&colon; b
 MG
 sG
-.
 MF
 sA
 MG
@@ -22,7 +18,6 @@ sd
 se
 [sf
 s:d]
-.
 mc
 mB-
 Mc
@@ -30,10 +25,8 @@ Md
 SB-
 =
 Ld
-.
 *clefC2
 *k[b-]
-*M2/1
 *met(C)
 =
 *MM300
@@ -55,5 +48,4 @@ MG
 sA
 sG
 sd
-*custos:D
-*-
+*custosD

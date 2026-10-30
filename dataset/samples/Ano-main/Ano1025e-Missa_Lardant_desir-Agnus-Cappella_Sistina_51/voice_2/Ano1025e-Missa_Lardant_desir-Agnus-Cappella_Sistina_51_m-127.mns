@@ -1,19 +1,12 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(O2)
 *MM400
 Le
-.
 *clefC4
-*k[]
-*M2/1
 =
 *met(C|)
 *MM400
-!LO:TX:X=-40:Z=16:t=T relaces each note value by ts ooste (e.g., mnms become maxmas)
 Sr
 SA
-*custos:A
-*-
+*custosA

@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM384
 s:c
@@ -28,12 +26,9 @@ sf
 Me
 S:f
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM384
 s%5cc
-.
 sdd
 s:ee
 Mdd
@@ -48,5 +43,4 @@ scc
 Mb
 sb
 Ma
-*custos:B
-*-
+*custosB

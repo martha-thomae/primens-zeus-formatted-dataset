@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M2/1
 =
 *met(C|)
 sr
@@ -15,14 +13,11 @@ sr
 scc
 sdd
 s:ff
-.
 Mee
 s:dd
 =
-.
 Mcc
 s:cc
-.
 mb
 =
 ma
@@ -33,7 +28,6 @@ s:a
 Mb-
 scc
 Sdd
-.
 Mcc
 Mb-
 s:a
@@ -43,5 +37,4 @@ se
 sf
 sg
 sa
-*custos:e
-*-
+*custose

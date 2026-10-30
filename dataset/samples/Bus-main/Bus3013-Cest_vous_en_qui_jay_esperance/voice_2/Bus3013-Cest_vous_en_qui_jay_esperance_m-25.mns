@@ -1,7 +1,6 @@
 **mens
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 sE
 sD
@@ -20,7 +19,6 @@ sD
 sr
 sc
 s:d
-.
 mc
 mB-
 MA
@@ -28,7 +26,6 @@ mG
 mF
 ME
 M:F
-.
 mG
 M:A
 mD
@@ -36,7 +33,6 @@ MF
 ME
 =
 M:D
-.
 UE
 UF
 M:G
@@ -45,11 +41,9 @@ MF
 [sE
 S:D]
 *clefC4
-*M2/1
 *met(C|)
 =
 s:d
 mc
 md
-*custos:AA
-*-
+*custosAA

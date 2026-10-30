@@ -1,9 +1,6 @@
 **mens
 *clefF4
-*k[]
-*M2/1
 *met(C|)
-*M3/1
 *met(3)
 S:C
 [SG
@@ -22,9 +19,7 @@ S:C]
 3%m%4F
 3%M%2G
 *rscale:1
-*M2/1
 *met(C)
 SA
 SG
-*custos:C
-*-
+*custosC

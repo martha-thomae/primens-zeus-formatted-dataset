@@ -1,7 +1,6 @@
 **mens
 *clefC4
 *k[b-]
-*M4/1
 *met(Cr)
 *MM320
 s:%3g
@@ -23,7 +22,6 @@ m:%3G
 M:%3B-
 s:%3A
 *rscale:1
-*M3/1
 *met(O)
 sB-
 MG
@@ -44,5 +42,4 @@ Sd
 sf
 [se
 Sd]
-*custos:G
-*-
+*custosG

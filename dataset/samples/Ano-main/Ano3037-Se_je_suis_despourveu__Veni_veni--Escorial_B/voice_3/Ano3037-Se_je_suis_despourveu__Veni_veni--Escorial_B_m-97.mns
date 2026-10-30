@@ -2,9 +2,7 @@
 *clefG2
 *k[b-]
 =
-*M2/1
 *met(C|)
-*M2/1
 *met(2)
 *rscale:2
 Mb-
@@ -20,12 +18,10 @@ Mg
 Mf#
 Mg
 Me
-*M2/1
 *met(C|)
 *rscale:1
 sg
 sf
 sd
 se
-*custos:d
-*-
+*custosd

@@ -1,8 +1,6 @@
 **mens
 =
 *clefC4
-*k[]
-*M3/1
 *met(O)
 Me
 Md
@@ -13,8 +11,6 @@ Mg
 sc]
 sg
 *clefC4
-*k[]
-*M3/1
 *met(O)
 Sg
 se
@@ -44,7 +40,6 @@ MA
 MB
 sG
 sc
-.
 sA
 Mc
 M:B
@@ -74,5 +69,4 @@ sc
 sr
 M:G
 mA
-*custos:G
-*-
+*custosG

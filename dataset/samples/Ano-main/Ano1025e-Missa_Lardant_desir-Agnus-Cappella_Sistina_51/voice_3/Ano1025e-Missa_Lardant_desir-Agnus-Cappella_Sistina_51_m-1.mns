@@ -1,7 +1,5 @@
 **mens
 *clefC2
-*k[]
-*M3/1
 *met(O)
 *MM300
 [SA
@@ -13,7 +11,6 @@ me
 sf
 Me
 sc
-.
 MA
 s:A
 MB
@@ -22,7 +19,6 @@ Md
 se
 Md
 sg
-.
 Mf
 sd
 sd
@@ -30,7 +26,6 @@ s:d
 Me
 Md
 sf
-.
 Me
 sd
 Mc
@@ -41,7 +36,6 @@ mc
 MA
 MB
 s:G
-.
 M:A
 mG
 [sE
@@ -52,16 +46,13 @@ Me
 s:f
 Mc
 s:f
-.
 MB-
 s:B-
 sf
-.
 me
 md
 Mc
 Mf
 Me
 Mf
-*custos:D
-*-
+*custosD

@@ -1,9 +1,7 @@
 **mens
 *clefC4
 =
-*k[]
 =
-*M3/1
 *met(O)
 *MM384
 =
@@ -26,7 +24,6 @@ s:B
 s:c
 S:e
 =
-.
 [s:c
 s:g]
 =
@@ -38,5 +35,4 @@ s:e]
 s:g
 =
 s:f
-*custos:G
-*-
+*custosG

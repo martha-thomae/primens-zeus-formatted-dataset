@@ -1,8 +1,6 @@
 =
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM300
 [Sa
@@ -13,7 +11,6 @@ mg
 Mf
 Me
 M:d
-.
 mc
 MB
 MA
@@ -22,7 +19,6 @@ Mc#
 sd
 sr
 Sa
-.
 Sg
 =
 Mf
@@ -42,10 +38,8 @@ sd
 =
 [sc
 s:f]
-.
 M:a
 mb
 scc
 Ma
-*custos:A
-*-
+*custosA

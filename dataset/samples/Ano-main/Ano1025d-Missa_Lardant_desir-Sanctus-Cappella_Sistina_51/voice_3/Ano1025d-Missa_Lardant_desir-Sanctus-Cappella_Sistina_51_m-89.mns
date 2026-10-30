@@ -1,7 +1,5 @@
 **mens
 *clefC2
-*k[]
-*M3/1
 *met(O)
 *MM300
 Md
@@ -10,7 +8,6 @@ Me
 Mc
 sd
 sG
-.
 MA
 MB
 Mc
@@ -25,11 +22,8 @@ MD
 sE
 S:D
 *clefC2
-*k[]
 =
-*M2/1
 *met(O2)
 *MM400
 SF
-*custos:D
-*-
+*custosD

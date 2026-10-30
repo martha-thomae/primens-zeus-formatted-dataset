@@ -1,27 +1,20 @@
 **mens
 *clefF4
-*k[]
-*M3/1
 *met(3)
 S:d
 *clefF4
-*k[]
-*M2/1
 *met(C)
-!LO:TX:Z=26:X=-40:t=Concordans sne fuga
 s:c
 MB
 [sc
 sd]
 s:G
 sE
-.
 MG
 sF
 sG
 MA
 sc
-.
 MB
 [sA
 sG]
@@ -39,7 +32,6 @@ Me
 Mc
 Mr
 sC
-.
 MD
 sBB
 s:C
@@ -48,6 +40,4 @@ MC
 ME
 sD
 LC
-.
-*custos:BB
-*-
+*custosBB

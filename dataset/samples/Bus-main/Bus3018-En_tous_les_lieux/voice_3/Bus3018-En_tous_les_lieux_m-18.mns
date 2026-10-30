@@ -1,9 +1,7 @@
 **mens
 *clefC2
 *k[b-]
-*M3/1
 *met(O)
-.
 Mcc
 Mdd
 Mb-
@@ -14,7 +12,6 @@ mf
 sf
 Mr
 sf
-.
 Me
 sc
 sd
@@ -42,7 +39,6 @@ Me
 S:f
 *clefC2
 *k[b-]
-*M2/1
 *met(C|)
 Sf
 sg
@@ -56,13 +52,10 @@ Sf
 Sg
 sf
 Sf
-.
 se
 sf
 s:cc
-.
 Mb-
 sa
 Sg
-*custos:c
-*-
+*custosc

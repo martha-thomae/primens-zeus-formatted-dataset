@@ -1,8 +1,6 @@
 **mens
 *clefC4
-*k[]
 =
-*M2/1
 *met(C|)
 s:c
 MB
@@ -13,7 +11,6 @@ MA
 =
 MG
 s:c
-.
 mB
 =
 mA
@@ -25,7 +22,6 @@ Sr
 Sr
 sr
 s:c
-.
 Mc
 sc
 sd
@@ -34,5 +30,4 @@ Mc
 M:e
 md
 Mg
-*custos:G
-*-
+*custosG

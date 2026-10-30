@@ -2,13 +2,11 @@
 *clefG2
 *k[b-]
 =
-*M3/1
 *met(O/3)
 =
 S:r
 S:r
 S:r
-*M2/1
 *met(C|)
 Sg
 sg
@@ -18,8 +16,6 @@ mf
 me
 sd
 s:g
-.
 Mf
 sd
-*custos:d
-*-
+*custosd

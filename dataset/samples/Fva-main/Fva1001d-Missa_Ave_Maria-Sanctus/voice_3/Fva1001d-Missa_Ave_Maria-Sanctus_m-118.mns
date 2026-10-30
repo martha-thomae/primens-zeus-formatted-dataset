@@ -1,14 +1,11 @@
 **mens
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 M:e
 md
 Md
 =
 se
-.
 md
 mc
 =
@@ -23,7 +20,6 @@ mc
 md
 me
 M:d
-.
 mc
 sc
 MB
@@ -34,7 +30,6 @@ Sr
 sr
 Mr
 M:G
-.
 mA
 mB
 mc
@@ -46,5 +41,4 @@ mf
 mg
 Ma
 =
-*custos:G
-*-
+*custosG

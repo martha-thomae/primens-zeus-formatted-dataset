@@ -1,7 +1,5 @@
 **mens
 *clefGv2
-*k[]
-*M3/1
 *met(O|)
 MF
 sG
@@ -20,8 +18,6 @@ MF
 sB-
 S:A
 *clefGv2
-*k[]
-*M2/1
 =
 *met(O2)
 SE
@@ -29,7 +25,6 @@ sA
 sA
 sF
 s:B-
-.
 MA
 =
 sG
@@ -37,8 +32,6 @@ sG
 SF
 sr
 s:A
-.
 MB
 sc
-*custos:E
-*-
+*custosE

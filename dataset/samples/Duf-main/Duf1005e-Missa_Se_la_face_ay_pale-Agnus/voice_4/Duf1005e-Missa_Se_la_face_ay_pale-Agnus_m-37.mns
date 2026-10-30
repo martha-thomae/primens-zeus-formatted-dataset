@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM384
 sc
@@ -12,7 +10,6 @@ Mb
 sg]
 Mf
 sa
-.
 Mg
 se
 sd
@@ -35,17 +32,12 @@ Me
 =
 S:f
 *clefC1
-*k[]
-*M2/1
 *met(C)
 *MM420
 =
 S:cc
-.
 s:a
-.
 Mg
 Mg
 Me
-*custos:c
-*-
+*custosc

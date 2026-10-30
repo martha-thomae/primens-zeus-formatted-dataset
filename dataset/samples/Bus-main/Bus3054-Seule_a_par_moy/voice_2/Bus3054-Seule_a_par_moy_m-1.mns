@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 [Sg
 s:dd]
@@ -19,13 +17,11 @@ M:b
 mcc
 Mdd
 sg
-.
 mf
 =
 me
 Md
 sb
-.
 Ma
 Ma
 Mg
@@ -40,11 +36,9 @@ Me
 M:f
 md
 M:g
-.
 me
 M:a
 mg
 mf
 me
-*custos:B
-*-
+*custosB

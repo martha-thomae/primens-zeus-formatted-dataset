@@ -2,7 +2,6 @@
 =
 *clefC4
 *k[b-]
-*M2/1
 *met(C)
 *MM480
 Mr
@@ -17,7 +16,6 @@ SG
 *rscale:1
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 =
 *MM320
@@ -25,5 +23,4 @@ Sg
 sg
 se
 Sf
-*custos:F
-*-
+*custosF

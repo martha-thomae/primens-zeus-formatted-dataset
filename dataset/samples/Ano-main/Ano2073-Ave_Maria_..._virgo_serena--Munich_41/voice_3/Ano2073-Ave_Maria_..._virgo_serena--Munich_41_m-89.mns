@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 se
 [sd
@@ -11,12 +9,10 @@ M:d
 mc
 Md
 M:e
-.
 md
 sc
 MB
 Sc
-*M3/1
 *met(3)
 sr
 sc
@@ -34,5 +30,4 @@ sc
 Sd
 sd
 Se
-*custos:B
-*-
+*custosB

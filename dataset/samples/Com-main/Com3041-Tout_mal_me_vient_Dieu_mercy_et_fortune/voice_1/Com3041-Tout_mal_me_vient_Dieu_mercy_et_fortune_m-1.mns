@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 sE
 M:G
@@ -15,7 +13,6 @@ M:c
 mB
 M:A
 =
-.
 mG
 mF
 mE
@@ -25,7 +22,6 @@ sC
 sG
 MA
 M:G
-.
 mA
 MF
 sE
@@ -42,7 +38,6 @@ mA
 se
 Mr
 se
-.
 Md
 Me
 Mc
@@ -50,7 +45,6 @@ Md
 MG
 MA
 sF
-.
 mE
 mD
 =
@@ -59,5 +53,4 @@ sC
 MG
 mA
 mB
-*custos:C
-*-
+*custosC

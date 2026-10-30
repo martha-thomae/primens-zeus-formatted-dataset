@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 =
 *met(O)
 *MM300
@@ -17,17 +15,11 @@ mc#
 mB
 S:d
 *clefC1
-*k[]
-*M2/1
 *met(O2)
 *MM400
 LA
-.
 [SA
 SB
 Lc]
-.
 Ld
-.
-*custos:A
-*-
+*custosA

@@ -2,9 +2,7 @@
 *clefGv2
 *k[b-]
 =
-*M2/1
 *met(C|)
-!LO:TX:Z=42:t=Rondeau
 Sr
 Sr
 s:f
@@ -21,7 +19,6 @@ sf
 Me
 s:f
 sd
-.
 mc
 mB-
 sA
@@ -32,7 +29,6 @@ MA
 sG
 MF
 M:A
-.
 mG
 sF
 ME
@@ -50,12 +46,10 @@ M:f
 mg
 Ma
 M:b-
-.
 =
 ma
 mg
 mf
 Ma
 Mg
-*custos:E
-*-
+*custosE

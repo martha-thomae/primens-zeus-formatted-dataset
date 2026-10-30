@@ -1,19 +1,15 @@
 **mens
 *clefF4
 *k[b-e-]
-*g:
-*M2/1
 *met(O2)
 *MM400
 *clefF4
 *k[b-e-]
-*M3/1
 *met(O)
 *MM300
 [S:G
 SD
 sBB-]
-!LO:TX:Z=12:t=MS&colon; G
 sFF
 SC
 S:D
@@ -21,7 +17,6 @@ sGG
 Mr
 MD
 s:D
-.
 MBB-
 MD
 MEn
@@ -29,5 +24,4 @@ sF
 S:G
 sD
 SE-
-*custos:FF
-*-
+*custosFF

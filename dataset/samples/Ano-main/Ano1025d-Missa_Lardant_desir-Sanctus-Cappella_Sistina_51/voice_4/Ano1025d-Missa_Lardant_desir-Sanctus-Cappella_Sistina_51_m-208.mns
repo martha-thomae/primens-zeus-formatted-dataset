@@ -1,8 +1,6 @@
 **mens
 =
 *clefC1
-*k[]
-*M3/1
 *met(C3)
 *MM450
 s:d
@@ -10,7 +8,6 @@ Me
 Mf
 Mg
 s%5a
-.
 Mg
 Mf
 se
@@ -26,7 +23,4 @@ sd
 [sB
 sc#]
 s%9d
-.
-.
-*custos:A
-*-
+*custosA

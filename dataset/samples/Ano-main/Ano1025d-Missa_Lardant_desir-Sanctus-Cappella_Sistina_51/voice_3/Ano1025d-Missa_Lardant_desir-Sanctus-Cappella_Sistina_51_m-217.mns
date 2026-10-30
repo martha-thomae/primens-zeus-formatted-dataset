@@ -1,13 +1,9 @@
 **mens
 *clefC2
-*k[]
-*M3/1
 *met(C3)
 *MM450
 S:A
 *clefC2
-*k[]
-*M3/1
 =
 *met(O)
 *MM300
@@ -17,7 +13,6 @@ se
 s:A]
 =
 sf
-.
 se
 M:A
 mG
@@ -30,5 +25,4 @@ MG
 =
 ME
 MF
-*custos:C
-*-
+*custosC

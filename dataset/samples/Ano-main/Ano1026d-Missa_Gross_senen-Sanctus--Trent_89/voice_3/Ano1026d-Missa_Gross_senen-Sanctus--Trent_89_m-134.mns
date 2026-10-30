@@ -1,8 +1,6 @@
 **mens
 *clefC2
 *k[b-]
-*d:
-*M3/1
 *met(O)
 *MM300
 sA
@@ -16,14 +14,12 @@ mE
 MF
 sG
 M:d
-.
 mc
 M:d
 mc
 mA
 mB-
 sc
-!LO:TX:Z=12:t=MS&colon; a-b-c' md sm m
 MA
 MB-
 MA
@@ -31,7 +27,6 @@ M:d
 mc
 mB-
 mA
-*M3/1
 *met(3)
 3G
 3A
@@ -42,7 +37,6 @@ mA
 3d
 3B-
 3c
-*M3/1
 =
 *met(O)
 s:d
@@ -56,5 +50,4 @@ UF
 mE
 mD
 MD
-*custos:D
-*-
+*custosD

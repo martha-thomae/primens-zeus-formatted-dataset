@@ -2,8 +2,6 @@
 =
 *clefF4
 =
-*k[]
-*M2/1
 *met(C|)
 sC
 Mr
@@ -11,7 +9,6 @@ MC
 sG
 MA
 sc
-.
 MB
 Mc
 MC
@@ -19,7 +16,6 @@ MD
 M:F
 mE
 sD
-.
 MC
 M:D
 mE
@@ -36,7 +32,6 @@ sG
 Mr
 sC
 sG
-.
 mF
 mE
 sD
@@ -47,10 +42,8 @@ MD
 MF
 ME
 sA
-.
 MG
 [sA
 sD]
 sr
-*custos:C
-*-
+*custosC

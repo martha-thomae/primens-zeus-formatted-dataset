@@ -2,13 +2,11 @@
 *clefF3
 =
 *k[b-]
-*M2/1
 *met(C|)
 MBB-
 MC
 MAA
 sBB-
-.
 mAA
 mGG
 [sFF
@@ -18,12 +16,10 @@ M:G
 mF
 MD
 M:E-
-.
 mD
 MBB-
 MC
 M:D
-.
 mC
 MAA
 MBB-
@@ -31,11 +27,9 @@ MC
 sGG
 Mr
 sBB-
-.
 MC
 sD
 LC
-.
 MD
 M:BB-
 mC
@@ -47,7 +41,6 @@ MC
 SFF
 sr
 s:C
-.
 =
 MAA
 sAA
@@ -55,5 +48,4 @@ SD
 SGG
 sr
 sC
-*custos:FF
-*-
+*custosFF

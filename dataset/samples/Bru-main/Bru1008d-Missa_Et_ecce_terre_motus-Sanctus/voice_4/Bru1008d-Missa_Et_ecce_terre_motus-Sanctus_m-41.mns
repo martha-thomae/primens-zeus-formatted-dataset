@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 M:E
 mF
@@ -10,13 +8,11 @@ MC
 MG
 mG
 ME
-.
 mC
 MC
 sr
 MC
 M:E
-.
 mF
 MG
 MC
@@ -52,9 +48,6 @@ sr
 S:D	S:B
 *v	*v
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 Sr
-*custos:C
-*-
+*custosC

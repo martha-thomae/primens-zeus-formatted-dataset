@@ -1,7 +1,5 @@
 **mens
 *clefG2
-*k[]
-*M3/1
 *met(O)
 sr
 s:cc
@@ -31,7 +29,6 @@ Ma
 Mb
 Mg
 M:dd
-.
 mb
 mcc
 mdd
@@ -42,11 +39,8 @@ M:f#
 me
 S:g
 *clefG2
-*k[]
-*M2/1
 *met(C|)
 Sa
 sf
 sg
-*custos:e
-*-
+*custose

@@ -2,11 +2,9 @@
 *clefC4
 =
 *k[b-]
-*M3/1
 *met(O)
 *clefC4
 =
-*M2/1
 *met(C|)
 s:d
 mc
@@ -17,7 +15,6 @@ mc
 mB-
 sA
 Sd
-.
 Mc
 MB-
 sc
@@ -32,5 +29,4 @@ sd
 s:G
 MD
 =
-*custos:D
-*-
+*custosD

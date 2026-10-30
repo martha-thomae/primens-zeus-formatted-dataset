@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 =
 *MM384
@@ -11,10 +9,8 @@ s:r
 s:d
 [s:c
 S:A]
-.
 =
 [s:B
 s:c]
 s:A
-*custos:A
-*-
+*custosA

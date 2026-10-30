@@ -1,8 +1,6 @@
 **mens
 *clefC1
 *k[b-]
-*F:
-*M3/1
 *met(O)
 s:d
 Me
@@ -38,7 +36,6 @@ Md
 Me-
 Md
 M:B-
-.
 mc
 =
 Md
@@ -54,7 +51,6 @@ Md
 Me
 sd
 Mc#
-!LO:TX:a:t=s.c.
 Sd
 sr
 s:G
@@ -71,5 +67,4 @@ se
 M:f
 me
 sc
-*custos:G
-*-
+*custosG

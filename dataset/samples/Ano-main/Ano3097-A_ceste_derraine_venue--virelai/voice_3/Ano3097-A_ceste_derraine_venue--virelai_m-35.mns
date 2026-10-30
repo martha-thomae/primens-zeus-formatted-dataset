@@ -1,15 +1,12 @@
 **mens
 *clefC1
 *k[b-]
-*M2/1
 *met(C)
-.
 sf
 Me
 Sf
 *clefC1
 *k[b-]
-*M2/1
 =
 *met(C)
 Sr
@@ -32,7 +29,6 @@ M:e
 mc
 Md
 sc
-.
 MBn
 =
 sc
@@ -59,10 +55,8 @@ M:g
 Uf
 Ug
 M:a
-.
 mf
 sf
 Me
 Sf
-*custos:F
-*-
+*custosF

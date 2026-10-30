@@ -2,7 +2,6 @@
 *clefC2
 *k[b-]
 =
-*M2/1
 *met(O2)
 Mf
 M:a
@@ -11,7 +10,6 @@ Me
 sf
 Mg
 sg
-.
 Mf
 sd
 Mc
@@ -26,7 +24,6 @@ Sr
 sg
 Ma
 M:b-
-.
 ma
 sg
 Mf
@@ -35,15 +32,11 @@ mf
 me
 Mf
 M:d
-.
 mG
 MB-
 [sA
 S:G]
-.
 SB-
-.
 =
 sA
-*custos:G
-*-
+*custosG

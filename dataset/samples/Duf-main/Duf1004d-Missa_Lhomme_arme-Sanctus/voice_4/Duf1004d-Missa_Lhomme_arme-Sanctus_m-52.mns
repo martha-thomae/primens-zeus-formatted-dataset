@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM320
 mg
@@ -21,9 +19,7 @@ M:f#
 me
 S:g
 *clefC1
-*k[]
 =
-*M3/1
 *met(O)
 *MM320
 Sg
@@ -75,7 +71,6 @@ Mg
 Mb-
 Ma
 M:f
-.
 md
 Me
 sd
@@ -96,5 +91,4 @@ Mg
 sa
 Mg
 Me
-*custos:d
-*-
+*custosd

@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(C3)
 *MM450
 =
@@ -19,7 +17,6 @@ sf
 s:d
 Me
 s%5f
-.
 Me
 Md
 s:c
@@ -28,7 +25,6 @@ Me
 Mf
 =
 s%5g
-.
 =
 Mf
 Me
@@ -36,5 +32,4 @@ s:d
 Me
 Mf
 Mg
-*custos:c
-*-
+*custosc

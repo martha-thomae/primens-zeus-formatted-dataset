@@ -2,13 +2,11 @@
 **mens
 *clefF4
 *k[b-e-]
-*M2/1
 *met(C|)
 *MM400
 =
 *clefF4
 *k[b-e-]
-*M3/1
 *met(O)
 *MM300
 SD
@@ -30,10 +28,8 @@ MG
 MA
 =
 sF
-.
 MBB-
 MD
 ME-
 sF
-*custos:GG
-*-
+*custosGG

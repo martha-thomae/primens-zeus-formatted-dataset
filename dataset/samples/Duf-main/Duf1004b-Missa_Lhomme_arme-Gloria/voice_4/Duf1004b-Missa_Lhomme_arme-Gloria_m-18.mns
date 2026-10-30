@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM320
 [Sb
@@ -35,7 +33,6 @@ S:b
 sr
 sg
 s:g
-.
 Mf
 Md
 =
@@ -57,7 +54,6 @@ S:r
 sb
 sa
 s:dd
-.
 Mcc
 Mb
 =
@@ -69,12 +65,10 @@ sa
 Mg
 =
 M:b
-.
 ma
 Mb
 Mcc
 Mb
 M:a
 mg
-*custos:c#
-*-
+*custosc#

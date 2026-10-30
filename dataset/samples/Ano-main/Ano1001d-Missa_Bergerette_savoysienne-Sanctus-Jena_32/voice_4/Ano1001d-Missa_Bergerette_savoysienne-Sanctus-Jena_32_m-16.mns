@@ -1,7 +1,5 @@
 **mens
 *clefG2
-*k[]
-*M2/1
 *met(C)
 Mdd
 M:ee
@@ -9,7 +7,6 @@ mdd
 Mcc
 s:b
 sdd
-.
 mcc
 mb
 sa
@@ -19,7 +16,6 @@ see
 Sff
 see
 Sdd
-.
 M:ee
 Udd
 Ucc
@@ -43,11 +39,7 @@ Mdd
 Mcc
 mb
 L:cc
-.
-.
 *clefG2
-*k[]
-*M2/1
 *met(C|)
 s:dd
 mcc
@@ -55,5 +47,4 @@ mb
 scc
 Mdd
 Mb
-*custos:g
-*-
+*custosg

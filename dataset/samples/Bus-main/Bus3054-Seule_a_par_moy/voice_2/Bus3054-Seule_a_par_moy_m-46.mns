@@ -1,16 +1,12 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C|)
 s:dd
 M:b
-.
 ma
 Mg
 Mf
 sg
-.
 Me
 Mg
 Ma
@@ -18,7 +14,6 @@ Mb
 Mcc
 Mb
 see
-.
 Mdd
 scc
 Mb
@@ -27,7 +22,6 @@ Mee
 Mdd
 =
 M:cc
-.
 mb
 sb
 Ma
@@ -38,7 +32,6 @@ Sr
 Sdd
 sdd
 s:dd
-.
 mcc
 mb
 sa
@@ -50,5 +43,4 @@ Mf
 Mg
 Md
 Mb
-*custos:d
-*-
+*custosd

@@ -1,12 +1,9 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(3)
 S:c
 Sd
 Sc
-.
 SB
 sA
 sB
@@ -17,8 +14,6 @@ S:c]
 *rscale:3/2
 S%m:r
 *rscale:1
-*M2/1
 *met(C)
 Sc
-*custos:G
-*-
+*custosG

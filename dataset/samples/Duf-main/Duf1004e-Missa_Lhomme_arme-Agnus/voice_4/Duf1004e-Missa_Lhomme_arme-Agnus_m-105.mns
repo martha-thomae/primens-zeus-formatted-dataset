@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M2/1
 *met(C)
 *MM480
 3%M%2b-
@@ -15,8 +13,6 @@ s%M:a
 3%M%2f#
 Sg
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM320
 sd
@@ -42,7 +38,6 @@ Mf
 Ma
 Mb-
 sg
-.
 =
 mf
 me
@@ -57,5 +52,4 @@ se
 sd
 sr
 sg
-*custos:d
-*-
+*custosd

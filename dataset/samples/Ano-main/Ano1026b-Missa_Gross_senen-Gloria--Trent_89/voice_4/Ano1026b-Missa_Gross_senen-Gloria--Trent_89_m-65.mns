@@ -1,13 +1,11 @@
 **mens
 *clefC1
 *k[b-]
-*M3/1
 *met(O)
 *MM300
 S:r
 *clefC1
 *k[b-]
-*M2/1
 *met(C|)
 *MM400
 s:d
@@ -19,5 +17,4 @@ mf
 =
 me
 Sd
-*custos:d
-*-
+*custosd

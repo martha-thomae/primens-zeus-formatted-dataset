@@ -1,7 +1,5 @@
 **mens
 *clefF4
-*k[]
-*M3/1
 *met(O)
 *MM300
 S:D
@@ -9,7 +7,6 @@ S:D
 sD]
 MC
 M:AA
-.
 mBB
 MC
 MD
@@ -24,15 +21,12 @@ MF
 sG
 sr
 LG
-.
 SD
-.
 [sD
 sAA]
 sD
 sF
 SE
-.
 SAA
 sr
 s:D
@@ -65,6 +59,4 @@ MG
 [sA
 SD]
 LC
-.
-*custos:AA
-*-
+*custosAA

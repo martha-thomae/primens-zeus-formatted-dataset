@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 Me
 Mc
@@ -23,14 +21,9 @@ sg
 Sg
 S:g
 *clefC4
-*k[]
 =
-*M2/1
 *met(C)
 Xg
-.
-.
-.
 =
 =
 [Sc
@@ -42,5 +35,4 @@ sf]
 Me
 sg
 Mf
-*custos:B
-*-
+*custosB

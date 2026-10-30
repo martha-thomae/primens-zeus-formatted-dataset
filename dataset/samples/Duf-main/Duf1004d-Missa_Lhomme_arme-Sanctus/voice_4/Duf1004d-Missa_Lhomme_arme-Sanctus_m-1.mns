@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM320
 s:g
@@ -23,7 +21,6 @@ Me
 sg
 sr
 s:b
-.
 Ma
 Mb
 Mdd
@@ -41,7 +38,6 @@ mdd
 Mcc
 Mb
 sa
-.
 Mdd
 Mee
 sdd
@@ -65,5 +61,4 @@ Mcc
 s:b]
 Mg
 sg
-*custos:e
-*-
+*custose

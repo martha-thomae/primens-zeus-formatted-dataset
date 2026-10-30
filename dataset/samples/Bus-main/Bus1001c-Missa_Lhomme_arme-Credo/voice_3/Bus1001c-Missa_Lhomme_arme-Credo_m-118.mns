@@ -2,7 +2,6 @@
 *clefC4
 *k[b-]
 =
-*M2/1
 *met(O2)
 *MM336
 MF
@@ -15,7 +14,6 @@ MG
 M:B-
 mc
 sd
-.
 mc
 md
 me-
@@ -29,7 +27,6 @@ Mf
 sg
 Me
 M:g
-.
 mf
 me
 md
@@ -41,7 +38,6 @@ sa
 Ma
 sa
 =
-.
 Ma
 sf
 sf
@@ -49,12 +45,10 @@ sf
 sd
 Mr
 sa
-.
 Mg
 Mf
 Md
 se
 Md
 MB-
-*custos:F
-*-
+*custosF

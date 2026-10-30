@@ -1,7 +1,5 @@
 **mens
 *clefF4
-*k[]
-*M3/1
 *met(O)
 *MM300
 MA
@@ -13,11 +11,9 @@ sA
 sc]
 MB-
 sd
-!LO:TX:Y=20:t=MS&colon; c'
 Md
 M:B-
 mA
-!LO:TX:Z=24:t=MS&colon; O-dot mensuraton
 s:c
 MA
 Md
@@ -31,5 +27,4 @@ mC
 mBB
 MAA
 MBB
-*custos:AA
-*-
+*custosAA

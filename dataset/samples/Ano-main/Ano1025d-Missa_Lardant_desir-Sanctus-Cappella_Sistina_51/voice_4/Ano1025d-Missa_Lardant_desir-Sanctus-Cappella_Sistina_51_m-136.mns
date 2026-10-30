@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M2/1
 *met(O2)
 *MM400
 Me
@@ -20,23 +18,17 @@ M:c#
 mB
 Sd
 LB-
-.
 sA
 s:d
-.
 Mc
 MB-
 MA
 SA
 =
 *clefC1
-*k[]
-*M3/1
 *met(C3)
 *MM450
-!LO:TX:X=-40:Z=8:t=3-ex-1 canon
 Sd
 =
 sd
-*custos:A
-*-
+*custosA

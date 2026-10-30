@@ -1,8 +1,6 @@
 **mens
 =
 *clefC1
-*k[]
-*M3/1
 *met(O)
 scc
 Mb
@@ -24,7 +22,6 @@ Mb
 M:ee
 mdd
 scc
-.
 Mb
 Mcc
 Mdd
@@ -34,5 +31,4 @@ S:cc
 S:r
 S:r
 S:r
-*custos:f#
-*-
+*custosf#

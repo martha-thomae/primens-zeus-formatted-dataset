@@ -1,8 +1,6 @@
 **mens
 *clefC2
 *k[b-]
-*d:
-*M3/1
 *met(O)
 *MM300
 srB
@@ -16,7 +14,6 @@ Mr
 Md
 Mc
 MA
-!LO:TX:Z=12:t=MS&colon; g
 MB-
 MF
 Mr
@@ -26,7 +23,6 @@ Md
 mB-
 Mc
 M:d
-.
 mc
 MA
 MG
@@ -46,9 +42,7 @@ mG
 MB-
 mc
 s:d
-.
 MB-
 SB-
 S:d
-*custos:D
-*-
+*custosD

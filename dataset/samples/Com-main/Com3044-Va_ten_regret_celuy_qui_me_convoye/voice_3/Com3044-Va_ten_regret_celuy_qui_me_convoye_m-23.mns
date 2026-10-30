@@ -2,7 +2,6 @@
 =
 *clefG2
 *k[b-]
-*M2/1
 *met(C|)
 Mdd
 =
@@ -14,15 +13,12 @@ mg
 mf
 Me
 sa
-.
 Mg
 Mf
 M:g
-.
 mf
 sf
 Me
-!LO:TX:Z=8:t=s.c.
 Sf
 Sr
 sa
@@ -34,10 +30,8 @@ Mr
 M:dd
 mcc
 scc
-.
 Mbn
 s:cc
-.
 mb-
 ma
 Ma
@@ -46,5 +40,4 @@ mf
 se
 Mr
 Md
-*custos:d
-*-
+*custosd

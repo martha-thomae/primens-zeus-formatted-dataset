@@ -2,7 +2,6 @@
 *clefC1
 =
 *k[b-]
-*M3/3%2
 *met(3)
 *MM300
 3%M%2b-
@@ -13,7 +12,6 @@ s%M:a
 S%m:g
 *clefC1
 *k[b-]
-*M2/1
 *met(C)
 *MM300
 s:G
@@ -21,5 +19,4 @@ MG
 sB-
 Mc
 Md
-*custos:G
-*-
+*custosG

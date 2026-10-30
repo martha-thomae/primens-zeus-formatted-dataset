@@ -3,8 +3,6 @@
 *clefC2
 *k[b-]
 =
-*d:
-*M3/1
 *met(O)
 *MM300
 S:G
@@ -26,7 +24,6 @@ MB-
 MA
 sG
 M:c
-.
 mB-
 mA
 mG
@@ -34,7 +31,6 @@ M:F
 mG
 MA
 sD
-.
 Mr
 MB-
 Mc
@@ -46,5 +42,4 @@ MB-
 Mc
 M:d
 mB-
-*custos:D
-*-
+*custosD

@@ -2,7 +2,6 @@
 *clefC4
 *k[b-]
 =
-*M3/1
 *met(O)
 *MM252
 M:G
@@ -22,7 +21,6 @@ S:G
 *clefC4
 *k[b-]
 =
-*M2/1
 *met(O2)
 *MM336
 s:G
@@ -36,7 +34,6 @@ sA
 MG
 sG
 s:c
-.
 MB-
 sB-
 s:A
@@ -48,5 +45,4 @@ sG]
 SA]
 SG
 Sr
-*custos:E
-*-
+*custosE

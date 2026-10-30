@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM312
 =
@@ -11,7 +9,6 @@ mB
 M:c
 md
 M:e
-.
 mf
 M:g
 mf
@@ -35,13 +32,11 @@ s:g
 mf
 me
 s:d
-.
 sf
 me
 md
 s:c
 =
-.
 M:e
 mf
 Mg
@@ -60,5 +55,4 @@ me
 Mc
 M:e
 md
-*custos:A
-*-
+*custosA

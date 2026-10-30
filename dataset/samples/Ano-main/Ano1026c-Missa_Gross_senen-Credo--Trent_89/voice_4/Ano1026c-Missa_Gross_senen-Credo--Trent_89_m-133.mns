@@ -1,8 +1,6 @@
 **mens
 *clefC1
 *k[b-]
-*d:
-*M2/1
 =
 *met(O2)
 =
@@ -11,11 +9,9 @@ sf
 sg
 s:a
 sb-
-.
 ma
 mg
 M:f
-!LO:TX:Z=12:t=MS&colon; g'
 me
 Mf
 sg
@@ -36,7 +32,6 @@ Md
 Mf
 Me
 s:c
-.
 sd
 Mc
 s:A
@@ -45,5 +40,4 @@ MG
 sc
 MBn
 Sc
-*custos:G
-*-
+*custosG

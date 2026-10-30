@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 SB
 sA
@@ -37,8 +35,6 @@ MA
 sD
 sE
 MF
-!LO:TX:X=-60:Z=32:t=Rest of voce now mssng
-!LO:TX:X=-60:Z=8:t=n MS; edtoral reconstr. by A. Planchart
 SG
 sA
 sB-
@@ -53,5 +49,4 @@ sB
 SA
 sG
 S:A
-*custos:C
-*-
+*custosC

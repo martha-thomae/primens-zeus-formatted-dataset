@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C)
 Mg
 scc
@@ -11,7 +9,6 @@ mb
 ma
 Mg
 sa
-.
 mg
 mf
 se
@@ -29,10 +26,8 @@ Mf
 Mg
 Ma
 sb
-.
 sa
 Mg#
-*M2/1
 *met(C|)
 sa
 Mg
@@ -49,5 +44,4 @@ MA
 MB
 sd
 Mc
-*custos:A
-*-
+*custosA

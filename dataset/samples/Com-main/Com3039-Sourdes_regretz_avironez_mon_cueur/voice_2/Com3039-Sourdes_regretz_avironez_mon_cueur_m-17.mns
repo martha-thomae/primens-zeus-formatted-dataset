@@ -2,12 +2,9 @@
 =
 *clefC4
 *k[b-]
-*M2/1
 *met(C|)
-.
 MA
 SB-
-.
 sr
 sr
 sG
@@ -20,7 +17,6 @@ mG
 mA
 mB-
 sc
-.
 sB-
 MA
 SB-
@@ -37,7 +33,6 @@ mG
 sA
 MG
 sc
-.
 Mc
 =
 Mc
@@ -47,12 +42,10 @@ Mc
 sd
 mc
 mB-
-!LO:TX:Z=8:t=s.c.
 LA
 sr
 sd
 s:d
 mc
 mB-
-*custos:F
-*-
+*custosF

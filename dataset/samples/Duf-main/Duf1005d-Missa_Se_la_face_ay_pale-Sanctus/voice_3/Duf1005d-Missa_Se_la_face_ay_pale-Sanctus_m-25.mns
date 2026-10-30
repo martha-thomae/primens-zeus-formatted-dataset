@@ -1,13 +1,10 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM384
 [S:e
 Sd]
 Se
-.
 Sf
 =
 S:r
@@ -23,12 +20,9 @@ M:e
 md
 S:f
 *clefC4
-*k[]
-*M3/1
 *met(O)
 *MM384
 L:f
-.
 Sg
 <se
 sf>
@@ -37,5 +31,4 @@ sc
 [sB
 sc]
 =
-*custos:B
-*-
+*custosB

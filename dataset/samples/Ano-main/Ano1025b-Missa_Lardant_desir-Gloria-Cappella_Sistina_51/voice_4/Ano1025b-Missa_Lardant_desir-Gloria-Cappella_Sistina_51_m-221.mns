@@ -2,9 +2,7 @@
 **mens
 *clefC1
 =
-*k[]
 =
-*M2/1
 *met(O2)
 *MM400
 sf
@@ -19,7 +17,6 @@ Mf
 Mg
 Ma
 M:b-
-.
 ma
 sa
 Mg
@@ -30,7 +27,6 @@ md
 sc
 Mr
 sg
-.
 Mf
 =
 sd
@@ -38,14 +34,11 @@ M:f
 mg
 Ma
 sa
-.
 Mf
 Me
 sg
-.
 Ma
 Mg
 Me
 Sf
-*custos:A
-*-
+*custosA

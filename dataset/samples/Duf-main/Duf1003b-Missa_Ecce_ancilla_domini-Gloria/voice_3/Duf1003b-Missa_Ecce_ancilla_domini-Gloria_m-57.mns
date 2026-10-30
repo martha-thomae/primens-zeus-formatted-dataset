@@ -1,7 +1,5 @@
 **mens
 *clefC2
-*k[]
-*M3/1
 *met(O)
 S:r
 S:r
@@ -10,7 +8,6 @@ sC
 MG
 sE
 M:C
-.
 mBB
 MC
 MD
@@ -18,14 +15,11 @@ ME
 [sD
 S:C]
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 Sc
 Sc
 [sB
 SA]
-.
 sG
 [Sc
 sB]
@@ -35,7 +29,5 @@ Sd
 [Sc
 sd
 Se]
-.
 sc
-*custos:BB
-*-
+*custosBB

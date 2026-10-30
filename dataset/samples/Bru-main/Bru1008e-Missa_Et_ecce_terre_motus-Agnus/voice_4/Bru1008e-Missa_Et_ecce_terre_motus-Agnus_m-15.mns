@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(O2)
 [SA
 Sd]
@@ -10,7 +8,6 @@ sd
 sd
 MB
 sd
-.
 mc
 mB
 sA
@@ -24,7 +21,6 @@ MA
 MD
 MA
 sd
-.
 mc
 =
 mB
@@ -39,7 +35,6 @@ sG
 =
 Mr
 M:d
-.
 mc
 mB
 mA
@@ -48,7 +43,5 @@ M:c
 md
 se
 Le
-.
 =
-*custos:C
-*-
+*custosC

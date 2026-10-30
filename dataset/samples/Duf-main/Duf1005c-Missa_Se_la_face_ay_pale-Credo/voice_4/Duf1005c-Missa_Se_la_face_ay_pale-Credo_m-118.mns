@@ -1,13 +1,9 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM384
 S:f
 *clefC1
-*k[]
-*M2/1
 *met(C)
 *MM420
 Sf
@@ -15,5 +11,4 @@ s:a
 Mb
 scc
 scc
-*custos:f
-*-
+*custosf

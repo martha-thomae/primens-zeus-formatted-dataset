@@ -1,7 +1,6 @@
 **mens
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 *MM336
 <Sf
@@ -34,7 +33,6 @@ S:r
 S:r
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 *MM336
 Sc
@@ -43,7 +41,6 @@ sB-
 sA
 MG
 M:B-
-.
 mc
 Md
 MG
@@ -57,5 +54,4 @@ sc
 sd
 se
 se
-*custos:G
-*-
+*custosG

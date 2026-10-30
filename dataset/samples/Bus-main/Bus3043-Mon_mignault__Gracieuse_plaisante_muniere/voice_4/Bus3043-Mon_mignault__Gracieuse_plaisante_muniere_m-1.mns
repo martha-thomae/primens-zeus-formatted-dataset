@@ -1,10 +1,7 @@
 **mens
 *clefG2
 *k[b-]
-*M2/1
 *met(C|)
-!LO:TX:Y=59:t=Mon mgnault
-!LO:TX:Z=30:t=Rondeau (second text a vrela)
 s:g
 Ma
 sb-
@@ -13,7 +10,6 @@ M:cc
 mb-
 Mg
 sa
-.
 sb-
 ma
 mg
@@ -33,7 +29,6 @@ Me
 M:a
 mg
 M:g
-.
 mf
 sf
 Me
@@ -44,7 +39,6 @@ sc
 [sB-
 sG]
 s:d
-.
 Mc
 sA
 SB-
@@ -56,5 +50,4 @@ sc
 s:d
 mc
 mB-
-*custos:G
-*-
+*custosG

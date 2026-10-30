@@ -2,7 +2,6 @@
 *clefC4
 *k[b-]
 =
-*M3/1
 *met(O)
 sr
 =
@@ -11,8 +10,6 @@ sF
 MB-
 Mc
 sA
-!LO:TX:Z=2:t=..
-!LO:TX::Z=9:t=S
 sG
 sr
 sc
@@ -32,5 +29,4 @@ Mr
 Mg
 [sf
 se]
-*custos:F
-*-
+*custosF

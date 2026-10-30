@@ -1,7 +1,5 @@
 **mens
 *clefC4
-*k[]
-*M2/1
 *met(C)
 *MM420
 =
@@ -9,8 +7,6 @@ s:B-
 MA
 Sc
 *clefC4
-*k[]
-*M2/1
 *met(C)
 *MM420
 SA
@@ -29,5 +25,4 @@ Mf
 [se
 sd]
 Sc
-*custos:F
-*-
+*custosF

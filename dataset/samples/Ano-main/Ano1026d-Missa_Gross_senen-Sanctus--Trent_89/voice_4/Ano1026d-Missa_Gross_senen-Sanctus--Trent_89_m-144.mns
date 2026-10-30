@@ -1,11 +1,8 @@
 **mens
 *clefC1
 *k[b-]
-*d:
-*M3/1
 *met(O)
 *MM300
-.
 sr
 sb-
 Ma
@@ -21,10 +18,8 @@ mf#
 mf#
 me
 L:g
-.
 *clefC1
 *k[b-]
-*M2/1
 *met(C|)
 *MM400
 Sr
@@ -36,7 +31,6 @@ Me
 sf
 sg
 s:a
-!LO:TX:Z=12:t=MS&colon; g' m
 mg
 ma
 s:b-
@@ -45,7 +39,5 @@ ma
 mg
 sf
 Sb-
-.
 sa
-*custos:d
-*-
+*custosd

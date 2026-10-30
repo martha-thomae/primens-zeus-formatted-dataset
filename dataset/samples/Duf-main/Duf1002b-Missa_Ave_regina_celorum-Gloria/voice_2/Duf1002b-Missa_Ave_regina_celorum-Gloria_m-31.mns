@@ -1,7 +1,6 @@
 **mens
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 *MM336
 [sd
@@ -12,7 +11,6 @@ se
 Md
 Me
 M:f
-.
 me
 Mf
 Mg
@@ -32,7 +30,6 @@ Me
 Md
 =
 sc
-.
 Md
 =
 Me
@@ -58,7 +55,6 @@ sd]
 S:c
 *clefC4
 *k[b-]
-*M3/1
 *met(O)
 *MM336
 [Sc
@@ -77,5 +73,4 @@ sc
 se
 [Sd
 S:c]
-*custos:G
-*-
+*custosG

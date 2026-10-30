@@ -1,8 +1,6 @@
 =
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 *MM384
 S:r
@@ -11,14 +9,12 @@ sg
 sa
 Sb
 s:a
-.
 M:dd
 mcc
 Mcc
 M:b
 ma
 L:cc
-.
 S:r
 Se
 se
@@ -47,5 +43,4 @@ Mb
 Ma
 =
 Mg
-*custos:e
-*-
+*custose

@@ -1,15 +1,10 @@
 **mens
 *clefC1
-*k[]
-*M2/1
 *met(O2)
 *MM400
-.
-.
 =
 sr
 s:c
-.
 Md
 se
 Mf
@@ -23,12 +18,10 @@ Md
 Mf
 Mg
 sa
-!LO:TX:X=-5:Z=26:t=MS&colon; f'
 Mg
 Mb-
 Ma
 M:f
-.
 =
 mg
 Ma
@@ -38,5 +31,4 @@ Me
 M:c
 md
 Me
-*custos:c
-*-
+*custosc

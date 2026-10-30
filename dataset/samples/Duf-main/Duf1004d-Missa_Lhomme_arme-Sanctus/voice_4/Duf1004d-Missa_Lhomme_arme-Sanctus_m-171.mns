@@ -1,7 +1,5 @@
 **mens
 *clefC1
-*k[]
-*M2/1
 *met(C)
 *MM480
 s:cc
@@ -12,14 +10,11 @@ sff
 [see
 scc]
 s:dd
-.
 Mcc#
 Mcc#
 Mb
 Ldd
-.
 Sr
-*M3/1
 *met(3)
 *MM720
 Sdd
@@ -51,5 +46,4 @@ s:g
 Mf#
 Mf#
 Me
-*custos:d
-*-
+*custosd

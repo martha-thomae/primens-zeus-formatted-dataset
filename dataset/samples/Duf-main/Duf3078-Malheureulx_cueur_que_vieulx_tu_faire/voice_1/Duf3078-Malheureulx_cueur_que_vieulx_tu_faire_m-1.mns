@@ -1,10 +1,7 @@
 **mens
 *clefC4
-*k[]
-*M3/1
 =
 *met(O)
-!LO:TX:Y=40:t=Malhereux cuer
 S:C
 sr
 SE
@@ -32,7 +29,6 @@ sd
 sB
 Mc
 sd
-.
 Mc
 Md
 Me
@@ -47,5 +43,4 @@ mF
 MG
 MC
 sBB
-*custos:BB
-*-
+*custosBB

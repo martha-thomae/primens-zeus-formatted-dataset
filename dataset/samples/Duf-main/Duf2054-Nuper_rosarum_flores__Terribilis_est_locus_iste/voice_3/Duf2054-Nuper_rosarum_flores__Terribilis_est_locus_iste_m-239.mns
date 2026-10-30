@@ -1,9 +1,7 @@
 **mens
 *clefC4
 *k[b-]
-*M3/1
 *met(O|)
-.
 [S:A0.c
 S:B-0.d
 S:A0.e]
@@ -15,7 +13,6 @@ sD1B-
 =
 [SA0c
 L:D[S.d]
-.
 <Sc0e
 sA1f>
 SG0g
@@ -30,5 +27,4 @@ S:r
 =
 S:D0.A
 S:D0.A
-*custos:A
-*-
+*custosA

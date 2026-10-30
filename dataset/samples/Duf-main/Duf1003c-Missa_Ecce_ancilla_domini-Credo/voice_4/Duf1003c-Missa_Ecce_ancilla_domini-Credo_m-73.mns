@@ -1,13 +1,8 @@
 **mens
 *clefC1
-*k[]
-*M3/1
 *met(O)
 L:c
-.
 *clefC1
-*k[]
-*M2/1
 *met(C|)
 Sr
 s:e
@@ -15,7 +10,6 @@ Mf
 Sg
 sg
 Sg
-.
 sg
 Sd
 sr
@@ -29,5 +23,4 @@ sr
 sd
 Mc
 Md
-*custos:c
-*-
+*custosc

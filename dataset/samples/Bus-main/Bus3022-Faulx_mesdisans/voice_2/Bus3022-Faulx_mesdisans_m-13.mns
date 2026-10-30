@@ -2,7 +2,6 @@
 **mens
 *clefC4
 *k[b-]
-*M2/1
 *met(C|)
 s:F
 MG
@@ -20,13 +19,11 @@ M:A
 mB-
 Mc
 M:d
-.
 mc
 mB-
 mA
 Mc
 M:B-
-.
 mA
 =
 mG
@@ -37,7 +34,6 @@ sr
 sc
 MA
 sB-
-.
 mA
 mG
 M:F
@@ -51,5 +47,4 @@ sA
 MB-
 sG
 sF
-*custos:E
-*-
+*custosE

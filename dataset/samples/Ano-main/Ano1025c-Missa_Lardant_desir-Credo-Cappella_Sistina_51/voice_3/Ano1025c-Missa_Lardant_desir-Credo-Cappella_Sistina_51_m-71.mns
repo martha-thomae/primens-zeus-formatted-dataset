@@ -1,13 +1,9 @@
 **mens
 *clefC2
-*k[]
-*M3/1
 *met(O)
 *MM300
 S:A
 *clefC2
-*k[]
-*M2/1
 *met(C|)
 *MM400
 s:D
@@ -37,5 +33,4 @@ me
 sf
 Md
 Me
-*custos:C
-*-
+*custosC
