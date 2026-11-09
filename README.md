@@ -79,5 +79,7 @@ The following table shows line-by-line the edits done by this bash script:
 
 The _\*\*mens_ was sub-tokenized to separate the different type of information of a \*\*mens token. For example, `[s~g#` is sub-tokenized into `[ s ~ g #`, to account for the `[` ligature start, the semibrevis note shape `s`, the coloration of the note `~`, its pitch `g`, and its accidental `#`. This reduces the vocabulary that the OMR model needs to deal with. 
 
-The sub-tokenization was done through the following Python script [tokenizer.py](https://github.com/martha-thomae/primens-zeus-formatted-dataset/blob/main/tokenizer.py).
+The sub-tokenization was done through the following Python script [tokenizer.py](https://github.com/martha-thomae/primens-zeus-formatted-dataset/blob/main/tokenizer.py).[^1]
+
+[^1]: Notice that this tokenizer script differentiates between two types of ligatures: oblique ones marked by `<` and `>`, and recta ones marked by `[` and `]`.
 
