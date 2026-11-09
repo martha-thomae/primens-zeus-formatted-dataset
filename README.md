@@ -9,7 +9,7 @@ The **PriMens** dataset is a synthetic dataset. The original dataset, as provide
 
 To make the dataset suitable for [Zeus](https://github.com/omniomr/zeus), we need:
 1. To obtain digital images for each staff region
-2. Subtokenize the Humdrum \*\*mens of each staff region into basic units---i.e., divide it into characters (group of characters) that indicate the note shape, pitch, accidental, ligature start/end of a music symbol---so that the model has less information to learn.
+2. Subtokenize the Humdrum \*\*mens of each staff region into basic units—i.e., divide it into characters (group of characters) that indicate the note shape, pitch, accidental, ligature start/end of a music symbol—so that the model has less information to learn.
 
 All other information (like the agnostic encoding) is irrelevant for this particular use case, and has been removed from the repository. 
 
@@ -21,7 +21,7 @@ In this dataset, the staff regions are encoded in Humdrum \*\*mens. We used _Ver
 
 For information about Verovio's [installation](https://book.verovio.org/installing-or-building-from-sources/command-line.html), input formats (including [Humdrum](https://book.verovio.org/toolkit-reference/input-formats.html#humdrum)), and [layout options](https://book.verovio.org/advanced-topics/layout-options.html?q=line%20break), consult its [**Reference Book**](https://book.verovio.org). 
 
-The conversion from Humdrum \*\*mens to SVG to JPEG is given by the following bash commands. The generated JPEGs---which include a bit of cropping at the top and bottom to provide a nice staff region---are stored in the same folder as the original \*\*mens encodings (`.mns` files):
+The conversion from Humdrum \*\*mens to SVG to JPEG is given by the following bash commands. The generated JPEGs—which include a bit of cropping at the top and bottom to provide a nice staff region—are stored in the same folder as the original \*\*mens encodings (`.mns` files):
 
 ```bash
 for f in ./*/*/*/*.mns; do 
