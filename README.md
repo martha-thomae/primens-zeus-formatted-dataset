@@ -33,6 +33,41 @@ for f in ./*/*/*/*.mns; do
 done
 ```
 
-### Point 2: Subtokenization
+### Point 2: Sub-tokenization
 
-[Section still to be written]
+#### Cleaning up the **mens files
+
+We ran the following bash script to clean up the **mens files by removing irrelevant information for rhythmically-uninterpreted mensural notation (e.g., time signatures and other artefacts that come from the modern transcriptions of the corpus, empty key signature tokens, durational quality of notes, etc).
+
+```bash
+#!/bin/bash
+
+find ./dataset -type f -name "*.mns" -exec sed -i '' \
+    -e '/^\*.:/d' \
+    -e '/^\*-/d' \
+    -e '/\*M/d' \
+    -e '/^\.$/d' \
+    -e '/^!/d' \
+    -e '/^\*k\[\]/d' \
+    -e 's/[ip]//g' \
+    -e 's/^\*custos:\(.*\)$/\*custos\1/' \
+    {} +
+```
+
+The following table shows the edits done by this bash script:
+
+| Command | What it does |
+| ------- | ------------ |
+| `'/^\*.:/d'` | Deletes lines beginning with `*`, followed by any character, followed by `:`. Meant to delete `*F:` and the like |
+| `'/^\*-/d'` | Deletes lines beginning with `*-` |
+| `'/\*M/d'` | Deletes any time containing `*M`. It is meant to delete 'time signatures' and 'tempo' markings that come from the original **kern files |
+| `'/^\.$/d'` | Deletes lines containing a single `.`, which are only meant for alignment with other voices (or text) |
+| `'/^!/d'` | Deletes comment lines (i.e., lines starting with `!`) |
+| `'/^\*k\[\]/d'` | Deletes empty key signatures (i.e., `k[]`) |
+| `'s/[ip]//g'` | Removes the durational quality of the notes (i.e., removes every lowercase `i` and `p` character from the line) |
+| `'s/^\*custos:\(.*\)$/\*custos\1/'` | Edit custodes, remove the `:` preceding the pitch of the custos |
+
+
+#### Sub-tokenization of cleaned-up **mens files
+
+This implied running the Python script [tokenizer.py](https://github.com/martha-thomae/primens-zeus-formatted-dataset/blob/main/tokenizer.py)
