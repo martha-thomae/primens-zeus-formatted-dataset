@@ -58,12 +58,12 @@ The following table shows the edits done by this bash script:
 
 | Command | What it does |
 | ------- | ------------ |
-| `'/^\*.:/d'` | Deletes lines beginning with `*`, followed by any character, followed by `:`. Meant to delete `*F:` and the like |
-| `'/^\*-/d'` | Deletes lines beginning with `*-` |
-| `'/\*M/d'` | Deletes any time containing `*M`. It is meant to delete 'time signatures' and 'tempo' markings that come from the original **kern files |
+| `'/^\*.:/d'` | Deletes lines beginning with `*`, followed by any character, followed by `:`. Meant to delete `*F:` (key of F Major) and the like |
+| `'/^\*-/d'` | Deletes lines beginning with `*-` (end of spine token) |
+| `'/\*M/d'` | Deletes any time containing `*M`. It is meant to delete 'time signatures' (e.g., `M4/4`) and 'tempo' (e.g., `MM72`) markings that come from the original **kern files |
 | `'/^\.$/d'` | Deletes lines containing a single `.`, which are only meant for alignment with other voices (or text) |
 | `'/^!/d'` | Deletes comment lines (i.e., lines starting with `!`) |
-| `'/^\*k\[\]/d'` | Deletes empty key signatures (i.e., `k[]`) |
+| `'/^\*k\[\]/d'` | Deletes empty key signatures (i.e., `*k[]`) |
 | `'s/[ip]//g'` | Removes the durational quality of the notes (i.e., removes every lowercase `i` and `p` character from the line) |
 | `'s/^\*custos:\(.*\)$/\*custos\1/'` | Edit custodes, remove the `:` preceding the pitch of the custos |
 
