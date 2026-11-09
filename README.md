@@ -33,11 +33,18 @@ for f in ./*/*/*/*.mns; do
 done
 ```
 
-### Point 2: Sub-tokenization
+### Point 2: Sub-tokenization of the Humdrum **mens files
 
-#### Cleaning up the **mens files
+As explained in the introduction, the sequence of music symbols of each staff region is given by a Humdrum \*\*mens file. These files were cleaned up to remove irrelevant information from them (e.g., information that came from the original modern transcription \*\*kern files) and then subtokenized so that the OMR model has less information to learn (i.e., a reduced vocabulary). The following two sections describe the clean-up and sub-tokenization processes.
 
-We ran the following bash script to clean up the **mens files by removing irrelevant information for rhythmically-uninterpreted mensural notation (e.g., time signatures and other artefacts that come from the modern transcriptions of the corpus, empty key signature tokens, durational quality of notes, etc).
+#### A) Cleaning up the **mens files
+
+There is irrelevant information in the \*\*mens files that needs clean up. This includes any character or token that:
+- is not related to mensural notation (e.g., it comes from the original \*\*kern files like time signatures, tempo markings, key identification, or it represents a syntactic element in Humdrum like comments, end of the spine markings, or null tokens), or
+- is related to the interpretation of rhythmic mensural values (i.e., the `i` and `p` characters for 'imperfect' and 'perfect' values of notes)
+- or is empty (e.g., an empty key signature `*k[]`).
+
+We ran the following bash script to remove the irrelevant pieces of information from the **mens files.
 
 ```bash
 #!/bin/bash
@@ -54,20 +61,23 @@ find ./dataset -type f -name "*.mns" -exec sed -i '' \
     {} +
 ```
 
-The following table shows the edits done by this bash script:
+The following table shows line-by-line the edits done by this bash script:
 
 | Command | What it does |
 | ------- | ------------ |
 | `'/^\*.:/d'` | Deletes lines beginning with `*`, followed by any character, followed by `:`. Meant to delete `*F:` (key of F Major) and the like |
 | `'/^\*-/d'` | Deletes lines beginning with `*-` (end of spine token) |
 | `'/\*M/d'` | Deletes any time containing `*M`. It is meant to delete 'time signatures' (e.g., `M4/4`) and 'tempo' (e.g., `MM72`) markings that come from the original **kern files |
-| `'/^\.$/d'` | Deletes lines containing a single `.`, which are only meant for alignment with other voices (or text) |
+| `'/^\.$/d'` | Deletes lines containing a single `.` (null token, meant for alignment with other voices or text) |
 | `'/^!/d'` | Deletes comment lines (i.e., lines starting with `!`) |
 | `'/^\*k\[\]/d'` | Deletes empty key signatures (i.e., `*k[]`) |
 | `'s/[ip]//g'` | Removes the durational quality of the notes (i.e., removes every lowercase `i` and `p` character from the line) |
 | `'s/^\*custos:\(.*\)$/\*custos\1/'` | Edit custodes, remove the `:` preceding the pitch of the custos |
 
 
-#### Sub-tokenization of cleaned-up **mens files
+#### B) Sub-tokenization of cleaned-up **mens files
 
-This implied running the Python script [tokenizer.py](https://github.com/martha-thomae/primens-zeus-formatted-dataset/blob/main/tokenizer.py)
+The _\*\*mens_ was sub-tokenized to separate the different type of information of a \*\*mens token. For example, `[s~g#` is sub-tokenized into `[ s ~ g #`, to account for the `[` ligature start, the semibrevis note shape `s`, the coloration of the note `~`, its pitch `g`, and its accidental `#`. This reduces the vocabulary that the OMR model needs to deal with. 
+
+The sub-tokenization was done through the following Python script [tokenizer.py](https://github.com/martha-thomae/primens-zeus-formatted-dataset/blob/main/tokenizer.py).
+
