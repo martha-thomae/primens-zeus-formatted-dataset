@@ -13,7 +13,7 @@ To make the dataset suitable for [Zeus](https://github.com/omniomr/zeus), we nee
 
 All other information (like the agnostic encoding) is irrelevant for this particular use case, and has been removed from the repository. 
 
-### Point \# 1: Generating staff-region images. 
+### Point 1: Generating staff-region images. 
 
 To generate the JPEG images of each staff region, we used a combination of _Verovio_ and _ImageMagick_.
 
