@@ -67,7 +67,7 @@ The following table shows line-by-line the edits done by this bash script:
 | ------- | ------------ |
 | `'/^\*.:/d'` | Deletes lines beginning with `*`, followed by any character, followed by `:`. Meant to delete `*F:` (key of F Major) and the like |
 | `'/^\*-/d'` | Deletes lines beginning with `*-` (end of spine token) |
-| `'/\*M/d'` | Deletes any time containing `*M`. It is meant to delete 'time signatures' (e.g., `M4/4`) and 'tempo' (e.g., `MM72`) markings that come from the original **kern files |
+| `'/\*M/d'` | Deletes any time containing `*M`. It is meant to delete 'time signatures' (e.g., `*M4/4`) and 'tempo' (e.g., `*MM72`) markings that come from the original **kern files |
 | `'/^\.$/d'` | Deletes lines containing a single `.` (null token, meant for alignment with other voices or text) |
 | `'/^!/d'` | Deletes comment lines (i.e., lines starting with `!`) |
 | `'/^\*k\[\]/d'` | Deletes empty key signatures (i.e., `*k[]`) |
